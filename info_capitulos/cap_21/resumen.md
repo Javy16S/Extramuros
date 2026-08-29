@@ -1,0 +1,3 @@
+### Resumen - Capítulo 21: El Estallido
+
+La tensión en la subasta estalla cuando la Caja Omega reacciona violentamente a la presencia de la Pieza de Leo, creando un vínculo visible de energía que lo arrastra hacia el escenario, exponiendo su identidad ante todos. En medio del caos y el fuego de los Segadores, Leo utiliza la física del vínculo para atraer la pesada caja hacia él, usándola como ariete. Al abrirla, descubre una Esfera Líquida que desafía la realidad. Al tocarla, una onda de choque silenciosa inutiliza la tecnología de la sala. Leo, ahora potenciado pero herido por la energía entrópica de la esfera, desintegra las cadenas de acero de una salida de emergencia y huye hacia la selva, con el Capitán Segador jurando venganza.

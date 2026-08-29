@@ -1,0 +1,632 @@
+
+==================================================
+CAPITULO: cap_01
+==================================================
+
+--- Archivo: personajes.md ---
+Como tu Editor Senior, he analizado el material. El tono es excelente: sucio, cansado y con esa paranoia urbana que define al buen thriller. Para mantener el realismo (grounded), debemos tratar lo "imposible" no como algo sobrenatural, sino como un fallo en la percepción o una puesta en escena criminal perfecta.
+
+Aquí tienes los perfiles actualizados según lo que sabemos **ahora mismo**:
+
+### 1. Leo (El Investigador Obsesivo)
+*   **Estado Psicológico:** Al límite del agotamiento. Lleva 48 horas sin dormir, alimentado por cafeína y una fijación malsana. Muestra síntomas de hiperfoco (su habitación es un "war room" con mapas y notas).
+*   **Habilidades:** Tiene conocimientos técnicos básicos/intermedios (hacker de oportunidad). Sabe explotar la negligencia ajena (contraseñas por defecto). Es meticuloso: analiza vídeos de seguridad fotograma a fotograma.
+*   **Motivación:** No acepta la narrativa oficial. Su lealtad hacia Elena es el motor, pero su necesidad de "resolución matemática" es lo que lo empuja.
+*   **Vínculo con el misterio:** Posee "La Pieza". Aunque es un objeto extraño, para Leo es un **ancla táctil**: el frío y el peso del metal le ayudan a concentrarse. Es su "tótem" de realidad frente al caos de la desaparición.
+
+### 2. Elena (La Desaparecida / El "MacGuffin" Humano)
+*   **Perfil:** 22 años, estudiante universitaria.
+*   **Últimos movimientos:** Martes, 18:42. Entrada norte del Parque del Lindero. Chaqueta vaquera, mochila amarilla (un elemento visual clave para el contraste en cámaras de baja resolución).
+*   **Comportamiento:** Estaba activa en su móvil justo antes de entrar en el "Punto Ciego". No parecía huir; caminaba rápido, con un propósito.
+*   **Situación Legal:** Declarada en "ausencia voluntaria". Para el sistema, ella no es una víctima, es un trámite cerrado. Esto la deja totalmente desprotegida; nadie la busca excepto Leo.
+
+### 3. Inspector Garrido (El Antagonista Institucional)
+*   **Rol:** Representa la burocracia y la desidia policial.
+*   **Perspectiva:** Aplica la "Navaja de Ockham" de forma perezosa: si una chica joven desaparece sin violencia evidente, se ha ido por voluntad propia.
+*   **Función narrativa:** Es el obstáculo lógico. Sus conclusiones (el hueco en la valla que no existe) obligan a Leo a tomar la justicia y la investigación por su mano.
+
+---
+
+### Notas del Editor para la coherencia del Thriller:
+
+*   **El Objeto (La Pieza):** ¡Cuidado aquí! Como editor, vigilaré que no se convierta en un artefacto mágico. Por ahora, es **basura industrial no identificada**. Su peso y sus ángulos extraños deben ser tratados como una anomalía de diseño, no de física. Es un objeto "incómodo", lo cual refuerza la tensión atmosférica.
+*   **El "Punto Ciego":** Este es nuestro rompecabezas central. En un thriller realista, la desaparición en el roble **tiene** que tener una explicación física:
+    1.  Un zulo o escondite bajo el árbol.
+    2.  Un ángulo muerto de la cámara aprovechado con precisión quirúrgica.
+    3.  Alguien la sacó de allí sin que se viera (¿un vehículo oculto?, ¿un disfraz?).
+*   **El Ritmo:** La salida de Leo al parque a las tres de la mañana eleva la tensión. Está solo, cansado y lleva un objeto contundente en el bolsillo. Está entrando en el terreno donde Elena se perdió.
+
+**Siguiente paso sugerido:** Leo llega al roble. Necesitamos que use su lógica y el peso de "La Pieza" para encontrar una inconsistencia física en el terreno que la policía ignoró. No busques portales; busca trampillas, cables o huellas de presión en el barro.
+
+--- Archivo: resumen.md ---
+Leo, consumido por la falta de sueño y el cierre de la investigación policial, se obsesiona con el vídeo de seguridad de la desaparición de Elena. La grabación muestra un hecho imposible: Elena entra en la sombra de un roble y la materia deja de existir. Rechazando la "fuga voluntaria", Leo recurre a los objetos de su abuelo Caine ("El loco"), especialmente a "La Pieza", un objeto negro y pesado que desafía la temperatura ambiente. Tras recordar la empatía de Elena hacia las teorías de Caine, Leo decide abandonar la lógica convencional e ir al parque esa misma noche para encontrar el fallo en la realidad.
+
+
+--- Archivo: sucesos.md ---
+
+
+--- Archivo: tramas.md ---
+
+
+
+==================================================
+CAPITULO: cap_02
+==================================================
+
+--- Archivo: personajes.md ---
+Estructura **APROBADA**. Como tu Editor Senior, confirmo que este capítulo es el pilar de la credibilidad de la novela. Si logramos que el lector sienta el "barotrauma" y el olor a ozono, aceptará cualquier giro posterior porque lo hemos anclado a la fisiología humana, no a la fantasía.
+
+Respondiendo a tu pregunta para fijar el tono de la redacción:
+
+### ¿Quién sale y cuál es su objetivo emocional HOY?
+
+**EL PROTAGONISTA: Leo (Único personaje en escena).**
+Aunque Elena es el motor, ella es una ausencia física. Leo es el único que pisa el terreno.
+
+**OBJETIVO EMOCIONAL: La Reafirmación de la Cordura (Control).**
+Leo no va al parque a "vivir una aventura" ni a "descubrir un portal". Su objetivo emocional hoy es **demostrar que no está loco**. 
+
+Para un tipo racional y administrativo como él, la incertidumbre es una tortura. Necesita que el "Punto Ciego" sea algo explicable: una antena ilegal, un químico filtrado, un error en la cinta de seguridad. Su obsesión no es con lo paranormal, sino con la **causalidad**. 
+*   *Su mantra interno es:* "Si hay un efecto, tiene que haber una causa física".
+*   *Su miedo real:* Si no encuentra una explicación lógica, entonces el mundo ha dejado de tener reglas, y si el mundo no tiene reglas, no puede salvar a Elena.
+
+---
+
+### NOTAS DE EDICIÓN PARA EL MANUSCRITO (CAPÍTULO 2):
+
+1.  **El Equipo:** Que no parezca un "Caza-fantasmas". El receptor de radiofrecuencia debe ser viejo o de segunda mano. La linterna debe ser pesada, de esas que se sienten como un arma en la mano. Su "armadura" es su pragmatismo.
+2.  **El Silencio:** No lo describas como "mágico". Descríbelo como un **defecto técnico del ambiente**. Como cuando se desactiva la cancelación de ruido de unos auriculares de golpe y queda ese vacío que presiona los tímpanos.
+3.  **La Pieza:** Trátala como un objeto industrial. No brilla, no habla. Solo vibra por resonancia física. La quemadura en su mano debe doler de forma mundana: es una lesión por inducción, no una "marca del destino".
+
+**Adelante con la redacción. Mantén la prosa seca, técnica y sensorial. El terror aquí nace de lo que la lógica no puede digerir.**
+
+--- Archivo: resumen.md ---
+Leo usa la Pieza para romper el camuflaje en el Parque del Lindero. Cruza una barrera invisible y despierta en Extramuros, un mundo salvaje y gigantesco que estaba oculto a plena vista.
+
+
+--- Archivo: sucesos.md ---
+### SUCESOS: CAPÍTULO 2 (El Cruce)
+
+1.  **El Lugar:** Leo llega al roble centenario en el parque.
+2.  **La Anomalía:** Observa que las sombras no responden a la luz. Silencio absoluto.
+3.  **La Acción:** Usa la Pieza. El "velo" se rompe.
+4.  **El Cruce:** Leo atraviesa la distorsión.
+5.  **El Resultado:** Aparece en un mundo gigantesco (Extramuros). Selva de cristal, lunas múltiples.
+
+--- Archivo: tramas.md ---
+### TRAMAS: CAPÍTULO 2
+
+*   **Principal:** El descubrimiento de Extramuros.
+*   **Estado:** Leo ha cruzado el umbral. Ya no hay vuelta atrás inmediata.
+
+
+==================================================
+CAPITULO: cap_03
+==================================================
+
+--- Archivo: resumen.md ---
+### RESUMEN: CAPÍTULO 3
+
+Leo cruza el umbral hacia el exterior y experimenta un choque sensorial y cognitivo inmediato. La atmósfera densa y la flora de proporciones titánicas desafían su lógica, llevándolo a hipotetizar que se encuentra en una simulación o bajo efectos psicotrópicos. Al mirar atrás, ve su ciudad distorsionada y diminuta, como una maqueta lejana. La aparición de un insecto gigante y la visión de tres lunas en un cielo amatista quiebran su arrogancia de investigador. Aterrorizado y comprendiendo que ha pasado de ser un cazador a una presa en la cadena alimenticia, huye hacia la espesura tras sentir un temblor masivo provocado por una criatura invisible.
+
+
+--- Archivo: sucesos.md ---
+### SUCESOS: CAPÍTULO 3
+
+1.  **El Umbral Sensorial:** Leo da sus primeros pasos en el exterior. Nota cambios inmediatos: vegetación reactiva (cambio de color azul a violeta), aire más denso y ausencia de eco.
+2.  **Racionalización del Caos:** Ante la imposibilidad del entorno, Leo intenta racionalizar la experiencia como una simulación tecnológica o una alucinación inducida por drogas. Busca dispositivos físicos en su cuerpo pero no encuentra nada.
+3.  **La Perspectiva Distorsionada:** Al mirar hacia atrás, no ve una salida física normal. Ve su ciudad de origen a través de una distorsión óptica, pareciendo una maqueta minúscula y lejana, lo que provoca una profunda disonancia cognitiva.
+4.  **Confirmación Astronómica:** Observa el cielo y descubre tres lunas (una blanca, dos rojas) y detalles geográficos imposibles a simple vista, confirmando que no está en el mundo que conoce.
+5.  **Encuentro con la Fauna:** Un insecto del tamaño de un perro grande emerge de la espesura. Leo se paraliza por el miedo, pero la criatura lo ignora, tratándolo como insignificante. El insecto trepa por un árbol colosal.
+6.  **Colapso del Ego:** Leo cae de rodillas, abrumado por la escala. Comprende su insignificancia física en este nuevo ecosistema.
+7.  **Interacción con la Pieza:** El objeto en su mano (la Pieza) vibra y permanece caliente. Leo le habla, buscando respuestas.
+8.  **La Amenaza Invisible:** Un aullido masivo y temblores de tierra anuncian la llegada de un depredador mucho mayor desde el norte.
+9.  **Huida:** Leo renuncia a la investigación y corre por puro instinto de supervivencia, adentrándose en el bosque de cristal.
+
+--- Archivo: tramas.md ---
+### TRAMAS: CAPÍTULO 3
+
+*   **[PRINCIPAL] El Misterio de la Desaparición:** Leo busca a Elena, pero la pista física se pierde ante la magnitud del nuevo mundo. La búsqueda se convierte secundariamente en supervivencia.
+*   **[MUNDO] El Ecosistema Gigante:** Introducción a las leyes físicas del exterior: gravedad extraña, gigantismo biológico, atmósfera densa y cielos alienígenas. Se establece que la ciudad de Leo es solo una pequeña fracción de esta realidad.
+*   **[INTERNA] Racionalidad vs. Locura:** El conflicto de Leo por intentar encajar lo que ve en sus esquemas mentales lógicos (simulación) frente a la evidencia física de una realidad imposible.
+*   **[OBJETO] La Pieza:** Se confirma como un artefacto activo que reacciona al entorno (vibración, temperatura), sirviendo de enlace entre Leo y este nuevo mundo.
+
+
+
+==================================================
+CAPITULO: cap_04
+==================================================
+
+--- Archivo: resumen.md ---
+### RESUMEN: CAPÍTULO 4
+
+Leo corre a través de una selva bioluminiscente, experimentando efectos de euforia y mareo debido a la hiperoxia (exceso de oxígeno). Perseguido por sonidos de depredadores nocturnos, encuentra refugio en una cueva formada por huesos colosales. En la oscuridad, descubre que la "Pieza" emite pulsos vibratorios rítmicos que funcionan como una brújula, señalando hacia el este. Mientras una criatura gigantesca acecha fuera de la cueva, Leo comprende que el objeto lo está guiando hacia un destino específico, ofreciéndole un tenue hilo de esperanza en medio del terror.
+
+
+--- Archivo: sucesos.md ---
+### ESCALETA DE SUCESOS: CAPÍTULO 4
+
+1.  **El Despertar:** Leo recobra el conocimiento en el bosque empapado. Experimenta síntomas físicos extraños (vértigo, visión saturada de colores) tras el cruce.
+2.  **La Revelación del Entorno:** Se da cuenta de que la flora es gigantesca y bioluminiscente. La noche no es oscura, sino neón.
+3.  **La Persecución:** Escucha pasos pesados (*CRUNCH*) que le siguen. Inicia una huida frenética por el sotobosque, descubriendo que tiene una resistencia física inusual.
+4.  **El Refugio:** Encuentra una formación rocosa y se esconde en una grieta estrecha para evadir al perseguidor.
+5.  **El Osario:** Al encender su linterna, descubre que la cueva está llena de huesos gigantescos (costillas de 3 metros), deduciendo que es una despensa o cementerio de titanes.
+6.  **La Brújula:** Saca la "Pieza" (el objeto metálico). Descubre que vibra rítmicamente y que actúa como una brújula direccional, señalando intensamente hacia el Este.
+7.  **La Hormiga:** Una hormiga gigante (tamaño lobo) entra en la cueva. Leo se prepara para pelear, pero la hormiga huye aterrorizada de algo que viene detrás.
+8.  **El Asedio:** La bestia grande (el dueño del *Crunch*) llega y empieza a demoler la entrada de la cueva para alcanzar a Leo.
+9.  **El Flujo (Ignición):** Acorralado, Leo siente un hambre voraz y un calor interno repentino. Sus capacidades físicas se disparan.
+10. **La Huida Vertical:** Realiza un salto imposible de 4 metros por una chimenea natural y escapa hacia el bosque, corriendo hacia el Este guiado por la Pieza a velocidad sobrehumana.
+
+--- Archivo: tramas.md ---
+### TRAMAS: CAPÍTULO 4
+
+*   **[PRINCIPAL] El Misterio de la Desaparición (Elena):**
+    *   *Estado:* **Activa / Avance.**
+    *   Leo encuentra una dirección física concreta gracias a la Pieza. La búsqueda deja de ser un rastreo ciego para convertirse en un viaje hacia el Este, siguiendo la señal que él asocia con una respuesta (o con Elena).
+
+*   **[MUNDO] El Ecosistema Gigante (Extramuros):**
+    *   *Estado:* **Activa / Expansión.**
+    *   Confirmación definitiva de la escala titánica. Se introducen elementos específicos de la cadena alimenticia (hormigas gigantes, depredadores masivos) y la historia geológica del lugar (cueva de huesos colosales).
+
+*   **[OBJETO] La Pieza (La Llave):**
+    *   *Estado:* **Activa / Evolución.**
+    *   El artefacto revela su segunda función: brújula. Deja de ser un objeto pasivo de obsesión para convertirse en una herramienta tecnológica/mágica activa imprescindible para la navegación.
+
+*   **[INTERNA] Racionalidad vs. Locura:**
+    *   *Estado:* **Activa / Punto de Quiebre.**
+    *   Leo se ve obligado a abandonar su "lógica urbana" y análisis científico para sobrevivir. El despertar del *Flujo* (instinto) marca el momento en que su mente racional cede el control a la necesidad biológica de no morir.
+
+*   **[NUEVA] Supervivencia Inmediata:**
+    *   *Estado:* **Nueva / Prioridad Alta.**
+    *   Huida del depredador nocturno. Esta trama surge como urgencia temporal que subordina a las demás durante la acción del capítulo.
+
+
+
+==================================================
+CAPITULO: cap_05
+==================================================
+
+--- Archivo: resumen.md ---
+### RESUMEN: CAPÍTULO 5
+
+Leo huye de un depredador a través de un bosque de proporciones titánicas, experimentando por primera vez los efectos del "Flujo": velocidad sobrehumana y percepción aumentada, pero a costa de un hambre voraz y dolor físico intenso. Llega a un prado que las bestias del bosque temen cruzar. Allí descubre una cabaña habitada por un hombre de pelo blanco ("El Anciano"). La presencia del hombre irradia una presión aterradora. Leo, es invitado a entrar en la cabaña y, tras entrar y descubrir que desaparecía la presión aterradora del exterior, cayó colapsado por el desgaste metabólico de su propio poder, cayendo inconsciente ante la mirada analítica del desconocido.
+
+
+--- Archivo: sucesos.md ---
+### SUCESOS: CAPÍTULO 5
+
+1.  **La Carrera Sobrenatural:** Leo corre por el bosque con velocidad y agilidad imposibles, esquivando ataques (serpiente) a cámara lenta.
+2.  **El Coste:** La euforia del poder se mezcla con el terror del desgaste físico. Leo nota que está perdiendo masa muscular en tiempo real (autocanibalismo).
+3.  **La Frontera:** Llega al límite del bosque. Observa que las bestias (incluidas las hormigas gigantes) se detienen en seco ante el prado, aterrorizadas.
+4.  **La Anomalía:** Descubre una cabaña humana normal y corriente en medio del prado, un contraste absurdo con el bosque gigante.
+5.  **La Presión:** Al entrar en el prado, siente una presión atmosférica/gravitatoria aplastante que emana de la casa.
+6.  **El Anciano:** Sale un hombre mayor tranquilo. La presión no le afecta. Leo pide ayuda, el hombre le diagnostica ("te estás comiendo a ti mismo") y le reta a entrar.
+7.  **La Última Prueba:** Leo fuerza su cuerpo al límite para subir los escalones del porche y entrar en la casa, resistiendo la presión.
+8.  **El Refugio:** Al cruzar el umbral, la presión cesa. Leo colapsa en la alfombra, a salvo pero agotado.
+
+
+--- Archivo: tramas.md ---
+### TRAMAS: CAPÍTULO 5
+
+*   **[PRINCIPAL] El Misterio de la Desaparición (Elena):**
+    *   *Estado:* **Activa / Pista.**
+    *   La señal de la brújula conduce a Leo hasta el "Santuario". El hallazgo de un humano ("El Anciano") promete ser la primera fuente de información fiable sobre el paradero de Elena o la naturaleza de la Reserva.
+
+*   **[MUNDO] El Ecosistema Gigante (Extramuros):**
+    *   *Estado:* **Activa / Contraste.**
+    *   Se presenta la excepción a la regla de la hostilidad salvaje: el Santuario. El miedo de los monstruos a cruzar al prado sugiere jerarquías de poder invisibles en el ecosistema.
+
+*   **[OBJETO] La Pieza (La Llave):**
+    *   *Estado:* **Activa / Latente.**
+    *   Tras cumplir su función de guía hasta el Santuario, pasa a un segundo plano táctico, pero sigue en posesión de Leo como vínculo con el misterio central.
+
+*   **[INTERNA] Racionalidad vs. Locura (El Coste del Poder):**
+    *   *Estado:* **Activa / Consecuencias.**
+    *   El conflicto mental evoluciona a físico. Leo experimenta el precio de usar el *Flujo*: el autocanibalismo biológico. La magia tiene un coste científico (materia/energía).
+
+*   **[RECURRENTE] Supervivencia Inmediata:**
+    *   *Estado:* **Resuelta (Temporalmente).**
+    *   Al entrar en la cabaña del Maestro, la amenaza de muerte inminente por depredación cesa, cerrando el ciclo de fuga iniciado en el Cap 4.
+
+*   **[NUEVA] El Anciano (Mentor):**
+    *   *Estado:* **Nueva / Introducción.**
+    *   Presentación del personaje clave que domina el entorno. Su "aura" gravitatoria plantea nuevas preguntas sobre el sistema de poder y la jerarquía del mundo.
+
+
+
+==================================================
+CAPITULO: cap_06
+==================================================
+
+--- Archivo: personajes.md ---
+# PERSONAJES: CAPÍTULO 6
+
+## LEO
+*   **Estado Físico:** Crítico pero estable. Sufre dolores severos por el uso del Flujo (Deuda). Ha perdido masa muscular.
+*   **Estado Mental:** Aterrorizado y humillado. Su orgullo e intelecto no le sirven aquí. Ha tenido que actuar como un animal (comer) y como una piedra (esconderse) para sobrevivir.
+*   **Desarrollo:** Aprende la **Quietud** (supresión de presencia). Entiende que en este mundo, ser fuerte es secundario; ser invisible es primario.
+
+## EL MAESTRO (EL ANCIANO)
+*   **Rol:** Mentor Darwinista.
+*   **Actitud:** No muestra compasión. Ve a Leo como "ruido". Solo lo respeta (mínimamente) cuando demuestra instinto de supervivencia real.
+*   **Habilidades:** Fuerza física desproporcionada para su edad. Presencia intimidante (capaz de asustar bestias).
+
+## LA BESTIA NOCTURNA
+*   **Clase:** Probablemente Clase C o D (Fauna Nocturna).
+*   **Características:** Ciega, sensores de flujo/calor tipo filamentos. Enorme (tamaño tren).
+*   **Función:** Prueba de fuego para la Quietud de Leo.
+
+--- Archivo: sucesos.md ---
+# SUCESOS: CAPÍTULO 6 "LA BIOLOGÍA DEL MIEDO"
+
+1.  **El Despertar:** Leo recobra la consciencia en la cabaña. Sufre "Deuda de Flujo" (dolor muscular agudo, calambres, hambre voraz).
+2.  **La Comida:** El Maestro (Anciano) le da sobras de comida con desdén. Leo come con desesperación animal.
+3.  **El Diagnóstico:** El Maestro ignora la "Pieza" (la trata de baratija) y diagnostica a Leo: es ruidoso, torpe y ha quemado su vida usando el Flujo sin control.
+4.  **La Expulsión:** Al caer la noche, el Maestro echa a Leo de la cabaña físicamente. Cierra la puerta.
+5.  **El Terror:** Leo queda a la intemperie. El bosque se despierta (sonidos titánicos).
+6.  **El Encuentro:** Aparece una bestia nocturna (ciega, detecta energía/calor).
+7.  **La Lección (Quietud):** Leo, en lugar de huir (encenderse), reprime su instinto y su metabolismo (apagarse). Entra en "Quietud" rudimentaria.
+8.  **Supervivencia:** La bestia no lo detecta y se marcha. Leo pasa la noche inmóvil y congelado.
+9.  **Aceptación y Lección:** Al amanecer, el Maestro sale, ve que Leo sigue vivo y le explica lo que casi le mata: un "Rompemuros" Clase C. Le enseña la clasificación básica (D=Plomo, C=Explosivos, B=Desastre). Le permite entrar a barrer.
+
+--- Archivo: tramas.md ---
+# TRAMAS: CAPÍTULO 6
+
+## ACTIVAS
+*   **[PRINCIPAL] El Entrenamiento del Silencio:** Leo ha sobrevivido la primera noche, pero solo es el comienzo. Debe aprender a vivir sin hacer "ruido" biológico.
+*   **[LORE] La Deuda de Flujo:** Establecido el coste mortal del poder. Leo no puede usar el Flujo a la ligera.
+*   **[MISTERIO] La Pieza:** Confirmado como objeto "inerte" para el Maestro, pero una llave para Leo. No da poder, da "crédito".
+
+## LATENTES
+*   **[FONDO] Búsqueda de Elena:** Pausada por pura supervivencia. Leo sabe que no puede buscarla si está muerto.
+*   **[AMENAZA] El Bosque:** La fauna nocturna es mucho más peligrosa que la diurna.
+
+## CERRADAS
+*   **[ARCO] La Huida:** Leo ha dejado de huir. Ahora está "estacionado" en la cabaña (aunque sea barriendo). Empieza el Arco de Entrenamiento.
+
+
+==================================================
+CAPITULO: cap_07
+==================================================
+
+--- Archivo: escaleta.md ---
+# ESCALETA: CAPÍTULO 7 "CAZADOR Y PRESA"
+
+## CONTEXTO
+*   **Tiempo:** Han pasado 3 días desde que Leo llegó.
+*   **Estado de Leo:** Limpiando suelos. Recuperándose lentamente. El Maestro ignora su existencia salvo para darle órdenes domésticas.
+*   **Objetivo:** Primera prueba real. Cazar para comer.
+
+## BEATS (ESCENAS)
+
+### 1. La Provocación (El Hambre)
+*   **Lugar:** Porche de la cabaña. Mediodía.
+*   **Acción:** El Maestro come un estofado rico frente a Leo, que solo recibe gachas insípidas. Leo reclama.
+*   **Conflicto:** Leo quiere comida "de verdad". El Maestro le tira un arco rudimentario (o una lanza) y señala el bosque.
+*   **Diálogo Clave:** "Si quieres carne, ve a buscarla. Pero no despiertes al bosque. Si usas fuerza, mueres. Si haces ruido, mueres."
+*   **Misión:** Traer una bestia Clase D (un "Saltador" o similar).
+
+### 2. La Incursión (Biología Titánica)
+*   **Lugar:** Zona 1 (Linde del Bosque de los Ecos).
+*   **Acción:** Leo entra al bosque solo. Se siente minúsculo ante los árboles kilométricos.
+*   **Detalle Sensorial:** El olor a ozono y podredumbre. El sonido de insectos del tamaño de pájaros.
+*   **Flashback:** Breve recuerdo de Elena (una cena en un restaurante ruidoso, contraste con el silencio tenso del bosque).
+*   **El Objetivo:** Localiza un "Ciempiés Acorazado" (Clase D). Es un herbívoro agresivo, blindado, de 3 metros de largo.
+
+### 3. El Error (La Sobrecarga)
+*   **Lugar:** Un claro con helechos gigantes.
+*   **Acción:** Leo intenta tender una trampa. Usa Sincronía para predecir el movimiento del bicho. Funciona al principio.
+*   **Conflicto:** La bestia reacciona más rápido de lo esperado. Leo entra en pánico. ENCIENDE EL FLUJO para potenciar su golpe con la lanza.
+*   **Consecuencia (El Coste):** El golpe es brutal, rompe el caparazón, pero el coste es inmediato. Leo sufre un calambre sistémico. Vómita bilis. La visión se le nubla ("glitch" biológico/migraña).
+*   **El Peligro Real:** El ruido del golpe y el estallido de Flujo atraen a algo peor (una sombra aérea). Leo debe esconderse, paralizado de dolor, mientras algo grande pasa cerca.
+
+### 4. El Regreso (Humildad)
+*   **Lugar:** Cabaña del Maestro. Atardecer.
+*   **Acción:** Leo vuelve arrastrando el cadáver del ciempiés. Está exhausto, sangrando por la nariz (síntoma de sobrecarga).
+*   **Resolución:** Tira la presa a los pies del Maestro, esperando aprobación.
+*   **Twist:** El Maestro examina la herida de la bestia. Ve que Leo usó fuerza bruta (Flujo).
+*   **Juicio:** "Has cazado como un carnicero, no como un depredador. La carne sabe a miedo".
+*   **Cierre:** El Maestro cocina la presa, pero Leo está demasiado enfermo para comer. Se queda mirando el fuego, entendiendo que hoy ha sobrevivido de milagro.
+
+
+--- Archivo: personajes.md ---
+# PERSONAJES: CAPÍTULO 7
+
+## LEO
+*   **Estado Físico:** Enfermo por Sobrecarga (vómitos, temblores).
+*   **Habilidad:** Desbloquea intuitivamente la **Sincronía** (predicción de movimiento) y la **Sobrecarga** (fuerza explosiva).
+*   **Evolución:** Ha pasado de "víctima que huye" a "cazador torpe". Ha matado para comer, cruzando una línea moral/biológica.
+
+## EL MAESTRO
+*   **Rol:** Juez Implacable.
+*   **Enseñanza:** "La fuerza hace ruido. El ruido mata."
+*   **Actitud:** No celebra el éxito del resultado (la muerte del bicho), castiga el fallo del proceso (el uso de fuerza).
+
+## CIEMPIÉS DE CORTEZA (Clase D)
+*   **Estado:** Muerto.
+*   **Características:** Herbívoro, blindado, agresivo si se le provoca.
+*   **Rol:** Primera presa de Leo.
+
+## DEPREDADOR AÉREO (Sin identificar)
+*   **Rol:** Recordatorio de que siempre hay un pez más grande. Atraído por el Flujo.
+
+
+--- Archivo: sucesos.md ---
+# SUCESOS: CAPÍTULO 7 "CAZADOR Y PRESA"
+
+1.  **La Provocación:** Al cuarto día, Leo, hambriento por las gachas, reclama comida real al Maestro. El Maestro le da una lanza primitiva y le dice que cace si quiere carne.
+2.  **La Regla:** El Maestro impone una condición vital: "No despiertes al bosque. Si usas fuerza bruta, mueres."
+3.  **La Incursión:** Leo entra en la Zona 1. Experimenta la escala "titánica" del bosque (árboles kilométricos, olores densos). Tiene un flashback sensorial de Elena (olor a vainilla).
+4.  **El Objetivo:** Localiza un "Ciempiés de Corteza" (Clase D, herbívoro blindado).
+5.  **La Caza:** Leo usa **Sincronía** para predecir el movimiento de la presa. Logra acercarse.
+6.  **El Fallo:** Ante la dureza del caparazón, Leo cede a la tentación y usa **Sobrecarga de Flujo** (fuerza bruta).
+7.  **El Coste:** Mata al bicho, pero el estallido de energía le provoca vómitos, calambres y ceguera temporal.
+8.  **El Peligro Real:** La energía liberada atrae a un depredador aéreo. Leo sobrevive escondiéndose bajo el cadáver pestilente del ciempiés.
+9.  **El Regreso:** Leo vuelve herido y sucio. El Maestro desprecia su "victoria" porque fue ruidosa y torpe.
+10. **La Cena:** El Maestro cocina la presa, pero Leo está demasiado enfermo por la sobrecarga para disfrutarla. Entiende que sigue siendo una presa.
+
+
+--- Archivo: tramas.md ---
+# TRAMAS: CAPÍTULO 7
+
+## ACTIVAS
+*   **[PRINCIPAL] Aprendiz de Depredador:** Leo ha cazado, pero ha fallado en el "cómo". Su lección ahora es controlar el impulso de usar fuerza bruta.
+*   **[LORE] La Sobrecarga:** Confirmado empíricamente: usar el Flujo para golpear duele tanto al usuario como a la víctima.
+*   **[FONDO] El Bosque Viene:** El uso de Flujo atrae depredadores mayores. El bosque no es un lugar pasivo; reacciona a los picos de energía.
+
+## LATENTES
+*   **[PERSONAL] El Recuerdo de Elena:** Leo empieza a usar recuerdos de Elena para anclarse a su humanidad en medio de la barbarie.
+*   **[RELACIÓN] Maestro/Alumno:** La relación sigue siendo fría/darwinista. No hay afecto, solo corrección técnica de errores de supervivencia.
+
+## CERRADAS
+*   **[OBJETIVO] Comer Proteína:** Leo ha conseguido carne, aunque el coste ha sido casi letal.
+
+
+
+==================================================
+CAPITULO: cap_08
+==================================================
+
+--- Archivo: escaleta.md ---
+# ESCALETA: CAPÍTULO 8 "LA SALIDA"
+
+**Objetivo de Extensión:** 2.500 palabras.
+**Enfoque:** Costumbrismo de supervivencia, atmósfera titánica, introspección (Elena).
+
+## BEATS (ESCENAS)
+
+### 1. El Equipo (La Última Lección)
+*   **Lugar:** Interior de la cabaña. Amanecer.
+*   **Acción:** El Maestro entrega a Leo un paquete de viaje. No es tecnología humana convencional.
+    *   *Mochila:* Cuero de bestia curtido (impermeable, rígido).
+    *   *Cantimplora:* Vejiga de animal tratada.
+    *   *El Mapa:* Un trozo de piel con las zonas de peligro quemadas a fuego.
+*   **Diálogo:** El Maestro explica el mapa. "Aquí no hay GPS. Si no sabes leer el musgo y el viento, este mapa es solo un dibujo bonito".
+*   **Detalle:** El Maestro le entrega una "luz química" (frasco con bioluminiscencia) y un cuchillo de hueso denso. Nada de metal brillante.
+
+### 2. La Despedida (Sin Sentimentalismos)
+*   **Lugar:** El límite del prado.
+*   **Acción:** Leo se ajusta la mochila. Pesa. Siente la realidad del viaje.
+*   **Interacción:** No hay abrazos. El Maestro le da un consejo final: "Puerto Raíz es peor que la selva. En la selva, las bestias matan por hambre. En la ciudad, matan por aburrimiento o crédito".
+*   **El Tono:** El Maestro se da la vuelta antes de que Leo cruce la línea de árboles. Cierra la puerta. Leo está oficialmente solo.
+
+### 3. La Inmersión (Biología Titánica - Slow Burn)
+*   **Lugar:** Profundidad de la Zona 1. Camino hacia el Este.
+*   **Acción:** Leo camina durante horas.
+*   **Atmósfera (Extensión):** Descripción detallada del entorno.
+    *   Los "Árboles Colmena": Árboles con agujeros hexagonales donde viven avispas del tamaño de gatos (Leo las evita usando Quietud).
+    *   El suelo: No es tierra, es un manto de hojas en descomposición de metros de profundidad que se siente como caminar sobre colchones.
+*   **Micro-conflicto:** Leo necesita agua. Encuentra un arroyo. Debe usar pastillas purificadoras (o un filtro biológico que le dio el Maestro) y vigilar que no haya sanguijuelas de río (transparentes, indetectables visualmente, solo por la vibración del agua).
+
+### 4. La Noche y el Recuerdo (Introspección)
+*   **Lugar:** Un refugio improvisado en la raíz de un árbol gigante.
+*   **Acción:** Cae la noche. Leo no hace fuego (demasiado visible). Come una ración seca.
+*   **Pensamiento:** El silencio absoluto es mentira. El bosque "habla" en frecuencias bajas.
+*   **Flashback (Elena):** Leo saca la "Pieza" (el pisapapeles). Recuerda cuando Elena se lo dio. "Es una reliquia, Leo. No sé de qué, pero vibra cuando estás cerca". La conexión emocional con el objeto inerte. La soledad se hace palpable.
+
+### 5. La Señal de Civilización (Cliffhanger)
+*   **Lugar:** Al día siguiente. Un claro artificial.
+*   **Acción:** Leo encuentra una antigua baliza del Concordato. Está oxidada, cubierta de enredaderas, pero es inconfundiblemente humana (metal procesado, remaches).
+*   **Descubrimiento:** Tiene un grafiti grabado a cuchillo sobre la placa oficial: un símbolo de **Los Segadores** (una guadaña estilizada o un ojo tachado) (Leo no reconoce el símbolo porque no conoce a los Segadores).
+*   **Significado:** Ha llegado a la periferia. Ya no es territorio virgen. Es territorio en disputa.
+*   **Cierre:** A lo lejos, ve el humo de Puerto Raíz. No es humo de leña; es humo industrial, negro y aceitoso.
+
+
+
+--- Archivo: personajes.md ---
+# PERSONAJES: CAPÍTULO 8
+
+## LEO
+*   **Estado:** Equipado (nivel básico). Solitario.
+*   **Evolución:** Ha aceptado su rol de "presa que se esconde". Usa la Quietud como primera opción.
+*   **Equipo:** Mochila de Cavador, Cuchillo de Hueso de Titán, Luz Fría, Mapa de Piel.
+
+## EL MAESTRO
+*   **Estado:** Se queda atrás en su santuario.
+*   **Rol Final:** Proveedor de herramientas. Su despedida confirma que no le importa el destino de Leo, solo que no muera estúpidamente.
+
+## AVISPAS REINA (Mención)
+*   **Clase:** Fauna de Zona 1. Detectan vibración.
+
+## SANGUIJUELAS DE RÍO
+*   **Clase:** Parásito. Transparentes. Peligro ambiental.
+
+
+--- Archivo: sucesos.md ---
+# SUCESOS: CAPÍTULO 8 "LA SALIDA"
+
+1.  **El Equipo:** El Maestro entrega a Leo equipo de supervivencia biológico (mochila de piel de Cavador, cantimplora de vejiga, cuchillo de hueso).
+2.  **El Mapa:** Recibe un mapa de piel con zonas de peligro. Puerto Raíz está a 30 km, cruzando la Zona 1.
+3.  **La Despedida:** Fría y darwinista. El Maestro le advierte sobre los humanos de Puerto Raíz: son peores que las bestias. Le cierra la puerta.
+4.  **La Transición:** Leo cruza del "jardín" del Maestro a la selva real. El entorno cambia drásticamente (humedad, luz filtrada, insectos del tamaño de perros).
+5.  **Biología Titánica:** Encuentra un "Árbol Colmena" con avispas gigantes. Usa Quietud para evitarlas.
+6.  **Supervivencia:** Leo consigue agua de un arroyo, filtrándola y evitando sanguijuelas transparentes.
+7.  **La Noche:** Acampa en un tronco hueco. Siente la soledad absoluta. Flashback de Elena entregándole la "Pieza" (reliquia).
+8.  **El Encuentro:** Una bestia pesada (pasos bípedos) pasa junto a su refugio. Leo usa Quietud extrema y sobrevive.
+9.  **El Cortafuegos:** Al día siguiente, llega a una antigua línea de demarcación del Concordato. Encuentra un grafiti de los Segadores (territorio en disputa).
+10. **El Horizonte:** Ve el humo negro industrial de Puerto Raíz a lo lejos. Fin del Arco 1.
+
+
+--- Archivo: tramas.md ---
+# TRAMAS: CAPÍTULO 8
+
+## ACTIVAS
+*   **[PRINCIPAL] El Viaje a Puerto Raíz:** Leo ha iniciado la travesía. Ya no está bajo la protección del Maestro.
+*   **[LORE] Territorio de Nadie:** La aparición del símbolo de los Segadores en una estructura del Concordato marca el inicio del conflicto político.
+*   **[PERSONAL] La Soledad:** El peso psicológico de estar solo en un mundo de titanes.
+
+## LATENTES
+*   **[MISTERIO] La Pieza de Elena:** Se revela que Elena sabía que era una "reliquia" y que "vibra" cerca de Leo.
+*   **[AMENAZA] Puerto Raíz:** Descrito como un lugar peligroso por aburrimiento/crédito, no solo por supervivencia.
+
+## CERRADAS
+*   **[ARCO] El Entrenamiento:** Leo ha dejado la cabaña. El tutorial ha terminado.
+
+
+
+==================================================
+CAPITULO: cap_09
+==================================================
+
+--- Archivo: escaleta.md ---
+# ESCALETA: CAPÍTULO 9 "CONTACTO"
+
+**Objetivo de Extensión:** 2.500 palabras.
+**Foco:** Contraste entre la supervivencia salvaje de Leo y la superioridad militar del Concordato.
+
+## BEATS (ESCENAS)
+
+### 1. La Zona de Exclusión (El Entorno Cambia)
+*   **Lugar:** 5km más allá del cortafuegos. Zona boscosa pero con signos de "limpieza".
+*   **Acción:** Leo avanza usando Quietud. Nota que el bosque está extrañamente silencioso.
+*   **Detalle Biológico:** No hay depredadores pequeños. Solo carroñeros. Señal de que hay un "superdepredador" en la zona que ha espantado a los demás.
+*   **Descubrimiento:** Encuentra huellas. No son de bestias. Son botas. Huellas pesadas, uniformes, que hunden el humus.
+
+### 2. El Avistamiento (La Máquina Militar)
+*   **Lugar:** Una cresta elevada observando un valle.
+*   **Acción:** Leo escucha un sonido rítmico, mecánico, pero biológico a la vez. Se esconde (Quietud extrema).
+*   **La Patrulla:** Aparecen 5 figuras. Son **Vanguardias** del Concordato.
+*   **Descripción Visual:**
+    *   No llevan armadura de placas futurista. Llevan "biopolímeros" (caparazones de insecto procesados y tintados de gris mate).
+    *   No llevan armas láser. Llevan rifles de proyectiles cinéticos (rieles magnéticos) y espadas de frecuencia.
+    *   Se mueven en perfecta sincronía, conectados por algún tipo de Resonancia grupal.
+*   **El Shock:** Leo ve cómo abaten a una bestia Clase C (un "Toro de Limo"). No es una pelea; es una ejecución. Usan el Flujo de forma quirúrgica, sin emoción, sin desperdicio. Es aterradoramente eficiente comparado con la lucha desesperada de Leo.
+
+### 3. El Error (Casi Descubierto)
+*   **Lugar:** La misma cresta, minutos después.
+*   **Acción:** Leo intenta retirarse. El "Sensor" del grupo (un Vanguardia especializado) se detiene.
+*   **Tensión:** El Sensor gira la cabeza hacia la posición de Leo. Leo siente una "presión" mental/física, como si un radar le estuviera barriendo.
+*   **Flashback Sensorial (Elena):** El miedo le recuerda a cuando Elena le tapó la boca en el parque antes de desaparecer. "No respires".
+*   **Resolución:** Leo deja de respirar literalmente. Su ritmo cardíaco baja al mínimo (riesgo de desmayo). El Sensor pierde el rastro y el grupo sigue avanzando.
+
+### 4. Los Restos (La Pista de Elena)
+*   **Lugar:** El campamento temporal que la patrulla acaba de abandonar.
+*   **Acción:** Leo baja a investigar (corriendo un riesgo estúpido, pero necesario).
+*   **Hallazgo:** Encuentra basura militar. Envoltorios de raciones. Y un Datapad (tableta robusta) roto o desechado.
+*   **Análisis:** Leo intenta encenderlo. Tiene batería residual. Solo ve un fragmento de registro logístico: "LISTA DE CARGA PRIORITARIA: ... KALEV, E. ... ESTADO: TRASLADO A ARCA 4".
+*   **Confirmación:** Elena (Kalev) está en manos del Concordato. Y la tratan como "Carga", no como persona.
+
+### 5. El Horizonte Industrial (Puerto Raíz)
+*   **Lugar:** Límite del bosque. Vista clara de la ciudad.
+*   **Acción:** Leo llega al borde de la vegetación.
+*   **La Vista:** Puerto Raíz. No es una ciudad bonita. Es una cicatriz infectada. Estructuras de metal oxidado y hueso soldadas sobre el esqueleto fosilizado de una bestia kilométrica. Chimeneas que escupen humo negro. Luces de neón barato parpadeando en la bruma del atardecer.
+*   **Pensamiento Final:** Leo guarda el cuchillo de hueso. Aquí no le servirá de mucho. Aquí necesita otra clase de armas. Se mezcla con las sombras y camina hacia las puertas de chatarra.
+
+
+--- Archivo: personajes.md ---
+# PERSONAJES: CAPÍTULO 9
+
+## LEO
+*   **Estado:** Aterrorizado pero determinado.
+*   **Habilidad:** **Quietud Profunda** (lograda bajo presión extrema). Uso básico de Anclaje para dar energía (encender tablet).
+*   **Información:** Sabe dónde está Elena y quién la tiene.
+
+## VANGUARDIAS (Grupo Patrulla)
+*   **Capitán:** Lidera con frialdad. Capaz de detener un Clase C a mano limpia (Anclaje top-tier).
+*   **Sensor:** Especialista en detección de Flujo/Vida. Casi descubre a Leo.
+*   **Equipo:** Armaduras de biopolímero, Rifles de Riel, Espadas de Frecuencia.
+
+## TORO DE LIMO (Clase C)
+*   **Estado:** Eliminado.
+*   **Rol:** Saco de boxeo para demostrar el poder de los Vanguardias.
+
+## ELENA (Mención/Dato)
+*   **Estado:** Prisionera "Cooperativa". Clave E. Destino: Arca 4.
+
+
+--- Archivo: sucesos.md ---
+# SUCESOS: CAPÍTULO 9 "CONTACTO"
+
+1.  **El Rastro:** Leo encuentra huellas de botas militares en la Zona 1-B. Identifica una formación táctica y "corte quirúrgico" de vegetación.
+2.  **El Avistamiento:** Leo observa desde una cresta a una patrulla de 5 Vanguardias (Concordato) emboscando a un Toro de Limo (Clase C).
+3.  **La Demostración:** Ve el poder militar real del Flujo: Anclaje para detener cargas de toneladas, rifles de riel y espadas de frecuencia. Matan al Clase C en segundos con eficiencia fría.
+4.  **El Casi-Encuentro:** Leo hace un ruido mínimo. El **Sensor** de la patrulla escanea la zona. Leo usa una **Quietud** extrema (deteniendo respiración y bajando pulsaciones) inspirada por un recuerdo de Elena. Consigue burlar al Sensor.
+5.  **La Investigación:** Leo baja al lugar del combate tras irse la patrulla. Encuentra basura militar y un Datapad roto.
+6.  **La Revelación:** Reactiva el Datapad con una chispa de Flujo. Lee un log logístico: Elena (Kalev, E.) figura como "Prisionero/Clave", "Carga Prioritaria" y "Cooperativa".
+7.  **El Destino:** Se confirma que la llevan al "Arca 4".
+8.  **La Vista de Puerto Raíz:** Leo llega al límite del bosque y ve la ciudad: un asentamiento industrial incrustado en el esqueleto de una bestia muerta.
+9.  **Decisión:** Leo asume que no puede vencer por fuerza. Decide infiltrarse como un "fantasma".
+
+
+--- Archivo: tramas.md ---
+# TRAMAS: CAPÍTULO 9
+
+## ACTIVAS
+*   **[PRINCIPAL] Buscando a Elena:** Pista sólida obtenida. Elena está viva, es prisionera del Concordato y es considerada "Alto Valor". ¿Por qué "Cooperativa"?
+*   **[LORE] La Escala de Poder:** El Concordato no son guardias normales. Los Vanguardias son super-soldados coordinados. Leo entiende su inferioridad física.
+*   **[PERSONAL] El Fantasma:** Leo consolida su estilo de supervivencia: sigilo y análisis sobre fuerza bruta.
+
+## LATENTES
+*   **[AMENAZA] El Sensor:** Leo sabe ahora que pueden detectarlo "mentalmente". La Quietud es su única defensa.
+*   **[MISTERIO] Arca 4:** Nuevo destino mencionado en el Datapad.
+
+## CERRADAS
+*   **[VIAJE] Zona 1-B:** Leo ha cruzado la zona de exclusión y ha llegado a la periferia de la ciudad.
+
+
+
+==================================================
+CAPITULO: cap_10
+==================================================
+
+--- Archivo: escaleta.md ---
+# ESCALETA: CAPÍTULO 10 "PUERTO RAÍZ"
+
+**Objetivo de Extensión:** 2.500 palabras.
+**Foco:** Choque cultural ("Grounded Sci-Fi" sucio), atmósfera industrial/biológica y reglas sociales (fuerza = moneda).
+
+## BEATS (ESCENAS)
+
+### 1. Las Puertas de Hueso (La Escala Titánica)
+*   **Lugar:** Entrada principal de Puerto Raíz.
+*   **Visual:** La ciudad está construida *dentro* de la caja torácica de una bestia muerta hace milenios. Las costillas blancas se curvan sobre el cielo como arcos de una catedral gótica de 200 metros de altura.
+*   **Acción:** Leo llega a la cola de entrada. Hay caravanas de "Recolectores" (gente sucia, cargando partes de insectos).
+*   **Conflicto:** El peaje. Los guardias no piden dinero. Piden "biomasa" o "crédito de Flujo". Leo no tiene ninguno.
+*   **Resolución:** Leo muestra el cuchillo de hueso de Titán que le dio el Maestro. El guardia se sorprende por la calidad del material ("Hueso Denso" puro). Le dejan pasar, pero Leo se da cuenta de que ha enseñado demasiado oro en un barrio de ladrones.
+
+### 2. La Anatomía de la Ciudad (Atmósfera)
+*   **Lugar:** Calle Principal (La Columna).
+*   **Descripción:** Caos urbanístico. Chozas de metal soldado colgadas de las vértebras gigantes. Cables gordos como serpientes que roban electricidad de generadores de biomasa (queman carne de bestia para dar luz).
+*   **Detalle Sensorial:** El olor. Aceite de motor, carne asada, sudor y ozono. Neon barato parpadeando.
+*   **Interacción:** Leo intenta pasar desapercibido. Su ropa limpia (relativamente) y su mochila de calidad lo marcan como "forastero". Se siente más inseguro aquí que en la selva. En la selva si te escondes, sobrevives. Aquí, esconderse te hace parecer sospechoso.
+
+### 3. El Mercado de Despojos (Economía de Sangre)
+*   **Lugar:** Mercado central.
+*   **Acción:** Leo busca información sobre "Arca 4" o "Vanguardias". Ve los puestos: venden glándulas de ácido, quitina para armaduras, carne de dudosa procedencia.
+*   **Observación:** Ve a un mercenario pagar con una "batería de Flujo" (un frasco brillante). Entiende que aquí la energía es literal.
+*   **Incidente:** Un carterista intenta cortar la mochila de Leo. Leo, usando la **Sincronía** (intuición básica), agarra la muñeca del chico antes de que toque la tela. No usa fuerza, solo anticipación. El chico huye, pero Leo confirma que sus reflejos han cambiado.
+
+### 4. La Cantina "El Tuétano" (Buscando Pistas)
+*   **Lugar:** Un bar excavado en el hueso de la bestia.
+*   **Acción:** Leo entra buscando calmarse y quizás escuchar conversaciones.
+*   **Ambiente:** Pesado. Gente armada. Música industrial.
+*   **Flashback (Elena):** El ruido le recuerda a los bares universitarios donde iban, pero distorsionado. Elena siempre pedía la mesa de la esquina para "observar a la fauna". Leo busca esa mesa por instinto.
+*   **Desarrollo:** Leo escucha a unos mineros hablar de un "transporte especial" que salió al amanecer hacia el Norte. Mencionan "Carga Prioritaria". Confirma que el rastro es fresco.
+
+### 5. La Sombra (Cliffhanger)
+*   **Lugar:** Callejón trasero de la cantina.
+*   **Acción:** Leo sale. Siente la **mirada** otra vez. No es el Sensor de los Vanguardias. Es algo más sucio.
+*   **Conflicto:** Tres tipos le cierran el paso. Son locales. Quieren la mochila. Quieren el cuchillo.
+*   **Cierre:** Leo saca el cuchillo de hueso. No adopta una postura de karateca de película. Adopta la postura del Maestro: hombros relajados, centro de gravedad bajo, sin respirar. Los tipos dudan. No atacan (aún). La tensión se corta con cuchillo. Fin del capítulo.
+
+

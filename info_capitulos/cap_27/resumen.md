@@ -1,0 +1,3 @@
+### Resumen - Capítulo 27: El Guardián
+
+Atravesando los túneles de servicio estériles de la Fundación, Leo y Silas descubren los restos de los científicos purgados hace un siglo. Su camino es bloqueado por un "Centurión", un robot de combate pre-guerra que se activa al detectar la radiación de la Esfera. Leo, comprendiendo que la fuerza bruta es inútil, utiliza el poder de la Esfera para acelerar la entropía local, envejeciendo al robot hasta convertirlo en polvo en segundos. El esfuerzo le provoca un colapso físico, pero logra abrir la puerta blindada, revelando "Apectus", la Ciudad Hueca, una metrópolis intacta bajo tierra.

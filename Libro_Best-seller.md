@@ -1,0 +1,9111 @@
+# CAPÍTULO 1: EL ÁNGULO MUERTO
+
+La carpeta del caso pesaba ciento cincuenta gramos. Demasiado poco para contener el peso de una vida entera.
+
+Leo la dejó caer sobre el escritorio. El sonido seco del cartón golpeando la madera de pino tuvo una finalidad obscena que rompió el silencio de su habitación. Eran las 03:14 de la madrugada y la única iluminación provenía del resplandor azulado del monitor y de la farola de la calle, que proyectaba sombras alargadas y anaranjadas a través de las persianas venecianas a medio bajar. El polvo flotaba en los haces de luz, girando en corrientes de convección invisibles, ajeno al desmoronamiento del mundo de Leo.
+
+Se frotó los ojos con el reverso de la mano, sintiendo la piel de los párpados fina y quebradiza como papel de arroz. Llevaba cuarenta y ocho horas sin dormir, alimentándose exclusivamente de café recalentado y de esa ansiedad viscosa que se instala en el estómago y sabotea cualquier intento de digestión. El apartamento, que hace una semana era un modelo de minimalismo y orden arquitectónico, se había transformado en un búnker de papel y desesperación.
+
+Los planos topográficos del Parque del Lindero cubrían las ventanas, bloqueando la vista de la ciudad. Facturas sin abrir hacían de posavasos para tazas con posos de moho incipiente. Libros de geología, física teórica y viejos atlas heredados se apilaban en columnas precarias que desafiaban la gravedad, convirtiendo el suelo del salón en un laberinto de conocimiento inútil.
+
+Leo extendió la mano y abrió la carpeta. La primera hoja era el informe oficial.
+
+—"Ausencia voluntaria" —leyó en voz alta. Su voz sonó rasposa, extraña en el silencio del cuarto. Las palabras le supieron a bilis—. Imbéciles. Cobardes.
+
+Cerró los ojos y, sin querer, la memoria le arrastró cuatro horas atrás. A la comisaría.
+
+***
+
+El despacho del Inspector Garrido olía a tabaco frío y a ambientador de pino barato, una mezcla nauseabunda que se pegaba a la ropa. El fluorescente del techo parpadeaba con un zumbido eléctrico que taladraba las sienes de Leo.
+
+—Se lo voy a explicar otra vez, señor Vanes —dijo Garrido, tamborileando los dedos sobre la mesa de formica. Tenía las uñas mordidas y una mancha de café en la camisa. Era un hombre cansado de lidiar con tragedias domésticas—. No hay indicios de criminalidad. La puerta de su apartamento no fue forzada. No hay señales de lucha. Su teléfono dio señal por última vez en una antena cerca de la estación de autobuses.
+
+—Su teléfono está apagado —interrumpió Leo, apretando los puños sobre las rodillas.
+
+—Porque se le acabó la batería. O porque tiró la tarjeta SIM. Es lo que hace la gente cuando quiere desaparecer, Leo. —Garrido suspiró y se inclinó hacia delante, adoptando un tono paternalista que a Leo le dieron ganas de vomitar—. Escucha, Elena tiene veintidós años. Es una estudiante de biología brillante, según me cuentas. A lo mejor se agobió. A lo mejor la tesis, o la relación, o la vida en general le venía grande. Pasa todos los días. La gente hace una maleta y se sube a un autobús.
+
+—No se llevó ropa —dijo Leo. Su voz era un hilo tenso, a punto de romperse—. He revisado su armario. Faltan sus vaqueros, su chaqueta y las botas que llevaba puestas. Nada más. Su cepillo de dientes sigue en el vaso. Su medicación para la alergia sigue en la mesilla. ¿Quién se escapa para empezar una vida nueva sin su inhalador, Inspector?
+
+Garrido se encogió de hombros, un gesto de impotencia ensayada.
+
+—Alguien que tiene prisa. O alguien que no planea ir muy lejos antes de volver arrepentida. —El policía cerró la carpeta con un golpe suave—. Protocolo de Búsqueda de Nivel 3. Hemos mandado su foto a las patrullas. Si aparece en un hospital o en una morgue, te llamaremos. Pero no vamos a dragar el río ni a peinar el bosque por una adulta que se ha ido por su propio pie. Vete a casa, descansa. Y espera a que ella llame.
+
+***
+
+—Espera a que ella llame —repitió Leo en el presente, lanzando el informe contra la pared opuesta. Las hojas se desparramaron por el suelo como pájaros muertos.
+
+Se levantó de la silla. Las articulaciones le crujieron. Caminó por la habitación, esquivando las pilas de libros. Necesitaba moverse. La inacción era un ácido que le corroía las venas. La policía buscaba la lógica estadística: la navaja de Ockham. La explicación más sencilla suele ser la correcta. Pero Leo era arquitecto. Su mente no funcionaba con estadísticas, sino con cargas y estructuras. Si una viga cede, no es porque "haya decidido irse". Es porque la carga superó la resistencia del material. Había una causa. Siempre había una causa física.
+
+Y Elena era la estructura más sólida que conocía.
+
+Su mirada se desvió hacia la cocina americana. El fregadero estaba lleno de platos sucios. En la encimera, la máquina de café seguía encendida. Junto a ella, un post-it amarillo con la letra picuda de Elena: *"Compra leche, arquitecto. Y no te olvides de comer algo que no sea pizza."*
+
+El recuerdo le golpeó en el pecho, físico y brutal.
+
+*Flashback. Hace seis meses.*
+
+*Lluvia. El sonido constante del agua golpeando el cristal. Domingo por la tarde. El apartamento olía a tierra mojada y a las tostadas quemadas que Elena intentaba raspar con un cuchillo en la cocina.*
+
+*Leo estaba sentado en el sofá, con el teléfono en la mano, escuchando el tono de "comunicando" del despacho de abogados. Llevaba dos años peleando por la herencia de sus padres, un chalet en la sierra que se caía a pedazos y que el banco quería embargar por deudas que no eran suyas.*
+
+*—No cogen el teléfono —murmuró Leo, dejando caer el móvil sobre el cojín. Sintió que le faltaba el aire. Ese temblor familiar en las manos. El ataque de pánico asomando la cabeza.*
+
+*Elena apareció en el marco de la puerta. Llevaba una camiseta vieja de Leo que le quedaba de vestido y tenía migas de pan en la comisura de los labios. Dejó el cuchillo y se acercó a él. No dijo nada. No le dijo "tranquilo" ni "todo saldrá bien". Sabía que Leo odiaba los tópicos.*
+
+*Se sentó a su lado y le cogió la mano. Entrelazó sus dedos con los de él y apretó. Fuerte. Un anclaje físico.*
+
+*—Se han ido todos, Elena —dijo él, con la voz rota, mirando al suelo—. Mis padres. El abuelo Caine. Ahora la casa. No me queda nada. Soy... soy el final de la línea. Solo papeles y deudas.*
+
+*Elena le soltó la mano y le agarró la cara, obligándole a mirarla a los ojos. Tenía los ojos oscuros, serios, con esa intensidad casi feroz que usaba cuando estudiaba sus muestras en el microscopio.*
+
+*—Mírame, Leo. —Su voz era firme—. Yo no soy un papel. Yo soy carne y hueso. Tócame.*
+
+*Le puso la mano en su pecho, sobre el corazón. Leo sintió el latido, fuerte y rítmico, a través de la tela de algodón.*
+
+*—Eres mi familia ahora. Eres mi estructura. Mientras yo esté aquí, tú no te caes. ¿Me oyes? Tú y yo somos los cimientos. El resto son solo muebles. Que se queden la casa. Nosotros construiremos otra.*
+
+*—No te vayas nunca —había susurrado él, aferrándose a ella como un náufrago.*
+
+*Elena sonrió, una de esas sonrisas medias, solo para él.*
+
+*—No tengo adónde ir, tonto. Mi sitio está donde tú estés.*
+
+***
+
+—Mentirosa —dijo Leo al aire viciado del apartamento.
+
+La palabra flotó en el silencio, acusatoria. Si Garrido tenía razón, todo aquello había sido mentira. Si ella se había ido, Leo estaba, por primera vez en su vida, completa y absolutamente solo en el universo. Esa idea dolía más que el cansancio, más que el miedo. Era un vertiginoso terror existencial.
+
+Pero Elena no mentía. Elena era incapaz de mentir sin que le temblara el ojo izquierdo. Y Elena amaba sus rutinas.
+
+Leo volvió al escritorio. Su mirada buscó un anclaje y aterrizó en la esquina de la mesa, donde descansaba observando aquel objeto.
+
+La Pieza, como lo llamaba él.
+
+Era un objeto del tamaño de una pelota de tenis, un poliedro irregular de un material negro, completamente mate, que parecía absorber la luz a su alrededor. Tenía aristas vivas, pero extrañamente, nunca cortaba. Lo había rescatado de una caja de zapatos vieja tras el funeral de su abuelo Caine, el "loco de la familia". Su padre había querido tirar toda aquella "chatarra de explorador senil" al contenedor, pero Leo, con doce años, se lo había guardado en el bolsillo.
+
+No por cariño. Sino por el peso.
+
+Era absurdamente pesado. Daba la sensación de tener la densidad de una estrella colapsada. Y estaba frío. Siempre frío.
+
+Inconscientemente, Leo alargó la mano y lo cogió. El tacto helado le centró de inmediato. El metal chupó el calor de su palma con avidez. Leo lo giró entre los dedos, sintiendo cómo las aristas se clavaban en su piel, un dolor agudo que le ayudaba a pensar. Era real. Inmutable. Físico.
+
+Con la Pieza en la mano izquierda, usó la derecha para reactivar el monitor.
+
+El vídeo estaba pausado en el minuto 18:42.
+
+No era una prueba oficial. Garrido ni siquiera sabía que existía. Era la copia de seguridad de la cámara de vigilancia de la entrada norte del Parque del Lindero. Conseguirla le había costado trescientos euros y una reunión tensa en la trastienda de un locutorio con un antiguo compañero de la facultad que ahora trabajaba en mantenimiento del Ayuntamiento.
+
+—"Es ilegal, Leo. Si me pillan, me crujen" —había dicho Javi, sudando—. "¿Para qué quieres esto?"
+
+—"Para hacer el trabajo que la policía no hace".
+
+Leo le dio al play. Había visto esta secuencia ochenta y siete veces. Podía cerrar los ojos y verla proyectada en sus párpados.
+
+En la pantalla, la imagen granulada y en blanco y negro mostraba la entrada del parque. 18:40 de la tarde del martes. Luz diurna. Un par de corredores. Una mujer con un carrito de bebé.
+
+Y entonces, ella.
+
+18:41:05. Elena entra en el encuadre. Camina rápido, con esa zancada decidida que tenía cuando llegaba tarde. Lleva su chaqueta vaquera con el parche de la NASA en el hombro y la mochila amarilla chillón. Mira el móvil. Escribe algo con el pulgar. Se detiene un segundo, mira hacia los árboles, y guarda el teléfono en el bolsillo trasero.
+
+Leo sintió una punzada física en el estómago al verla moverse. Estaba tan viva. Tan ajena a que le quedaban segundos de existencia antes de ser considerada desaparecida.
+
+Elena cruza la verja. Saluda con un gesto de cabeza al jardinero que barre las hojas (Felipe, interrogado, coartada confirmada por GPS). Sigue el sendero de gravilla.
+
+18:41:45. Llega a la bifurcación. El camino principal sigue recto hacia los columpios. Un sendero de tierra se desvía a la izquierda, hacia la zona boscosa "El Pinar", donde los árboles son más viejos y las luces nunca funcionan.
+
+Elena gira a la izquierda. Sin dudar.
+
+La cámara la sigue unos segundos más. La mochila amarilla es un punto de contraste gris claro en la imagen monocroma.
+
+18:42:10. Elena llega al Punto Ciego.
+
+El Roble Centenario. Un *Quercus faginea* de trescientos años, inmenso, cuyas ramas se extienden sobre el camino como una bóveda gótica. Su copa es tan densa que crea una sombra perpetua en ese tramo del sendero, incluso a plena luz del día.
+
+Elena entra en la sombra del roble.
+
+Leo contuvo la respiración.
+
+La figura de Elena se fundió con la oscuridad de la copa del árbol.
+
+18:42:15.
+18:42:30.
+18:43:00.
+
+El vídeo seguía corriendo. Las hojas de los árboles se movían con el viento. Un perro cruzó la parte inferior de la pantalla.
+
+Pero nadie salió por el otro lado del roble.
+
+La sombra tenía apenas cinco metros de longitud. A su paso, Elena debería haber tardado tres, quizás cuatro segundos en volver a ser visible al otro lado.
+
+Leo adelantó el vídeo. Una hora. Dos horas. Cayó la noche. Se encendieron las farolas. El parque cerró sus puertas.
+
+Nadie salió de esa sombra. Y lo que era más inquietante para la mente analítica de Leo: *nadie entró tampoco para sacarla*.
+
+Rebobinó. Volvió a verlo. Elena entra. La realidad parpadea. Elena no sale.
+
+Golpeó la mesa con la Pieza negra. El impacto sonó como un disparo apagado.
+
+—La materia no se destruye —masculló entre dientes—. Se transforma. O se desplaza.
+
+Se levantó bruscamente, tirando la silla hacia atrás.
+
+Elena no se había ido. Elena había entrado en una trampa. Quizás la esperaban para secuestrarla de alguna ingeniosa manera.
+
+Caminó hacia la estantería y, apartando los manuales de "Estructuras III", sacó el cuaderno que había encontrado pegado con cinta americana bajo el somier de la cama, en el lado de Elena. No se lo había dado a la policía. Garrido habría pensado que era el diario de una loca.
+
+Lo abrió sobre la mesa, bajo el cono de luz de la lámpara. Las páginas estaban llenas de diagramas, fórmulas químicas y dibujos botánicos. Pero las últimas hojas eran diferentes. Eran frenéticas.
+
+Había un mapa del Parque del Lindero dibujado a mano. Líneas rojas conectaban el Roble Centenario con otros puntos de la ciudad: una alcantarilla romana, el sótano del Museo Arqueológico, el viejo pozo de la plaza.
+
+En el centro de la red, una palabra subrayada tres veces: **POROSIDAD**.
+
+Y debajo, una nota fechada el mismo martes de su desaparición:
+
+*"Los ciclos coinciden. La densidad atmosférica local ha variado un 0.4% en las últimas 24 horas. No es presión barométrica. Es como si el aire estuviera más... diluido. El abuelo de Leo tenía razón en sus diarios. La 'Membrana' es permeable aquí. Si acerco la Llave al epicentro, debería reaccionar. Voy a comprobarlo. No puedo decírselo a Leo aún. Me tomaría por loca. Necesito pruebas empíricas. PD: Si leo esto y no he vuelto, Leo, busca donde la sombra no se mueve."*
+
+—Busca donde la sombra no se mueve —repitió Leo.
+
+Miró el reloj. 03:45 AM.
+
+El mundo exterior dormía. La lógica dormía. Era la hora perfecta para la locura.
+
+Se puso el abrigo largo de lana. Hacía frío fuera, pero el frío que sentía Leo venía de dentro, de la médula. Guardó el cuaderno en el bolsillo interior. Cogió la linterna táctica del cajón de herramientas. Y, por último, cogió la Pieza.
+
+Al cerrando la mano sobre ella esta vez, sintió algo nuevo. Una vibración. Muy tenue, casi subliminal, como el ronroneo de un impulsor de flujo lejano. Y la temperatura del objeto había bajado drasticamente. Quemaba por frío.
+
+—La Llave —susurró, recordando la nota de Elena.
+
+Salió del apartamento y cerró con llave. El pasillo estaba en silencio, oliendo a lejía y a vidas estancadas. Bajó las escaleras de dos en dos, huyendo de la inacción.
+
+La calle le recibió con una bofetada de aire gélido y llovizna. La ciudad era un esqueleto de hormigón bajo la luz ámbar de las farolas de vapor de sodio. No había nadie. Solo un taxi lejano y el camión de la basura haciendo su ronda en la otra manzana.
+
+Leo caminó rápido, con las manos hundidas en los bolsillos, apretando la Pieza como si fuera un talisman. El Parque del Lindero estaba a doce manzanas, en el límite entre el casco antiguo y la zona industrial. Mientras caminaba, su mente de arquitecto intentaba racionalizar lo que iba a hacer. Iba a buscar un fallo en la realidad. Iba a buscar una grieta de su mundo físico.
+
+Llegó al perímetro del parque veinte minutos después.
+
+La valla de hierro forjado se alzaba tres metros, negra y húmeda, coronada por puntas de lanza. El parque era una isla de oscuridad en medio del mar eléctrico de la ciudad. Los árboles se mecían con el viento, susurrando secretos en un idioma de hojas secas.
+
+Leo rodeó el perímetro hasta encontrar la sección oeste, donde sabía que las raíces de un pino habían levantado el cemento y separado los barrotes. Se coló por el hueco, rasgándose la manga del abrigo, y cayó en la tierra blanda del interior.
+
+Se puso de pie y encendió la linterna. El haz de luz blanca cortó la oscuridad.
+
+El parque estaba desierto. Los columpios vacíos se mecían levemente, chirriando con un ritmo triste. Leo ignoró el miedo atávico a la oscuridad que todo humano lleva en el ADN y avanzó. Tenía una misión.
+
+—Derecha en la fuente. Izquierda en el banco —murmuró, siguiendo el mapa mental.
+
+El sendero de grava crujía bajo sus botas. El sonido era demasiado fuerte.
+
+Y entonces, lo vio.
+
+El Roble Centenario.
+
+Era gigantesco. Su tronco era tan ancho como un coche y su corteza estaba llena de nudos y cicatrices que parecían caras gritando. Sus ramas se extendían horizontalmente, cubriendo el camino como un techo.
+
+Leo se detuvo a diez metros. Apuntó con la linterna.
+
+Ahí estaba la sombra.
+
+Y Elena tenía razón.
+
+Leo movió la linterna de izquierda a derecha. El haz de luz barrió el suelo, iluminando las hojas secas, las piedras, las raíces. Las sombras de los arbustos cercanos se movieron, alargándose y acortándose según el ángulo de la luz. Geometría simple. Óptica básica.
+
+Pero la sombra bajo el roble no se movió.
+
+Permaneció estática. Un charco de oscuridad absoluta, negra como alquitrán, que ignoraba por completo la fuente de luz de Leo. Era una mancha en la realidad.
+
+El corazón de Leo empezó a martillear contra sus costillas. 120 pulsaciones. Adrenalina pura.
+
+Dio un paso adelante. Luego otro.
+
+El aire cambió.
+
+A tres metros del árbol, el sonido de la ciudad desapareció. Fue instantáneo. Como si alguien hubiera cortado el cable de audio. El zumbido de la ciudad, el viento, el tráfico lejano... todo cesó.
+
+Silencio absoluto. Un silencio denso, presurizado. Olía a ozono y a tierra antigua, a humedad de cueva cerrada hace milenios.
+
+Leo sacó la Pieza de su bolsillo.
+
+El cambio fue físico, inmediato. El objeto ya no estaba frío. Ahora irradiaba un calor seco, febril, como si el núcleo de metal se hubiera vuelto radioactivo en cuestión de segundos. Y pesaba. Pesaba tanto que Leo tuvo que usar las dos manos para no dejarlo caer, sintiendo cómo los tendones de sus muñecas crujían bajo una densidad imposible.
+
+—Estás aquí —dijo Leo con los dientes apretados. Su voz no tuvo eco. El aire se comió el sonido, masticándolo en el silencio.
+
+Se acercó al borde de la sombra estática. El calor de la Pieza se volvió insoportable, quemándole la piel de las palmas, pero sus dedos se negaron a soltarla. Era como si la gravedad local se hubiera plegado sobre sí misma, convirtiendo el objeto en un ancla que tiraba de él hacia el centro de la tierra.
+
+Leo dio un paso adelante, dejando que el peso muerto de la Pieza guiara su cuerpo.
+
+No hubo destellos. No hubo grietas de luz ni portales brillantes abriéndose en el aire.
+
+Simplemente, la física se rindió.
+
+Leo pisó la sombra y el suelo dejó de ser suelo. Vio la gravilla, vio las hojas secas, pero su bota atravesó la materia como si fuera una proyección holográfica.
+
+La realidad se invirtió. El horizonte giró noventa grados a la izquierda y el estómago de Leo se le subió a la garganta.
+
+Sintió una presión brutal en el cráneo, una descompresión explosiva que le hizo sentir que los tímpanos le estallaban hacia fuera. El parque, la noche, la ciudad... todo se disolvió en una negrura viscosa que no era falta de luz, sino exceso de *algo más*.
+
+Cayó.
+
+No fue una caída larga. Fue un colapso instantáneo y violento.
+
+Mientras la oscuridad se lo tragaba y la presión le borraba la consciencia, su último pensamiento lógico fue una sentencia clínica:
+
+*"Fallo catastrófico de la estructura. Colapso total."*
+
+Y luego, el impacto.
+
+***
+
+Cuando abrió los ojos, lo primero que notó fue el olor.
+
+Era un olor rico, complejo, abrumador. Olía a oxígeno puro, a podredumbre dulce, a especias desconocidas y a sangre caliente.
+
+Leo se incorporó, tosiendo. Estaba tumbado sobre una superficie blanda y húmeda. Musgo. Pero no era musgo normal. Cada filamento era del grosor de un dedo y brillaba con una luz cian intermitente al tacto.
+
+Se miró las manos. Estaban manchadas de tierra azulada. Seguía aferrando la Pieza con fuerza, sus nudillos blancos por la tensión.
+
+Levantó la vista.
+
+El vértigo le golpeó tan fuerte que tuvo que volver a apoyar las manos en el suelo para no vomitar.
+
+Estaba en un bosque. Pero llamar a aquello "bosque" era como llamar "charco" al Océano Pacífico.
+
+Los árboles que le rodeaban eran columnas que sostenían el cielo. Troncos de madera roja y gris que se alzaban cientos de metros hacia arriba, desapareciendo en una bruma luminosa muy por encima de su cabeza. Las hojas que caían planeando a su alrededor eran del tamaño de sábanas de cama.
+
+Leo se puso de pie, tambaleándose. Se sentía pequeño. Insignificante. Una hormiga en el jardín de un dios descuidado.
+
+—¿Elena? —llamó. Su voz sonó pequeña, ahogada por la inmensidad del entorno.
+
+Un crujido a su espalda le hizo girarse.
+
+A unos cincuenta metros, entre la maleza gigante, dos ojos ámbar se abrieron en la oscuridad. Eran grandes como platos soperos. Y estaban a tres metros del suelo.
+
+La pupila vertical se contrajo al enfocar a Leo.
+
+Un gruñido bajo, profundo, hizo vibrar el esternón de Leo.
+
+—Vale —susurró Leo, retrocediendo despacio, con la Pieza en la mano como única y ridícula defensa—. Definitivamente, esto no es un ángulo muerto.
+
+Bienvenido a Extramuros.
+
+**FIN DEL CAPÍTULO 1**
+
+
+<div style="page-break-after: always;"></div>
+\newpage
+
+# CAPÍTULO 2: LA CUEVA DE LOS HUESOS
+
+Leo corrió.
+
+No fue una decisión consciente. Sus piernas arrancaron antes de que su cerebro terminara de procesar que los ojos ámbar a cincuenta metros le pertenecían a algo vivo. Algo grande. Algo que estaba despertando.
+
+La Pieza ardía en su mano, pero eso era lo de menos. El suelo temblaba bajo sus botas con cada pisada del depredador que había abandonado su paciencia de observador.
+
+*CRUNCH. CRUNCH. CRUNCH.*
+
+El sonido era cada vez más cercano. El aire olía a carne podrida y a zumbido de flujo quemado, un hedor que le revolvió el estómago a Leo mientras corría esquivando helechos que le arañaban la cara con bordes de sílice. Tropezaba con raíces que parecían tuberías industriales, pero no podía permitirse caer. Si caía, moría.
+
+Las ramas le golpeaban la cara. Los hongos gigantes explotaban en nubes de esporas cuando los rozaba. Corría mal, sin técnica, solo con el impulso del miedo puro.
+
+Un rugido a su espalda. No fue un rugido de león. Ni de oso. Fue un chirrido metálico, vibrante, que le hizo doler los dientes. La cosa estaba cerca. Demasiado cerca.
+
+Leo vio una grieta en el terreno. Una formación de rocas negras que rompía el patrón de la vegetación. Se alzaban como dientes podridos saliendo de la tierra.
+
+Roca. La roca es segura. La roca es dura.
+
+Leo viró hacia la izquierda. Vio una fisura a ras de suelo. Triangular. Estrecha.
+
+Se tiró al suelo. Se arrastró. El barro se le metió en la boca. Escupió. Empujó con los codos, con las rodillas. Se raspó la espalda contra la piedra superior. Entró.
+
+Se quedó quieto, boca abajo, en la oscuridad.
+
+Esperó.
+
+Fuera, el sonido de pisadas se detuvo. Silencio. Solo el zumbido de los insectos lejanos. Luego, una respiración. *Fhhhhhh. Fhhhhhh.* Aire entrando y saliendo de unos pulmones enormes. O de unos espiráculos.
+
+Leo se tapó la boca con las dos manos. Trató de no respirar. Su corazón golpeaba contra sus costillas como un pájaro atrapado. *Bum-bum. Bum-bum.*
+
+Un golpe. La roca sobre su cabeza vibró. La cosa había golpeado la piedra. Probando. Buscando.
+
+Otro golpe. Más fuerte. Polvo cayó sobre el pelo de Leo.
+
+Luego, un gruñido bajo. De frustración. Y pasos. *CRUNCH... CRUNCH... crunch...* Se alejaban.
+
+Leo soltó el aire que tenía en los pulmones. Se dio la vuelta, quedando boca arriba en el suelo de la cueva. Estaba temblando. Sus manos sacudían incontrolables.
+Se las miró en la oscuridad. Apenas podía verlas. Sacó la linterna del cinturón. Clic. El haz de luz blanca cortó la negrura.
+
+Leo apuntó al techo. Roca gris. Húmeda. Apuntó al suelo. Tierra seca. Apuntó al fondo de la cueva.
+
+Ahogó un grito. La linterna iluminó una pared blanca. No. No era una pared. Eran costillas.
+
+Leo se levantó despacio, con la linterna en alto. Caminó hacia el fondo. Estaba en un cementerio.
+
+Había huesos por todas partes. Pero la escala... la escala estaba mal. Vio un fémur apoyado contra la pared que Leo no habría podido abarcar ni con los brazos extendidos. Vio vértebras esparcidas por el suelo del tamaño de ruedas de camión.
+
+Leo se arrodilló junto a una vértebra. La tocó con los dedos. Calcificada. Porosa. Estimó su edad por la erosión: cincuenta años mínimo. Quizás cien.
+
+Miró la distribución de los huesos. No estaban esparcidos al azar. Había un patrón. Los fémures apilados a la izquierda. Las costillas a la derecha. Alguien... o algo... los había organizado. Esto no era el basurero de un depredador. Era un almacén. O un santuario.
+
+¿Qué clase de criatura tenía este tamaño? ¿Y qué clase de criatura *comía* a algo de este tamaño y dejaba los restos aquí ordenados?
+
+Leo se dejó caer contra la pared de roca, jadeando. La oscuridad de la cueva le recordó a otra oscuridad. El sótano del museo donde Elena guardaba sus muestras. Olor a formol y a libros viejos. Ella siempre trabajaba de noche, cuando el edificio cerraba.
+
+*"¿Por qué te gusta tanto la oscuridad?"*, le había preguntado una vez, viéndola trabajar con una lámpara de luz negra.
+
+*"Porque en la oscuridad, las cosas que brillan se ven mejor"*, había respondido ella, sosteniendo un frasco con cultivos fluorescentes. *"La luz del sol esconde secretos, Leo. La oscuridad los revela."*
+
+Leo abrió los ojos. El bosque exterior brillaba con luz de neón biológico que se filtraba por la entrada. Como los cultivos de Elena. Como si este mundo estuviera diseñado bajo sus reglas, no las de él.
+
+—Tenías razón —susurró—. Aquí las cosas brillan.
+
+Se llevó la mano al bolsillo de la chaqueta. Buscaba tabaco, aunque lo había dejado hacía dos años. Sus dedos tocaron algo frío y duro. Metal. La Pieza. El pisapapeles.
+
+Lo sacó. En la penumbra, el objeto parecía absorber la poca luz que había. Era negro, mate, pesado. Leo lo sostuvo en la palma de la mano. Le pesaba. Siempre le había pesado, pero ahora parecía tirar de su mano hacia abajo con una gravedad propia.
+
+—¿Qué eres? —susurró.
+
+Y entonces, vibró. No fue mucho. Un temblor. *Bzzzt.*
+
+Leo casi lo soltó del susto. Se quedó mirando el objeto. ¿Había sido su imaginación? ¿El temblor de sus propias manos?
+
+*Bzzzt. Bzzzt.*
+
+No. Vibraba. Dos pulsos cortos.
+
+Leo frunció el ceño. Sujetó la pieza con fuerza. Esperó.
+
+*Bzzzt. Bzzzt.* Pausa. *Bzzzt. Bzzzt.*
+
+Era rítmico. Mecánico.
+
+Leo giró la mano, moviendo el objeto en el aire. Cuando apuntaba hacia la pared del fondo, la vibración paraba. *Silencio.* Lo giró hacia la izquierda. *Silencio.*
+
+Lo giró hacia la derecha. Hacia la entrada.
+
+*BZZZT. BZZZT.*
+
+Más fuerte. La vibración le subió por la muñeca hasta el codo.
+
+Leo se puso de pie. Caminó hacia la entrada, con el brazo extendido como si sostuviera una varita de zahorí. La vibración se intensificó.
+Se detuvo en la boca de la cueva. Miró hacia afuera. El bosque brillaba, indiferente.
+
+Movió la Pieza en un arco de 180 grados frente al horizonte.
+Norte: Nada.
+Oeste: Nada.
+Sur: Nada.
+Este...
+
+*BZZZZZZZT.*
+
+La pieza casi se le escapa de la mano. Vibraba con furia. Continuo. Urgente.
+
+Señalaba al Este. Hacia el interior del bosque. Hacia lo más denso de la selva.
+
+Leo bajó la mano. La vibración cesó en cuanto el objeto dejó de apuntar al destino. Miró la Pieza. Luego miró el bosque oscuro.
+
+—Una brújula —murmuró—. Eres una maldita llave.
+
+Alguien le estaba llamando. O algo. La Pieza quería volver a casa. O quería llevarle a él a algún sitio.
+¿Elena? ¿Podría estar Elena al final de esa señal?
+
+Era una idea estúpida. Una esperanza de desesperado. Pero en este mundo de bioluminiscencia y huesos gigantes, la lógica de la Tierra ya no aplicaba. Si la Pieza era de aquí, y Elena la había estudiado...
+
+*Click.*
+
+El sonido vino de su derecha. Cerca. Muy cerca. Fuera de la cueva. Leo se agazapó. Guardó la Pieza en el bolsillo.
+
+*Click-click-sseeesss.*
+
+Era un sonido rápido. Articulado. Como pinzas chocando. Asomó la cabeza con cuidado, milímetro a milímetro. La vio.
+
+Estaba a cinco metros de la entrada. Era negra. Brillante. Tenía seis patas. Antenas largas que tanteaban el aire frenéticamente. Era una hormiga. Una hormiga común. Salvo por el hecho de que era del tamaño de un lobo.
+
+Leo dejó de respirar. La hormiga se movía con movimientos espasmódicos, nerviosos. Sus antenas se agitaron. Se giraron hacia la cueva. Hacia él. Le había olido.
+
+La hormiga avanzó. Hizo chasquear sus mandíbulas. Eran como tenazas hidráulicas. Podían cortarle un brazo sin esfuerzo.
+
+Leo retrocedió hacia la oscuridad. Buscó un arma. Tanteó el suelo. Sus dedos se cerraron en torno a un hueso. Parecía un fémur de algún animal mediano. Pesaba como el plomo. Fosibilizado. O muy denso. Lo agarró con las dos manos, como un bate de béisbol.
+
+—Ven —pensó. El miedo se estaba convirtiendo en otra cosa. En enfado. En esa rabia fría que le daba cuando los números no cuadraban—. Ven y verás.
+
+La hormiga llegó al a entrada. Metió la cabeza. Sus ojos multifacetados brillaron al reflejar la luz del bosque. Chilló. Un sonido agudo. *KREEEE.*
+
+Leo tensó los músculos, preparado para golpear. Pero la hormiga no atacó. Se detuvo en seco. Sus antenas vibraron violentamente. Y dio un paso atrás. Luego otro. Parecía... asustada.
+
+Se dio la vuelta y echó a correr. Desapareció en la maleza en un segundo.
+
+Leo bajó el hueso. ¿Qué? ¿Por qué huía? Él no daba miedo. Él era la presa.
+
+Entonces, el suelo tembló.
+
+*BOOM.*
+
+Polvo cayó del techo de la cueva.
+
+*BOOM.*
+
+Leo entendió. La hormiga no huía de él. Huía de lo que venía detrás.
+
+El *CRUNCH* había vuelto. Y estaba aquí. Justo encima de la cueva.
+
+Una garra negra, del tamaño de una guadaña, golpeó el borde de la entrada. La roca estalló. La bestia estaba intentando entrar. El agujero era demasiado pequeño, pero la bestia era fuerte. Muy fuerte.
+
+Leo retrocedió hasta chocar con la pared del fondo. Estaba atrapado. Ratonera. Había entrado en su propia tumba.
+
+La garra volvió a golpear. Un bloque de piedra cayó al suelo, rodando hasta los pies de Leo. La entrada se hizo medio metro más ancha. Pudo ver algo. Un ojo. Un ojo amarillo, reptiliano, vertical, mirándole a través de la brecha.
+
+La bestia rugió. El sonido fue una onda de choque física que le golpeó el pecho. Leo sintió pánico. Pánico puro, animal.
+
+Pero entonces, pasó algo.
+
+Sintió hambre. No hambre normal. Hambre dolorosa. Su estómago se contrajo violentamente, como si tuviera un calambre. Y con el dolor, vino el calor. Un fuego líquido empezó a subirle por la columna vertebral. Le quemaba.
+
+Sus músculos se tensaron. Su visión se aclaró. Podía ver las partículas de polvo flotando en el aire. Podía ver las grietas en la garra del monstruo.
+
+*Sal*, le dijo su cuerpo. *Muévete.*
+
+Leo miró hacia arriba. Había un agujero en el techo de la cueva, al fondo. Una chimenea natural, tapada por raíces. Estaba a cuatro metros de altura. Inalcanzable.
+
+—No —dijo Leo. Su voz sonó extraña, profunda.
+
+Tiró el hueso. Corrió tres pasos hacia la pared. Y saltó.
+
+No fue un salto normal. Sintió cómo sus piernas explotaban con fuerza. Como muelles liberados. Voló hacia arriba. Sus manos agarraron las raíces del techo. Se sostuvo.
+
+Miró hacia abajo. Había saltado cuatro metros en vertical.
+
+Leo se miró las manos, aferradas a la raíz. Temblaban. No de miedo. De algo parecido a la electricidad estática recorriendo sus tendones. Su cuerpo había hecho algo que su cerebro no había autorizado. Se sentía como si hubiera tocado un cable de alta tensión pelado.
+
+*Qué. Coño. Ha. Sido. Eso.*
+
+La bestia metió la cabeza en la cueva. Las mandíbulas se cerraron en el aire, donde Leo había estado hace un segundo.
+
+Leo no miró más. Tiró de sus brazos. Se izó por el agujero. Tierra, insectos, piedras le cayeron en la cara. Escaló. Frenético. Salió a la superficie.
+
+Estaba en una cornisa, encima de la entrada. Abajo, la bestia seguía destrozando la cueva, furiosa.
+
+Leo se puso de pie. Le temblaban las piernas. Le ardía el pecho como si hubiera tragado brasas. Tenía un hambre que le hacía doler la cabeza, un vacío en el estómago que le gritaba.
+
+Pero estaba vivo. Y tenía una dirección.
+
+Sacó la Pieza un segundo.
+Este.
+Vibró contra su palma.
+
+Leo corrió hacia el Este.
+
+Corrió hasta que el hambre se volvió un dolor sordo y constante en el estómago. Hasta que las piernas le pesaron como plomo. Hasta que la adrenalina se quemó y dejó solo cenizas de terror.
+
+Se detuvo un instante junto a un árbol cuyo tronco sangraba savia fosforescente. Apoyó la frente contra la corteza fría.
+
+Elena estaba en algún lugar de este mundo. Y él acababa de descubrir que podía saltar cuatro metros.
+
+Eso no eran buenas noticias. Eran las únicas noticias.
+
+Guardó la Pieza. Y siguió caminando.
+
+
+<div style="page-break-after: always;"></div>
+\newpage
+
+# CAPÍTULO 3: EL SANTUARIO DEL ANCIANO
+
+Leo no corría. Volaba.
+
+Sus pies apenas tocaban el suelo. Era una sensación borracha, salvaje.
+Un tronco caído. Leo saltó.
+No calculó el salto. Su cuerpo lo hizo solo. Se elevó dos metros en el aire, pasó por encima del obstáculo con la gracia de un gato, y aterrizó rodando para no perder velocidad.
+
+Se levantó y siguió corriendo.
+Sin pausa. Sin aliento.
+
+El bosque era un borrón a su alrededor. Los árboles pasaban como postes en una autopista.
+Atrás quedó el rugido de la bestia de la cueva. La había dejado atrás en segundos. Era más rápido que ella.
+Era más rápido que, todo.
+
+Se miró las manos mientras corría.
+Veía las venas palpitando bajo la piel. Veía cada pelo de sus nudillos.
+El mundo iba despacio.
+Él iba rápido.
+
+—Esto no es normal —jadeó.
+
+Pero no podía parar.
+Tenía un impulsor de flujo rugiendo en el pecho. Un incendio.
+Sentía cómo sus músculos ardían, pero no era dolor de fatiga. Era el dolor de una máquina trabajando por encima de sus límites.
+
+Y el hambre.
+El hambre era peor ahora.
+Ya no era un calambre. Era un vacío que le comía por dentro.
+Sentía, literalmente, cómo perdía peso.
+Los pantalones le quedaban más sueltos en la cintura que hace diez minutos.
+Su cuerpo se estaba comiendo a sí mismo para alimentar la velocidad.
+
+*«Grasa»*, analizó su cerebro. *«Primero quema la grasa. Luego el músculo. Luego los órganos.»*
+Tenía que parar. O iba a desaparecer.
+Pero la Pieza en su bolsillo seguía vibrando. *Este. Este. Este.*
+Y el miedo a lo que había dejado atrás le empujaba.
+
+Un sonido a su derecha.
+Un siseo.
+Leo giró la cabeza sin frenar.
+Una liana se descolgó de un árbol.
+No era una liana. Era una serpiente.
+Verde, gruesa como su muslo, se lanzó hacia él. Colmillos como agujas hipodérmicas.
+
+Leo la vio venir a cámara lenta.
+Vio la boca abrirse. Vio el veneno goteando.
+Se agachó.
+La serpiente pasó por encima de su cabeza, mordiendo el aire.
+Leo se impulsó con la mano en el suelo y salió disparado hacia adelante.
+
+La dejó atrás antes de que el animal tocara el suelo.
+
+—Joder —rio. Una risa histérica, sin aire.
+
+Se sentía invencible.
+Se sentía muriendo.
+Las dos cosas a la vez.
+
+El bosque empezó a cambiar.
+Los árboles se separaron. La maleza se hizo menos densa.
+La luz de neón de los hongos y las plantas empezó a desvanecerse.
+Había luz natural delante.
+Una luz dorada, suave.
+¿Amanecer? No, era diferente.
+
+Leo frenó.
+Derrapó en el barro, dejando dos surcos profundos.
+Se detuvo jadeando.
+Sus manos temblaban tanto que parecían vibrar.
+Se tocó el estómago. Le dolía. Se sentía vacío, cóncavo.
+
+Miró hacia adelante.
+El bosque terminaba.
+Había una línea clara en el suelo.
+A un lado, la selva oscura, húmeda, llena de ruidos y bioluminiscencia.
+Al otro lado, un prado.
+
+Un prado de hierba verde.
+Normal.
+Hierba cortita. Limpia.
+Brillaba bajo una luz que parecía venir de ninguna parte y de todas partes a la vez.
+Y silencio.
+
+Leo dio un paso hacia la línea.
+El silencio era absoluto.
+No había zumbido de insectos. No había crujidos de ramas.
+Era como si alguien hubiera puesto el mundo en "Modo Silencio".
+
+Un ruido a su espalda.
+Leo se giró rápido. Demasiado rápido. Casi se cae.
+Entre los árboles, en la oscuridad del bosque, vio movimiento.
+Ojos.
+Docenas de ojos.
+Hormigas gigantes. Bestias con caparazones. Sombras que reptaban.
+Estaban allí.
+Agolpadas en el límite del bosque.
+
+Pero no salían.
+Se detenían justo en la línea donde empezaba la hierba del prado.
+Una hormiga grande estiró una antena hacia el prado.
+En cuanto la antena tocó el aire del claro, la hormiga pegó un salto atrás y chilló.
+Como si hubiera tocado fuego. O electricidad.
+
+—Tienen miedo —susurró Leo.
+
+Se dio la vuelta hacia el prado.
+Si los monstruos tenían miedo de entrar aquí...
+¿Qué había aquí?
+
+Miró al centro del claro.
+Había una casa.
+Leo parpadeó. Se frotó los ojos sucios de barro.
+La casa seguía allí.
+
+No era un castillo. No era una ruina alienígena.
+Era una cabaña.
+De madera. Con un porche.
+Tenía una chimenea de ladrillo que echaba humo. Un humo gris, tranquilo.
+Había macetas con flores en las ventanas.
+Parecía la casa de campo de alguien en la Sierra.
+
+El cerebro de Leo intentó procesarlo.
+*Bosque gigante. Insectos carnívoros. Cueva de huesos.*
+*Y una casita de madera.*
+Era una disonancia cognitiva tan fuerte que le provocó un mareo. Nada de aquello tenía sentido. El mundo exterior era una pesadilla de neón y garras, y aquí, a unos metros, había una estampa de paz doméstica. Parecía un error en la lógica del universo, un parche de normalidad en un mundo que no la conocía.
+
+Dio un paso hacia el prado.
+Pisó la hierba.
+No pasó nada. No se quemó. No explotó.
+Era hierba suave. Fresca.
+
+Caminó.
+Cada paso le costaba. La energía del "fuego" se estaba apagando, dejándole solo con el agotamiento y el hambre.
+Se sentía pesado.
+Muy pesado.
+El aire aquí... pesaba.
+
+No era gravedad. Era presencia.
+Sentía una presión en el pecho, como si estuviera caminando bajo el agua.
+Cuanto más se acercaba a la casa, más densa era la presión.
+Le zumbaban los oídos.
+
+—Hola —dijo.
+Su voz no tuvo eco. El prado se tragó el sonido.
+
+Llegó a diez metros de la casa.
+Se detuvo.
+Sus piernas dijeron basta. Se le doblaron las rodillas.
+Cayó al suelo, sobre las manos y las rodillas.
+Jadeó.
+La presión era insoportable. Era como estar delante de un altavoz gigante que emitía una frecuencia que hacía vibrar sus huesos.
+
+La puerta de la cabaña se abrió.
+Leo levantó la cabeza. Le pesaba el cuello una tonelada.
+
+Salió un hombre.
+Un hombre mayor. Pelo blanco, peinado hacia atrás. Camisa remangada. Pantalones de trabajo. Sandalias.
+Parecía un jubilado en forma.
+Salió al porche con una taza de café en la mano.
+Miró a Leo.
+
+Sus ojos eran grises. Tranquilos.
+Terribles.
+Leo sintió que esos ojos le escaneaban. Le pesaban y le medían.
+Y le juzgaban.
+
+El hombre tomó un sorbo de café.
+Bajó los escalones del porche. Uno, dos, tres.
+Se acercó a Leo.
+Caminaba sin esfuerzo. La presión que aplastaba a Leo parecía no afectarle a él.
+
+Se detuvo a dos metros.
+Miró hacia el bosque, donde los monstruos se agolpaban en las sombras, observando.
+El hombre ni siquiera parpadeó ante las bestias.
+Volvió a mirar a Leo.
+
+—Estás haciendo un desastre en mi césped —dijo.
+
+Su voz era grave. Rasposa.
+Leo intentó hablar.
+—Ayuda...
+
+El hombre negó con la cabeza.
+—No necesitas ayuda. Necesitas un bocadillo. Y aprender a respirar. Te estás comiendo a ti mismo, chico. Mira tus brazos.
+
+Leo se miró los brazos.
+Estaban más delgados. Mucho más delgados que esta mañana. Los tendones marcados. La piel pegada al hueso.
+El pánico le golpeó.
+—Me muero... —susurró.
+
+El hombre se agachó. Quedó a la altura de la cara de Leo.
+Sonrió. No fue una sonrisa amable. Fue una sonrisa de lobo.
+—Todavía no. Pero estás cerca. Has entrado en el Flujo sin saber nadar. Es un milagro que no te haya estallado el corazón.
+
+El hombre extendió la mano.
+—Levanta. Si te quedas ahí tirado, la presión te va a licuar el cerebro. Tienes que entrar en la casa.
+
+Leo miró la mano.
+Miró la casa.
+Miró al hombre.
+—¿Quién...?
+
+—Luego las preguntas —cortó el hombre—. Ahora, levanta. O muere. Tú eliges.
+
+Se dio la vuelta y empezó a caminar hacia la casa.
+No esperó.
+No le ayudó.
+
+Leo apretó los dientes.
+La rabia volvió. Esa pequeña chispa de orgullo.
+*No voy a morir en el césped de este viejo.*
+Gruñó.
+Forzó a sus piernas a moverse.
+Se puso de pie, tambaleándose como un borracho.
+Dio un paso.
+La presión casi le tira.
+Dio otro.
+
+El hombre llegó al porche. Se giró.
+Le miró con una ceja levantada.
+—Bien —dijo—. Tienes agallas. Estúpidas, pero agallas.
+
+Leo llegó al primer escalón.
+Se agarró a la barandilla. La madera era real. Sólida.
+Subió.
+Cruzó el porche.
+Llegó a la puerta abierta.
+El olor que salía de dentro era increíble.
+Pan. Café. Estofado.
+
+—Entra —dijo el hombre desde dentro.
+
+Leo cruzó el umbral.
+La presión desapareció de golpe.
+El silencio cesó. Se oyó el crepitar del fuego en la chimenea.
+
+Leo dio dos pasos dentro de la sala. vio una alfombra, un sofá, estanterías llenas de libros.
+El mundo volvió a ser normal.
+Sus rodillas cedieron por fin.
+Esta vez, nadie le sostuvo.
+
+Cayó al suelo, sobre la alfombra.
+Lo último que vio antes de que se apagaran las luces fue al hombre de pelo blanco sirviendo un segundo plato de estofado.
+
+—Bienvenido a mi cabaña, chico —dijo el hombre.
+
+Y Leo se dejó ir.
+
+
+<div style="page-break-after: always;"></div>
+\newpage
+
+# CAPÍTULO 4: LA BIOLOGÍA DEL MIEDO
+
+
+
+No despertó. Fue regurgitado a la consciencia.
+
+La primera sensación no fue visual, sino un dolor que nacía en el tuétano, una acidez corrosiva que trepaba por el interior de sus fémures y estallaba en la base del cráneo. Leo boqueó, aspirando aire como un pez fuera del agua, pero sus pulmones ardían. Sentía el cuerpo extraño, ligero y pesado a la vez, como si alguien hubiera vaciado sus músculos de carne y los hubiera rellenado con plomo derretido.
+
+Intentó moverse. Un calambre, violento como una descarga eléctrica, le anudó el abdomen. Se dobló sobre sí mismo en el suelo de madera, soltando un gemido que sonó patético, animal.
+
+Tenía sed. No, no era sed. Era una sequía sistémica, la certeza biológica de que sus células se estaban arrugando como pasas. Su lengua era un trozo de cuero seco pegado al paladar.
+
+Abrió los ojos. La luz de la tarde entraba por una ventana, naranja y espesa, hiriéndole las retinas.
+
+Estaba en una cabaña. Olor a resina, a sangre vieja, a humo.
+
+Se arrastró. Sus codos raspaban la madera, pero no le importaba. Había un cubo de agua a tres metros. Tres metros que parecían un continente. Cada centímetro ganado le costaba un latido agónico de su corazón, que percutía contra sus costillas con un ritmo arrítmico, enfermo. *Tum-tum... pausa... tum*.
+
+—Si bebes rápido, te estallará el estómago.
+
+La voz detuvo a Leo en seco.
+
+No la había oído. No la había sentido. Giró la cabeza, el cuello crujiendo como gravilla.
+
+En una silla de madera tosca, había un hombre.
+
+Era anciano, o quizás solo antiguo. Tenía el pelo blanco recogido en una coleta descuidada y barba de varios días. Llevaba una camisa remangada que dejaba ver unos antebrazos fibrosos, llenos de cicatrices blancas que parecían mapas de ríos secos. Limpiaba un cuchillo de hoja ancha con un trapo aceitoso.
+
+No miraba a Leo. Ni siquiera parecía registrarlo como una amenaza.
+
+Pero Leo sintió el terror.
+
+Fue un instinto primario, reptiliano. El aire alrededor del anciano pesaba. No era magia; era la presión biológica que ejerce un depredador alfa sobre una presa herida. Leo se quedó paralizado, con la mano extendida hacia el cubo, temblando no por el esfuerzo, sino porque cada nervio de su cuerpo le gritaba que hacerse el muerto era la única opción.
+
+El hombre dejó el cuchillo sobre la mesa. *Clanc*. El sonido fue ensordecedor en el silencio de la cabaña.
+
+Pateó un cuenco de madera hacia Leo. Contenía sobras. Carne fibrosa, grisácea, y un poco de caldo frío.
+
+—Come. O tu cuerpo empezará a digerir tus propios órganos en diez minutos.
+
+Leo no preguntó. No pensó. El "yo" racional, el estudiante de arquitectura, desapareció. Solo quedó el hambre.
+
+Se abalanzó sobre el cuenco. Comió con las manos, desgarrando la carne dura con los dientes, tragando sin masticar, atragantándose, gimiendo mientras el alimento caía en su estómago vacío y provocaba espasmos de dolor y placer. Bebió el caldo lamiendo la madera. Era una imagen denigrante, pero la dignidad no existía allí. Solo la biología reclamando su deuda.
+
+
+
+Cuando el hambre retrocedió lo suficiente para dejar paso a la vergüenza, Leo se limpió la boca con el dorso de la mano. Jadeaba. El dolor muscular seguía allí, un latido sordo y constante, pero la inminencia de la muerte se había alejado un grado.
+
+Miró al anciano. Seguía allí, inmóvil, observándolo. Sus ojos eran oscuros, ilegibles. No había compasión en ellos. Ni curiosidad. Solo la fría evaluación de quien mira una herramienta rota.
+
+Sobre la mesa, entre el cuchillo y una lámpara de aceite apagada, estaba el poliedro negro. La Pieza.
+
+—Esa cosa... —empezó Leo. Su voz era un graznido ronco.
+
+El anciano desvió la mirada hacia el objeto. Lo empujó con la punta del cuchillo, con desdén, como quien aparta un insecto muerto. El poliedro rodó una vuelta, inerte. Sin brillo. Sin vibración. Un simple pisapapeles de obsidiana.
+
+Leo esperaba una pregunta. "¿Qué es?", "¿De dónde la sacaste?".
+
+Nada.
+
+—Me salvó —insistió Leo, necesitando romper aquel silencio que lo asfixiaba—. En el bosque. Me dio... fuerza.
+
+El anciano soltó una exhalación corta por la nariz. No fue una risa. Fue peor.
+
+—Te dio crédito —dijo el hombre. Su voz tenía la textura de la grava—. Y ahora el banco ha venido a cobrar. —Señaló el cuerpo tembloroso de Leo con la barbilla—. Mírate. Eres un saco de tendones rotos y ácido láctico. Has encendido una hoguera para leer un libro y has quemado la biblioteca entera.
+
+—Busco a alguien —Leo intentó incorporarse, buscando recuperar algo de autoridad. Fue inútil; terminó sentado, abrazándose las rodillas para no caer—. Una chica. Elena.
+
+El nombre quedó flotando en el aire viciado de la cabaña. El anciano no parpadeó.
+
+—No me importa lo que busques.
+
+—Pero usted... usted vive aquí. Debe saber...
+
+El hombre se levantó. El movimiento fue tan fluido que pareció líquido. De repente, la cabaña pareció encogerse. El anciano no era gigante, pero su presencia llenaba el espacio, desplazando el aire, desplazando a Leo.
+
+Caminó hasta Leo y lo miró desde arriba. Leo se encogió, esperando un golpe.
+
+—Haces ruido —dijo el anciano. No gritaba, pero cada palabra era un martillazo—. Respiras con ruido. Te mueves con ruido. Piensas con ruido. Hueles a miedo y a sudor de ciudad. Eres una campana repicando en un cementerio.
+
+El anciano se agachó. Su rostro, surcado de arrugas profundas como cañones, quedó a centímetros del de Leo.
+
+—Esa baratija —señaló la Pieza sin mirarla— no sirve de nada si el portador es carne de cañón.
+
+
+
+La luz naranja de la ventana viró al violeta. El crepúsculo.
+
+El cambio en la atmósfera fue instantáneo. Los pájaros callaron fuera. Y entonces, empezó el otro sonido. Un zumbido grave, tectónico, que venía del suelo. El crujido de ramas que no deberían moverse. El bosque estaba despertando.
+
+Leo sintió un alivio instintivo al estar bajo techo. Cuatro paredes. Seguridad.
+
+El anciano caminó hacia la puerta. Abrió el pestillo.
+
+—Fuera.
+
+Leo parpadeó, confundido.
+
+—¿Qué?
+
+—Fuera —repitió el anciano. Abrió la puerta de par en par.
+
+La humedad de la selva entró de golpe, cargada de olores dulzones y podredumbre. El frío de la noche lamió la cara de Leo.
+
+—No... no puedo —balbuceó Leo, el pánico trepándole por a garganta—. No puedo moverme. Apenas puedo andar. Moriré ahí fuera.
+
+—Correcto —dijo el anciano.
+
+Antes de que Leo pudiera procesarlo, el hombre lo agarró por el cuello de la camiseta. Con una fuerza absurda, imposible para sus brazos delgados, levantó a Leo en vilo como si fuera un muñeco de trapo.
+
+Leo pataleó, gritó, se agarró al marco de la puerta. Sus dedos se clavaron en la madera.
+
+—¡Espera! ¡Por favor! ¡Enséñeme! —suplicó, perdiendo toda vergüenza—. ¡Enséñeme a no hacer ruido!
+
+El anciano lo arrancó del marco con un tirón seco. Los dedos de Leo resbalaron.
+
+—Lección uno —dijo el anciano, mirándolo a los ojos con esa frialdad abisal—. La noche es para los que saben estar callados.
+
+Lo lanzó. Leo voló un par de metros y aterrizó pesadamente sobre la tierra húmeda del porche, rodando hasta caer los escalones de madera y aterrizar en la hierba alta. El impacto le sacó el aire y reactivó todos los calambres de su cuerpo.
+
+Se giró, aterrorizado, mirando hacia la puerta iluminada. La silueta del anciano se recortaba contra la luz cálida del interior.
+
+—Si sobrevives hasta el amanecer, quizás te deje entrar a barrer el suelo.
+
+—¡No! ¡No cierre!
+
+La puerta se cerró. El sonido del cerrojo deslizándose fue definitivo.
+
+La luz de la ventana se apagó un segundo después.
+
+Leo se quedó solo.
+
+La oscuridad no era negra; era una masa de sombras azules y grises que se movían. Y el sonido... era abrumador. Crujidos de madera que sonaban como huesos partiéndose. Un aleteo pesado, correoso, pasó por encima de su cabeza, desplazando aire caliente. Algo inmenso se movía entre los árboles, a lo lejos, haciendo temblar el suelo bajo su pecho pegado a la tierra.
+
+Estaba fuera. Totalmente expuesto.
+
+
+
+El miedo no es una emoción. Leo lo descubrió en ese instante. El miedo es una reacción química, un vertido tóxico de adrenalina que inunda el torrente sanguíneo con una única orden: *muévete*.
+
+Su cuerpo quería correr. Cada fibra muscular, aunque rota y agotada, vibraba con la necesidad de estallar en movimiento. Quería golpear la puerta, gritar, encender el Flujo para desgarrar la realidad y escapar de la negrura opresiva que se cernía sobre el prado.
+
+Pero no podía.
+
+Algo salió de la linde del bosque.
+
+No hizo ruido al pisar. Y eso fue lo más aterrador. Una criatura de ese tamaño —la masa oscura que bloqueó las estrellas debía tener la altura de un elefante y la longitud de un tren de mercancías— no debería poder moverse en silencio. Pero lo hacía. Se deslizaba sobre el prado como una mancha de aceite.
+
+Leo se apretó contra la tierra húmeda, escondido apenas por la hierba alta que le llegaba al mentón. El olor le llegó primero: amoníaco y almizcle rancio. Olor a cueva profunda.
+
+La bestia se detuvo a veinte metros de la cabaña.
+
+Leo aguantó la respiración hasta que los pulmones le ardieron. Pudo verla mejor gracias a la tenue luz de las lunas gemelas que se filtraban entre las nubes. No tenía ojos. Su cabeza era un bulbo liso, quitinoso, del que brotaban docenas de filamentos que ondeaban en el aire como algas en una corriente marina.
+
+*Sensores*, pensó Leo, y el pensamiento fue un grito en su mente analítica. *No ve. Huele. O siente la temperatura. O...*
+
+Siente la energía.
+
+Los filamentos de la bestia se orientaron hacia el oeste, luego hacia el norte. Barriendo. Buscando.
+
+Leo sintió una punzada de pánico tan aguda que casi se orina encima. Su corazón martilleaba contra sus costillas como un pájaro atrapado. *Tum-tum. Tum-tum.* Le pareció el sonido más fuerte del universo. La bestia giró su cabeza bulbosa. Los filamentos apuntaron, tremolando, hacia la posición de Leo.
+
+*Me oye. O me siente.*
+
+La adrenalina se disparó. El Flujo, esa energía latente que dormía bajo su piel, reaccionó al miedo. Leo sintió el calor familiar, el "encendido" de sus impulsores de flujo biológicos. Si activaba el Flujo, podría correr. Podría intentar llegar a los árboles.
+
+*«Encendiste una bengala en una habitación oscura»*. La voz del anciano resonó en su memoria, seca y cortante.
+
+Si usaba el Flujo ahora, sería un faro. Esa cosa no lo estaba buscando con los ojos; estaba buscando una firma de calor, una vibración vital.
+
+La bestia avanzó un paso. Una pata terminada en tres garras se hundió en el barro con un sonido de succión húmeda. Diez metros.
+
+La muerte no era algo abstracto. Era esa cosa olisqueando el aire, buscando una excusa para matar.
+
+Leo cerró los ojos y, en lugar de empujar hacia fuera, empujó hacia dentro.
+
+No sabía cómo hacerlo. No había manual de instrucciones. Solo tenía la desesperación. Imaginó su corazón como un impulsor de flujo que se desacelera. Imaginó el calor de sus venas enfriándose, volviéndose hielo, volviéndose piedra. Apretó los dientes hasta que la mandíbula le dolió, luchando contra su propio instinto de supervivencia que le gritaba que corriera.
+
+*Apágate. Apágate. Eres una piedra. Eres barro. No existes.*
+
+El dolor de los músculos desgarrados le ayudó. Se concentró en ese dolor, usándolo como un ancla para no pensar en el monstruo. Dejó de respirar. Dejó de tensar los músculos listos para la huida. Se rindió a la gravedad. Se convirtió en un cadáver antes de morir.
+
+La bestia estaba encima de él.
+
+Leo sintió el calor que emanaba de su cuerpo, un vaho caliente y fétido. Un filamento, grueso como una cuerda de piano, rozó su hombro.
+
+Leo no se movió. Ni un espasmo. Su mente estaba en blanco, un vacío aterrorizado y absoluto. Había logrado, por pura coerción mental, que su presencia biológica se redujera al mínimo indispensable para no entrar en parada cardíaca.
+
+La criatura soltó un resoplido brumoso sobre él. La baba goteó a escasos centímetros de su cara.
+
+Fueron cinco segundos que duraron una eternidad en silencio.
+
+Luego, la bestia se giró. Sus filamentos habían captado algo más interesante, tal vez un roedor en la linde del bosque, o simplemente el rastro de una presa anterior. Con un movimiento sinuoso, la inmensa mole de quitina y músculo se alejó hacia la oscuridad de los árboles, desapareciendo tan silenciosamente como había llegado.
+
+Leo no se movió hasta que el amanecer tiñó el cielo de un gris plomizo.
+
+Cuando la puerta de la cabaña se abrió, horas después, Leo seguía allí, ovillado en la hierba, cubierto de rocío, lívido y temblando de hipotermia.
+
+El anciano salió al porche con una taza de algo humeante en la mano. Miró alrededor, oteando el prado, hasta que su vista se posó en el bulto miserable que era Leo.
+
+Se acercó a él. Leo no se movió, demasiado entumecido para reaccionar.
+
+—Era un Clase C —dijo el anciano, señalando las huellas que la bestia había dejado en el barro—. Un "Rompemuros". Ciego pero sísmico. Si te hubiera olido, habría convertido este porche en astillas para sacarte.
+
+Leo levantó la vista, los dientes castañeteando.
+
+—¿Clase... C?
+
+—Clasificación básica de amenaza. —El anciano tomó un sorbo de su bebida—. D es fauna, comida o molestia. Se mata con plomo. C es demolición, se mata con explosivos. B es desastre natural... eso se evita. Y tú —le dio un puntapié suave en la bota—, tú eres comida para gusanos si sigues temblando así.
+
+No sonrió, pero asintió una vez, levemente.
+
+—Puedes barrer el suelo —dijo finalmente.
+
+Y dejó la puerta abierta.
+
+
+<div style="page-break-after: always;"></div>
+\newpage
+
+# CAPÍTULO 5: CAZADOR Y PRESA
+
+Leo llevaba tres días barriendo polvo que no existía. Y cada mañana, hacía la misma pregunta.
+
+—¿Cuándo puedo irme?
+
+El anciano ni siquiera levantaba la vista de su trabajo.
+
+—Cuando no seas un cadáver andante.
+
+La cabaña del anciano era un monumento a la austeridad espartana, pero estaba impoluta. Aun así, cada mañana al amanecer, el hombre señalaba la escoba de ramas secas y Leo obedecía. Odiaba cada segundo. Cada golpe de escoba era un segundo que Elena estaba más lejos, más perdida, más en peligro.
+
+*Tres días.* Setenta y dos horas de gachas insípidas, silencio y frustración. Leo sentía que se le escapaba el tiempo entre los dedos como arena.
+
+El anciano apenas hablaba. Se pasaba las horas en el porche, afilando sus herramientas o simplemente mirando la línea donde el prado se encontraba con la selva titánica. A veces, Leo lo sorprendía observando el horizonte con una intensidad que daba escalofríos, como si estuviera esperando una invasión.
+
+Leo, por su parte, sobrevivía a base de gachas. Un engrudo grisáceo, insípido y grumoso que el anciano cocinaba en un caldero de hierro cada noche.
+
+Al cuarto día, la biología reclamó su parte.
+
+Leo estaba en el porche, terminando su cuenco de engrudo mañanero. Su estómago rugió. No fue un sonido discreto; fue un gemido de tripas vacías que resonó en la madera.
+
+El anciano, sentado en su mecedora con un plato de estofado humeante —carne de verdad, con verduras que olían a gloria—, detuvo la cuchara a medio camino.
+
+—Tu biología es ruidosa —dijo sin mirarlo.
+
+Leo apretó la cuchara de madera hasta que sus nudillos se pusieron blancos. El olor de la carne del anciano le estaba volviendo loco. Sentía una salivación agresiva, casi dolorosa.
+
+—Tengo hambre —dijo Leo. Su voz sonó más áspera de lo que pretendía—. Hambre de verdad. Esa pasta... eso no alimenta. Me siento débil.
+
+El anciano masticó con lentitud exasperante. Tragó.
+
+—Esa pasta mantiene tus órganos funcionando sin encender tu horno interno. Es combustible de bajo octanaje. Seguro.
+
+—Necesito proteínas —insistió Leo. Se puso de pie, mareado por el movimiento brusco—. Si quiere que barra, necesito fuerza. Si quiere que aprenda, necesito fuerza.
+
+El anciano dejó el plato en el suelo. Se limpió la boca con el dorso de la mano y miró a Leo con esos ojos grises que parecían medir la distancia hasta la yugular.
+
+—¿Quieres fuerza? —preguntó voz baja.
+
+—Quiero comer.
+
+El anciano se inclinó hacia un lado de la mecedora. Agarró algo que estaba apoyado contra la pared y lo lanzó.
+
+Leo lo atrapó por reflejo. Era una vara de madera oscura, flexible pero dura como el acero, con una punta de piedra afilada atada con tendones. Una lanza primitiva.
+
+—La comida está ahí fuera —dijo el anciano, señalando con la barbilla hacia la muralla verde de árboles gigantes—. Si tienes hambre, caza.
+
+Leo miró la lanza. Pesaba más de lo que aparentaba. Miró al bosque. A plena luz del día, bajo el sol filtrado, parecía menos hostil que de noche. Pero Leo sabía lo que vivía ahí.
+
+—¿Qué... qué tengo que cazar? —preguntó, intentando que no le temblara la voz.
+
+—Algo que no te mate primero —respondió el anciano, volviendo a su estofado—. Tráeme un Saltador. O un Ciempiés de Corteza. Tienen buena carne.
+
+Leo asintió. Dio un paso hacia la escalera.
+
+—Chico.
+
+Leo se detuvo.
+
+—Regla única —dijo el anciano. Su tono se endureció, perdiendo cualquier rastro de burla—. No despiertes al bosque. Si usas fuerza bruta, mueres. Si haces ruido, mueres. Caza como un fantasma, no como un soldado.
+
+Leo tragó saliva. Asintió de nuevo y bajó los escalones.
+
+Al cruzar la línea invisible del prado, la presión en sus oídos volvió. El zumbido de la selva llenó su cabeza.
+
+Estaba solo. O mejor dicho, estaba acompañado por mil millones de cosas que querían comerle.
+
+***
+
+El bosque olía a vida fermentada. Era un olor denso, dulce y metálico, una mezcla de flores del tamaño de paraguas y abono milenario.
+
+Leo caminaba despacio. Recordaba la lección de la primera noche: *Quietud*. Intentaba pisar donde hubiera musgo, evitando las ramas secas. Mantuvo su respiración baja, superficial.
+
+Se sentía ridículamente pequeño.
+
+No era una cuestión de tamaño físico —él seguía midiendo un metro ochenta—, sino de escala biológica. Estaba caminando entre las raíces de un árbol cuyo tronco tenía el diámetro de una plaza de toros. Las cortezas eran acantilados rugosos donde crecían ecosistemas enteros de hongos y helechos. Mirar hacia arriba daba vértigo; las copas se perdían en una bruma verdosa a cientos de metros de altura.
+
+*Esto no es un bosque*, pensó Leo, sintiendo un escalofrío. *Es una catedral construida por dioses para titanes.*
+
+Un crujido a su izquierda le hizo congelarse.
+
+Se pegó a la raíz gigante. Su corazón empezó a acelerarse. *Contrólate. Apágate.*
+
+Cerró los ojos un segundo. Una imagen le asaltó la mente. Elena. Estaban en una terraza en el centro, hacía dos veranos. Hacía calor, el ruido del tráfico era ensordecedor, y ella se reía mientras se abanicaba con una servilleta.
+
+*"Eres demasiado intenso, Leo. Siempre analizando. A veces solo tienes que dejarte llevar."*
+
+El recuerdo del olor a vainilla de su perfume chocó violentamente con el hedor a moho del bosque. Leo abrió los ojos. La nostalgia dolía más que el hambre.
+
+*Céntrate. Ella no está aquí. Tú sí.*
+
+Se asomó por el borde de la raíz.
+
+Ahí estaba.
+
+A veinte metros, pastando sobre un lecho de hongos luminiscentes.
+
+No era un Saltador. Era lo que el anciano había llamado un Ciempiés de Corteza. Pero el nombre no le hacía justicia.
+
+Era una monstruosidad blindada de tres metros de largo. Su cuerpo estaba segmentado por placas de quitina de un color marrón oxidado, gruesas como escudos antidisturbios. Tenía docenas de patas cortas y ganchudas que se aferraban a la madera podrida mientras sus mandíbulas trituraban un hongo del tamaño de una mesa de camilla.
+
+Era herbívoro. Pero Leo vio las puyas defensivas en su cola. Y esas mandíbulas podían arrancar una pierna humana de cuajo.
+
+Leo apretó la lanza. Sus manos sudaban.
+
+*Analiza*, se ordenó.
+
+El bicho era lento mientras comía. Su punto ciego estaba detrás de la cabeza, donde las placas del cuello se superponían. Si lograba acercarse lo suficiente...
+
+Dio un paso. El musgo amortiguó el sonido.
+
+Otro paso.
+
+El ciempiés se detuvo. Sus antenas vibraron. ¿Lo había oído?
+
+Leo usó la **Sincronía**. No sabía que se llamaba así, pero instintivamente "abrió" sus sentidos. Dejó que el Flujo latente en su sangre conectara con el entorno.
+
+De repente, el mundo se volvió más nítido. Podía oír el flujo de la savia en los árboles. Podía sentir la vibración de las patas del ciempiés contra el suelo. Notó cómo el peso de la bestia se desplazaba milimétricamente hacia el costado derecho, clavando las garras traseras para pivotar. No veía el futuro, pero su percepción acelerada leía la intención muscular antes de que se convirtiera en movimiento.
+
+El ciempiés giró a la izquierda.
+
+Leo aprovechó el movimiento para avanzar cinco metros en un sprint silencioso. Se ocultó detrás de un helecho.
+
+Estaba cerca. Diez metros.
+
+La lanza en su mano le pareció un palillo de dientes. Necesitaba fuerza. Necesitaba penetrar ese caparazón.
+
+Sintió la tentación. El Flujo estaba ahí, esperando, como un impulsor de flujo al ralentí. Si pisaba el acelerador... si dejaba que la energía inundara sus músculos... podría atravesar a esa bestia como si fuera de papel.
+
+*«Si usas fuerza bruta, mueres.»*
+
+La advertencia del anciano resonó en su cabeza.
+
+*Al diablo con el viejo. Tengo hambre.*
+
+Leo salió de su escondite.
+
+El ciempiés reaccionó al instante. Se irguió sobre sus patas traseras, siseando, mostrando un vientre lleno de patas que se movían frenéticamente.
+
+Leo gritó. Fue un grito de guerra estúpido, humano.
+
+Encendió el impulsor de flujo.
+
+El calor estalló en sus venas. El mundo se ralentizó. Leo vio el hueco entre las placas del cuello. Saltó. Esta vez fue más fácil, como si su cuerpo recordara. Se lanzó en diagonal como un resorte liberado, cubriendo la distancia en una fracción de segundo.
+
+Clavó la lanza.
+
+El impacto fue brutal. La punta de piedra, impulsada por una fuerza sobrenatural, atravesó la quitina, la carne y salió por el otro lado. El ciempiés emitió un chillido agudo, un sonido chirriante que rasgó el silencio del bosque.
+
+La bestia se convulsó y cayó muerta.
+
+Victoria.
+
+Leo aterrizó sobre el cadáver, jadeando. Sonreía. Lo había hecho. Había usado el poder y había ganado.
+
+Entonces, el precio llegó.
+
+No empezó con dolor. Empezó con frío. Un frío absoluto que nació en su estómago y se extendió hacia fuera. Sus piernas fallaron. Cayó de rodillas junto al bicho muerto.
+
+—Ahhh... —gimió.
+
+Luego vinieron los calambres. Sus músculos abdominales se contrajeron tan fuerte que sintió que se le partían las costillas. Vómito. Bilis ácida y caliente en el suelo del bosque.
+
+Su visión se fragmentó. No veía el bosque; veía manchas de colores, estática biológica. Su cerebro no recibía suficiente glucosa.
+
+Y entonces, lo oyó.
+
+No el silencio.
+
+Aleteos.
+
+Algo grande había escuchado el chillido del ciempiés. O había olido el estallido de energía de Leo.
+
+Una sombra pasó por encima de la copa de los árboles, tapando el sol filtrado. El viento que levantó sus alas movió las ramas gigantes a cien metros de altura.
+
+Leo estaba paralizado, ciego de dolor y expuesto junto a un cadáver sangriento.
+
+*Muévete*, le gritó su instinto. *Escóndete.*
+
+Se arrastró. No podía andar. Se metió bajo el cuerpo del ciempiés muerto, cubriéndose con su olor a icor y almizcle.
+
+Se quedó allí, temblando, con el sabor de la bilis en la boca, mientras algo inmenso, algo que hacía que el suelo retumbara al aterrizar, bajaba a investigar el ruido.
+
+No vio a la criatura. No quería verla. Solo sintió la vibración de sus pasos, el desplazamiento de aire caliente con olor a carroña. Escuchó el crujido húmedo de la quitina partiéndose. Mandíbulas. Masticación. El cadáver sobre él se sacudía con cada bocado que la cosa arrancaba del otro extremo.
+
+Leo apretó los dientes hasta que le dolió la mandíbula. No gritó. No se movió. Contó los latidos de su corazón porque era lo único que podía controlar.
+
+Doscientos doce latidos después, el viento cambió. Un batir de alas. Silencio.
+
+Esperó otros cien latidos antes de asomar la cabeza.
+
+La cosa se había ido. Se había llevado la mitad trasera del ciempiés, arrancada limpiamente a la altura del décimo segmento. Lo que quedaba era un muñón de carne expuesta y fluidos viscosos.
+
+***
+
+El camino de vuelta fue una tortura.
+
+Leo tardó tres horas en recorrer doscientos metros. Arrastraba lo que quedaba del ciempiés, la mitad delantera con la cabeza y las mandíbulas aún intactas.
+
+Llegó al prado al atardecer.
+
+Estaba cubierto de barro, sangre de insecto y su propio vómito. Le sangraba la nariz, un hilo rojo constante que manchaba su camiseta.
+
+El anciano estaba en el porche. Esperando.
+
+Leo soltó la presa al pie de la escalera. El trozo de ciempiés cayó con un golpe húmedo.
+
+Leo se apoyó en sus rodillas, intentando no desmayarse. Esperaba un "bien hecho". Esperaba un "ahora comes".
+
+El anciano bajó las escaleras. Miró el cadáver del ciempiés. Miró el agujero destrozado en el cuello, las fracturas en el caparazón causadas por el exceso de fuerza.
+
+Luego miró a Leo. A su nariz sangrando. A sus temblores.
+
+—Has hecho ruido —dijo el anciano.
+
+Pateó el cadáver.
+
+—Has matado como un carnicero asustado. Has usado tanta energía en un solo golpe que podrías haber iluminado una ciudad. Y por eso estás medio muerto.
+
+El anciano se agachó y arrancó una pata del ciempiés con un crujido seco.
+
+—Has tenido suerte. Lo que bajó a mirar... si hubiera tenido hambre, ahora serías tú el que estaría en el suelo a trozos.
+
+El anciano cargó el resto del ciempiés al hombro sin esfuerzo aparente. Subió las escaleras.
+
+—Límpiate —ordenó sin mirar atrás—. Apestas a miedo y a ozono. Cocinaré esto. Pero la carne te va a saber a ceniza.
+
+Se detuvo en el umbral de la puerta. Miró hacia atrás, con esos ojos grises que parecían evaluar si Leo merecía la información.
+
+—Mason —dijo finalmente—. Me llamo Mason. Si vas a morir entrenando conmigo, al menos deberías saber a quién maldecir cuando te estés desangrando.
+
+La puerta se cerró detrás de él.
+
+***
+
+Esa noche, junto al fuego, Mason no le dejó comer hasta que Leo limpió y vendó sus heridas. Luego, mientras la carne del ciempiés se asaba, el anciano rompió el silencio.
+
+—¿De dónde crees que vienes, chico?
+
+Leo miró las llamas. La pregunta era simple, pero la respuesta se le atragantaba.
+
+—De casa —murmuró—. De una ciudad normal. Con coches, edificios de cristal y lluvia gris.
+
+Mason resopló, pero no con burla, sino con curiosidad.
+
+—¿Y cómo saliste?
+
+—No lo sé —admitió Leo—. Hubo un accidente. Mi coche... luego desperté en un claro. Había un árbol inmenso. Un roble que parecía tocar el cielo. Tenía una grieta en el tronco que brillaba.
+
+Mason dejó de comer. Se quedó mirando a Leo con una intensidad nueva.
+
+—Un Roble Blanco —murmuró el anciano—. Hace años que no se veía uno activo.
+
+—¿Sabes qué es?
+
+—Sé lo que significa —dijo Mason—. Significa que vienes de lo que aquí llamamos "La Reserva".
+
+—¿La Reserva?
+
+—Así es como la gente de Extramuros llama a tu mundo. —Mason señaló con el cuchillo hacia la oscuridad del bosque—. Para ti, eso es todo lo que existe. Para nosotros... es solo un lugar del que algunos caen de vez en cuando.
+
+Leo esperó a que dijera más. A que explicara qué era esa Reserva, por qué estaba separada, y cómo se conectaba con este mundo. Pero Mason volvió a cortar carne, dando el tema por zanjado.
+
+—Tú eres un Clase D, Leo. Comida. Ese ciempiés era un Clase D alto. Lo mataste de suerte.
+
+—¿Hay algo peor?
+
+Mason soltó una risa seca.
+
+—Clase C son los Rompemuros. Bestias que pueden tirar abajo un edificio. Clase B son Desastres Naturales con patas. Clase A... reza para no ver nunca uno. Y luego están los Titanes. El suelo que pisas, la ciudad a la que vas... todo está construido sobre cadáveres de cosas que desafiaban a Dios.
+
+Leo tragó saliva. La carne le supo a ceniza.
+
+—¿Por qué me cuentas esto ahora?
+
+—Porque hoy has despertado tu Flujo —dijo Mason, mirándole a los ojos—. Y un usuario de Flujo ignorante es una bomba de relojería. Si vas a buscar a esa chica, necesitas saber que no estás caminando por un bosque mágico. Estás caminando por la cadena alimenticia más brutal del universo. Y tú estás en la base.
+
+—Come. Mañana aprenderás a esconderte de lo que no puedes matar. Que es casi todo.
+
+Leo se quedó solo en la hierba.
+
+Mason tenía razón. Había ganado la pelea, pero había perdido contra sí mismo.
+
+Miró sus manos. Aún temblaban.
+
+No era un cazador. Todavía era una presa con suerte.
+
+Y Mason, al parecer, estaba de acuerdo.
+
+Durante los siguientes seis días, el anciano no le dejó salir del prado. Leo aprendió a medir su Flujo como se mide el aceite de una lámpara: gota a gota. Aprendió que la Quietud no era solo un truco para esconderse, sino un estado de supervivencia. Aprendió a cazar sin usar fuerza bruta, a clavar una lanza en la articulación correcta, a leer los signos del bosque antes de que se convirtieran en peligros.
+
+Y cada noche, mientras masticaba carne dura junto al fuego, Leo pensaba en Elena. En cada día que pasaba sin buscarla. En el tiempo que se le escapaba entre los dedos.
+
+Al décimo día, Mason le tendió una mochila.
+
+—No estás listo —dijo el anciano—. Pero ya no puedo retenerte. Sal mañana al amanecer.
+
+
+<div style="page-break-after: always;"></div>
+\newpage
+
+# CAPÍTULO 6: LA SALIDA
+
+La última mañana en la cabaña no olía a despedida. Olía a grasa animal y a cuero recién curtido.
+
+Leo despertó antes que el sol. El hábito de los últimos diez días había recableado su reloj interno. Ya no necesitaba despertador; el cambio en la densidad del aire, ese momento en que la humedad de la noche empezaba a evaporarse, era suficiente para abrirle los ojos.
+
+*Diez días.* Una eternidad cuando cada segundo que pasaba, Elena estaba más lejos.
+
+Se incorporó en su jergón. Sus músculos protestaron, pero ya no era el grito agónico de los primeros días. Ahora era un dolor sordo, familiar, el tipo de dolor que te recuerda que estás vivo y que tu cuerpo se está endureciendo.
+
+El Maestro estaba en la mesa central, rodeado de objetos que parecían sacados de un museo de historia natural, si el museo estuviera dedicado a una era que nunca existió.
+
+—Siéntate —dijo Mason sin levantar la vista. Estaba terminando de coser una correa con una aguja de hueso.
+
+Leo obedeció. Observó los objetos diseminados sobre la madera.
+
+—No vas a ir a un desfile —gruñó el Maestro, notando su mirada—. Vas a Puerto Raíz. Y para llegar allí, tienes que cruzar treinta kilómetros de Zona 1. Y para cruzar treinta kilómetros de Zona 1 sin que te coman, necesitas parecerte menos a un turista y más a... esto.
+
+Empujó los objetos hacia Leo.
+
+Había una mochila. No era de nylon ni Gore-Tex. Era de una piel oscura, gruesa y rugosa al tacto, casi como lija. Las costuras estaban reforzadas con tendones secos y selladas con resina.
+
+—Piel de Cavador —explicó el Maestro—. Impermeable. Resistente a la abrasión. Si te muerde algo pequeño, se romperá los dientes antes de llegar a tus provisiones.
+
+Leo pasó la mano por el material. Era pesado, pero flexible.
+
+—Esto huele... fuerte —dijo Leo.
+
+—Huele a bestia muerta. Eso es bueno. Camufla tu olor a jabón y miedo.
+
+El Maestro señaló el siguiente objeto: una cantimplora hecha de una vejiga tratada, con un tapón de corcho ennegrecido.
+
+—Agua. Dos litros. Llénala solo en corrientes rápidas. Si el agua está estancada, mueres. Si el agua brilla, mueres. Si ves animales bebiendo y no caen muertos, espera diez minutos. Si siguen vivos, entonces bebes tú.
+
+Leo asintió, grabando las reglas a fuego en su mente.
+
+—Y esto.
+
+Mason desplegó un trozo de pergamino sobre la mesa. No era papel; era piel fina, translúcida, marcada con líneas quemadas a fuego.
+
+Era un mapa. O algo parecido.
+
+—Nosotros estamos aquí —el dedo calloso del Maestro señaló un punto en el borde izquierdo—. Puerto Raíz está aquí —señaló una mancha oscura al este, cerca de lo que parecía la osamenta de un animal gigantesco dibujada en tinta roja.
+
+—Parece cerca —murmuró Leo.
+
+El Maestro soltó una risa seca, un sonido que sonó como ramas partiéndose.
+
+—Treinta kilómetros en línea recta. Pero aquí no existen las líneas rectas, chico. La geografía respira.
+
+El dedo de Mason trazó una ruta sinuosa, evitando grandes áreas sombreadas.
+
+—Evita los Bajos del Musgo. El aire ahí pesa y te duerme. Evita el Nido de las Avispas-Reina; no podrás usar Quietud contra ellas porque te detectan por vibración, no por presencia. Si escuchas un zumbido grave, corre hacia el agua.
+
+—¿Y esto? —Leo señaló una línea roja que cortaba el camino a mitad de trayecto.
+
+—Un antiguo cortafuegos del Concordato. Ahora es territorio de nadie. Es la frontera psicológica. Una vez lo cruces, estás en la zona de influencia de la ciudad.
+
+El Maestro enrolló el mapa y se lo tendió. Luego, sacó dos últimos objetos de debajo de la mesa.
+
+Un frasco de vidrio grueso, lleno de un líquido viscoso de color azul pálido que emitía una luz tenue. Y un cuchillo.
+
+—Luz fría —dijo, señalando el frasco—. Bioluminiscencia extraída de hongos de cueva. Si necesitas luz de noche, usa esto. No hace calor, no hace humo. No atrae a los térmicos.
+
+Luego le dio el cuchillo.
+
+Leo lo cogió con reverencia. No era de metal. La hoja, de unos veinte centímetros, era de un material blanco, denso y pulido, con un filo que parecía capaz de cortar el aire. La empuñadura estaba envuelta en cuero.
+
+—Hueso de fémur de un Titan menor —dijo el Maestro—. Más duro que el acero, pero no se oxida y no refleja la luz. Cuídalo. Es la única garra que tienes.
+
+Leo enfundó el cuchillo en la trabilla de su cinturón. Se colgó la mochila. El peso le asentó los pies en el suelo. Se sintió transformado. Ya no era el náufrago con ropa de oficina destrozada.
+
+—Gracias —dijo Leo.
+
+El Maestro se levantó y caminó hacia la puerta. La abrió.
+
+La luz de la mañana inundó la cabaña, acompañada por el coro de insectos y pájaros titánicos.
+
+—No me des las gracias —dijo Mason de espaldas—. Te estoy dando herramientas para prolongar tu agonía. Puerto Raíz... ese lugar te masticará de formas que la selva no sabe.
+
+Se giró para mirar a Leo una última vez. Su expresión era ilegible, ocultos sus ojos bajo las cejas pobladas.
+
+—En la selva, las bestias matan por hambre. Es honesto. En la ciudad... matan por aburrimiento, por crédito o por placer. Nunca bajes la guardia. La Quietud te sirve para ocultarte de los monstruos, pero no te servirá de nada si un humano te mira a los ojos y ve que eres una presa.
+
+Mason se detuvo, como si recordara algo importante.
+
+—Y una cosa más. Cuando llegues al control del Concordato, te interrogarán.
+
+—Les diré la verdad. Que busco a alguien.
+
+—Si haces eso, te encerrarán o te deportarán —cortó Mason—. Escucha bien, porque esto va a salvarte la vida más que ese cuchillo. No eres de la Reserva. Eres de la Zona 1.
+
+Leo frunció el ceño, confundido.
+
+—¿Qué?
+
+—Repite conmigo: "Vengo de la Zona 1. Estaba con un grupo de forrajeo independiente. Teníamos un guía con papeles, pero murió."
+
+—Vengo de la Zona 1... —Leo repitió, memorizando—. Grupo de forrajeo independiente...
+
+—Si te preguntan por qué tienes esas manos suaves de inútil, diles que eras Logística. Que llevabas los inventarios. Nadie respeta a los de logística, pero nadie los ve como una amenaza. Sé patético, Leo. Sé invisible.
+
+—Logística —asintió Leo—. Entendido.
+
+—Grábatelo. Si dudas, estás muerto.
+
+—Lo recordaré.
+
+—Vete. Antes de que cambie de opinión y te ponga a barrer otra vez.
+
+Leo salió al porche. El aire fresco le golpeó la cara. Miró hacia atrás, pero el Maestro ya había entrado y cerrado la puerta. El sonido del cerrojo deslizándose fue definitivo.
+
+Estaba solo. Otra vez.
+
+***
+
+El primer kilómetro fue engañosamente fácil.
+
+El terreno alrededor de la cabaña del Maestro estaba limpio, mantenido a raya por la presencia de Mason —o su aura— que parecía repeler el crecimiento agresivo de la selva. Pero a medida que Leo se alejaba, cruzando el prado hacia la línea de árboles, notó cómo el mundo cambiaba de "jardín cuidado" a "caos primordial".
+
+Entró en el bosque.
+
+La transición fue física. La temperatura bajó cinco grados. La humedad subió hasta pegársele a la piel como una segunda capa de ropa. Y la luz... la luz se convirtió en algo líquido, filtrada a través de tantas capas de vegetación que llegaba al suelo en tonos de esmeralda y oro viejo.
+
+Leo caminaba con el mapa en una mano y una vara de apoyo en la otra.
+
+A su alrededor, la Biología Titánica se desplegaba en toda su indiferente majestuosidad.
+
+Pasó junto a un "Árbol Colmena". El tronco era tan ancho que Leo habría tardado cinco minutos en rodearlo caminando. La corteza no era madera muerta; estaba viva, pulsando con el movimiento de miles de insectos simbióticos que limpiaban el árbol de parásitos. A cinco metros de altura, vio los agujeros hexagonales: celdas de cera del tamaño de barriles de vino.
+
+Una avispa obrera salió de una de las celdas y emprendió el vuelo.
+
+Leo se quedó inmóvil, aplicando la Quietud casi por reflejo.
+
+El insecto tenía el tamaño de un perro mediano. Su abdomen, rayado en negro y amarillo tóxico, brillaba como si estuviera barnizado. El zumbido de sus alas era grave, una vibración de bajo que Leo sentía en el esternón. Pasó volando a diez metros de él, ignorándolo por completo, rumbo al dosel superior en busca de polen gigante.
+
+Leo esperó a que el zumbido se desvaneciera antes de volver a respirar.
+
+*Eres irrelevante*, se recordó a sí mismo. *Para ellos, no eres comida. Eres polvo. Mantente así.*
+
+Siguió avanzando. El suelo era lo más difícil. No pisaba tierra firme. Caminaba sobre un manto de humus, hojas muertas y vegetación en descomposición que tenía metros de profundidad. Era como caminar sobre colchones de agua. A cada paso, el suelo se hundía y liberaba bolsas de gas metano y olor a fermentación.
+
+A mediodía, la sed se convirtió en un problema.
+
+Había estado sudando profusamente debido a la humedad. Encontró un arroyo que bajaba serpenteando entre las raíces de un higuerón estranguladior. El agua era clara, corriendo sobre piedras cubiertas de musgo violeta.
+
+Leo se arrodilló. Recordó la regla: *Si el agua brilla, mueres.*
+
+Miró el agua. No brillaba.
+
+*Si ves animales bebiendo...*
+
+No había animales.
+
+*Espera diez minutos.*
+
+Se sentó en una raíz, sacó un poco de carne seca de la mochila y esperó. Fue una tortura. El sonido del agua corriente era una canción de sirena.
+
+Cinco minutos.
+
+Siete minutos.
+
+Una pequeña criatura, parecida a una nutria pero con seis patas y pelaje verde, salió de un agujero y se acercó a la orilla. Bebió ávidamente.
+
+Leo observó. La "nutria" terminó, se sacudió y volvió a su madriguera, vivita y coleando.
+
+Leo sonrió. Se acercó al agua, llenó su cantimplora y le echó una de las pastillas de carbón activo que venían en el kit del Maestro. Esperó a que burbujeara. Bebió.
+
+El agua sabía a tierra y a carbón, pero estaba fresca. Sintió cómo la vida volvía a sus células.
+
+Mientras cerraba la cantimplora, vio algo en el fondo del arroyo. Algo que se movía contra la corriente.
+
+Eran sanguijuelas. Pero no eran gusanos negros. Eran casi transparentes, como cintas de gelatina viva, de medio metro de largo. Ondulaban en el agua, buscando calor. Si hubiera metido la mano directamente, una de esas cosas se le habría enrollado en la muñeca antes de que pudiera parpadear.
+
+Leo se estremeció y se alejó de la orilla.
+
+***
+
+La noche cayó como un martillo.
+
+En la ciudad, el anochecer es gradual. Aquí, en el suelo de la selva titánica, el sol se ocultaba tras el dosel horas antes de ponerse realmente, sumiendo mundo en una penumbra azulada. Luego, oscuridad total.
+
+Leo buscó refugio en la base de un árbol caído. El tronco hueco formaba una cueva natural, protegida de la lluvia y, esperaba, de las miradas.
+
+Se sentó con la espalda contra la madera muerta. Sacó el frasco de luz fría, pero decidió no activarlo todavía. La oscuridad era su aliada.
+
+Comió otra tira de carne seca. Masticó despacio, haciendo que durara.
+
+El bosque, que durante el día había sido un rumor constante de vida, cambió de tono. Los sonidos diurnos (zumbidos, cantos de pájaros) cesaron. Y empezaron los sonidos nocturnos.
+
+Crujidos pesados. Gritos lejanos que sonaban casi humanos. El roce de escamas contra madera.
+
+Leo cerró los ojos, intentando visualizar el mapa en su cabeza. Había avanzado bien. Quizás diez kilómetros. Si mantenía el ritmo, llegaría al cortafuegos mañana a mediodía.
+
+Su mano fue al bolsillo y sacó la Pieza.
+
+El poliedro negro estaba frío al tacto. Pesaba más de lo que debería para su tamaño. Leo pasó el pulgar por las aristas perfectas, buscando algún defecto, algún botón, algo. Nada.
+
+—¿Qué eres? —susurró en la oscuridad.
+
+Cerró los ojos y dejó que su mente viajara hacia atrás.
+
+*Flashback.*
+
+El apartamento de Elena. Estaba lleno de libros y plantas. Ella estaba de pie junto a la ventana, mirando la lluvia caer sobre la ciudad gris. Tenía esa expresión distante que ponía a veces, como si estuviera resolviendo una ecuación imposible.
+
+Se giró y le lanzó el objeto. Leo lo atrapó al vuelo.
+
+—Toma —dijo ella.
+
+—¿Un pisapapeles? —bromeó Leo, sopesándolo.
+
+—Una reliquia —corrigió ella. Su voz no tenía rastro de humor—. La encontré en los archivos del sótano de la Universidad. Estaba catalogada como "escombro industrial", pero Leo... hazle una prueba de carbono 14 y te dará error. Hazle un escáner y verás que es sólido, pero tiene una densidad variable.
+
+Leo miró el objeto con más interés.
+
+—¿Qué quieres que haga con esto?
+
+—Guárdalo. —Elena se acercó a él. Le puso una mano en la mejilla. Su mano estaba fría—. Tengo la sensación de que las cosas se van a poner feas. Y esto... esto vibra cuando estás cerca. Creo que te ha elegido a ti, sea lo que sea.
+
+—Elena, me estás asustando.
+
+—El miedo es bueno, Leo. El miedo te mantiene despierto.
+
+*Fin del Flashback.*
+
+Leo abrió los ojos en la oscuridad de árbol hueco. Apretó la Pieza contra su pecho.
+
+"El miedo te mantiene despierto".
+
+—Estoy despierto, Elena —susurró—. Joder si estoy despierto.
+
+Fuera, algo grande pasó caminando cerca de su refugio. El suelo tembló rítmicamente. *Boom. Boom. Boom.* Pasos bipedos. Pesados.
+
+Leo entró en Quietud absoluta. Dejó de respirar. Bajó su ritmo cardíaco hasta que el sonido de su propia sangre dejó de golpear sus tímpanos.
+
+Los pasos se detuvieron justo frente a la entrada del tronco hueco.
+
+Leo pudo oír una respiración profunda, húmeda. Un olfateo.
+
+El aire se llenó de un olor a almizcle rancio.
+
+Leo apretó el cuchillo de hueso tanto que le dolió la mano.
+
+Después de una eternidad, la cosa resopló —un sonido que hizo vibrar las costillas de Leo— y siguió su camino. Los pasos se alejaron. *Boom. Boom. Boom.*
+
+Leo exhaló el aire que había estado reteniendo durante dos minutos.
+
+Nadie le había dicho que la soledad fuera tan ruidosa.
+
+***
+
+Al día siguiente, el bosque cambió.
+
+A medida que avanzaba hacia el este, la vegetación se volvió menos densa, pero más retorcida. Los árboles ya no eran pilares rectos; eran espirales nudosos cubiertos de lianas espinosas.
+
+Y empezaron a aparecer señales de que no era el primero en pasar por allí.
+
+Un árbol tenía marcas de garras a una altura de cuatro metros. Otro tenía una flecha rota clavada en el tronco, una flecha de metal manufacturado, no de hueso.
+
+A mediodía, Leo salió de la espesura a un claro artificial.
+
+No era un claro natural. Era una franja de terreno de cincuenta metros de ancho donde los árboles habían sido talados hacía años. Aunque la maleza intentaba recuperar el terreno, se notaba la cicatriz en la tierra. Una línea recta que cortaba la selva de norte a sur.
+
+El cortafuegos del Concordato.
+
+En el centro del claro había una estructura metálica devorada por el óxido. Parecía una antigua torre de vigilancia o una baliza de vÃ­nculos de resonancia. Estaba inclinada, con las patas de acero dobladas como si un gigante se hubiera apoyado en ella.
+
+Leo se acercó con cautela.
+
+La estructura era inconfundiblemente humana. Tenía remaches. Tenía paneles soldados. Tenía una placa medio caída donde aún se podía leer: **"PROPIEDAD DEL CONCORDATO - ZONA DE EXCLUSIÓN 1-B"**.
+
+Pero alguien había dejado un mensaje sobre la advertencia oficial.
+
+Grabado a cuchillo en el metal oxidado, rayando las letras del Concordato, había un símbolo tosco pero profundo.
+
+Una guadaña estilizada dentro de un círculo roto.
+
+Leo no reconoció el símbolo. No aparecía en ninguno de los libros de historia de la Reserva, ni en los manuales de supervivencia que el Maestro le había obligado a memorizar. Pero irradiaba una hostilidad primitiva.
+
+Leo pasó los dedos por el grabado. Los bordes del metal estaban afilados. Era reciente. Quizás de hace unas semanas.
+
+Significaba que la influencia del Maestro y su neutralidad habían quedado atrás. A partir de esta línea, Leo entraba en un territorio desconocido.
+
+Levantó la vista hacia el este.
+
+Más allá del cortafuegos, la selva continuaba, un muro verde que parecía tragarse la luz. En algún lugar, a kilómetros de distancia, estaba su destino.
+
+Puerto Raíz.
+
+Leo sintió un peso en el estómago que no tenía nada que ver con el hambre. Había sobrevivido al dominio de la naturaleza, pero ahora se dirigía hacia algo que el Maestro había descrito como "peor".
+
+Se ajustó la mochila, comprobó que el cuchillo de hueso seguía en su cinto y cruzó la línea del cortafuegos.
+
+Hacia el territorio de ese símbolo desconocido.
+
+
+<div style="page-break-after: always;"></div>
+\newpage
+
+# CAPÍTULO 7: CONTACTO
+
+La soledad del bosque tenía una textura. Era húmeda, pesada y ruidosa.
+
+Leo llevaba veinticuatro horas caminando desde que cruzó el cortafuegos, y en todo ese tiempo, la sensación de ser un intruso no había disminuido; se había agudizado.
+
+La Zona 1-B, como la llamaba el mapa del Maestro, no era diferente geográficamente de la zona de la cabaña. Los mismos árboles que perforaban las nubes, los mismos helechos bajo cuya sombra podrían resguardarse familias enteras. Pero la *atmósfera* había cambiado.
+
+Había menos ruido.
+
+Demasiado poco ruido.
+
+Leo se detuvo junto a una raíz tabular cubierta de musgo gris. Se agachó, ralentizando su respiración por instinto, reduciéndola hasta que fue un hilo casi imperceptible.
+
+*Algo no cuadra*, pensó.
+
+En la zona del Maestro, el bosque era una cacofonía constante: chillidos de primates, zumbidos de insectos, el crujer de ramas bajo el peso de herbívoros gigantes. Aquí, el bosque parecía estar conteniendo la respiración.
+
+Leo miró al suelo.
+
+El humus, esa capa de tres metros de hojas en descomposición, estaba perturbado.
+
+Había huellas.
+
+Leo se acercó, apartando un helecho con la punta de su lanza de hueso.
+
+No eran huellas de garra. No había almohadillas, ni uñas, ni pezuñas. Eran depresiones rectangulares, profundas y uniformes, con un dibujo estriado en el fondo.
+
+Botas.
+
+Alguien había pasado por aquí. Y no era un explorador solitario luchando por sobrevivir. Las huellas formaban un patrón. Tres en vanguardia, dos en retaguardia. Una formación táctica.
+
+Leo sintió un escalofrío que no tenía nada que ver con la temperatura.
+
+Humanos.
+
+Después de una semana huyendo de monstruos con más dientes que cerebro, la idea de encontrar a otros seres humanos debería haber sido un alivio. Pero el Maestro le había enseñado mejor. *En la ciudad, matan por aburrimiento.*
+
+Leo tocó el borde de una huella. El barro aún estaba húmedo, pero no encharcado. Tenían quizás dos horas de ventaja.
+
+*Se dirigen al este*, analizó. *Hacia Puerto Raíz. Igual que yo.*
+
+Pero ellos no se escondían. Caminaban con la confianza de quien está en la cima de la cadena alimenticia. Las ramas bajas habían sido cortadas limpiamente, no rotas. Un corte quirúrgico, cauterizado en los bordes.
+
+Leo pasó el dedo por la superficie de la madera cortada. Estaba lisa como el vidrio y tibia al tacto. No había astillas.
+
+*¿Qué demonios puede cortar así?* se preguntó. No era un machete, ni una sierra térmica. El corte era simplemente demasiado perfecto, sin una sola fibra fuera de lugar. La precisión era inquietante.
+
+Leo se incorporó lentamente. Tenía que tomar una decisión. Seguir el rastro era peligroso, pero también era la ruta más segura. Si esa patrulla "limpiaba" el camino de bestias, ir detrás de ellos era como ir detrás de un quitanieves.
+
+Decidió seguirlos. Pero mantuvo una distancia de seguridad prudencial, convirtiéndose en una sombra entre las sombras.
+
+***
+
+Una hora después, el silencio se rompió.
+
+No fue un rugido animal. Fue un sonido seco, magnético. *THUMP-ZZZPT.*
+
+Seguido de un impacto que hizo vibrar el suelo bajo los pies de Leo.
+
+Leo se tiró al suelo, rodando hasta quedar cubierto por las raíces de un árbol-colmena. Esperó.
+
+*THUMP-ZZZPT. THUMP-ZZZPT.*
+
+Disparos. Pero no de pólvora. Sonaban como descargas eléctricas comprimidas.
+
+Leo reptó hacia una cresta elevada que dominaba un pequeño valle fluvial. El olor a ozono —ese olor metálico a tormenta eléctrica— empezó a llegarle, mezclado con el hedor acre de la sangre.
+
+Se asomó con precaución, apenas levantando la cabeza por encima del musgo.
+
+Lo que vio abajo le heló la sangre.
+
+En el lecho del río seco, cinco figuras rodeaban a una bestia.
+
+La bestia era una montaña de músculo y mucosidad tóxica. Leo no sabía su nombre científico, pero reconoció la categoría al instante por la lección del Maestro.
+
+—*Clase C. Rompemuros. Demolición* —recordó.
+
+Aquello era un Clase C de manual. Cuatro metros de altura, cuernos que parecían arietes de asedio y una biología diseñada para echar abajo árboles centenarios.
+
+El monstruo estaba furioso. Bramaba, escupiendo un ácido verde que disolvía las piedras del río.
+
+Pero estaba perdiendo.
+
+Las cinco figuras humanas no corrían. No pedían apoyo, ni parecían asustados. Se movían con una sincronía aterradora, como si fueran cinco dedos de la misma mano.
+
+Eran soldados. Pero no soldados normales.
+
+No llevaban uniformes estándar ni armaduras voluminosas. Llevaban trajes de biopolímero mate, de un color gris verdoso que se mimetizaba perfectamente con el entorno. Las placas de su protección parecían orgánicas, como el caparazón de un escarabajo.
+
+Uno de ellos, el que estaba en el centro, levantó una mano.
+
+La bestia cargó hacia él. Cuatro toneladas de furia biológica lanzadas a sesenta kilómetros por hora.
+
+El soldado no se apartó.
+
+Leo contuvo el aliento, esperando ver el impacto sangriento.
+
+El hombre plantó los pies. El aire alrededor de sus botas pareció distorsionarse, como ocurre sobre el asfalto caliente. Su postura cambió sutilmente; bajó su centro de gravedad de una forma que parecía antinatural, como si de repente pesara diez veces más.
+
+Cuando el monstruo impactó, no hubo un choque de carne contra carne. Hubo un sonido sordo, seco, como un bloque de hormigón cayendo desde un quinto piso.
+
+El soldado se deslizó dos metros hacia atrás, dejando surcos profundos en la roca viva con sus botas, pero detuvo la carga en seco.
+
+*Imposible*, pensó Leo, su mente analítica luchando por procesar la física de lo que acababa de ver. *Masa contra masa. Debería haber salido volando. A menos que... ¿ha modificado su inercia?*
+
+Detuvo a un maldito Clase C con las manos desnudas.
+
+Los otros cuatro aprovecharon el momento de inercia cero.
+
+Dos rifles extraños, largos y rectangulares, dispararon desde los flancos. Los proyectiles impactaron en las articulaciones de la bestia, destrozando hueso y tendón con precisión quirúrgica.
+
+El cuarto miembro, una sombra ágil armada con una espada que zumbaba en una frecuencia inaudible, saltó sobre el lomo del animal entorpecido.
+
+Un corte. Limpio. Profundo.
+
+La cabeza del Toro se separó del cuerpo y cayó al suelo con un golpe húmedo.
+
+El silencio volvió al valle instantáneamente.
+
+Leo seguía sin respirar.
+
+No había sido una pelea. Había sido una demolición controlada. Sin gritos, sin confusión, sin miedo. Eficiencia pura.
+
+El soldado que había detenido la carga se sacudió las manos, como si solo estuvieran un poco sucias de polvo.
+
+—Objetivo asegurado —dijo una voz distorsionada por el casco táctico—. Recojan las glándulas. Dejen la carne.
+
+—Afirmativo, Capitán.
+
+Leo sintió una mezcla de admiración y terror absoluto. Él había casi muerto para matar a un ciempiés ciego usando una lanza de palo. Estos tipos acababan de desmantelar a un tanque biológico en treinta segundos sin sudar.
+
+*¿Quiénes son?*, pensó Leo. *¿Militares del gobierno? ¿Fuerzas especiales de las que nadie habla en las noticias?*
+
+Se dio cuenta de lo estúpido que había sido su "victoria" contra el ciempiés. Él jugaba a las casitas. Ellos jugaban a la guerra.
+
+Leo empezó a retroceder, arrastrándose hacia atrás milímetro a milímetro.
+
+*Tengo que irme. Ya. Si me ven, soy daño colateral.*
+
+Dio un paso atrás.
+
+Su mochila rozó una rama seca.
+
+No hubo crujido. Solo un leve roce. El sonido de tela contra madera.
+
+Abajo, en el valle, uno de los soldados se giró. Llevaba un casco diferente a los demás, con múltiples lentes asimétricas cubriendo donde deberían estar los ojos.
+
+—Contacto —dijo el soldado. Su voz no denotaba alarma, solo información—. Sector 4. Elevación.
+
+El Capitán miró hacia la cresta. Hacia Leo.
+
+Leo se congeló.
+
+Sintió algo. No fue físico. Fue una presión en la base del cráneo, una sensación de picor, como cuando sabes que alguien te está mirando en una habitación oscura, pero multiplicado por mil.
+
+Leo comprendió al instante la función del soldado de las lentes. No estaba mirando; estaba *rastreando*. Escaneando el entorno como un radar biológico.
+
+Sabía que esconderse visualmente no serviría. Si ese tipo podía detectar un roce a cincuenta metros, probablemente podía detectar el calor, el latido, o la electricidad de su cuerpo.
+
+*Pánico.*
+
+Leo quiso salir corriendo. Su cuerpo gritaba *¡HUYE!*.
+
+Pero una voz en su cabeza, una voz que olía a vainilla y a lluvia, le susurró.
+
+*"Quédate quieto, Leo. No respires. Si no te mueves, no existes."*
+
+Flashback rápido: Elena y él escondidos bajo una mesa en la biblioteca, jugando al escondite cuando eran niños. Ella le tapaba la boca. Su mano olía a jabón. El bibliotecario pasaba al lado, sus pasos resonando como truenos. El corazón de Leo iba a estallar, pero ella lo mantenía anclado en la calma.
+
+*Fin del Flashback.*
+
+Leo cerró los ojos.
+
+No solo dejó de moverse. Intentó dejar de *estar*.
+
+Visualizó su cuerpo como un sistema de circuitos y bajó el interruptor general. Redujo su respiración hasta que el aire se quedó estancado en sus pulmones. Relajó cada músculo, intentando imitar la inercia de una piedra, de un tronco, de algo muerto.
+
+Entró en la **Quietud**. De verdad. No el intento torpe que usó contra el ciempiés. Esta vez, el miedo absoluto le dio el enfoque necesario.
+
+Abajo, el Rastreador ladeó la cabeza. Las lentes de su casco zumbaron mientras enfocaban la cresta.
+
+—¿Informe? —preguntó el Capitán.
+
+El Rastreador mantuvo la mirada un segundo más. Un segundo eterno donde Leo sintió que sus pulmones iban a colapsar por falta de oxígeno.
+
+—Negativo —dijo finalmente—. Lectura fantasma. Probablemente fauna menor huyendo. No hay firma térmica significativa.
+
+El Capitán asintió. Desinterés total.
+
+—Procedan. Tenemos horario de llegada.
+
+El grupo recogió las glándulas ácidas de la bestia en contenedores herméticos y se puso en marcha de nuevo, siguiendo el cauce del río hacia el este.
+
+Leo esperó hasta que desaparecieron de la vista. Esperó dos minutos más. Cinco.
+
+Solo entonces se atrevió a exhalar.
+
+Boqueó buscando aire, mareado. Su corazón, liberado de la restricción mental, empezó a galopar contra sus costillas doloridas.
+
+—Joder... —susurró.
+
+Se limpió el sudor frío de la frente. Había estado a un segundo de ser neutralizado como una amenaza desconocida.
+
+Miró hacia abajo, hacia el lugar donde habían despedazado al Toro.
+
+La curiosidad, el vicio analítico de Leo, le picó.
+
+*¿Qué han dejado?*
+
+Bajó la pendiente con cuidado. El cadáver de la criatura aún humeaba. El olor a ácido y carne quemada era nauseabundo.
+
+Leo ignoró el cuerpo y se acercó al punto donde habían estado descansando antes del ataque. Había marcas de botas en el barro. Y basura.
+
+Incluso la élite dejaba basura.
+
+Envoltorios de barritas energéticas sintéticas, plateados y sin marca. Vacíos.
+
+Y algo más.
+
+Medio enterrado en el lodo, había una tableta rectangular, de un material negro y denso. Parecía equipo militar estándar. Tenía la pantalla rajada, como si alguien la hubiera pisado —o como si la hubieran desechado por daños en combate—.
+
+Leo la recogió. La limpió con la manga de su camiseta.
+
+Pulsó el botón de encendido lateral. Nada.
+
+—Vamos... —murmuró. Instintivamente, canalizó una chispa minúscula de su energía, de ese "algo" que el Maestro le había enseñado a mover, hacia el dispositivo. No sabía si funcionaría, pero la tecnología ahí fuera a menudo reaccionaba a la presencia biológica.
+
+La pantalla parpadeó. Luz azul estática.
+
+Apareció texto fragmentado. Era un registro logístico altamente clasificado.
+
+`... REPORTE OPERATIVO - CLASIFICACIÓN OMEGA ...`
+`... UNIDAD: EQUIPO DE INTELIGENCIA 3 ...`
+`... OPERACIÓN: BÚSQUEDA ACTIVA - CÓDIGO "INMORTAL" ...`
+
+Leo frunció el ceño. ¿Inmortal?
+
+Hizo scroll con el dedo tembloroso. La pantalla fallaba, líneas de píxeles muertos cruzaban la información.
+
+`... OBJETIVO: Localizar al sujeto conocido como "EL INMORTAL"`
+`... EVIDENCIA: Señales de actividad reciente en ZONA 2-A`
+`... ÚLTIMA CONFIRMACIÓN DE VIDA: 3 años atrás`
+`... PRESUNTO REFUGIO: Las Tierras Huecas (sin confirmar)`
+`... NOTA: El sujeto posee conocimiento sobre [DATOS CORRUPTOS] y tecnología pre-Concordato. Captura viva PRIORITARIA.`
+
+La pantalla murió definitivamente. La batería residual se agotó.
+
+Leo se quedó mirando el reflejo negro del cristal roto.
+
+*El Inmortal.*
+
+El nombre le quedó grabado. Los cuadernos de Elena hablaban de un "Pionero". De alguien que había cruzado hace décadas y sobrevivido contra todo pronóstico. ¿Sería este "Inmortal" el mismo hombre?
+
+Leo guardó la tableta rota en su mochila. Pesaba, pero ahora era la única pista que tenía.
+
+Si el Concordato buscaba a "El Inmortal" con tanta urgencia, significaba que ese hombre sabía algo importante. Y si Elena había cruzado siguiendo las notas de esos cuadernos... quizás ella también lo buscaba.
+
+*Encuentra al Inmortal, encuentra a Elena*, pensó Leo.
+
+Leo miró hacia el este.
+
+La selva empezaba a clarear. A través de los huecos entre los árboles gigantes, vio el horizonte.
+
+Allí estaba.
+
+**Puerto Raíz.**
+
+No era una ciudad brillante. Era una mancha de metal y óxido incrustada en el paisaje. Un caos de torres industriales y grúas que se aferraban a las costillas blancas de una bestia muerta hace eones.
+
+Humo negro subía al cielo, manchando el atardecer púrpura.
+
+Era feo. Era peligroso. Era territorio hostil.
+
+Pero allí habría información. Tabernas. Rumores. Gente que podría haber visto a una chica preguntando por leyendas imposibles.
+
+Leo apretó la mandíbula. Su mano fue al cuchillo de hueso en su cinto. Parecía un juguete ridículo ahora que sabía lo que había ahí fuera.
+
+*No puedo pelear con ellos*, pensó Leo, calculando las probabilidades como si fuera una estructura a punto de colapsar. *No puedo ganarles en fuerza bruta. La física está en mi contra.*
+
+Recordó la lección de Mason. *La Quietud te sirve para ocultarte.*
+
+—Bien —dijo al aire vacío—. Si no puedo ser un soldado, seré un fantasma.
+
+Se ajustó la mochila y empezó a caminar hacia el humo.
+
+
+<div style="page-break-after: always;"></div>
+\newpage
+
+# CAPÍTULO 8: LA BOCA DEL CEMENTERIO
+
+El olor llegó antes que la vista.
+
+No era podredumbre fresca, el tipo de hedor que te hace vomitar. Era algo más viejo, más profundo. Un aroma calcáreo, mineral, como el interior de una cueva que no ha visto la luz en mil años. Olía a hueso antiguo y a óxido.
+
+Leo salió de la línea de árboles y se detuvo al borde de un claro artificial.
+
+Puerto Raíz no era una ciudad. Era una infección.
+
+El esqueleto de un titán —una bestia que debió medir cien metros en vida— yacía semienterrado en el valle. Sus costillas se alzaban hacia el cielo como arcos de una catedral gótica, blanqueadas por siglos de exposición. La columna vertebral, gruesa como un túnel de metro, servía de calle principal. Entre los huesos, los humanos habían construido.
+
+Chozas de metal oxidado se aferraban a las vértebras como percebes. Pasarelas de cuerdas y tablones conectaban las costillas superiores. Humo negro subía de docenas de chimeneas improvisadas, manchando el aire con olor a grasa quemada y carbón.
+
+Leo había visto favelas en documentales. Había estudiado asentamientos informales en sus clases de arquitectura. Pero esto... esto era otra cosa. Era un parásito humano alimentándose del cadáver de un dios.
+
+Y en la entrada, bloqueando el único camino que atravesaba las mandíbulas abiertas del titán, había un puesto de control.
+
+***
+
+Leo se acercó despacio.
+
+Había tres guardias. No llevaban los trajes de biopolímero de la patrulla del bosque —esos eran claramente élite—, pero su equipamiento era igualmente funcional. Armaduras de placas óseas cosidas a cuero tratado, rifles de cañón largo colgados al hombro, y ojos que escaneaban a cada recién llegado como si evaluaran cuánto valdrían sus órganos en el mercado negro.
+
+Sobre el puesto ondeaba una bandera descolorida: un engranaje dorado sobre fondo negro. El símbolo del Concordato.
+
+*Así que aquí también mandan*, pensó Leo.
+
+Delante de él había una pequeña cola de gente esperando pasar. Comerciantes con carros de mercancías. Un grupo de cazadores cargando pieles de bestias. Una mujer solitaria con un niño aferrado a su falda.
+
+Leo observó el procedimiento mientras esperaba su turno.
+
+Cada persona que llegaba era detenida. Un guardia hacía preguntas mientras otro anotaba en una tableta. El tercero, más grande y con un rifle siempre en posición de semi-alerta, observaba las reacciones.
+
+Leo escuchó fragmentos de los interrogatorios.
+
+*"¿Nombre? ¿Procedencia? ¿Cuánto tiempo piensas quedarte? ¿Llevas mercancía declarable?"*
+
+Preguntas estándar. Burocracia. Pero Leo notó algo más. No era un control de seguridad. Era un censo. Estaban *fichando* a todos los que entraban.
+
+*¿Qué digo?*, pensó, sintiendo el sudor frío bajarle por la espalda. *No tengo documentos. No tengo historia. Si digo la verdad —que vengo de "La Reserva", como la llamó Mason—, me verán como ganado perdido. Si digo que vengo del bosque salvaje, me preguntarán cómo he sobrevivido.*
+
+La cola avanzó. Quedaban dos personas delante de él.
+
+Leo repasó mentalmente las opciones. Necesitaba una identidad creíble. Algo que explicara su aspecto (desaliñado, hambriento, con ropa destrozada) pero que no levantara demasiadas alarmas.
+
+*Explorador novato que perdió a su grupo.* Plausible, pero verificable. Si tenían registros de grupos de exploración, su mentira se desmoronaría.
+
+*Desertor del Concordato buscando asilo.* Suicida. Lo entregarían o lo ejecutarían en el acto.
+
+*Familiar de alguien que vive aquí.* Necesitaría un nombre. Un contacto. Algo que no tenía.
+
+La mujer con el niño pasó el control. Quedaba uno.
+
+Leo respiró hondo. No tenía un plan perfecto. Tendría que improvisar.
+
+—Siguiente.
+
+El cazador de pieles se apartó. El guardia de la tableta miró a Leo de arriba abajo, evaluándolo con la mirada fría de alguien que ha visto de todo.
+
+—Nombre —dijo sin inflexión.
+
+Leo abrió la boca.
+
+*Di algo. Cualquier cosa.*
+
+—Leo —respondió. Mentir sobre el nombre de pila era inútil; lo usaría constantemente y cualquier duda lo delataría—. Leo Arce.
+
+El guardia lo anotó sin verificar. Primer obstáculo superado.
+
+—Procedencia.
+
+Leo sintió el pánico burbujear en su garganta. Su instinto era decir la verdad: "Vengo de la ciudad. Del otro lado. De casa".
+
+Pero recordó la voz del Maestro resonando en su cabeza antes de partir.
+
+—"Escucha bien, chico. Si dices la verdad, te encerrarán. No eres de la Reserva. Eres de la Zona 1. Tienes que mentir. Y tienes que usar las palabras correctas."
+
+Leo se aferró a esas palabras como a un salvavidas. No sabía qué significaban realmente, pero eran lo único que tenía.
+
+—Zona 1 —dijo Leo, repitiendo el guion de Mason—. Estaba con un grupo de forrajeo independiente.
+
+El guardia levantó la vista de la tableta. Sus ojos se estrecharon.
+
+—¿Grupo independiente? ¿Sin licencia del Concordato?
+
+Leo sintió el sudor frío. Mason no le había explicado qué era una licencia. Solo le había dicho qué decir si le presionaban.
+
+—Teníamos un guía —soltó la siguiente línea del guion—. Él llevaba los papeles. Murió en el ataque.
+
+El guardia intercambió una mirada con el del rifle.
+
+—¿Propósito de tu visita a Puerto Raíz?
+
+—Intercambio —dijo Leo—. Necesito comer. Busco a quién ofrecer mis servicios.
+
+El guardia soltó un bufido. Anotó algo.
+
+—Manos.
+
+Leo extendió las manos. El guardia las examinó con asco.
+
+—No tienes callos de cazador. Ni marcas de Flujo. Tienes manos de... —El guardia buscó la palabra—. De Interior.
+
+Leo tragó saliva. Mason le había advertido sobre esto. "Tus manos te delatarán. No puedes fingir ser un cazador. Tienes que ser algo inútil pero creíble."
+
+—Logística —dijo Leo, agarrándose a la última parte del consejo del Maestro—. Llevaba los inventarios. No era un luchador.
+
+El guardia lo miró un segundo más largo de lo cómodo.
+
+—Otro inútil doméstico que ha perdido a su amo —murmuró—. Bienvenido a Puerto Raíz, "logístico".
+
+Pasó a la siguiente línea de su tableta.
+
+—Entrada autorizada. Tienes setenta y dos horas para registrarte en la Oficina de Censos de las Vértebras si quieres quedarte más tiempo. Si te pillan sin registro después del plazo, serás considerado indigente no documentado. Y los indigentes no documentados...
+
+Dejó la frase en el aire. La amenaza implícita era clara.
+
+—Entendido —dijo Leo.
+
+—Una cosa más.
+
+El guardia levantó la vista. Esta vez, había un destello de algo más en sus ojos. Curiosidad, quizás. O simple rutina.
+
+—No eres el primero que llega solo, sin historia y con manos de oficinista buscando "intercambio". Hace unas semanas pasó otra forastera parecida. Preguntaba lo mismo. —Sonrió, pero no era una sonrisa amable—. Igual de mala mintiendo que tú.
+
+El corazón de Leo se detuvo un segundo.
+
+*¿Otra forastera? ¿Hace semanas?*
+
+—¿Una... una chica? —preguntó, intentando que no le temblara la voz.
+
+El guardia ya estaba mirando al siguiente de la cola.
+
+—Las preguntas se hacen en las tabernas, novato. No en mi puesto. Largo.
+
+Leo asintió mecánicamente. Pasó bajo las mandíbulas del titán, hacia la oscuridad del interior del esqueleto.
+
+Su mente ardía con una sola certeza.
+
+Elena había estado aquí. Había pasado por este mismo control. Le habían hecho las mismas preguntas.
+
+Y si el guardia la recordaba como \"mala mintiendo\", significaba que ella también había llegado sin historia, sin contactos, sin plan.
+
+*Pero llegó*, pensó Leo, sintiendo una chispa de esperanza mezclada con urgencia. *Y siguió adelante.*
+
+Ahora él tenía que hacer lo mismo.
+
+***
+
+El interior de Puerto Raíz era un laberinto de olores y ruidos.
+
+Leo caminó por la "calle principal" —la columna vertebral del titán— sintiendo las vibraciones de cientos de vidas bajo sus pies. Las vértebras, cada una del tamaño de una habitación, habían sido vaciadas y convertidas en viviendas, talleres y almacenes. Agujeros abiertos en el hueso servían de puertas y ventanas. De algunos salía luz de hoguera; de otros, el sonido de martillos golpeando metal.
+
+El olor era una mezcla imposible: carne ahumada, orina, sudor, incienso barato y ese fondo constante de hueso viejo que impregnaba todo.
+
+La gente que pasaba a su lado era tan variada como el paisaje. Cazadores con armaduras de piel de bestia. Comerciantes con túnicas remendadas. Niños descalzos que corrían entre las piernas de los adultos, gritando en un dialecto que Leo no reconocía.
+
+Y todos, sin excepción, lo miraban.
+
+No con hostilidad abierta. Con *evaluación*. Leo sintió las miradas pesando sobre él, midiendo su ropa, su postura, su expresión. Buscando debilidad.
+
+*Sin reputación, eres invisible*, había dicho el Maestro. Pero invisible no significaba seguro. Significaba que nadie te protegería si alguien decidía que valías más muerto que vivo.
+
+Leo siguió caminando, manteniendo la cabeza alta pero sin hacer contacto visual. Proyectando la imagen de alguien que sabe a dónde va, aunque no tuviera ni idea.
+
+Necesitaba información. Necesitaba saber qué había hecho Elena cuando llegó aquí, a quién había preguntado, hacia dónde se había dirigido.
+
+Pero primero necesitaba algo más básico.
+
+Necesitaba no morir de hambre. Y para comer en un lugar sin dinero, había que ofrecer algo a cambio. Fuerza, habilidad, tiempo. Leo no tenía fuerza de cazador ni habilidades de artesano. Pero tenía manos y estaba dispuesto a usarlas.
+
+El guardia había mencionado la "Oficina de Censos de las Vértebras". Eso significaba que había una zona media, probablemente a más altura en el esqueleto, donde se concentraba el poder. Y donde había poder, había gente que necesitaba servicios. Y donde había necesidad, había oportunidades para alguien tan desesperado como él de ofrecer algo a cambio de comida y refugio.
+
+Leo miró hacia arriba.
+
+Las costillas del titán se alzaban a ambos lados, perdiéndose en la penumbra del techo de hueso. Entre ellas, redes de cuerdas y pasarelas conectaban diferentes niveles. Vio figuras moviéndose por allí arriba, siluetas recortadas contra la luz de los huecos abiertos en el caparazón.
+
+La ciudad tenía niveles. Y Leo apostaría su cuchillo de hueso a que la escoria vivía abajo y el poder, arriba.
+
+Por ahora, él pertenecía a la escoria.
+
+Tocó el bolsillo donde guardaba la Pieza. Seguía allí, pesada y fría.
+
+*Tres días*, se prometió a sí mismo. *Tres días para orientarme. Para encontrar a alguien que necesite mis manos. Para escuchar los rumores correctos.*
+
+*Y luego, seguir el rastro de Elena.*
+
+Hacia lo que fuera que la esperaba más allá de este cementerio de huesos.
+
+
+<div style="page-break-after: always;"></div>
+\newpage
+
+# CAPÍTULO 9: EL OLOR DE LA MONEDA
+
+Las Costillas Bajas apestaban a desesperación.
+
+Leo lo supo en cuanto bajó las escaleras de hueso hacia los niveles inferiores del esqueleto. El olor cambiaba. Arriba, en la columna vertebral, el aire era denso pero respirable. Aquí abajo, en el vientre de la bestia, el hedor era orgánico y húmedo. Como el interior de un estómago que aún digiriera fantasmas.
+
+Los pasillos eran estrechos. Las costillas del titán se curvaban hacia dentro formando túneles naturales. Entre ellas, los humanos habían rellenado los huecos con tablones, lonas y chatarra. Era un laberinto de chabolas apiladas sobre chabolas.
+
+Y la gente aquí era diferente.
+
+En la calle principal, Leo había visto cazadores y comerciantes. Gente con propósito. Aquí abajo, los rostros eran opacos. Ojos hundidos. Manos que se movían cerca de cuchillos ocultos. Bocas que no habían sonreído en años.
+
+*Aquí es donde terminas cuando no tienes nada*, pensó Leo.
+
+***
+
+Encontró el almacén por el ruido.
+
+No era un cartel lo que lo atrajo —aunque había uno, desteñido y medio arrancado—. Era la multitud.
+
+Treinta, quizás cuarenta personas se apiñaban frente a la entrada de un agujero excavado en el húmero del titán. Empujaban, gritaban, se golpeaban. Algunos tenían llagas abiertas en los brazos. Otros tosían sangre. Todos querían lo mismo: entrar.
+
+Un hombre corpulento —brazos como troncos, una cicatriz que le partía la ceja— estaba en la entrada con dos ayudantes armados con porras de hueso. No hablaba. Solo señalaba.
+
+—Tú. Tú. Tú no, fuera. Tú.
+
+Los elegidos entraban. Los rechazados se quedaban afuera, algunos llorando, otros maldiciendo.
+
+Leo observó el patrón. No elegía a los más fuertes. Elegía a los que parecían menos enfermos. A los que no tenían marcas visibles de infección o desnutrición extrema.
+
+*Quiere que trabajen al menos un turno antes de colapsar*, comprendió.
+
+Se miró a sí mismo. Tenía ropa destrozada, pero no estaba cubierto de llagas. Estaba flaco, pero no esquelético. Sus ojos todavía tenían algo de luz.
+
+El problema era llegar hasta el frente.
+
+La multitud era un muro de cuerpos. Empujó. Recibió un codazo en las costillas. Alguien le agarró del brazo —una mujer con los dientes podridos— intentando arrastrarlo hacia atrás.
+
+—¡Espera tu turno, novato!
+
+Leo se zafó. Siguió empujando.
+
+Un hombre delante de él —viejo, doblado por la malnutrición— tropezó y cayó. La multitud pasó por encima sin mirarlo. Leo vio cómo un pie le aplastaba la mano. El viejo ni siquiera gritó. Solo se quedó en el suelo, los ojos vacíos.
+
+*No mires. Sigue.*
+
+Leo llegó al frente justo cuando el capataz señalaba la última ronda.
+
+—Tú. —El dedo lo apuntó—. Y tú. Suficiente.
+
+Leo sintió manos tirando de él desde atrás. Ignoró el jalón y cruzó la línea antes de que los ayudantes cerraran el paso con las porras.
+
+Dentro. Había entrado.
+
+Miró hacia atrás una vez. La multitud se dispersaba lentamente, como animales rechazados de un abrevadero.
+
+*Esto no es supervivencia*, pensó. *Esto es selección.*
+
+***
+
+El trabajo era brutal.
+
+Las cajas eran contenedores de hueso tratado, sellados con resina, pesados como el pecado. Algunos contenían carne curada. Otros, pieles enrolladas. Y algunos, los que tenían agujeros de ventilación, contenían criaturas vivas.
+
+—Cuidado con esas —le advirtió un trabajador bajo y rechoncho que los demás llamaban Gordo—. Larvas de Colmena. Te comen la mano antes de que puedas gritar.
+
+Leo asintió y siguió cargando.
+
+Las horas pasaron. El sudor le empapó la ropa. Los músculos gritaron, luego se callaron en protesta sorda. Un corte en su palma manchaba cada caja que tocaba.
+
+A nadie le importaba.
+
+***
+
+Ocurrió en la cuarta hora.
+
+Leo estaba cargando una caja hacia la plataforma de clasificación cuando sintió algo.
+
+No fue un sonido. Fue una *presión*. Un cambio en el aire, como cuando un animal grande se mueve detrás de ti en la oscuridad.
+
+Su cuerpo reaccionó antes que su mente.
+
+Se lanzó hacia la izquierda, soltando la caja, rodando sobre el suelo polvoriento.
+
+Un segundo después, la grúa de hueso —un armazón de costillas menores unidas con cuerdas y poleas— cedió.
+
+El crujido fue ensordecedor. Toneladas de estructura se desplomaron exactamente donde él había estado. Cajas reventaron. Polvo y fragmentos llovieron por el aire.
+
+Y debajo de los escombros, un cuerpo.
+
+El trabajador que había estado a su lado —un hombre flaco cuyo nombre Leo nunca supo— no se había movido a tiempo. Ahora era una mancha roja bajo el hueso.
+
+Leo se quedó en el suelo, jadeando, el corazón martilleando.
+
+*Lo vi venir*, pensó. *Lo sentí.*
+
+La Sincronía. El Maestro le había enseñado a percibir cambios en el entorno. Pero nunca lo había usado así, nunca fuera de una situación de caza. Su cuerpo había reaccionado por instinto puro.
+
+Gordo apareció a su lado. Miró los escombros. Miró el cadáver.
+
+—Limpiad eso —dijo sin cambiar de tono—. Y tú, novato. Si ya terminaste de descansar en el suelo, hay más cajas que mover.
+
+Leo se levantó lentamente. Sus piernas temblaban.
+
+Nadie más dijo nada. Nadie preguntó si estaba bien. Dos trabajadores arrastraron el cuerpo hacia una esquina como si fuera otro bulto que clasificar.
+
+*Aquí la vida no vale nada*, comprendió Leo.
+
+Volvió a las cajas.
+
+***
+
+Fue entonces cuando la vio.
+
+Estaba cargando un contenedor hacia la zona de envíos cuando el borde de su visión captó algo.
+
+Una marca.
+
+En la caja que tenía en las manos —no en la pared, no en el suelo—, alguien había dibujado con tiza blanca un símbolo pequeño.
+
+Una flor de seis pétalos.
+
+Leo casi dejó caer la caja.
+
+Conocía esa flor. Elena la dibujaba constantemente. En los márgenes de sus cuadernos. En las servilletas. En el vaho de las ventanas. Era su firma.
+
+Y estaba aquí. En esta caja. En este almacén de mierda en este extraño mundo.
+
+Leo giró la caja, buscando más marcas. Encontró algo: un código escrito debajo de la flor.
+
+**"V4-CS"**
+
+No significaba nada para él. Pero era un código de destino.
+
+*Si pregunto, llamo la atención*, pensó. *Si llamo la atención, Gordo me echará.*
+
+El caos a su alrededor era total. Los trabajadores retiraban escombros, el capataz gritaba órdenes, el polvo cubría el aire como niebla.
+
+Leo miró hacia la pequeña caseta de hueso que servía de oficina a Gordo. La puerta estaba entreabierta. Gordo estaba fuera, ocupado con el desastre.
+
+*Ahora o nunca.*
+
+Leo no lo pensó. Se escurrió entre las sombras, pegado a la pared, aprovechando la nube de polvo. Se metió en la oficina.
+
+Era un agujero lleno de papeles clavados en las paredes y olor a tabaco rancio. En la mesa, un libro de registros abierto.
+
+Leo pasó las páginas con manos temblorosas y sucias de sangre. Buscó la fecha. Buscó el código.
+
+**V4-CS.**
+
+Lo encontró.
+
+*Registro de Salida #8902*
+*Origen: Sector 4 (Clasificación)*
+*Destino: Vértebra 4 - Casa de Subastas*
+*Contenido: Lote "Varios" - Diario de Campo (Dañado), Muestras Biológicas (Estropeadas)*
+*Remitente: D. (Desconocido)*
+
+*Diario de Campo.*
+
+El corazón de Leo dio un vuelco. No era solo una caja que Elena había tocado. Era su diario. Sus notas. Sus mapas.
+
+Oyó pasos fuera. Pesados.
+
+Leo arrancó la hoja del registro. La dobló y se la metió en el zapato, bajo la suela desgastada.
+
+Se giró para salir.
+
+Gordo estaba en la puerta.
+
+El capataz llenaba el marco, bloqueando la única salida. Su rostro estaba rojo por el esfuerzo y la ira.
+
+—¿Qué haces aquí, novato?
+
+Leo levantó las manos. No tenía excusa. No tenía mentira preparada.
+
+—Buscaba... buscaba agua. Para limpiar la sangre.
+
+Señaló su mano cortada.
+
+Gordo avanzó. Un paso. Dos. Agarró a Leo por el cuello de la camiseta y lo levantó casi medio metro del suelo.
+
+—El agua está fuera —gruñó Gordo, escupiéndole en la cara—. Y los laojos vigÃ­a terminan en el pozo.
+
+Leo sintió la presión en la garganta. Podía usar el Flujo. Podía intentar un empujón cinético.
+
+*No. Si usas magia aquí, te matan todos.*
+
+Se quedó quieto. Quietud forzada.
+
+—No he robado nada —dijo con voz estrangulada—. Regístrame.
+
+Gordo lo miró a los ojos, buscando miedo. Encontró miedo, sí, pero no culpa.
+
+Lo soltó con un empujón violento. Leo cayó contra la pared de hueso.
+
+—Fuera de mi oficina.
+
+Leo se levantó, tosiendo. Salió al almacén.
+
+***
+
+El turno terminó media hora después.
+
+Leo fue hacia la cola de pago, esperando su ración. Sus piernas temblaban, no por el esfuerzo, sino por la adrenalina residual. Tenía el papel quemándole la planta del pie.
+
+Cuando llegó su turno, Gordo lo miró. Sonrió. No era una sonrisa amable.
+
+—¿Qué quieres, novato?
+
+—Mi ración. Trabajé el turno completo.
+
+Gordo se rascó la cicatriz de la ceja.
+
+—¿Completo? Te encontré husmeando donde no debías. Y rompiste una caja durante el accidente.
+
+Leo sintió el hielo en el estómago.
+
+—No rompí nada.
+
+—Mi palabra contra la tuya, novato. ¿Quién crees que va a ganar?
+
+Leo apretó los puños. Sintió el calor del Flujo subiendo por sus venas, la tentación de usarlo, de plantar un Anclaje en la mandíbula de ese hijo de puta.
+
+*Si peleas, mueres*, le susurró una voz. *Si peleas, te registran. Y encuentran el papel.*
+
+Recordó a Elena. Recordó por qué estaba aquí.
+
+Soltó el aire. Relajó los puños.
+
+—¿Cuándo puedo volver? —preguntó con voz neutra.
+
+Gordo parpadeó, sorprendido de no encontrar resistencia.
+
+—Mañana al amanecer. Y quizás comas.
+
+Leo asintió. Se dio la vuelta.
+
+Salió del almacén con las manos vacías y el estómago vacío.
+
+Pero con algo más valioso que una ración.
+
+Caminó hasta el rincón oscuro entre dos estructuras de chatarra donde había decidido pasar la noche. Se sentó, se quitó el zapato y sacó la hoja arrugada.
+
+La alisó sobre su rodilla.
+
+*Vértebra 4 - Casa de Subastas.*
+*Diario de Campo (Dañado).*
+
+Elena no era una leyenda urbana. Su diario existía. Estaba aquí, en esta ciudad. Y lo iban a vender al mejor postor.
+
+Leo miró hacia arriba, hacia donde se alzaban las costillas superiores, donde vivía la élite.
+
+Mañana no volvería al almacén.
+
+Mañana iba a subir.
+
+Y nadie le iba a invitar a entrar. Tendría que colarse.
+
+Cerró los ojos, apretando el papel contra su pecho. El hambre le mordía el estómago, pero por primera vez en semanas, Leo sonrió.
+
+La caza había empezado de verdad.
+
+
+<div style="page-break-after: always;"></div>
+\newpage
+
+# CAPÍTULO 10: LA INFILTRACIÓN
+
+El hambre no era un dolor estático; era un parásito inquieto que roía las paredes del estómago de Leo con la paciencia de un geólogo picando piedra.
+
+Llevaba cuarenta y ocho horas subsistiendo a base de agua filtrada y un puñado de larvas secas que había logrado comprar con sus últimas monedas en un puesto callejero de las Costillas Bajas. Sabían a tierra y a ceniza, pero aportaban proteínas. O eso decía el vendedor, un hombre con la piel manchada de hongos grises que no paraba de toser.
+
+Leo ajustó la correa de su mochila improvisada —un saco de arpillera atado con cuerdas de tripa— y miró hacia arriba.
+
+Desde su posición en el andamio de mantenimiento del Sector 7, las "Vértebras" de Puerto Raíz no parecían una ciudad. Parecían un tumor calcificado creciendo en la columna de un dios muerto. La estructura ósea del Titán se alzaba hacia la bruma verde del techo forestal, una catedral de calcio blanco y poroso que brillaba con una luz enfermiza bajo los focos de gas y las lámparas de bio-luminescencia.
+
+Allí arriba, en la Vértebra 4, estaba la Casa de Subastas.
+
+Allí arriba el aire no olía a sudor rancio, excrementos de bestia y carne quemada. Olía a dinero. A especias importadas de la Zona 0. A ozono generado por máquinas de Flujo de alta gama.
+
+Y allí estaba el diario de Elena.
+
+Leo sintió el peso fantasma del manifiesto robado en su bota. "Lote 8902. Diario de Campo (Dañado)". Esas palabras habían sido su único combustible durante los últimos dos días. No la comida, no el descanso. La certeza. Elena había estado aquí. Elena había dejado un rastro. Y el sistema, en su infinita y banal crueldad, lo había catalogado como basura para venderlo al peso.
+
+—Arriba —susurró, su voz rasposa por la deshidratación.
+
+No había ascensores para gente como él. Los elevadores neumáticos que conectaban las Costillas con las Vértebras estaban custodiados por el Concordato. Enormes pistones de bronce y cristal que subían y bajaban con un silbido hidráulico, transportando mercancías y ciudadanos con permiso de residencia. Intentar colarse allí era suicidio. Los guardias no preguntaban; disparaban proyectiles de conmoción que te reventaban los tímpanos y luego te tiraban al vacío para que las bestias del suelo limpiaran el desastre.
+
+Pero Leo era arquitecto.
+
+Veía el mundo en términos de carga, tensión y resistencia. Y sabía algo que los ingenieros del Concordato a menudo olvidaban: la biología no es perfecta.
+
+El hueso se erosiona. El titán, aunque muerto hace siglos, seguía sujeto a las leyes de la física y la descomposición lenta, muy lenta. Había grietas.
+
+Caminó hacia el extremo de la pasarela, donde la estructura artificial de metal oxidado se encontraba con la superficie orgánica del hueso titánico. El viento soplaba fuerte a esta altura, agitando su cabello sucio y enfriando el sudor en su nuca. Abajo, a trescientos metros de caída vertical, las hogueras de las Costillas Bajas eran meros puntos de luz anaranjada en un abismo de sombras.
+
+Leo no miró abajo. Se quitó las botas desgastadas y las ató a su cintura. Necesitaba tacto. Necesitaba sentir la porosidad del hueso bajo sus pies descalzos.
+
+—Vamos —se dijo a sí mismo.
+
+Saltó.
+
+***
+
+La escalada fue una negociación brutal con la gravedad.
+
+La superficie del titán no era lisa. Estaba llena de cráteres microscópicos —para la escala del titán— que para Leo eran asideros perfectos del tamaño de un puño. Pero también estaba viva.
+
+No viva como el titán, sino viva de parásitos.
+
+A los veinte minutos de ascenso, Leo metió la mano en una grieta y la retiró con un siseo de dolor. Algo le había mordido. Un "Piojo de Hueso", un crustáceo carroñero del tamaño de un plato de postre, salió de la fisura chasqueando sus pinzas translúcidas. Tenía el caparazón del mismo color blanco sucio que el titán, un camuflaje evolutivo perfecto.
+
+El insecto se lanzó hacia su cara.
+
+Leo no podía soltarse. Estaba colgando de una sola mano, con los pies buscando apoyo en una protuberancia resbaladiza por el moho. Si usaba el Flujo para golpear, el destello de energía podría atraer a algo peor, o simplemente agotarlo antes de llegar a la cima.
+
+Giró la cabeza, esquivando las pinzas por milímetros. El olor del bicho era ácido, como vinagre concentrado.
+
+—Quita —gruñó, y usó su pie derecho para patear al crustáceo.
+
+La suela callosa de su pie impactó contra el caparazón. Hubo un crujido seco. El piojo perdió el agarre y cayó al vacío, agitando sus patas frenéticamente mientras desaparecía en la niebla.
+
+Leo respiró hondo, pegando la frente al hueso frío. Su corazón martilleaba contra las costillas.
+
+—Calma. Quietud.
+
+Forzó a su metabolismo a bajar de revoluciones. No era la "Quietud" perfecta del Maestro, esa invisibilidad existencial que borraba tu presencia del mundo, pero era suficiente para calmar el temblor de sus manos. Cerró los ojos un segundo, visualizando el mapa estructural que había memorizado.
+
+Estaba a la altura de las lumbares torácicas. Le faltaban cien metros para la plataforma de servicio de la Vértebra 4.
+
+Continuó subiendo.
+
+El viento cambió a medida que ascendía. Se volvió más frío, más limpio, pero también más fuerte. Traía olores de la selva profunda: la humedad de los helechos kilométricos, el dulce hedor de la descomposición fúngica de la Zona 2 a lo lejos. Era un recordatorio constante de dónde estaban. Extramuros. Aquí, la civilización humana era solo un moho tenaz aferrado al esqueleto de los verdaderos dueños del mundo.
+
+Cuando sus dedos tocaron el borde de metal frío de la plataforma de mantenimiento, sus músculos ardían como si le hubieran inyectado plomo líquido.
+
+Se izó con un último gruñido de esfuerzo, rodando sobre la rejilla metálica.
+
+Se quedó allí, tumbado boca arriba, mirando el "techo". No había cielo. Solo la inmensa bóveda de hojas y ramas entrelazadas de los árboles titánicos que eclipsaban el sol real. La luz que bañaba Puerto Raíz era artificial, un ciclo de día y noche simulado por enormes espejos y quemadores de gas.
+
+Leo se miró las manos. Estaban despellejadas, sangrando en las yemas. Se lamió la sangre mecánicamente. Hierro y sal.
+
+—Estás dentro —se dijo.
+
+Se levantó, tambaleándose un poco. Se calzó las botas. Se sacudió el polvo de hueso de la ropa.
+
+La Vértebra 4 se abría ante él.
+
+***
+
+El contraste fue como una bofetada.
+
+Leo salió de la zona de mantenimiento, deslizándose entre dos generadores que zumbaban con la vibración grave del Flujo contenido, y se encontró en una calle comercial.
+
+Se detuvo en seco, pegándose a la pared.
+
+El suelo no era de rejilla oxidada ni de hueso desnudo. Estaba pavimentado con losas de madera pulida, madera de "Roble Sangre", un material que en las Costillas Bajas costaba una fortuna el kilo. Aquí, la gente lo pisaba.
+
+Las farolas no eran antorchas de aceite humeante. Eran esferas de cristal que contenían "Luciérnagas de Profundidad", organismos bioluminiscentes que emitían una luz azulada, constante y fría. Daba a toda la avenida un aspecto onírico, submarino.
+
+Pero lo peor era la gente.
+
+Pasó una pareja caminando del brazo. Él llevaba una levita de seda de araña, brillante e impermeable. Ella, un vestido que parecía hecho de pétalos de orquídea preservados. Reían. No tenían armas visibles. No tenían cicatrices en la cara. Sus pieles eran suaves, hidratadas, sin las manchas de hongos o quemaduras solares que marcaban a los trabajadores de abajo.
+
+Leo se miró a sí mismo en el reflejo de un escaparate.
+
+Vio a un salvaje. Pelo enmarañado, ojos hundidos con ojeras violáceas, ropa hecha de retales de cuero y lona técnica robada. Una cicatriz reciente cruzaba su mejilla izquierda.
+
+Se sintió sucio. Y luego, inmediatamente después, se sintió peligroso.
+
+Ellos eran ovejas en un corral de lujo. Él era el lobo que acababa de saltar la valla.
+
+—Control de paso —oyó una voz metálica.
+
+Leo se fundió con las sombras de un portal. Un escuadrón de Vanguardias del Concordato marchaba por el centro de la calle.
+
+No eran los guardias matones de abajo. Estos llevaban armaduras completas de injerto quitinoso quitinoso, placas de color negro mate extraídas de insectos Clase C. Sus cascos tenían visores multi-espectrales. En sus cinturones colgaban "Varas de Disrupción", armas de contacto diseñadas para anular el Flujo de un oponente mediante una descarga neuro-eléctrica.
+
+Leo contuvo la respiración. Activó su **Quietud** al máximo.
+
+*Soy una piedra. Soy una mancha de aceite. No tengo calor. No tengo intención.*
+
+Los Vanguardias pasaron a tres metros de él. El líder, un hombre alto con el rango de Capitán pintado en la hombrera, giró la cabeza ligeramente hacia el portal donde Leo se ocultaba. El visor brilló en rojo suave.
+
+Leo no parpadeó. Su corazón latía a cuatro pulsaciones por minuto.
+
+El Capitán se detuvo. Olfateó el aire. Luego, sacudió la cabeza y siguió marchando.
+
+—Nada. Interferencia estática —dijo por la resonancia.
+
+Cuando se alejaron, Leo soltó el aire que quemaba en sus pulmones. El sudor frío le bajaba por la espalda. Esos tipos podían matar a una Bestia Clase C coordinados. A él lo habrían despedazado en segundos.
+
+Se movió rápido. El manifiesto tenía un mapa esquemático del nivel.
+
+*Casa de Subastas. Muelle de Carga Sur.*
+
+***
+
+La Casa de Subastas era un edificio obsceno.
+
+Habían excavado una cavidad en la propia espina dorsal de la vértebra y habían incrustado una fachada de mármol importado. Mármol. Traer piedra pesada desde fuera de la selva debía haber costado más vidas de las que Leo quería contar.
+
+Rodeó el perímetro, evitando las cámaras de seguridad (lentes biológicas conectadas a nervios ópticos en jarras de conservación, tecnología antigua y grotesca pero efectiva) y los guardias estáticos.
+
+El Muelle de Carga Sur estaba en la parte trasera.
+
+Leo se agazapó tras una pila de contenedores de "Seda de Gusano Titán". Observó.
+
+Era una operación industrial. Cargadores (estos sí, con ropa de trabajo, pero limpia y entera) movían cajas desde los camiones de transporte hacia el interior. Había un punto de control. Un arco detector de metales y Flujo. Y un hombre sentado en una mesa alta.
+
+El Tasador.
+
+Llevaba un monóculo que Leo reconoció: una Lente de Aumento de Joyero modificada con filtros de espectro. Su trabajo no era solo ver el objeto, era ver su "aura", su residuo de Flujo.
+
+Leo necesitaba acercarse. Pero el arco detector era un problema. Si pasaba por ahí, su "Pieza" —la llave negra que llevaba siempre pegada al pecho— haría saltar las alarmas. Aunque no emitía Flujo activo, su densidad era tal que los sensores la leían como un agujero negro de materia.
+
+Miró arriba.
+
+El techo del muelle tenía vigas de soporte expuestas. Y había una grúa de carga, un brazo mecánico hidráulico que se movía, llevando una red llena de cajas.
+
+*Arriesgado*, pensó.
+
+*Necesario.*
+
+Esperó a que la grúa girara hacia los contenedores donde él se ocultaba. El operador de la grúa, un tipo aburrido que fumaba un cigarro de hierbas, no miraba abajo.
+
+Leo saltó.
+
+Se agarró a la red de carga. El balanceo fue brusco. Se aferró a las cuerdas, colgando sobre el vacío del muelle. La grúa giró de nuevo, llevándolo por encima del arco de seguridad, por encima de los guardias, directo hacia la zona de clasificación.
+
+Cuando la red bajó, Leo se soltó un segundo antes de que tocara el suelo, rodando para disipar el impacto detrás de una pila de jaulas vacías.
+
+Nadie gritó. Nadie lo vio.
+
+Se asomó entre los barrotes de una jaula. Estaba a cinco metros del Tasador.
+
+Podía oír su voz, nasal y arrogante.
+
+—Lote 8890. Piel de reptil, mal curada. A la pila de "Saldos". Lote 8891. Dientes de Sable-Sierra. Buen estado. Subasta principal.
+
+Leo observó el proceso. Era una carnicería burocrática. Los restos de aventuras, de vidas perdidas, de expediciones suicidas, reducidos a números y pilas.
+
+Y entonces, llegó.
+
+Un cargador dejó una caja de madera reforzada sobre la mesa. Tenía una etiqueta amarilla.
+
+—Lote 8902—leyó el Tasador.
+
+Abrió la caja. Leo se tensó como un resorte, listo para... ¿para qué? ¿Saltar y robarlo delante de veinte guardias? No. Tenía que ver. Tenía que confirmar.
+
+El Tasador sacó un cuaderno.
+
+Era de cuero viejo, manchado de humedad y algo oscuro que parecía sangre seca. Tenía una flor prensada pegada en la cubierta con resina. Una flor azul.
+
+Leo sintió que se le cortaba la respiración. *La flor de la Zona 2.* Elena la había dibujado mil veces en sus cartas antes de irse.
+
+El Tasador abrió el cuaderno con unas pinzas, como si tocara algo infecto.
+
+—Puaj —hizo una mueca—. Papel mojado y garabatos.
+
+—¿Señor? —preguntó el escriba a su lado.
+
+—Mira esto. "Teorías sobre la simbiosis de esporas". "Mapas de flujo subterráneo". Es basura pseudocientífica. Otra loca que creía que podía entender el Bosque en lugar de quemarlo.
+
+Cerró el cuaderno de golpe.
+
+Leo apretó los dientes tan fuerte que creyó oír rechinar el esmalte. *Esa loca sabía más de lo que tú aprenderás en cien vidas, parásito.*
+
+—¿A la incineradora? —sugirió el escriba.
+
+El corazón de Leo se detuvo.
+
+El Tasador dudó. Se ajustó el monóculo.
+
+—No. El cuero de la tapa es de Piel de Víbora Ciega. Vieja, pero tiene textura. Y el papel... es papel pre-Colapso. De alta calidad. —Hizo un gesto despectivo—. Pésalo. Que lo vendan como materia prima al chatarrero.
+
+—¿A Aris?
+
+—Sí, a ese viejo buitre. Le gustan estas porquerías "históricas". Quizás le saque partido al cuero para encuadernar algo decente.
+
+El escriba marcó la caja con tiza roja. "CHATARRA / ARIS".
+
+Leo exhaló. No lo iban a destruir. Todavía.
+
+El cargador se llevó la caja hacia un montacargas lateral marcado como "Salida de Residuos".
+
+Leo memorizó el camino. Ya no necesitaba robarlo aquí, rodeado de guardias y tecnología. Iba a salir de la zona de seguridad y entrar en el flujo de residuos de la ciudad.
+
+Pero antes de irse, miró una última vez al Tasador.
+
+El hombre estaba limpiándose las manos con un pañuelo de seda, borrando el "contacto" con el diario de Elena.
+
+*Algún día*, prometió Leo en silencio, *algún día volveré y te enseñaré el verdadero precio de las cosas.*
+
+Se deslizó hacia las sombras, siguiendo el rastro de la caja marcada con tiza roja. El camino hacia el anticuario Aris sería peligroso, bajando de nuevo hacia los niveles intermedios, donde el comercio legal se mezclaba con el mercado negro.
+
+Pero Leo ya no sentía el cansancio. Ya no sentía el hambre.
+
+El parásito en su estómago se había callado. Ahora tenía un objetivo.
+
+Cazar.
+
+
+<div style="page-break-after: always;"></div>
+\newpage
+
+# CAPÍTULO 11: EL ANTICUARIO
+
+La noche en la Vértebra 4 no era oscura. Era de un azul eléctrico y enfermizo, el color de una contusión bajo la piel.
+
+Farolas de cristal de cuarzo, rellenas de gel bioluminiscente extraído de las profundidades de la Zona 2, zumbaban con una frecuencia que hacía rechinar los dientes de Leo. Pasó las horas muertas acurrucado en el hueco de un compresor de aire en las plataformas de mantenimiento, temblando no solo por el frío, sino por la bajada de azúcar en sangre. El hambre ya no era un dolor, sino una vibración constante que desenfocaba su vista.
+
+No durmió. En Extramuros, dormir sin seguridad era invitar a la muerte.
+
+Cuando el ciclo de luz artificial comenzó a intensificarse —simulando un amanecer que nunca llegaba a romper la bóveda de árboles titánicos— Leo se puso en movimiento.
+
+Tenía un nombre: Aris.
+Tenía una dirección: Callejón del Óxido, Sector Este.
+Y tenía una motivación que pesaba más que el miedo: el diario de Elena.
+
+El distrito comercial de la Vértebra 4 empezaba a despertar. Mercaderes con túnicas de seda de araña abrían sus puestos, exhibiendo frutas que parecían joyas y cortes de carne que sangraban néctar. El olor era una tortura. Leo tuvo que morderse el interior de la mejilla para que el dolor distrajera a su estómago.
+
+Se movió por los tejados, saltando de alero en alero, utilizando su formación de arquitecto para leer la estructura de la ciudad. Donde otros veían un caos de edificios adheridos al hueso del titán, Leo veía vectores de carga, puntos de apoyo y rutas de fuga.
+
+El Callejón del Óxido hacía honor a su nombre.
+
+Era una grieta en la arquitectura elegante del nivel, un pasillo estrecho donde la humedad se condensaba en gotas rojas que manchaban las paredes. Al final del callejón, hundida en la base de una apófisis vertebral, estaba la tienda.
+
+No tenía escaparate. Solo una puerta de acero naval —reciclado de alguna reliquia pre-Colapso— y un letrero de neón parpadeante que zumbaba como un insecto moribundo:
+
+**ARIS: RECUPERACIONES Y CURIOSIDADES BIOLÓGICAS**
+*(No se fía. No se pregunta. Si muerdes, muerdo).*
+
+Leo se dejó caer desde una cornisa, aterrizando en silencio detrás de un contenedor de basura orgánica que apestaba a descomposición ácida.
+
+Eran las 07:58. El manifiesto decía que la entrega sería a primera hora.
+
+A las 08:00 en punto, un ojo vigÃ­a de carga del Concordato —un coleóptero mecánico de seis patas, zumbando con rotores en lugar de alas— bajó del cielo. Llevaba una caja sujeta con pinzas magnéticas.
+
+El ojo vigÃ­a aterrizó frente a la puerta de acero. Escaneó el código de barras grabado en el metal. Soltó la caja. Y se marchó volando con la indiferencia de una máquina.
+
+La caja del Lote 8902.
+
+La puerta de la tienda se abrió con un sonido húmedo, como si las bisagras estuvieran engrasadas con grasa animal en lugar de aceite.
+
+Una mano salió.
+No. No era una mano. Era una garra mecánica, un armadura de quitina reforzada y pistones hidráulicos que cubría un brazo humano escuálido. La garra atrapó la caja con violencia y la arrastró hacia la oscuridad.
+
+La puerta se cerró.
+
+Golpear.
+
+Leo esperó un minuto, contando los latidos de su propio corazón para medir el tiempo. Luego, cruzó el callejón.
+
+Sabía que la puerta principal era impenetrable sin explosivos. Pero Aris era un recuperador. Su tienda tendría que tener ventilación para los químicos, salidas de residuos, puntos débiles.
+
+Rodeó la estructura. En la parte trasera, encontró una rejilla de ventilación a la altura del suelo. El aire que salía por ella olía a formol, a ozono y a polvo antiguo.
+
+Leo sacó su ganzúa —un trozo de alambre de alta tensión que había robado días atrás—. Se tumbó en el suelo húmedo. Trabajó la cerradura de la rejilla con paciencia de cirujano, ignorando el temblor de sus dedos.
+
+*Click.*
+
+La rejilla cedió. Leo se arrastró hacia dentro, hacia la garganta del monstruo.
+
+***
+
+El interior de la tienda no era un comercio. Era la autopsia de un mundo.
+
+Leo emergió detrás de una pila de cajas y se quedó paralizado. El lugar era inmenso, mucho más grande de lo que sugería el exterior, excavado profundamente en el hueso del titán. Y estaba lleno.
+
+No de antigüedades. De *partes*.
+
+Había estanterías repletas de frascos de vidrio donde flotaban órganos que latían suavemente, alimentados por soluciones nutritivas. Ojos del tamaño de balones de fútbol que seguían sus movimientos. Garras cercenadas que aún goteaban veneno en bandejas de recolección.
+
+Y tecnología. impulsores de flujo de combustión interna fusionados con tejido muscular sintético. Pantallas de cristal líquido conectadas a cerebros en cubas. La fusión blasfema de biología y mecánica que el Concordato prohibía oficialmente pero que todos codiciaban.
+
+Leo activó su **Quietud**.
+
+Fue instintivo. Sintió la presión de mil miradas —algunas muertas, otras preservadas— y su cuerpo reaccionó borrando su presencia. Su respiración se volvió superficial. Su temperatura corporal bajó para igualar la del ambiente frío del almacén.
+
+Se movió entre las estanterías como un fantasma.
+
+El suelo estaba lleno de trampas. Leo vio hilos de tripa de gusano —invisibles para el ojo inexperto, pero brillantes para alguien que sabía buscar tensiones estructurales— cruzando el pasillo. Vio placas de presión disimuladas bajo alfombras de piel de oso-musgo.
+
+Avanzó paso a paso, una danza mortal en silencio absoluto.
+
+Al fondo de la nave, bajo un cono de luz amarilla, estaba Aris.
+
+El anticuario era un hombre pequeño, encorvado sobre una mesa de trabajo manchada de sangre y aceite. Su espalda era un mapa de cicatrices. Pero lo más inquietante eran sus brazos. Ambos estaban envueltos en armaduras de quitina reforzada de bronce y hueso, amplificadores de fuerza que le permitían manipular objetos pesados con precisión milimétrica.
+
+Llevaba unas gafas de joyero con múltiples lentes rotatorias que zumbaban suavemente, ajustando el enfoque cada segundo.
+
+Y estaba abriendo la caja.
+
+Leo vio cómo las pinzas mecánicas de Aris sacaban el diario de Elena. El cuero de la tapa estaba desgastado, manchado de barro y sangre seca. La flor azul prensada en la portada parecía brillar con luz propia en la penumbra.
+
+—Basura del Concordato... —murmuró Aris. Su voz sonaba como grava triturada—. Veamos qué secretos guardas, pequeña suicida.
+
+Leo salió de las sombras.
+
+—No lo abras.
+
+La reacción de Aris fue instantánea. No se giró. Simplemente, uno de los brazos mecánicos que colgaban del techo sobre él —Leo no lo había visto hasta ahora— cobró vida y apuntó un cañón de aire comprimido directo a la cabeza de Leo.
+
+—Quieto —dijo Aris, sin dejar de mirar el diario—. Si te mueves, te clavo un remache en el ojo antes de que tus sinapsis registren el sonido.
+
+Leo se quedó de piedra. El cañón oscilaba suavemente, siguiendo su respiración.
+
+—Tienes buena "Quietud", chico —dijo el viejo, girándose lentamente en su silla giratoria—. No activaste los sensores de presión. Ni las alarmas de movimiento. Casi me sorprendes. Casi.
+
+Las lentes de Aris zumbaron, una miríada de ojos de cristal enfocándose en Leo.
+
+—¿Quién eres? ¿Otro espía del Concordato? ¿Un ladrón de órganos? Estás demasiado flaco para ser un asesino.
+
+—Soy el dueño de ese libro —dijo Leo.
+
+Aris soltó una carcajada seca, metálica.
+
+—¿Dueño? En Extramuros nadie es dueño de nada, chico. Solo somos custodios temporales hasta que alguien más fuerte nos lo quita. —El anticuario se inclinó hacia delante, las lentes de sus gafas zumbando y rotando mientras escaneaban el cuerpo de Leo con luz ultravioleta—. Además, mírate. No tienes queratosis por radiación en la piel. Tu densidad ósea es uniforme, sin las marcas de estrés de la gravedad variable. Y tu ropa... bajo esa costra de barro, eso es polímero sintético de grado civil. Aquí fuera vestimos cuero de bestia o lona reciclada. Llevas el sello de la "Pecera" grabado en el ADN.
+
+—Vengo de la Ciudad —corrigió Leo, ofendido por el tono pero manteniendo la posición.
+
+—La Ciudad... —Aris paladeó la palabra como si fuera un chiste privado—. Qué nombre tan digno. Aquí fuera la llamamos "La Reserva". Porque eso es lo que sois. Una especie en peligro de extinción guardada en un frasco.
+
+El viejo movió un dedo enguantado en metal y presionó un botón en su mesa. Una sección de la pared trasera de la tienda, que parecía sólida, se deslizó revelando un ventanal de vidrio reforzado sucio.
+
+Daba al vacío. A la caída vertiginosa desde la Vértebra 4 hacia el abismo del bosque.
+
+—Mira allí —ordenó Aris, señalando el horizonte lejano.
+
+Leo miró. Al principio no vio nada, solo la inmensidad verde oscuro de la selva titánica bajo la noche. Pero entonces, Aris ajustó un filtro polarizado en el cristal.
+
+Y Leo la vio.
+
+A cientos de kilómetros, flotando en la oscuridad como una medusa moribunda, había una semiesfera perfecta. No era tierra. Era luz. Un campo de energía trémula que distorsionaba el aire a su alrededor. Dentro de esa burbuja, brillaba una luz cálida, artificial, minúscula en comparación con la escala monstruosa del mundo real.
+
+—¿Ves esa mancha de luz? —dijo Aris con desprecio—. Eso es tu mundo. Eso es la Reserva.
+
+Leo sintió que las piernas le fallaban. Era... pequeña. Absurdamente pequeña. Una canica brillante perdida en un océano de tinieblas.
+
+—Es un Velo de Desfase —explicó Aris, disfrutando del shock en la cara de Leo—. Una proyección holográfica y atmosférica. El cielo azul que recuerdas es una pantalla. El aire que respirabas es recirculado. El Cónclave mantiene esa burbuja encendida quemando suficiente Flujo para alimentar un sol, solo para que las "Calamidades" de aquí fuera no os vean.
+
+El anticuario se giró de nuevo hacia él.
+
+—No tienes casa a la que volver, "dueño". Si ese generador falla, tu preciosa ciudad se apaga y la presión atmosférica real de este planeta os aplastará los pulmones en tres segundos. Eres un pez que ha saltado de la pecera y ahora se queja de que el océano es demasiado grande.
+
+Leo se quedó mudo. La imagen de la burbuja le había taladrado el cerebro. Toda su vida... todas sus certezas arquitectónicas... eran mentira. Vivía en una maqueta.
+
+—Ella lo sabía —susurró Leo, mirando el diario.
+
+—¿Quién? ¿La chica muerta? —Aris cerró el libro de golpe—. Probablemente. Por eso cruzó. Nadie salta al vacío a menos que sepa que la casa está en llamas.
+
+—No está muerta —dijo Leo, la ira reemplazando al shock. Apretó los puños—. Y yo no vengo a negociar.
+
+Aris levantó una ceja metálica.
+
+—¿Ah, no? ¿Vienes a robarme?
+
+—Vengo a advertirte.
+
+—¿Advertirme? —El viejo sonrió, mostrando dientes de cromo—. ¿De qué? ¿De que se te va a pasar la hora de la siesta?
+
+—No soy el único que busca ese libro.
+
+—¿Ah, sí? —Aris se rió, relajándose en su silla—. ¿Quién más? ¿Tu madre?
+
+**BOOM.**
+
+La puerta de acero, esa puerta reforzada capaz de aguantar el embestida de un rinoceronte, no se abrió. **Explotó.**
+
+Salió disparada hacia el interior de la tienda, cruzando el aire como una hoja de papel, y se empotró en una estantería de frascos de órganos, duchando el suelo de cristal y fluidos conservantes.
+
+El aire se llenó de polvo y humo acre.
+
+Leo se lanzó al suelo, rodando detrás de un banco de trabajo.
+
+Por el hueco humeante donde había estado la puerta, entraron tres sombras.
+
+No caminaban. Se deslizaban.
+
+Eran altos, vestidos con armaduras de polímero negro que absorbían la luz. No hacían ruido. Donde pisaban, el suelo crujía, pero no había sonido de botas. Llevaban máscaras de gas estilizadas, lisas, sin rasgos humanos, solo una línea roja brillante donde deberían estar los ojos.
+
+En el pecho, grabado en el polímero, un símbolo rojo sangre: **Una Guadaña rota.**
+
+—Segadores... —susurró Aris. El viejo había palidecido. Su arrogancia se había evaporado.
+
+El líder de los intrusos, un gigante de más de dos metros y medio, avanzó. Llevaba un martillo de guerra en la mano, una monstruosidad de metal negro con un núcleo de Flujo que pulsaba como un corazón enfermo.
+
+—El Compendio —dijo el gigante. Su voz no sonaba humana. Sonaba sintetizada, metálica, filtrada por mil procesadores—. Entrégalo. Y tu muerte será rápida.
+
+Aris agarró una escopeta de debajo de la mesa.
+
+—¡Atrás, fanáticos! ¡Esto es propiedad privada!
+
+Disparó.
+
+El disparo de Aris era munición shrapnel electrificada. Impactó de lleno en el pecho del gigante.
+
+Nada.
+
+El Segador ni se inmutó. La electricidad bailó sobre su armadura negra y se disipó hacia el suelo sin dejar ni un rasguño.
+
+—Heregia tecnológica —dijo el gigante.
+
+Levantó el martillo y golpeó el suelo.
+
+La onda de choque fue física. Leo sintió cómo sus órganos vibraban. El suelo de la tienda se fracturó. Estanterías enteras colapsaron. Aris salió despedido hacia atrás, chocando contra la pared con un crujido de huesos rotos.
+
+La escopeta cayó al suelo. El diario de Elena también.
+
+Cayó en tierra de nadie. Entre Leo, Aris y los Segadores.
+
+—Recuperad el objetivo —ordenó el gigante—. Quemad el resto.
+
+Los otros dos Segadores avanzaron. Sacaron lanzallamas de sus espaldas. No lanzallamas de gas, sino de bilis cáustica químico. Un fuego verde, líquido, que derretía el metal.
+
+Leo miró el diario. Estaba a cinco metros.
+Miró la salida trasera. A diez metros.
+Miró a los Segadores.
+
+El miedo le gritaba que corriera. *Huye. Sobrevive.*
+
+Pero la voz de Elena era más fuerte. *Encuéntrame.*
+
+Leo canalizó su Flujo.
+
+Sintió el calor en el estómago, quemando las pocas calorías que le quedaban. No tenía energía para una pelea prolongada, ni para ataques. Pero tenía suficiente para un movimiento.
+
+*Sobrecarga de piernas.*
+
+Leo explotó desde su escondite. Fue un borrón.
+
+Se lanzó *hacia* los Segadores, no lejos de ellos.
+
+El Segador de la izquierda levantó su lanzallamas, sorprendido por la velocidad suicida del intruso. Leo se deslizó por el suelo, pasando bajo el chorro de fuego verde que incineró una mesa de trabajo detrás de él.
+
+Su mano agarró el diario.
+
+El cuero estaba caliente.
+
+—¡Objetivo asegurado! —gritó el Segador, girando para quemarlo.
+
+Leo no se detuvo. Usó el impulso del deslizamiento para patear una estantería inestable.
+
+La estructura, llena de impulsores de flujo pesados, se vino abajo sobre el Segador, sepultándolo bajo toneladas de metal y chatarra. El hombre gritó —un sonido humano, al fin— mientras el fuego de su propia arma se descontrolaba.
+
+—¡Mátenlo! —rugió el gigante.
+
+Leo corrió hacia la puerta trasera.
+
+El gigante se interpuso, moviéndose con una velocidad aterradora para su tamaño. Bloqueó la salida con su cuerpo masivo, levantando el martillo para aplastar a Leo como a un insecto.
+
+No había salida.
+
+Leo miró al gigante. Miró el martillo que bajaba.
+
+*Piensa. Eres arquitecto. Estructura.*
+
+El suelo ya estaba dañado por el primer golpe del martillo. Había grietas profundas en el hueso del titán.
+
+Leo plantó los pies. No esquivó.
+
+Canalizó todo el Flujo restante en su puño derecho. Sintió cómo sus tendones protestaban, cómo el hambre le mordía el cerebro.
+
+—¡¡ROMPETE!! —gritó.
+
+Y golpeó el suelo. No al gigante. Al suelo. Justo en la grieta principal.
+
+El impacto sobrecargado de Leo, sumado al daño estructural previo, fue el punto de quiebre.
+
+El suelo de la tienda colapsó.
+
+Hubo un estruendo de hueso partiéndose. El gigante perdió el equilibrio cuando el piso bajo sus pies se convirtió en un tobogán de escombros que caía hacia los niveles inferiores de la Vértebra.
+
+Leo saltó.
+
+Usó la cabeza del gigante —que caía— como punto de apoyo momentáneo, impulsándose hacia el marco de la puerta que aún resistía.
+
+Sus dedos se cerraron sobre el metal del marco. Quedó colgando sobre el abismo de polvo y destrucción.
+
+Escuchó el rugido de furia del gigante mientras caía hacia la oscuridad, seguido por el sonido de metal chocando contra metal.
+
+Leo se izó con un último gemido de esfuerzo.
+
+Salió al callejón trasero.
+
+La tienda de Aris era una ruina humeante a sus espaldas. El fuego verde empezaba a devorarlo todo.
+
+Leo tosió, escupiendo polvo blanco. Tenía el diario de Elena apretado contra el pecho como si fuera un hijo. Le dolía todo el cuerpo. Sentía que se iba a desmayar en cualquier momento. El coste del Flujo le estaba pasando factura: visión túnel, temblores incontrolables.
+
+Pero estaba vivo. Y tenía el libro.
+
+Miró el diario. Estaba chamuscado en un borde, pero intacto.
+
+—Lo tengo, Elena —jadeó.
+
+A lo lejos, sirenas del Concordato empezaban a aullar.
+
+Leo se obligó a ponerse de pie.
+
+Corrió.
+
+
+<div style="page-break-after: always;"></div>
+\newpage
+
+# CAPÍTULO 12: LA CACERÍA
+
+La alarma de Puerto Raíz no era una sirena mecánica. Era un aullido biológico.
+
+Sonaba como si el titán muerto estuviera recordando su propia agonía. El aire vibraba con una frecuencia tan baja que Leo la sentía en los dientes y en la médula de los huesos. Brotada de cuernos de resonancia instalados en las torres de vigilancia, la señal convertía la atmósfera en una gelatina de pánico.
+
+Leo corría.
+
+No era una carrera, era una huida animal. Sus pulmones ardían con cada inhalación de aire cargado de ozono y humo. Sus piernas, sobrecargadas por el uso del Flujo en la tienda de Aris, respondían con espasmos de dolor eléctrico. La hipoglucemia le nublaba la vista periférica, reduciendo su mundo a un túnel borroso donde solo existía el siguiente tejado, el siguiente salto, el siguiente segundo de vida.
+
+—¡Hostil localizado! ¡Sector 4-B!
+
+La voz amplificada venía de un ojo vigÃ­a de vigilancia que zumbaba sobre su cabeza, marcándolo con un haz de luz roja.
+
+Leo no miró arriba. Saltó.
+
+Cruzó el vacío entre dos almacenes de especias, aterrizando sobre un tejado de pizarra resbaladiza por el moho nocturno. Casi perdió el equilibrio. Sus botas chirriaron. Se dejó caer rodando para absorber el impacto, pero su cuerpo estaba al límite. Sintió cómo algo se desgarraba en su muslo izquierdo.
+
+—¡Mierda!
+
+Se levantó a duras penas, cojeando. Apretó el diario de Elena contra su pecho. Era lo único que lo mantenía en pie. Esa libreta de cuero manchado y la certeza de que, si se detenía, los Segadores lo desmembrarían.
+
+Miró atrás.
+
+No vio al gigante del martillo. Ese monstruo había caído. Pero vio a los otros dos.
+
+Eran sombras líquidas moviéndose sobre la arquitectura ósea de la ciudad. No corrían; fluían. Saltaban distancias imposibles para un humano normal, impulsados por micro-estallidos de Flujo que dejaban estelas de vapor tras ellos. Uno disparó su lanzallamas químico al aire, un arco de fuego verde que iluminó la noche, no para atacarle, sino para señalizar su posición a toda la maldita ciudad.
+
+*Son pastores*, pensó Leo con un escalofrío. *Me están guiando hacia una trampa.*
+
+Tenía que bajar. La Vértebra 4 era una ratonera de lujo. Necesitaba la suciedad, el caos y los laberintos de las Costillas Bajas.
+
+Giró hacia el borde de la plataforma, buscando las escaleras de servicio.
+
+Cerradas.
+
+Un campo de contención azul —energía pura zumbando entre postes de hueso— bloqueaba el acceso. El Concordato había sellado los niveles.
+
+—¡Atención, ciudadanos! —tronó la voz de la ciudad—. Nivel 4 sellado por amenaza biológica. Protocolo de cuarentena activo. Disparen a matar a cualquier corredor.
+
+*Amenaza biológica. Soy yo.*
+
+Leo miró el abismo. Cincuenta metros de caída libre hasta el siguiente nivel, la Vértebra 3. Sin escaleras. Sin ascensores.
+
+—Allí —susurró.
+
+Vio una grúa de construcción en el borde de un edificio a medio terminar. Era una estructura antigua de contrapesos y cables, utilizada para izar bloques de piedra caliza. El brazo de la grúa colgaba sobre el vacío.
+
+Los Segadores estaban a cien metros. Oía el susurro de sus armaduras y el siseo de sus respiradores.
+
+Leo corrió hacia la grúa.
+
+Las balas empezaron a llover a su alrededor. No balas de plomo, sino agujas de hueso afilado disparadas por rifles silenciados. Una le rozó la oreja, llevándose un trozo de piel. Otra se clavó en la madera podrida de un cajón a su lado.
+
+Llegó a la base de la grúa. Trepó por la estructura de hierro oxidado, ignorando el dolor en sus manos despellejadas.
+
+Entró en la cabina de control. Palancas, ruedas, cadenas. Tecnología muerta para manos muertas. No había tiempo de entenderla.
+
+Miró el cable principal que sostenía el brazo sobre el vacío. Era un trenzado de acero del grosor de su muñeca, tenso como una cuerda de violín.
+
+Los Segadores aterrizaron en el tejado. Se detuvieron. Sabían que estaba atrapado. El del lanzallamas levantó el arma, preparando el chorro letal.
+
+Leo sacó su cuchillo de hueso.
+
+—¿Queréis atraparme? —gritó, su voz rota por la fatiga—. ¡Venid a buscarme al infierno!
+
+Canalizó lo último que le quedaba de Flujo en su brazo derecho.
+
+Fue agónico. Su cuerpo, sin reservas de glucosa, empezó a consumir su propio tejido muscular para alimentar la energía. Sintió cómo sus fibras se rompían, cómo su sangre hervía.
+
+Golpeó el cable tensado.
+
+**¡CLANG!**
+
+El sonido fue como un disparo de cañón. El cable se partió, liberando toneladas de tensión acumulada. El latigazo de acero cortó el aire a centímetros de la cara de Leo, partiendo el techo de la cabina como si fuera papel.
+
+El brazo de la grúa cayó.
+
+Y Leo con él.
+
+La gravedad le agarró el estómago y se lo subió a la garganta. El mundo giró. Cielo verde, hueso blanco, ciudad negra. Todo se mezcló en un borrón de vértigo.
+
+El brazo de acero se estrelló contra el tejado de un almacén en la Vértebra 3.
+
+El impacto fue brutal. Metal retorciéndose, tejas explotando, madera astillándose. La cabina donde iba Leo se deformó, aplastándose como una lata.
+
+Leo salió despedido antes del impacto final, rodando por el tejado inclinado del almacén.
+
+Golpe. Dolor. Golpe. Crujido. Golpe. Oscuridad.
+
+Se detuvo contra una gárgola de piedra en el borde del edificio.
+
+Silencio.
+
+Durante un minuto eterno, Leo no supo si estaba vivo o muerto. No sentía las piernas. No sentía los brazos. Solo un zumbido agudo en los oídos y el sabor metálico de la sangre en la boca.
+
+—...levántate...
+
+La voz no era suya. Era un recuerdo. Mason, gritándole en el barro bajo la lluvia. *Si puedes oírte pensar, puedes levantarte.*
+
+Leo abrió un ojo. Estaba pegado de sangre.
+
+Vio el cielo. Vio el brazo de la grúa destrozado humeando a unos metros. Y, muy arriba, en el borde de la Vértebra 4, vio las siluetas de los Segadores mirando hacia abajo.
+
+No bajaron. La caída era suicida incluso para ellos.
+
+Leo tosió, y el dolor en su costado le dijo que tenía al menos dos costillas rotas. Intentó moverse. Sus piernas respondieron, aunque con lentitud geológica.
+
+Se arrastró hasta la sombra de una chimenea.
+
+Miró el diario.
+
+Estaba ahí, atrapado bajo su chaqueta. Arrugado, sucio, manchado de sangre fresca, pero entero.
+
+—Lo... tengo... —graznó.
+
+Pero la caza no había terminado.
+
+Las sirenas sonaban también en este nivel. Y el zumbido de los coleópteros de rastro se acercaba.
+
+Leo se obligó a ponerse de pie. El mundo se inclinó peligrosamente a la izquierda. Se apoyó en la pared, respirando en jadeos cortos y superficiales.
+
+Tenía que desaparecer.
+
+Bajó por una escalera de incendios que crujía ominosamente bajo su peso. Llegó al nivel de calle de la Vértebra 3.
+
+Esta era una zona industrial. El aire apestaba a curtidos y a químicos fuertes. *Bien*, pensó su cerebro reptiliano. *El olor tapará mi rastro.*
+
+Cojeó por callejones oscuros, evitando las avenidas principales donde patrullaban los vehículos blindados del Concordato. Buscaba un agujero. Una madriguera.
+
+Llegó a una sección de la muralla exterior de la vértebra, donde una vieja planta de tratamiento de aguas residuales parecía abandonada. "PELIGRO BIOLÓGICO", decía un cartel amarillo casi borrado por el moho.
+
+Leo forzó la puerta lateral. Estaba oxidada, pero cedió.
+
+El interior era una caverna de tuberías gigantes y tanques vacíos. Olía a muerte antigua y a cloro.
+
+Leo avanzó hasta encontrar una pasarela de control elevada, oculta en la penumbra. Se dejó caer en el suelo de rejilla.
+
+Ya no podía más. Su cuerpo dijo basta.
+
+Se ovilló en posición fetal, abrazando el diario. El frío del metal se filtraba en sus huesos, pero era mejor que el fuego de los lanzallamas.
+
+Su mano temblorosa acarició la cubierta de cuero.
+
+Necesitaba saber. Necesitaba entender por qué casi muere tres veces en una hora por este cuaderno.
+
+Pero primero... dormir.
+
+Sus ojos se cerraron. La oscuridad lo reclamó antes de que su cabeza tocara el suelo.
+
+Fuera, la ciudad seguía rugiendo, buscando a su presa. Pero dentro, en el silencio tóxico de la fábrica, el fugitivo descansaba.
+
+Y bajo su mano inerte, el diario de Elena esperaba para contar su historia.
+
+
+<div style="page-break-after: always;"></div>
+\newpage
+
+# CAPÍTULO 13: EL CÓDIGO DE ELENA
+
+La fábrica abandonada olía a química muerta.
+
+Era un hedor penetrante —amoniaco, azufre y algo dulzón como fruta podrida— que se adhería a la ropa y quemaba las fosas nasales. Leo estaba ovillado en una plataforma de control elevada, rodeado de consolas oxidadas y cristales rotos.
+
+Su cuerpo era un mapa de dolor. Tres costillas rotas en el lado izquierdo convertían cada respiración en una puñalada. Sus manos estaban en carne viva, las yemas quemadas por la fricción del cable de fibra antigua. Y el hambre... el hambre había pasado de ser un rugido a ser un frío silencio que le entumecía las extremidades. La hipoglucemia estaba empezando a apagar sistemas no esenciales.
+
+Pero su mente estaba despierta.
+
+Tenía el diario.
+
+Lo abrió con manos temblorosas. La cubierta de cuero de piel de víbora estaba manchada de su propia sangre. La flor azul prensada en la portada parecía brillar con una luz propia bajo el haz tenue de su linterna de Flujo.
+
+—Hola, Elena —susurró.
+
+Pasó la primera página.
+
+Sin fechas. Sin preámbulos. Elena no escribía un diario íntimo; escribía un registro de campo.
+
+*"Día 1. Cruce exitoso. La atmósfera es más densa aquí. Saturación de oxígeno al 35%. Mi cuerpo reaccionó con fiebre y temblores durante las primeras seis horas. Adaptación forzada. Nota: La flora local no es solo grande; es agresiva. He visto una orquídea carnívora digerir un roedor del tamaño de un perro."*
+
+Leo sonrió débilmente. Esa era ella. Analítica, fría, incapaz de dejar de tomar notas incluso cuando se estaba muriendo de fiebre.
+
+Pasó las páginas con cuidado.
+
+Mapas. Esquemas de plantas. Disecciones rápidas de insectos. Y luego, el tono cambiaba. La letra se volvía más apretada, más nerviosa.
+
+*"Semana 3. Puerto Raíz es un tumor. Viven dentro de un cadáver, parasitando los huesos de un titán que murió hace siglos. La sociedad aquí es una réplica brutal de la Reserva, pero sin las mentiras del Concordato. Sin la cúpula de luz. Sin el cielo azul proyectado. Aquí la verdad te mata, pero al menos es verdad."*
+
+Leo sintió un pinchazo en el estómago. *Las mentiras.* Aris le había mostrado la realidad hacía apenas unas horas. La jaula de energía. El sol falso. Elena ya lo sabía entonces. Ella siempre lo supo.
+
+*"Semana 4. He oído el nombre. Caine. Lo susurran en las tabernas de las Costillas Bajas. Lo temen en las oficinas de las Vértebras. Dicen que es un fantasma, una leyenda de la Era de la Exploración. Un hombre que entró en el Bosque Profundo y volvió... cambiado."*
+
+Leo se detuvo. *Caine.*
+
+Su abuelo. El hombre que le contaba historias antes de dormir. El hombre que desapareció "en un accidente de laboratorio" según la versión oficial, o "perdió la cabeza y huyó" según los rumores familiares.
+
+Siguió leyendo.
+
+*"Semana 5. He accedido a los registros del Concordato. Me costó tres dosis de antibióticos de amplio espectro —aquí valen más que el oro— sobornar al archivero. He visto los archivos."*
+
+*"Caine no es un mito. Es una Anomalía Biológica Clasificada."*
+
+Leo sintió un escalofrío que no tenía nada que ver con el frío de la fábrica.
+
+*"Los registros datan de hace 200 años. Doscientos. Y las fotos... las descripciones físicas... son idénticas. No envejece. Su firma de Flujo es una aberración termodinámica: no pierde energía, la cicla. Es un móvil perpetuo biológico."*
+
+*"La teoría del Concordato es que absorbió la esencia de un Titán Omega. Se convirtió en parte del ecosistema. Por eso lo cazan. No para matarlo, sino para diseccionarlo. Quieren la fórmula de la inmortalidad."*
+
+Leo cerró los ojos un momento.
+
+Su abuelo. El hombre que le enseñó a tallar madera. El hombre que le dio la Pieza —esa llave negra que ahora quemaba contra el pecho de Leo— y le dijo: *"Guárdala. Es la única verdad que te dejo."*
+
+No era un científico loco.
+
+Era un monstruo. O un dios. O algo intermedio.
+
+Leo volvió al cuaderno. Las últimas páginas eran diferentes. Escritas con prisa. Manchas de barro. Letras deformadas por la urgencia.
+
+*"Me han encontrado. Los Segadores saben que estoy preguntando. El Concordato ha puesto precio a mi cabeza. Tengo que salir de Puerto Raíz."*
+
+*"Las salidas principales están vigiladas. Pero el titán tiene raíces. Conductos linfáticos calcificados que bajan hacia el suelo, hacia la Zona 2. Nadie los usa porque llevan directo al Mar de Esporas. Dicen que es suicidio."*
+
+*"Pero Caine está allí. He rastreado su firma. 'La Primavera del Inmortal'. Donde él pisa, la corrupción retrocede. Ha dejado un rastro de flores a través del infierno tóxico de la Zona 2."*
+
+*"Si sigo las flores, lo encontraré. Si lo encuentro, encontraré respuestas."*
+
+Había un mapa al final. Un plano esquemático de los niveles inferiores de la Vértebra 3.
+
+Una línea roja marcaba una ruta a través de los sistemas de alcantarillado industrial.
+
+*"Entrada Oculta: Drenaje Norte / Acceso Mantenimiento 04. Cuidado con los Ojos Rojos."*
+
+Leo miró el mapa. Luego miró a su alrededor.
+
+Estaba en la zona industrial de la Vértebra 3. El Acceso Mantenimiento 04 debía estar cerca.
+
+Elena no estaba muerta. Elena no estaba cautiva. Elena había saltado al vacío, al lugar más peligroso del mundo, persiguiendo a una leyenda que resultó ser su abuelo.
+
+—Estás loca —dijo Leo, y la admiración le ahogó la voz—. Estás completamente loca.
+
+*CRASH.*
+
+El sonido de cristal roto abajo, en la planta baja, lo sacó de su trance.
+
+Leo apagó la linterna al instante.
+
+Se quedó inmóvil. Activó su **Quietud** por instinto, aunque su cuerpo estaba tan agotado que mantenerla era como aguantar la respiración bajo el agua.
+
+Luces tácticas barrieron la oscuridad de la nave. Haces blancos, clínicos, que cortaban el humo químico.
+
+—Rastro térmico confirmado en nivel superior —dijo una voz distorsionada.
+
+No eran Segadores. El tono era marcial, disciplinado.
+
+—Equipo Alfa, flanco izquierdo. Equipo Bravo, asegurar salida. Orden de contención: Nula. Ejecución inmediata.
+
+*Vanguardias.*
+
+Leo se pegó al suelo frío de la plataforma. Eran rápidos. Demasiado rápidos. Habían rastreado su calor corporal a pesar de que se había escondido en una zona química.
+
+Miró el mapa de Elena una última vez. Memorizó la ruta.
+
+*Mantenimiento 04.*
+
+Guardó el diario en su chaqueta.
+
+Los soldados estaban subiendo por la escalera de acceso a la plataforma. Podía oír el zumbido de sus servo-armaduras.
+
+No podía luchar. Estaban frescos, equipados con tecnología militar y eran tres contra uno. Él era un despojo humano con costillas rotas y un cuchillo de hueso.
+
+Pero tenía una ventaja.
+
+Conocía el edificio. Lo había estudiado desde arriba durante las horas que estuvo escondido, analizando la estructura de las tuberías y los tanques.
+
+Había un tanque justo encima de la escalera. Etiquetado con un símbolo de calavera y tibias cruzadas. "Ácido Sulfúrico (Residuo)". La válvula estaba oxidada, pero la tubería de salida pasaba justo por encima de los peldaños.
+
+Leo reptó hacia la válvula.
+
+Los pasos metálicos resonaban en la escalera. *Clank. Clank. Clank.*
+
+—Contacto en diez segundos —dijo el líder.
+
+Leo agarró la rueda de la válvula. Estaba atascada por años de corrosión.
+
+—Vamos... —gruñó, aplicando fuerza. Sus costillas gritaron. Su visión se llenó de puntos blancos.
+
+Usó un pulso de Flujo. Minúsculo. Solo lo suficiente para desbloquear el óxido.
+
+*Crack.*
+
+La rueda giró.
+
+El chorro de ácido a presión salió disparado de la tubería rota, bañando la escalera metálica en una cascada de líquido humeante y corrosivo.
+
+Los gritos fueron inmediatos y horribles.
+
+Las armaduras de los Vanguardias eran resistentes a impactos, pero el ácido concentrado se filtraba por las juntas, derretía los sellos, atacaba los tejidos blandos.
+
+—¡¡Contacto químico!! ¡¡Retirada!! —chilló alguien.
+
+El humo del ácido llenó la escalera, creando una cortina de niebla amarilla.
+
+Leo no esperó a ver el resultado.
+
+Corrió.
+
+Saltó desde el otro lado de la plataforma hacia una tubería de ventilación suspendida. Sus brazos casi fallaron al agarrarse, pero la adrenalina —esa droga maravillosa— le dio la fuerza prestada que necesitaba.
+
+Se izó sobre la tubería y corrió por encima de ella, equilibrándose en la oscuridad, mientras abajo los Vanguardias disparaban a ciegas hacia la plataforma vacía. Las balas de aguja perforaban el metal donde él había estado un segundo antes.
+
+Llegó a una ventana rota en la pared norte.
+
+Saltó al exterior.
+
+El aire de la calle era frío, pero limpio en comparación con el infierno químico de la fábrica.
+
+Leo aterrizó rodando, ignorando el dolor que le recorría la columna. Se puso de pie y miró la pared de enfrente.
+
+Un edificio bajo de hormigón y hueso. Una puerta sellada. Y pintado en la pared, casi invisible bajo capas de suciedad:
+
+**MANTENIMIENTO 04**
+
+—Te tengo —jadeó.
+
+Corrió hacia la puerta. Los disparos empezaban a sonar a sus espaldas; los Vanguardias supervivientes salían de la fábrica, furiosos y quemados.
+
+Leo golpeó la puerta con el hombro. Estaba bloqueada.
+
+—¡Ábrete!
+
+Golpeó de nuevo. Nada.
+
+Miró atrás. Las luces tácticas se acercaban.
+
+—¡Quietud, no. Fuerza!
+
+Canalizó Flujo a su pierna. Una patada.
+
+La puerta voló hacia dentro, arrancada de sus bisagras podridas.
+
+Leo entró trastabillando.
+
+Delante de él, el suelo desaparecía en un agujero negro circular. El drenaje, Una boca abierta hacia las profundidades de la tierra. Hacia la Zona 2. Hacia la muerte segura.
+
+O hacia Elena.
+
+Los disparos impactaron en el marco de la puerta, haciendo saltar chispas.
+
+Leo no miró atrás.
+
+Saltó a la oscuridad.
+
+
+<div style="page-break-after: always;"></div>
+\newpage
+
+# CAPÍTULO 14: DESAGÜES
+
+La entrada al Drenaje Norte no era una puerta. Era una herida infectada en el costado del mundo.
+
+Un tubo de hueso calcificado, del diámetro de un vagón de metro, se hundía en la oscuridad bajo la fábrica abandonada. El borde estaba cubierto de líquenes negros que brillaban con una fosforescencia enfermiza, alimentándose de los vapores químicos que emanaban de las profundidades.
+
+El olor golpeó a Leo como un puño físico. Amoníaco, azufre y la dulzura rancia de la carne en descomposición. Era el aliento de un titán muerto que nunca terminó de pudrirse.
+
+—No pienses —se ordenó Leo, tapándose la nariz y la boca con un trapo arrancado de su camisa.
+
+Detrás de él, los disparos de los Vanguardias resonaban contra el metal de la fábrica.
+
+Saltó.
+
+***
+
+El descenso fue un tobogán de pesadilla.
+
+El suelo del tubo estaba cubierto de una película de lodo viscoso que anulaba cualquier fricción. Leo resbaló, perdiendo el control, deslizándose hacia la oscuridad a una velocidad que le revolvió el estómago. Intentó frenar clavando las botas en las paredes curvas, pero el hueso estaba pulido por siglos de erosión fluida.
+
+Cayó durante lo que parecieron minutos, aunque probablemente fueron segundos.
+
+El tubo se niveló bruscamente, escupiéndolo en una galería subterránea. Leo aterrizó en un charco de lodo hasta las rodillas. El impacto le sacudió las costillas rotas, arrancándole un grito que se ahogó en gorgoteo.
+
+Se quedó inmóvil, jadeando, esperando que el dolor remitiera.
+
+Oscuridad total. Absoluta.
+
+El aire aquí abajo era denso, pesado como una manta mojada. Leo sentía el picor en los ojos y en la piel expuesta. *Toxicidad ambiente*, pensó su cerebro analítico. *Esporas. Metales pesados.*
+
+Sacó su frasco de luz fría. El brillo azul reveló su entorno.
+
+Estaba en una arteria principal del sistema de drenaje. Las paredes no eran de metal ni de hormigón; eran de tejido óseo esponjoso, manchadas de negro y verde. Un río de lodo espeso, iridiscente por el aceite y los químicos, fluía lentamente por el centro del túnel hacia las profundidades.
+
+*Sigue el flujo*, decía el diario de Elena. *La gravedad lleva a la raíz.*
+
+Leo empezó a caminar.
+
+Sus botas chapoteaban en el fango. Cada paso requía un esfuerzo consciente. El lodo intentaba succionarle los pies, atraparlo.
+
+Avanzó pegado a la pared, lejos del caudal central. Había cosas flotando en el río. Trozos de quitina. Huesos de animales pequeños. Y a veces, cosas que parecían... ¿huevos?
+
+No quiso mirar de cerca.
+
+Llevaba diez minutos caminando cuando lo oyó.
+
+*Squirch. Clac.*
+
+Se detuvo en seco. Apagó la luz.
+
+El silencio volvió, pero ahora estaba cargado de amenaza. Leo activó su **Sincronía**. Expandió sus sentidos hacia la negrura, buscando vibraciones, calor, movimiento.
+
+Algo estaba ahí.
+
+Arriba.
+
+Sintió el desplazamiento de aire antes de oír el sonido. Algo grande se movía por el techo del túnel. Las garras se clavaban en el hueso blando con un ritmo húmedo y constante.
+
+*Squirch.* (Agarre).
+*Clac.* (Tracción).
+
+No era un animal normal. Ningún animal de ese tamaño podía desafiar la gravedad así sin hacer ruido.
+
+Leo se pegó a la pared, fundiéndose con la textura rugosa del hueso. Activó su **Quietud** al máximo, reduciendo su latido cardíaco hasta que el dolor en su pecho se convirtió en un frío lejano.
+
+La cosa pasó justo por encima de él.
+
+Leo sintió el calor de su cuerpo. Olía a almizcle y a sangre vieja. Una gota de saliva espesa cayó desde el techo, aterrizando a centímetros de su bota. Donde tocó el lodo, siseó. *Ácido.*
+
+Leo contuvo la respiración hasta que los puntos negros bailaron en su visión.
+
+La criatura siguió avanzando hacia la entrada, atraída quizás por el ruido de su caída o por el olor de su sangre fresca.
+
+Cuando el sonido de las garras se desvaneció en la distancia, Leo exhaló. Temblaba. No de frío, sino de un terror primario que ninguna lógica podía apagar.
+
+"Estás en la cadena alimenticia", pensó. "Y no estás arriba."
+
+Siguió avanzando. Más rápido.
+
+El túnel empezó a cambiar. La estructura ósea se volvía más orgánica, menos "construida". Había raíces —raíces de verdad, de madera petrificada— que atravesaban las paredes, rompiendo el hueso.
+
+Estaba llegando al límite de Puerto Raíz.
+
+Delante de él, el túnel terminaba en una reja de metal masivo.
+
+Leo se acercó, iluminando con cuidado.
+
+Era una esclusa de filtrado del Concordato. Barras de acero del grosor de su brazo, cubiertas de óxido y algas, bloqueaban el paso. Detrás de ellas, el túnel se abría a una caverna inmensa.
+
+Leo agarró los barrotes. Inmóviles. Soldados al hueso del titán.
+
+Miró a través.
+
+Al otro lado, el aire era diferente. No olía a químicos. Olía a tierra húmeda, a hongos, a vida salvaje y peligrosa.
+
+La Zona 2.
+
+La salida estaba ahí, a un metro de distancia. Pero estaba sellada.
+
+Leo miró sus manos. Temblaban. Su cuerpo estaba vacío. No tenía reservas de glucosa. El hambre era un abismo en su estómago.
+
+*Si uso Flujo ahora, me matará.*
+
+Pero si se quedaba, la cosa del techo volvería. O los Vanguardias bajarían con máscaras de gas.
+
+No había elección.
+
+Leo agarró dos de los barrotes centrales. Se colocó en posición, apoyando las botas en la base de la reja.
+
+Cerró los ojos. Visualizó el poco tejido muscular que le quedaba. Y lo encendió.
+
+—¡¡GNNNH!! —El sonido salió de su garganta como un gruñido animal.
+
+El Flujo recorrió sus brazos, quemando como lava. Sintió cómo las fibras de sus bíceps se desgarraban microscópicamente.
+
+El metal gimió. El óxido saltó en una nube roja.
+
+Los barrotes empezaron a doblarse. Lento. Doloroso.
+
+La visión de Leo se volvió roja. Su corazón martilleaba contra las costillas rotas, amenazando con estallar.
+
+*Un poco más. Solo un poco más.*
+
+**CRACK.**
+
+El metal cedió. Se abrió un hueco lo justo para que pasara un hombre.
+
+Leo soltó los barrotes y cayó de rodillas en el lodo.
+
+El mundo le daba vueltas. Vomitó bilis, su cuerpo protestando por el esfuerzo suicida. No podía levantarse. No sentía las piernas.
+
+Pero estaba abierto.
+
+Se arrastró. Literalmente se arrastró por el lodo, pasando a través del hueco que había abierto con su propia vida.
+
+Cayó al otro lado.
+
+El suelo aquí no era lodo químico. Era humus. Tierra negra, fría y viva.
+
+Leo se giró boca arriba, jadeando.
+
+Estaba fuera. Había atravesado el desagüe.
+
+Levantó su luz una última vez para ver dónde estaba.
+
+El túnel desembocaba en una gruta natural inmensa. Estalactitas gigantes colgaban del techo. El agua se filtraba por las paredes, creando un lago subterráneo de aguas negras.
+
+Y en el centro del lago, en una isla de piedra, había algo.
+
+Una figura.
+
+Leo parpadeó, intentando enfocar.
+
+No. No era una figura. Era una estatua. O un cadáver calcificado.
+
+Pero entonces, la "estatua" giró la cabeza.
+
+Y dos ojos amarillos, sin pupilas, brillaron en la oscuridad.
+
+El Guardián.
+
+Elena lo había mencionado: *"Cuidado con el que duerme en el lodo."*
+
+Leo intentó levantarse, pero sus piernas no respondieron. Su consciencia se desvanecía, arrastrada por el agotamiento.
+
+Lo último que vio antes de que la oscuridad lo tragara fue la silueta inmensa deslizándose desde la isla hacia el agua. Hacia él.
+
+Y luego, nada.
+
+
+<div style="page-break-after: always;"></div>
+\newpage
+
+# CAPÍTULO 15: EL GUARDIÁN DEL TÚNEL
+
+Leo cruzó el umbral de barrotes doblados y cayó en el lodo.
+
+No era el lodo químico de la fábrica. Era limo orgánico. Heces, restos de quitina triturada y fluidos de descomposición. El olor era tan denso que se podía saborear en la parte posterior de la lengua: cobre y podredumbre añeja.
+
+Su cuerpo gritó.
+
+La sobrecarga de Flujo para abrir la reja había consumido sus últimas reservas de glucógeno. Sus músculos se sentían como cuerdas deshilachadas. La visión se le nublaba con manchas negras que pulsaban al ritmo de su taquicardia.
+
+Pero no podía detenerse.
+
+Detrás de él, en la oscuridad del túnel industrial, algo siseaba. La cosa del techo no había cruzado la reja —probablemente era demasiado grande para el hueco que Leo había abierto—, pero su presencia maligna seguía allí, vigilando, esperando.
+
+Leo se arrastró.
+
+La caverna a la que había entrado era inmensa. Su linterna de Flujo, agonizante, apenas iluminaba cinco metros a la redonda. Lo suficiente para ver que las paredes ya no eran lisas. Estaban cubiertas de sacos membranosos que colgaban como frutas enfermas.
+
+*Huevos*, pensó su cerebro reptiliano.
+
+El suelo crujía.
+
+Leo bajó la vista. No estaba pisando roca. Estaba pisando huesos. Capas y capas de huesos de bestias pequeñas, compactados hasta formar un suelo sedimentario de muerte.
+
+*Un nido.*
+
+El diario de Elena lo había advertido: *"Mantenimiento 04 cruza un nodo de alimentación de la Plaga de Carroña. Si entras, no hagas ruido. Si haces ruido, reza."*
+
+Leo había hecho ruido. Había gritado al doblar los barrotes. El metal había gemido.
+
+El silencio de la caverna era pesado, expectante.
+
+De repente, una vibración.
+
+No un sonido. Una vibración en el suelo de huesos que le subió por las rodillas hasta los dientes.
+
+*Están despertando.*
+
+Un chillido agudo rompió la calma. *Kriiii-kik-kik.*
+
+Fue respondido por otro. Y otro. Y otro. En segundos, la oscuridad se llenó de un coro de clics y siseos. Cientos de patas quitinosas empezaron a moverse sobre los huesos.
+
+Leo se puso de pie, tambaleándose.
+
+Sacó el cuchillo. Era una broma. Un trozo de hueso afilado contra una colonia.
+
+—Quietud —susurró.
+
+Forzó a su corazón a ralentizarse. Intentó borrar su presencia térmica, convertirse en una piedra fría en medio del nido.
+
+Funcionó... a medias.
+
+El coro de chillidos bajó de volumen, convirtiéndose en un murmullo confuso. Las Plagas —criaturas del tamaño de perros, ciegas y pálidas— correteaban alrededor de él, olfateando el aire, confundidas por la desaparición repentina de la presa que habían sentido hace un momento.
+
+Leo dio un paso atrás.
+
+*Crac.*
+
+Un fémur seco se partió bajo su bota.
+
+El sonido fue como un disparo en una catedral vacía.
+
+El murmullo cesó al instante.
+
+Cientos de cabezas sin ojos se giraron hacia él.
+
+Y entonces, el suelo tembló de verdad.
+
+Del fondo de la caverna, donde la oscuridad era absoluta, surgió algo que hizo parecer a las Plagas hormigas insignificantes.
+
+Era el Guardián.
+
+No era una Plaga gigante. Era una amalgama.
+
+Parecía que docenas de Plagas se hubieran fusionado en una pesadilla biológica de tres metros de altura. Tenía múltiples mandíbulas que chasqueaban independientemente. Sus patas eran gruesas como troncos, terminadas en ganchos de hueso. Y su abdomen... su abdomen era un saco pulsante y translúcido lleno de... luz.
+
+Bioluminiscencia defensiva. O de atracción.
+
+La Reina de la Colmena. Clase C. Quizás Clase B en este entorno cerrado.
+
+La Reina bramó, un sonido de baja frecuencia que hizo vibrar las costillas rotas de Leo.
+
+Las Plagas menores atacaron.
+
+—¡Mierda!
+
+Leo corrió.
+
+No había estrategia. No había plan. Solo pánico puro y el instinto de no ser devorado vivo.
+
+Corrió hacia donde la corriente de aire parecía más fresca, esquivando las embestidas de las Plagas menores. Pateó una cabeza quitinosa, sintiendo cómo se rompía bajo su bota. Acuchilló a otra que saltó hacia su garganta, bañándose en una sangre verde y ácida que le quemó la piel del brazo.
+
+Pero eran demasiadas.
+
+Una Plaga se aferró a su pierna izquierda, sus mandíbulas cerrándose sobre su pantorrilla. Leo gritó, cayendo al suelo.
+
+Rodó, clavando el cuchillo en el ojo vestigial de la bestia. La criatura le soltó, chillando.
+
+Leo se levantó a duras penas. La pierna le sangraba. El olor de su propia sangre actuó como una señal de frenesí para la colmena.
+
+La Reina cargó.
+
+Se movía con una velocidad aterradora para su tamaño, aplastando a sus propias crías bajo sus patas masivas.
+
+Leo miró a su alrededor. Paredes de hueso. Sacos de huevos. Estalactitas.
+
+*Estalactitas.*
+
+Justo encima de la Reina, colgando del techo abovedado, había una formación de cristales de calcita y hueso enorme, una lanza natural de toneladas de peso.
+
+Leo no tenía fuerza para luchar. Pero tenía Flujo. Un poco. El último rescoldo en el fondo del barril.
+
+*Si uso esto, me desmayo. Si me desmayo, me comen.*
+
+*Si no lo uso, me comen ahora.*
+
+La Reina estaba a diez metros. Cinco.
+
+Leo canalizó todo lo que le quedaba. No a su cuerpo. Al cuchillo.
+
+**Anclaje.**
+
+Pero no un anclaje para reforzar. Un anclaje explosivo. Saturó el hueso del cuchillo con energía cinética inestable hasta que vibró en su mano.
+
+—¡Comed esto! —gritó.
+
+Lanzó el cuchillo. No a la Reina.
+
+Al techo. A la base de la estalactita gigante.
+
+El cuchillo voló con la precisión de la desesperación. Se clavó en la grieta estructural de la formación.
+
+La energía liberada actuó como una carga de demolición.
+
+**BOOM.**
+
+La base de la estalactita estalló.
+
+La lanza de piedra y hueso cayó.
+
+La Reina miró hacia arriba un milisegundo antes de que toneladas de roca la impactaran.
+
+El sonido del impacto fue húmedo y crujiente. La Reina fue aplastada contra el suelo del nido en una explosión de icor verde y quitina destrozada.
+
+El suelo de la caverna, debilitado por el sistema de túneles inferiores y el peso de la Reina, no aguantó el golpe.
+
+Colapsó.
+
+Leo sintió que el suelo desaparecía bajo sus pies.
+
+—No...
+
+Cayó.
+
+Cayó junto con los cadáveres de las Plagas, junto con los escombros de la estalactita, junto con los restos de la Reina.
+
+La caída fue corta pero brutal. Aterrizó en el agua.
+
+Agua fría, negra y rápida.
+
+Un río subterráneo.
+
+La corriente lo agarró y lo arrastró hacia las profundidades, lejos del nido, lejos de los chillidos de las Plagas supervivientes.
+
+Leo intentó nadar, pero sus brazos no respondían. El agua helada se metía en sus pulmones. La oscuridad lo envolvía.
+
+Su cabeza golpeó algo duro. Una roca.
+
+La luz de su consciencia parpadeó y se apagó.
+
+Lo último que sintió fue el movimiento del agua, llevándoselo como una hoja muerta hacia el corazón desconocido de la tierra.
+
+
+<div style="page-break-after: always;"></div>
+\newpage
+
+# CAPÍTULO 16: LUZ VERDE
+
+El mundo volvió en forma de dolor.
+
+Frío. Húmedo. Agitándose.
+
+Leo tosió, y el agua expulsada de sus pulmones supo a mineral y a tierra vieja, a hierro disuelto durante milenios en piedra que nunca había visto el sol. Abrió los ojos.
+
+No veía nada. Oscuridad absoluta. Pero sentía el movimiento. Estaba flotando, arrastrado por una corriente poderosa que rugía a su alrededor como la garganta de una bestia hambrienta.
+
+*El río subterráneo.*
+
+Los recuerdos llegaron en fragmentos rotos: la cueva, la huida, la Reina de la Colmena persiguiéndole con sus mandíbulas de obsidiana. El derrumbe. La caída. El impacto contra el agua que se sintió como chocar contra hormigón.
+
+Intentó nadar, pero sus brazos eran pesos muertos. Sus costillas ardían con cada inhalación, enviando lanzas de fuego a través de su pecho. Al menos dos rotas. Quizás más. El agua helada adormecía el dolor, pero también le robaba el calor corporal segundo a segundo.
+
+—...mierda...
+
+La corriente giró bruscamente. Leo fue lanzado contra una pared de roca como si fuera un muñeco de trapo. El golpe le sacó el aire que le quedaba, pero sus dedos rozaron algo rugoso. Piedra. Una cornisa.
+
+Se aferró.
+
+Sus uñas se clavaron en la roca mojada, arrancándose, sangrando. Los músculos de su espalda gritaron en protesta, fibras desgarrándose bajo el esfuerzo, pero aguantó. La corriente tiraba de sus piernas con la insistencia de mil manos, queriendo arrastrarlo de nuevo hacia la profundidad, hacia el olvido negro.
+
+—No... hoy... no...
+
+Con un gruñido que fue mitad súplica y mitad rabia primitiva, la rabia de un animal que se niega a morir, se izó fuera del agua. Sus brazos temblaron. Sus hombros crujieron. Pero logró arrastrar su cuerpo sobre una cornisa de piedra resbaladiza, tosiendo agua negra, temblando violentamente.
+
+Se quedó allí, ovillado en la oscuridad, tiritando mientras el agua goteaba de su ropa empapada. Hacía frío. Un frío de tumba que le calaba hasta los huesos, que hacía que sus dientes castañearan tan fuerte que le dolía la mandíbula.
+
+*Muévete o muere de hipotermia.*
+
+La voz de Mason en su cabeza. Siempre Mason. Incluso aquí, en las entrañas del mundo, el viejo bastardo seguía dándole órdenes.
+
+Leo se obligó a levantarse. Sus piernas no querían cooperar, pero las forzó, apoyándose en la pared húmeda. Estaba ciego sin su luz de Flujo, que se había perdido o roto en la caída. Probablemente destrozada contra las rocas, igual que casi se destroza él.
+
+Tanteó la pared. Roca húmeda. Musgo que se deshacía bajo sus dedos como carne podrida. Algo que podría haber sido un hongo o un cadáver de insecto, blando y frío.
+
+Avanzó a ciegas, siguiendo la cornisa en una dirección arbitraria. Río arriba. O río abajo. No importaba ya. Solo importaba el movimiento, la fricción, generar calor antes de que su cuerpo se rindiera.
+
+Sus pensamientos divagaban. Vio a Elena en un destello confuso, no la Elena del diario sino la Elena de sus recuerdos reales: sentada junto al río cerca de su casa, enseñándole a hacer una caña de pescar con una rama y un hilo. "El truco es la paciencia, Leo. Los peces saben cuándo estás desesperado."
+
+Ahora estaba desesperado. Y no había peces aquí. Solo oscuridad.
+
+Caminó durante horas. O quizás minutos. El tiempo en la oscuridad era una gelatina sin forma, estirándose y contrayéndose según el ritmo de su respiración agónica. Tropezó con rocas que no vio. Se golpeó la cabeza contra salientes que aparecieron de la nada. En un momento dado, pisó en vacío y casi cayó de nuevo al río, salvándose solo porque su cuerpo reaccionó antes que su mente exhausta.
+
+Y entonces, lo vio.
+
+Un punto.
+
+Un punto débil, verde, pulsante.
+
+No era la salida. No era luz solar. Era algo biológico. Algo vivo.
+
+Leo se acercó, atraído como una polilla hacia una llama. Después de horas en la oscuridad total, cualquier luz era un milagro.
+
+La luz venía de hongos. Crecían en el techo de la caverna como una constelación invertida, racimos de esporangios translúcidos que emitían un brillo verde esmeralda. Algunos eran del tamaño de su puño, otros del tamaño de su cabeza. Bajo su resplandor enfermizo, el río se ensanchaba, calmándose, convirtiendo su rugido en un susurro.
+
+Pero no fue eso lo que detuvo el corazón de Leo.
+
+Fue lo que iluminaba la luz verde más adelante.
+
+El río salía al exterior.
+
+La cueva terminaba en una boca inmensa, una abertura de veinte metros de altura cubierta de cortinas de enredaderas que colgaban como el pelo de un gigante. Y más allá de esas cortinas vegetales, visible en fragmentos entre las hojas...
+
+Más allá estaba la Zona 2.
+
+Leo se detuvo un momento, procesando. Había salido de la Zona 1 —la zona de los niveles superiores, las ciudades ocultas, los mercaderes y los contrabandistas— y había llegado a territorio verdaderamente salvaje. Territorio que, según el diario de Elena, solo unos pocos humanos habían explorado y sobrevivido para contar.
+
+Se obligó a seguir adelante, apartando las enredaderas con manos que apenas sentía.
+
+Salió tambaleándose de la cueva.
+
+Era de noche.
+
+Pero no era una noche oscura. Era una noche de neón biológico.
+
+El bosque —si se le podía llamar así— brillaba con una intensidad que dolía en los ojos después de horas de oscuridad total. Los troncos de los árboles titánicos, columnas de corteza negra que se alzaban cien metros hacia el cielo invisible, emitían una fosforescencia azul pálida que parecía latir con un ritmo propio. Las flores del suelo —carpetas de pétalos del tamaño de platos— pulsaban en rojos y violetas, cambiando de color como si respiraran. Insectos del tamaño de pájaros trazaban estelas de luz dorada en el aire, dejando rastros luminiscentes que tardaban segundos en desvanecerse.
+
+Era hermoso.
+
+Y era absolutamente aterrador.
+
+Porque todo lo que brillaba en este mundo lo hacía para atraer presas, o para advertir a los depredadores que era venenoso. Belleza y muerte eran sinónimos aquí abajo.
+
+Leo cayó de rodillas en el musgo. La atmósfera aquí era densa, cargada de humedad y de un olor dulce, empalagoso, como miel fermentada sobre carne abierta. Como un cadáver cubierto de flores.
+
+*Esporas.*
+
+El pensamiento le golpeó con la fuerza de una bofetada. Se tapó la boca y la nariz con la manga de su chaqueta mojada, pero ya había respirado varias bocanadas del aire de la Zona 2.
+
+El Diario de Elena. Lo había memorizado en parte: *"Zona 2. Mar de Esporas. Concentración atmosférica de partículas psicoactivas. Efectos: euforia inicial, paranoia progresiva, alucinaciones vívidas, muerte por paro cardíaco en exposiciones prolongadas sin protección."*
+
+Tenía que encontrar aire limpio. O agua segura. O algo para filtrar lo que respiraba.
+
+Se arrastró hacia el borde del río, donde el agua emergía de la cueva. Quizás allí, con la brisa de la corriente, el aire fuera más limpio.
+
+Bebió con las manos, filtrando el agua entre sus dedos por instinto más que por lógica. Estaba helada, con un sabor mineral pero sin la amargura de las toxinas que había aprendido a detectar. Probablemente segura. Al menos más segura que el aire.
+
+Se dejó caer de espaldas sobre el musgo, sintiendo cómo las fibras vegetales se hundían bajo su peso como un colchón demasiado suave. Su cuerpo ya no respondía a sus órdenes. La adrenalina de la huida se había evaporado completamente, dejando solo el agotamiento sísmico de haber usado Flujo más allá de su límite y haber sobrevivido a un derrumbe que debería haberle matado.
+
+Miró hacia arriba. A través del dosel de hojas gigantes y brillantes, entre los huecos que dejaban las ramas, vio las estrellas. Las estrellas reales. No la proyección digital del Velo bajo la que había nacido. No el techo de la pecera. Esto era el abismo infinito, frío y brutalmente honesto.
+
+—Estoy fuera —susurró al cielo.
+
+Estaba solo. Desarmado, excepto por un cuchillo de hueso que probablemente había perdido en el río. Herido, con costillas rotas y quién sabía qué más. En medio del ecosistema más hostil del planeta conocido, respirando aire que lentamente podría estar envenenándole.
+
+Pero estaba fuera.
+
+Metió la mano en su chaqueta, buscando el bulto familiar. El diario estaba ahí, envuelto en el trozo de cuero encerado que lo protegía. Húmedo por fuera, pero probablemente entero por dentro.
+
+El diario de Elena. El mapa hacia ella. La única razón por la que había sobrevivido hasta ahora.
+
+Leo cerró los ojos. Solo un momento. Solo para recuperar el aliento antes de moverse.
+
+El sonido de la selva bioluminiscente era una sinfonía alienígena. Zumbidos de insectos con alas del tamaño de abanicos. Graznidos lejanos que podrían haber sido pájaros o reptiles o algo que no tenía nombre en ningún idioma humano. El crujido constante de la madera creciendo en tiempo real, de los árboles titánicos añadiendo milímetros a sus troncos cada hora.
+
+Y pasos.
+
+Leo abrió los ojos de golpe.
+
+No estaba soñando. No era alucinación de las esporas. Todavía no.
+
+Eran pasos.
+
+Lentos. Pesados. Calculados. Crujiendo sobre el lecho de hojas secas a unos metros de distancia, acercándose con la deliberación de un depredador que sabe que su presa no puede huir.
+
+Leo intentó incorporarse, pero sus músculos se negaron. Era como si estuviera atrapado en miel, paralizado por el frío, el agotamiento, y quizás también por algún compuesto del aire que estaba empezando a afectar su sistema nervioso.
+
+La silueta emergió de entre los árboles azules.
+
+Era humanoide. Bípedo. Dos metros de altura, quizás más. Pero su piel brillaba con patrones verdes y azules que se movían lentamente sobre su superficie, mimetizándose con los hongos del entorno. Sus ojos eran dos orbes negros sin esclerótica, sin iris, solo profundidad infinita que reflejaba la luz bioluminiscente. Y en su mano de dedos demasiado largos llevaba una lanza hecha de lo que parecía cristal volcánico, negro y brillante.
+
+No era humano. Pero tampoco era completamente alienígena.
+
+Un nativo. O algo que había evolucionado aquí durante milenios, en los niveles profundos donde la humanidad nunca había llegado.
+
+La figura se detuvo sobre Leo. Lo miró con curiosidad, ladeando la cabeza como un pájaro examinando un gusano antes de decidir si comérselo.
+
+Leo intentó hablar, pero solo salió un graznido patético de su garganta seca.
+
+La figura levantó la lanza. La punta de cristal brilló con reflejos verdes.
+
+*Así termina*, pensó Leo, con una calma extraña que probablemente era shock. *Después de todo esto —la Reserva, Elena, el viaje, Mason, la Reina—, me mata un humanoide brillante en un bosque de hongos.*
+
+Esperó el golpe.
+
+Pero la figura no atacó.
+
+Bajó la lanza lentamente, clavándola en el suelo a un metro de la cabeza de Leo. Se arrodilló junto a él, sus movimientos fluidos como agua, sin el esfuerzo visible de músculos humanos.
+
+Una mano fría, con dedos demasiado largos y articulaciones en lugares equivocados, tocó la frente de Leo. La piel era lisa, casi cerosa, pero no desagradable.
+
+—...fiebre... —dijo la figura.
+
+Hablaba. Su voz sonaba como hojas secas frotándose, como viento a través de ramas huecas, pero las palabras eran reconocibles. Era idioma humano. O algo muy cercano a él.
+
+—...quién... —logró susurrar Leo, su voz un hilo.
+
+La figura sonrió. No era una sonrisa humana. Era demasiado ancha, demasiado llena de dientes que eran más agujas que muelas. Pero había algo en ella que no era hostilidad.
+
+Era curiosidad.
+
+—Estás lejos de casa, caminante —dijo la figura, retirando su mano de la frente de Leo—. Muy lejos. El río te trajo desde arriba. —Hizo una pausa, como si procesara información—. No eres de los que comercian. No eres de los que cazan. Hueles a... desesperación. A pérdida.
+
+Leo no tenía fuerzas para responder. El frío estaba ganando. Las esporas estaban trabajando. La oscuridad volvía a arrastrarse por los bordes de su visión.
+
+La figura se levantó. Tomó su lanza.
+
+—Dormirás ahora, caminante. Y cuando despiertes, decidiremos qué hacer contigo.
+
+No era una amenaza. Pero tampoco era una promesa de seguridad.
+
+Leo quería protestar, quería luchar, quería hacer algo que no fuera yacer ahí como un cadáver esperando ser reclamado. Pero su cuerpo había tomado una decisión sin consultarle.
+
+La oscuridad bajó como un telón.
+
+Y luego, nada.
+
+**[FIN DEL CAPÍTULO 16]**
+
+
+<div style="page-break-after: always;"></div>
+\newpage
+
+# CAPÍTULO 17: RECUPERACIÓN
+
+Lo primero que volvió fue el sabor a cobre.
+
+Leo escupió, o intentó hacerlo, pero su boca estaba seca como el lecho de un río muerto. Una costra de sangre y bilis le sellaba los labios. Al forzarlos para abrirse, la piel se rasgó con un chasquido húmedo que sonó obscenamente fuerte en el silencio.
+
+No sabía dónde estaba, pero sabía dónde le dolía. En todas partes.
+
+Sus costillas palpitaban con un ritmo sincopado, ajeno a su corazón, como si algo debajo de la piel intentara cavar para salir. Intentó inhalar, y el aire entró en sus pulmones arrastrando esquirlas de vidrio invisible. Tosió, y el espasmo le dobló por la mitad, obligándole a enroscarse en posición fetal sobre una superficie que cedía bajo su peso.
+
+Olía a ozono y a menta rancia.
+
+Abrió los ojos. Sus párpados pesaban toneladas.
+
+Veía verde. No era un color sólido, era una textura. Una luz esmeralda, filtrada a través de millones de capas de clorofila, que caía sobre él como lluvia lenta.
+
+—...Elena... —granzó.
+
+El nombre no fue una llamada de auxilio, fue un inventario. Verificaba qué quedaba de su mente. Ella no estaba.
+
+Lo que sí estaba era el olor. Vainilla y papel viejo. Una alucinación olfativa tan potente que Leo giró la cabeza, esperando verla sentada a su lado, con las gafas de lectura en la punta de la nariz.
+
+Nada. Solo vacío verde.
+
+—Quieto —dijo una voz.
+
+No era una voz. Era el sonido de dos piedras de río frotándose bajo el agua. Mineral. Erosiva.
+
+Leo bloqueó el dolor con un esfuerzo de voluntad suprema, mordiéndose la lengua hasta sentir sangre fresca, y enfocó la vista.
+
+Estaba en un nido.
+
+No había otra palabra humana para describirlo, aunque la arquitectura era alienígena. No era una cueva fría, ni una cabaña construida. Era una estructura cóncava, orgánica, tejida con ramas vivas, lianas del grosor de muslos humanos y musgo bioluminiscente, suspendida en el aire. El suelo bajo él cedía ligeramente, elástico, cálido y pulsante, como el diafragma de un animal gigante. Por los huecos del tejido, veía el vacío. Estaba alto. Muy alto. Quizás a cincuenta o sesenta metros del suelo de la selva.
+
+Y frente a él, acuclillado sobre una rama gruesa como una viga de acero industrial que atravesaba la estructura, estaba la figura.
+
+El Ermitaño del Río.
+
+A la luz del día —o lo que fuera esa luz verde filtrada por millones de hojas titánicas—, la criatura parecía menos un monstruo de pesadilla y más un accidente biológico fascinante. Era humanoide, sí, tenía dos brazos y dos piernas, pero su piel estaba cubierta de parches de liquen simbiótico gris y verde que imitaban a la perfección la corteza de los árboles ancianos. No llevaba ropa manufacturada, sino capas de tejido vegetal fibroso que parecían haber crecido sobre él o haber sido tejidas directamente sobre su carne. Sus ojos eran negros, pozos de petróleo sin blanco, adaptados a la oscuridad perpetua de la canopia profunda.
+
+En sus manos largas, nudosas y terminadas en uñas negras como garras, sostenía un cuenco hecho con la cáscara de un fruto seco del tamaño de un casco de motocicleta.
+
+—Bebe —dijo el Ermitaño, extendiendo el cuenco.
+
+Leo dudó. Su mente analítica, aunque lenta y pegajosa por la fiebre, calculó las probabilidades. Si esa cosa quisiera matarlo, ya lo habría hecho. Lo había sacado del río furioso. Lo había cargado. Lo había subido hasta aquí, desafiando la gravedad.
+
+Leo se incorporó sobre un codo, sintiendo que sus costillas gritaban en protesta aguda. Tomó el cuenco con manos temblorosas. El líquido dentro era espeso, gris como el cemento fresco y olía a tierra mojada, a moho y a una menta tan fuerte que le hizo lagrimear los ojos.
+
+Bebió.
+
+El sabor fue un golpe eléctrico. Amargo, metálico, alcalino y picante al mismo tiempo. Quemó su garganta inflamada, bajó por su esófago como fuego líquido y explotó en su estómago vacío.
+
+Leo tosió violentamente, casi devolviendo el cuenco.
+
+—¿Qué... qué mierda es eso? —preguntó, su voz rasposa y débil.
+
+—Savia de raíz de mangle —dijo el Ermitaño, observándolo con una curiosidad clínica y desapegada, como un biólogo mirando una rata de laboratorio que acaba de recibir una inyección experimental—. Y larvas de escarabajo trituradas. Proteína pura. Tu cuerpo se está comiendo a sí mismo, forastero.
+
+Leo se dejó caer de espaldas, jadeando. El Ermitaño tenía razón. El Hambre.
+
+Era un vacío voraz en su centro, un agujero negro biológico que exigía calorías con la urgencia de una sirena de alarma. Había usado el Flujo. Había forzado la Sincronía en el túnel para esquivar a la Reina Parásita, había saltado más allá de los límites humanos, había quemado sus reservas de glucosa y grasa en segundos de actividad sobrenatural. Ahora, el Flujo reclamaba su deuda. La Ley de Intercambio Equivalente de la biología titánica.
+
+El coste de la magia era la propia vida.
+
+Leo cerró los ojos y sintió cómo la pasta gris empezaba a trabajar en su sistema. No era agradable. Sentía que hormigas de fuego corrían por su torrente sanguíneo, buscando el daño, reparando tejidos, soldando micro-rasgaduras musculares con una eficiencia brutal y dolorosa.
+
+La fiebre lo arrastró de nuevo hacia abajo.
+
+Durmió. Pero no descansó.
+
+Soñó con ciudades de cristal y luz que se rompían bajo el peso de enredaderas gigantes que caían del cielo como tentáculos divinos. Soñó con Elena caminando descalza sobre un mar de cristales rotos, dejando huellas de sangre dorada que brillaban en la oscuridad. Soñó con un hombre que no conocía, pero que le resultaba familiar, un hombre con una capa hecha jirones que caminaba contra el viento en una llanura de ceniza. Caine. El abuelo que era un mito. El hombre miraba a Leo desde una cima inalcanzable, con ojos tristes y cansados.
+
+*"No busques al héroe, Leo,"* le decía la voz del mito, una voz que sonaba a piedra rompiéndose. *"Los héroes mueren rápido aquí fuera. Busca al monstruo que se comió al héroe. Y aprende a ser él."*
+
+Despertó de golpe, con el corazón martilleando contra sus costillas rotas.
+
+El nido estaba en silencio absoluto. La luz había cambiado. El verde brillante había dado paso a un crepúsculo azulado, profundo, pesado y onírico.
+
+El Ermitaño no estaba en la rama-viga.
+
+Leo se sentó con cuidado. El dolor en sus costillas había bajado de un grito agónico a un murmullo constante y sordo, manejable. Sus músculos estaban rígidos como cables viejos, pero respondían a sus órdenes.
+
+Miró a su alrededor. Junto a él, sobre una hoja grande y cerosa doblada cuidadosamente como una bandeja, estaban sus cosas.
+
+Su ropa, lavada y secada (aunque seguía rota y manchada de sangre seca). Sus botas de cuero sintético. Su cinturón.
+
+Y el Diario de Elena.
+
+Leo se lanzó sobre él, ignorando el mareo que le hizo ver puntos negros.
+
+Lo abrió con manos temblorosas, temiendo lo peor. El cuero de la tapa estaba hinchado por el agua, las páginas húmedas y onduladas como olas de papel.
+
+—No, no, no... —murmuró, pasando las hojas con cuidado quirúrgico, temiendo rasgarlas.
+
+La tinta de bolígrafo barato se había corrido en algunos lugares. Mapas detallados de la Zona 1 que ahora eran manchas abstractas de Rorschach azul. Notas al margen sobre botánica que se habían convertido en lagunas ilegibles.
+
+Pero el centro... el centro del cuaderno estaba escrito con lápiz de grafito graso. Elena era previsora.
+
+El código seguía allí. Brillante. Gris. Indeleble.
+
+*Coordenada 4-Alpha. El Mercado de Huesos. La Subasta de Medianoche.*
+
+Y debajo, un dibujo. Un boceto rápido, hecho con trazos nerviosos y fuertes.
+
+Un poliedro irregular. Negro.
+
+Idéntico a la Pieza que Leo llevaba en el bolsillo interior secreto de su chaqueta, cosida al forro para que no se cayera ni siquiera si lo ponían boca abajo.
+
+Leo sacó la Pieza. El objeto, pesado, frío y denso, parecía absorber la luz tenue del bosque, creando una pequeña zona de oscuridad a su alrededor. Lo puso sobre el dibujo.
+
+Encajaba perfectamente. Los ángulos eran exactos.
+
+Y entonces, vibró.
+
+No fue un movimiento físico visible. Fue un zumbido infrasónico que Leo sintió en los dientes, en la base del cráneo, en la médula de sus huesos. Una resonancia. Un reconocimiento.
+
+—Estás cerca —susurró Leo, sintiendo una mezcla de terror y esperanza—. Estuviste aquí.
+
+—Guarda eso —dijo una voz suave pero imperativa detrás de él.
+
+Leo giró sobre sí mismo, escondiendo la Pieza instintivamente contra su pecho, su mano buscando un arma que no tenía.
+
+El Ermitaño había vuelto. Había emergido de la espesura vertical sin hacer un solo ruido. Ni una hoja crujida, ni una rama movida, ni un cambio en la presión del aire. Silencio absoluto.
+
+Traía algo en la mano muerta. Un animal recién cazado. Parecía una liebre desollada, pero tenía escamas iridiscentes en lugar de pelo y seis patas terminadas en garras.
+
+—Eso —señaló el pecho de Leo con su barbilla cubierta de liquen—... suena demasiado fuerte.
+
+—¿Suena? —Leo frunció el ceño, confundido—. No hace ruido. Es metal inerte.
+
+—Hace ruido en el Flujo —dijo el Ermitaño, tirando la liebre al suelo del nido y sacando un cuchillo de piedra volcánica de su cinturón vegetal—. Grita. Zumba. Es una baliza. Atrae a los grandes. Atrae a los que comen energía.
+
+El Ermitaño se sentó en cuclillas y empezó a despellejar al animal con movimientos rápidos, precisos y brutales.
+
+—¿Quién eres? —preguntó Leo. Tenía que saberlo. No era un Segador. No tenía la crueldad en la mirada. No era del Concordato. No tenía la arrogancia.
+
+—Fui muchas cosas —dijo el hombre sin mirarlo, concentrado en separar la piel de la carne—. Un ingeniero de estructuras. Un padre de familia. Un idiota que creyó en la expansión. Ahora soy el que vive arriba. El Caminante de Musgo.
+
+—¿Por qué me ayudaste? —insistió Leo—. Podrías haberme dejado en el río. O haberme robado.
+
+El Ermitaño se detuvo. Levantó la vista del cadáver animal. Sus ojos negros eran pozos de indiferencia antigua, pero había un destello de algo humano en el fondo.
+
+—Porque no hueles a ellos —dijo—. No hueles a hierro estéril del Concordato. No hueles a sangre podrida de los Segadores. Hueles a... búsqueda. Hueles a pérdida. Y porque traes el cambio.
+
+—¿El cambio?
+
+—El bosque está inquieto, chico. Las bestias están nerviosas. Llevan días migrando hacia el sur. Algo grande se mueve en el horizonte, más allá de la Zona 3. Algo antiguo ha despertado. Y tú caíste del cielo, del río subterráneo, justo cuando empezó el temblor.
+
+El Ermitaño cortó un trozo de carne cruda, roja y fibrosa, y se lo ofreció.
+
+—Come. Necesitas sangre real. Mañana te vas. No puedo mantenerte aquí. Eres demasiado ruidoso.
+
+Leo aceptó la carne con repugnancia, pero su estómago rugió en anticipación. La civilización, con su comida cocinada y sus modales de mesa, era un recuerdo lejano y ridículo. Aquí, la ley era comer o ser comido.
+
+Masticó. La carne era dura, fibrosa y sabía a caza fuerte y a cobre, pero le dio fuerzas casi instantáneas.
+
+—No sé dónde estoy —admitió Leo, limpiándose la sangre de la barbilla—. Mi mapa se deshizo en el agua.
+
+—Estás en el Borde —dijo el Ermitaño, señalando hacia el vacío—. Donde la Zona 1, el Bosque de los Ecos, toca la Zona 2, el Mar de Esporas. Abajo —señaló el suelo invisible bajo las nubes de hojas— es territorio de caza para los Alfa. Arriba del todo es territorio de aves Roc. Aquí en medio, en la Capa Media, sobrevivimos los que no queremos ser vistos. Las ratas.
+
+De repente, el Ermitaño se tensó.
+
+Fue un cambio instantáneo. Soltó el cuchillo. Su cuerpo se quedó completamente inmóvil. No "quieto" como alguien que deja de moverse esperando. Se quedó *inerte*.
+
+Su respiración se volvió imperceptible. Su pecho dejó de subir y bajar. Su presencia... desapareció. Leo lo estaba mirando directamente, pero su cerebro tenía dificultades para registrar que el hombre estaba allí. Se había convertido en parte de la madera, en una protuberancia del árbol.
+
+El Ermitaño le hizo un gesto imperativo con los ojos, moviendo solo las pupilas.
+
+*Haz lo mismo.*
+
+Leo no entendía qué pasaba, pero el miedo puro en la postura rígida del Ermitaño era contagioso como un virus.
+
+Intentó quedarse quieto. Aguantó la respiración.
+
+*No es suficiente*, pensó, sintiendo el pánico. *Mi corazón late como un tambor de guerra. Mi miedo huele a ácido y a sudor frío.*
+
+Entonces lo sintió. Y lo olió.
+
+Una vibración profunda en el tronco del árbol gigante. Algo inmenso, pesado y poderoso estaba subiendo desde las profundidades del bosque.
+
+*Thump. Thump. Thump.*
+
+Las ramas del nido, gruesas como vigas, temblaron bajo el peso. Era algo titánico.
+
+Leo miró hacia la espesura, hacia donde miraba el Ermitaño.
+
+A diez metros de distancia, una forma se deslizó por el tronco principal del árbol vecino.
+
+Era una serpiente. O algo que la evolución había construido usando el plano de una serpiente y esteroides de pesadilla. Tenía el grosor de un vagón de metro. Sus escamas eran de un verde iridiscente y húmedo que cambiaba de color con el entorno, un camuflaje activo biológico.
+
+Pero lo peor no era el tamaño absurdo. Lo peor era que *buscaba*.
+
+Su lengua bífida, de tres metros de largo, roja y húmeda, probaba el aire con chasquidos rápidos.
+
+Leo sintió el pánico subir por su garganta como bilis. Quería correr. Quería saltar al vacío. Quería gritar. Su instinto de primate le gritaba: *¡Huye! ¡Depredador!*
+
+El Ermitaño lo miró. Sus ojos negros le taladraron el cráneo.
+
+Una palabra se formó en la mente de Leo, transmitida por la intensidad de esa mirada:
+
+*Quietud.*
+
+*Apaga tu fuego. Deja de ser. Conviértete en nada.*
+
+Leo cerró los ojos. Recordó lo que El Maestro, su primer mentor, le había dicho hacía una vida en el claro de entrenamiento.
+
+*"No intentes esconderte detrás de un árbol. El árbol no te esconde tu calor. Deja de existir. Baja tu pulso. Enfría tu sangre. Sé una piedra en el fondo del río."*
+
+Leo se concentró en su corazón desbocado. Imaginó que era un impulsor de flujo sobrecalentado y visualizó la palanca de freno. Bajó las revoluciones. Imaginó que su calor corporal, su aura de vida, se replegaba hacia adentro, escondiéndose en la médula de sus huesos, volviéndose fría y gris.
+
+Visualizó a Elena. Su calma absoluta. Su silencio cuando trabajaban juntos en la biblioteca de la Reserva, horas sin decir una palabra, solo existiendo en el mismo espacio, en perfecta sincronía.
+
+*Silencio. Frío. Nada.*
+
+La serpiente gigante pasó rozando el nido.
+
+El olor era atroz. Amoníaco, almizcle y carne podrida de días. El aire se volvió pesado y tóxico.
+
+La cabeza masiva, del tamaño de un coche pequeño, se detuvo a un metro de Leo.
+
+El ojo de la bestia, una hendidura vertical de oro fundido del tamaño de un plato, giró y barrió el nido.
+
+Pasó por encima del Ermitaño sin verlo. Para la serpiente, el Ermitaño era madera. Era decorado.
+
+Luego el ojo miró a Leo.
+
+Leo sintió que su alma se helaba. *Me ve. Me está mirando a los ojos.*
+
+Estaba seguro de que iba a morir. Sintió el impulso suicida de moverse, de intentar clavarle el cuchillo de hueso en el ojo.
+
+Pero no lo hizo. Mantuvo la Quietud.
+
+El ojo no se detuvo. Siguió barriendo. Para la serpiente, que veía el espectro térmico y el Flujo, Leo era solo un bulto de musgo y ropa mojada, una piedra sin calor, sin vida, sin pulso, sin energía.
+
+La serpiente siseó, un sonido que hizo vibrar los pulmones de Leo, frustrada por no encontrar la presa que había olido momentos antes. Siguió subiendo hacia la copa, buscando presas más calientes y menos muertas. Nidos de aves gigantes. Monos aulladores.
+
+El nido dejó de temblar. El peso se alejó hacia las alturas.
+
+Pasaron cinco minutos. Diez. Quince.
+
+El Ermitaño exhaló. El sonido fue largo, como el viento volviendo a entrar en el mundo después de contener la respiración.
+
+Súbitamente, "volvió a existir". Su presencia llenó el espacio de nuevo. Su calor volvió.
+
+Leo boqueó, aspirando aire desesperadamente como si acabara de salir del agua. Estaba empapado en sudor frío. Le temblaban las manos y las piernas de forma incontrolable. El bajón de adrenalina fue brutal.
+
+—Casi —dijo el Ermitaño, recuperando su cuchillo con tranquilidad pasmosa—. Tu corazón suena como un martillo golpeando una chapa, chico, pero lograste enfriar tu piel lo suficiente. Tienes talento para la nada. Para la muerte fingida.
+
+—¿Qué... qué mierda era eso? —tartamudeó Leo, su voz un hilo.
+
+—Un Teje-Sombras. Clase C. Ciego a la luz visible, pero ve el calor y las corrientes de Flujo. Si hubieras intentado usar tu... truco de fuerza, tu Sincronía... te habría comido antes de que pudieras parpadear. Le habrías encendido una bengala en la cara.
+
+El Ermitaño le lanzó otro trozo de carne.
+
+—En la Zona 2, la fuerza te mata. La velocidad te mata. Solo el silencio te salva. Aprende eso, grábatelo en el hueso, o muere mañana cuando bajes de este árbol.
+
+La noche cayó sobre la selva. Pero no hubo oscuridad. El bosque se encendió. Bioluminiscencia en todas partes. Hongos azules, flores rojas, insectos dorados. Era un espectáculo de belleza alienígena que Leo, en su vida gris y segura de la Reserva, nunca habría podido imaginar ni en sus fantasías más salvajes.
+
+Se sentía pequeño. Insignificante. Una mota de polvo en un catedral biológica. Y, por primera vez, extrañamente libre.
+
+—Mañana me voy —dijo Leo, mirando las luces lejanas que parpadeaban como una ciudad de hadas crueles.
+
+—Sí —dijo el Ermitaño—. Mañana empieza tu verdadera prueba. La Subasta está a tres días de marcha forzada hacia el este. Sigue el curso del río muerto, el cauce seco.
+
+—¿Sabes de la Subasta?
+
+—Todo lo que cae por el río termina allí, eventualmente. Cosas rotas. Gente perdida. Secretos antiguos. Los Segadores lo recogen todo y lo venden al mejor postor. Es un sumidero.
+
+El Ermitaño se acostó, dándole la espalda, envolviéndose en su capa de hojas.
+
+—Ten cuidado, caminante. Buscas algo que no quiere ser encontrado. Y llevas en el bolsillo algo que todos, desde el Concordato hasta los Reyes de la Selva, quieren robar. Esa piedra tuya... pesa más que tu vida.
+
+Leo tocó el bulto de la Pieza bajo su ropa, sobre su corazón.
+
+Pensó en Elena. Sola en algún lugar de ese inmenso caos brillante. Quizás prisionera. Quizás muerta. Quizás transformada.
+
+*"Voy a por ti,"* pensó, proyectando el pensamiento hacia la oscuridad. *"Aunque tenga que quemar este bosque entero. Aunque tenga que matar a cada monstruo en el camino."*
+
+El sueño lo venció, pero esta vez no hubo pesadillas de túneles y muerte. Solo oscuridad. Y silencio. Un silencio denso y protector que había aprendido a usar como escudo.
+
+Al amanecer, cuando Leo despertó con la luz naranja del sol filtrada, el Ermitaño había desaparecido de nuevo.
+
+En su lugar, había dejado un regalo sobre la hoja-bandeja.
+
+Una capa hecha de ese tejido de liquen mimético, gris y verde, perfecta para romper la silueta humana. Y un cuchillo nuevo, tallado en hueso de raptor, tosco pero afilado como una navaja de afeitar molecular.
+
+Leo se puso la capa. Se ajustaba a sus hombros como una segunda piel, fresca y ligera. Empuñó el cuchillo.
+
+Miró hacia abajo, hacia el abismo verde de la selva que lo esperaba. Cien metros de caída hacia la muerte. O hacia la vida.
+
+Sonrió. Una sonrisa torcida, peligrosa, que no llegó a sus ojos.
+
+Ya no era el cartógrafo que medía distancias seguras. Ya no era el ciudadano que pagaba impuestos y obedecía semáforos.
+
+Era un fantasma en el bosque.
+
+Comenzó el descenso.
+
+**[FIN DEL CAPÍTULO 17]**
+
+
+<div style="page-break-after: always;"></div>
+\newpage
+
+# CAPÍTULO 18: LA REUNIÓN
+
+El bosque no estaba callado. El bosque estaba conteniendo la respiración, como un animal acorralado que sabe que el depredador alfa acaba de entrar en la habitación.
+
+Leo caminaba —o más bien, se deslizaba como una sombra líquida— siguiendo el lecho seco y pedregoso de lo que alguna vez, hace siglos, fue un afluente torrencial del gran río subterráneo. Sus botas, recuperadas del nido del Ermitaño pero con las suelas gastadas hasta el límite de la utilidad, pisaban sobre una alfombra geológica de guijarros de río pulidos y hojas fosilizadas que, en circunstancias normales, crujían con la sonoridad de huesos rotos bajo cualquier peso descuidado.
+
+Pero Leo ya no era descuidado. El descuido era un lujo que pertenecía a su vida anterior, la vida del cartógrafo que tomaba café sintético en una taza de cerámica y miraba pantallas.
+
+Ahora, cada paso era una ecuación de física aplicada resuelta en tiempo real. *Peso distribuido en el borde exterior del pie para minimizar la superficie de contacto. Rodillas flexionadas treinta grados para absorber el impacto y eliminar la vibración del suelo. Respiración sincronizada con las ráfagas de viento para enmascarar el sonido de la exhalación.*
+
+La capa de liquen mimético que el Ermitaño le había regalado era una maravilla de la bioingeniería natural, una pieza de tecnología evolutiva superior a cualquier camuflaje óptico del Concordato. No solo rompía su silueta visual, fragmentando su forma humana reconocible en un patrón caótico y fractal de sombras y texturas vegetales, sino que parecía absorber su olor químico. Leo se sentía envuelto en una nube constante de aroma a tierra húmeda, moho y descomposición fúngica, un perfume biológico que gritaba "aquí no hay nada vivo, solo materia muerta reciclándose".
+
+Aun así, tenía miedo.
+
+No el miedo pánico y visceral de sus primeros días en Extramuros, el miedo de la presa ciega que corre hasta que el corazón le estalla. Este era un miedo frío, calculado, racional. El miedo del depredador pequeño que sabe, por instinto y observación, que ha entrado en el territorio de caza de los depredadores alfa.
+
+El aire estaba cargado de electricidad estática, pesado y metálico en la lengua. Las nubes bajas, de un color violeta amoratado y enfermizo, rozaban las copas de los árboles titánicos como panzas de ballenas varadas. Se avecinaba una tormenta, pero no una tormenta de agua y truenos. Una tormenta de Flujo.
+
+Leo se detuvo en seco.
+
+Algo había cambiado en la textura del aire.
+
+No fue un sonido. Fue una ausencia de sonido. Un vacío repentino en la cacofonía habitual de la selva.
+
+Los insectos gigantes, cigarras del tamaño de ratas que zumbaban constantemente como sierras eléctricas distantes, se habían callado de golpe. Los monos aulladores de las copas altas, que marcaban su territorio con gritos que sonaban como metal desgarrándose, habían cesado sus transmisiones.
+
+El Silencio de Dios.
+
+Leo se pegó contra la raíz tabular de un árbol del grosor de un edificio de diez plantas, fundiéndose con la corteza rugosa. Activó la *Quietud*.
+
+No fue un acto consciente de magia ni un hechizo aprendido en libros. Fue un reflejo pavloviano, grabado en su sistema nervioso por el miedo a la Serpiente Teje-Sombras. Cerró los ojos un instante, visualizó el termostato de su caldera interna —su corazón, su metabolismo— y lo giró mentalmente hacia el cero absoluto.
+
+Sintió el cambio físico. Sintió cómo su pulso bajaba, *tic... tic... tic...*, ralentizándose hasta un ritmo de hibernación lejana. Sintió cómo el calor se retiraba de la superficie de su piel, escondiéndose en sus órganos vitales, dejando su epidermis fría como la piedra. Su mente se vació de ruido.
+
+Pero dolía. Oh, dolía.
+
+Era como aguantar la respiración bajo el agua helada. Su cerebro reptiliano gritaba pidiendo oxígeno y calor, aporreando las paredes de su cráneo. Mantener el estado de Quietud requería una voluntad de hierro para no tiritar, para no jadear. Un segundo de desconcentración y el instinto de supervivencia rompería el trance, encendiéndole como una antorcha térmica.
+
+Se convirtió en un objeto inerte. En una piedra con ojos y un dolor de cabeza creciente.
+
+Diez segundos después, lo oyó.
+
+*Thump. Thump. Thump.*
+
+No eran pasos de bestia biológica. Las bestias, por muy grandes que sean, tienen un ritmo orgánico, una cadencia irregular dictada por músculos y tendones. Esto era mecánico. Rítmico. Pesado. Industrial.
+
+Y luego, el zumbido. El sonido inconfundible, agudo y penetrante, de impulsores de flujo de levitación magnética de alto rendimiento luchando contra la gravedad aumentada y la densidad atmosférica de la Zona 1.
+
+Leo se asomó milimétricamente por el borde de la raíz, usando un solo ojo.
+
+A unos cien metros, bajando por el cauce seco como si fuera una autopista pavimentada ceremonialmente para ellos, venía un convoy.
+
+No eran chatarreros con vehículos remendados. No eran exploradores desesperados como él.
+
+Eran la guerra encarnada.
+
+A la cabeza de la formación flotaba un vehículo que Leo solo había visto en los archivos de historia prohibida de la Reserva, en los capítulos censurados y marcados con franjas negras sobre las "Guerras de Unificación". Un Transporte Blindado de Asalto (TBA) clase *Rhino*. Era una bestia de metal negro mate, ancha y baja como un sapo blindado, flotando a un metro del suelo sobre cojines de distorsión azulada que doblaban la luz debajo del chasis. Su blindaje no estaba inmaculado; estaba marcado por cicatrices profundas de ácido, quemaduras de bilis cáustica y surcos de garras titánicas que habrían abierto un tanque normal como una lata de sardinas. Pero no parecía dañado; parecía condecorado. Cada cicatriz era una historia de supervivencia.
+
+Detrás del *Rhino*, flanqueándolo como una guardia de honor de pesadilla, caminaban seis figuras.
+
+Los Segadores.
+
+Leo contuvo el aliento, sintiendo una punzada de terror atávico que intentó romper su Quietud.
+
+Había oído historias en las tabernas de los bajos fondos de los niveles inferiores de la Ciudadela. Susurros de borrachos y locos. Historias de hombres y mujeres que rechazaban el orden estéril del Concordato no para vivir libres, sino para vivir como reyes depredadores en la cima de la cadena alimenticia. Hombres que usaban el Flujo no para construir o proteger, sino para devorar y dominar.
+
+Eran gigantes. Sus armaduras no eran los trajes de polímero limpios, blancos y aerodinámicos de los Vanguardias, diseñados para la movilidad y la higiene. Eran armaduras compuestas, brutales y funcionales, hechas de un mosaico de placas de quitina cosechadas de bestias Clase A y B, reforzadas con armaduras de quitina reforzada industriales de acero sucio. Llevaban cascos cerrados, sin rostro, con visores en forma de V roja brillante que brillaban con luz propia en la penumbra del bosque.
+
+Y sus armas...
+
+El líder del escuadrón, un tipo que debía medir dos metros y medio con la armadura puesta, caminaba con una arrogancia pesada que hacía temblar el suelo (o quizás era el efecto de sus botas magnéticas). Llevaba un martillo de guerra a la espalda. No un martillo medieval ceremonial. Un pistón hidráulico industrial modificado, una herramienta de minería de asteroides convertida en arma, con una cabeza de bloque de metal estelar empobrecido que vibraba con energía térmica visible, distorsionando el aire a su alrededor.
+
+—Alto —dijo el líder. Su voz no era humana. Salió amplificada por membranas de sonido externos de grado militar, distorsionada, grave y metálica, rompiendo la sacralidad del silencio del bosque con la sutileza de una explosión.
+
+El convoy se detuvo al unísono, con un silbido de sistemas hidráulicos y ventilación de refrigerantes.
+
+El líder levantó una mano, cerrada en un puño blindado del tamaño de un melón.
+
+—Scanner térmico activo. Sector 4, flanco derecho. Veo una perturbación en el patrón de fondo.
+
+Leo sintió que su corazón, que latía lento, intentaba saltar de su pecho y salir corriendo solo. ¿Lo habían visto? Imposible. Estaba en Quietud total. Estaba frío. Era parte del árbol.
+
+El líder giró la cabeza lentamente, como una torreta de tanque. Su visor en V roja barrió la línea de árboles. El haz de luz de escaneo pasó por encima de la raíz donde Leo se escondía.
+
+La luz roja bañó la cara de Leo, traspasando la capa de liquen.
+
+*No te muevas. No respires. No pienses. Eres madera. Eres musgo. Eres nada.*
+
+La luz se detuvo un segundo eterno sobre él. Leo sintió el calor del láser de medición en su retina cerrada.
+
+Luego pasó de largo.
+
+—Negativo —dijo uno de los soldados, la voz de una mujer, fría y profesional, que llevaba un rifle de francotirador de cañón largo y bobinas electromagnéticas, apoyada en el lateral del *Rhino*—. Es una lectura fantasma, Capitán. Gas de pantano fermentando. O un roedor pequeño bajo tierra. No hay firma de Flujo coherente.
+
+—No creo en los fantasmas —gruñó el líder, bajando la mano—. Pero creo en las emboscadas. Despliegue defensivo. Perímetro caliente. Algo nos está acechando, y no es un roedor.
+
+Tenía razón. El instinto del líder era sobrenatural.
+
+Leo lo sintió antes de verlo. La vibración profunda en el suelo, subiendo por las raíces del árbol hasta sus huesos.
+
+Del flanco derecho, de la espesura impenetrable de helechos gigantes y vegetación espinosa, surgió la muerte biológica.
+
+Era un *Escarabajo Asedio*. Una bestia Clase C+, quizás rozando la Clase B por su tamaño. Era una montaña de quitina negra y brillante, del tamaño de un camión de basura compactador. Estaba acorazado con placas naturales que Leo sabía, por los manuales teóricos, que podían desviar balas de calibre .50 como si fueran granizo. Sus mandíbulas, dos pinzas serradas de metro y medio, chasqueaban con fuerza suficiente para cortar acero estructural.
+
+La bestia cargó contra el convoy con un rugido agudo y chirriante que hizo temblar los empastes de Leo y provocó una lluvia de hojas desde el dosel.
+
+Leo, desde su escondite, esperó un tiroteo desesperado. Esperó gritos, órdenes frenéticas, sangre, caos, explosiones. Esperó ver a los humanos luchar por sus vidas.
+
+Lo que vio fue una ejecución sumaria.
+
+—Formación Rompeolas —ordenó el líder, con la calma aburrida de quien pide un café en una mañana de lunes.
+
+Dos de los Segadores, los que iban en vanguardia, se adelantaron un paso. No levantaron rifles. No sacaron espadas. Levantaron las manos abiertas, palmas hacia afuera.
+
+Leo vio el aire distorsionarse alrededor de sus guantes blindados. Vio chispas violetas saltar entre sus dedos. *Flujo.* Pero no el flujo sutil, interno y defensivo que él conocía o que el Ermitaño usaba. Era Flujo ofensivo, crudo, brutal y militarizado. Era poder convertido en munición.
+
+—¡Ahora! —gritó el líder.
+
+Los dos soldados golpearon el aire hacia adelante. Una onda de choque cinética, visible como una pared de cristal roto viajando a la velocidad del sonido, salió disparada de sus palmas amplificadas por la tecnología de sus armaduras.
+
+Impactó contra el escarabajo en plena carga.
+
+*CRACK.*
+
+El sonido fue como un trueno seco, un latigazo sónico que golpeó a Leo en el pecho.
+
+La bestia de cinco toneladas, que cargaba a cincuenta kilómetros por hora, se detuvo en seco en una fracción de segundo, como si hubiera chocado contra un muro invisible de hormigón armado. La física de la colisión fue brutal. Su caparazón frontal se rajó por la propia inercia. Sus patas delanteras se doblaron hacia atrás con un crujido repugnante de armadura de quitina reforzada rompiéndose.
+
+El escarabajo chilló, aturdido, desorientado, escupiendo sangre azul, intentando levantarse sobre sus patas traseras rotas.
+
+El líder ya estaba allí.
+
+Se había movido con una velocidad imposible para su tamaño y peso, impulsado por chorros de gas comprimido azul de los propulsores de su armadura de quitina reforzada. Saltó tres metros en el aire, una mancha negra contra el cielo verde, levantando el martillo hidráulico con ambas manos por encima de su cabeza.
+
+El pistón del martillo se activó. *CLANK.* La cabeza de metal estelar brilló al rojo vivo.
+
+—¡Cae! —rugió el líder.
+
+El martillo bajó.
+
+Impactó en la grieta del caparazón del escarabajo, justo detrás de la cabeza, en el ganglio nervioso central.
+
+No hubo "splash". Hubo una explosión de materia orgánica. El impacto fue tan violento que creó una onda expansiva de polvo y sangre. El martillo atravesó el blindaje biológico, la carne, el hueso y se hundió en el suelo debajo de la bestia, clavándola a la tierra.
+
+La bestia colapsó instantáneamente, sus patas agitándose en los espasmos frenéticos del post-mortem.
+
+El líder sacó el martillo con un tirón húmedo y fuerte, activando el retroceso hidráulico para liberarlo, sacudiendo la sangre azul fosforescente y los trozos de cerebro gris.
+
+—Objetivo neutralizado —dijo, sin jadear siquiera, aterrizando pesadamente en el suelo—. Nivel de amenaza irrisorio. Delta-Dos, recoged las glándulas de toxina. Valen cien piezas de hueso el gramo en el mercado de Quimera. El resto dejadlo para los carroñeros. No tenemos espacio de carga para basura.
+
+Leo estaba temblando. No de miedo. De shock.
+
+Había visto matar bestias antes. Había visto a los Vanguardias luchar en la frontera. Pero siempre era una lucha táctica, desesperada, una batalla por la supervivencia metro a metro.
+
+Esto no había sido una batalla. Había sido una tarea doméstica. Había sido rutinario. Habían aniquilado a una bestia blindada Clase C en diez segundos, sin gastar una sola bala, sin sudar.
+
+Esos eran los hombres que iban a la Subasta. Esos eran los hombres contra los que Leo tendría que competir, engañar o luchar si quería conseguir la Llave. Era una hormiga intentando robarle comida a una manada de tiranosaurios.
+
+—Señor —dijo la francotiradora, mirando una proyección holográfica naranja que surgía de su muñequera táctica—. La señal se ha movido.
+
+El líder se detuvo, con el martillo al hombro.
+
+—¿La señal del Objetivo Primario? ¿La Pieza Maestra?
+
+—No, señor. La señal secundaria. La "Copia". Ha habido un pulso de resonancia hace seis horas. Cerca de aquí. Al oeste. Muy cerca.
+
+El corazón de Leo se detuvo por un segundo completo. El frío de la Quietud se volvió hielo real en sus venas.
+
+La *Copia*.
+
+Hablaban de su Pieza. Hablaban del poliedro que llevaba pegado a la piel. Hablaban de él.
+
+—¿Al oeste? —El líder giró su casco y miró hacia la dirección de donde Leo había venido, hacia el árbol del nido del Ermitaño—. Interesante. ¿Un explorador con suerte que encontró una reliquia?
+
+—O un ladrón estúpido que no sabe cómo apagarla. O un desertor.
+
+—No importa —dijo el líder, subiendo de nuevo al estribo del vehículo blindado con un salto ágil—. Tenemos una cita confirmada. Si la Copia viene a la Subasta, se la quitaremos del cadáver caliente allí mismo. Nos ahorrará la búsqueda. Si no viene, enviaremos a los Rastreadores a cazarlo después de asegurar el Objetivo Principal. Prioridad a la misión. Vamos a comprar un dios, caballeros. No lleguemos tarde por distraernos con un insecto.
+
+Los impulsores de flujo del *Rhino* rugieron de nuevo, subiendo de tono hasta un aullido doloroso. El convoy se puso en marcha, los Segadores cayendo en formación perfecta alrededor del vehículo, aplastando el cadáver destrozado del escarabajo bajo sus campos de levitación y botas blindadas como si fuera basura en la carretera.
+
+Leo se quedó pegado a la raíz durante una hora completa después de que el sonido de los impulsores de flujo desapareciera en la distancia, tragado por la selva.
+
+Estaba empapado en sudor frío. Su Quietud se rompió, y su corazón empezó a latir como un tambor de guerra desbocado, intentando recuperar el oxígeno perdido.
+
+Sabían que existía. Sabían que tenía la Pieza. Lo llamaban "La Copia". Y lo estaban esperando. La Subasta no era un mercado; era una trampa.
+
+Leo miró hacia adelante, hacia donde había ido el convoy. El rastro de destrucción era claro: árboles rotos, suelo quemado, vegetación aplastada. El camino a la Subasta era una cicatriz en el bosque.
+
+Podía dar la vuelta. Podía volver al nido, suplicarle al Ermitaño que lo dejara quedarse, vivir como un salvaje, comer larvas y esconderse en la copa de los árboles hasta morir de viejo, olvidado y seguro.
+
+Tocó el bulto duro en su pecho, bajo la ropa y la capa. Sintió la vibración leve, constante, caliente.
+
+—Vamos a comprar un dios —había dicho el líder.
+
+Elena estaba allí. La respuesta a todo estaba al final de ese camino de muerte.
+
+Leo se levantó. Sus piernas temblaban por el estrés del bloqueo muscular, pero se obligó a tensarlas. Sacó el cuchillo de hueso. Parecía un juguete ridículo, un palillo de dientes primitivo, comparado con el martillo hidráulico de metal estelar del Segador.
+
+—Bien —susurró Leo a la selva vacía, su voz sonando extrañamente firme—. Ellos tienen martillos de guerra y armaduras de tanque. Yo tengo... yo tengo mala hostia y nada que perder.
+
+Empezó a caminar. Siguiendo las huellas de los tanques de levitación. Hacia la boca del lobo. Hacia la guerra. Hacia Elena.
+
+**[FIN DEL CAPÍTULO 18]**
+
+
+<div style="page-break-after: always;"></div>
+\newpage
+
+# CAPÍTULO 19: EL OBJETO
+
+El Mercado de Huesos no estaba escondido. No necesitaba estarlo. Cuando eres la cicatriz más grande, purulenta y rentable en la piel de la Zona 1, no te escondes en las sombras como un ladrón avergonzado; obligas al mundo a mirarte a la cara y a pagar por el privilegio.
+
+Leo yacía boca abajo en una cornisa de granito cubierta de musgo negro resbaladizo, a trescientos metros de la entrada principal. Llevaba dos horas allí. Inmóvil. Frio. Una gárgola de carne y hueso envuelta en una capa de liquen que olía a tumba, mimetizada con la piedra húmeda y fría. Sus músculos estaban entumecidos, pero su mente ardía de actividad.
+
+Abajo, en el valle natural formado por la erosión milenaria de dos ríos muertos, la civilización humana de Extramuros había florecido como un hongo tóxico, brillante y violento.
+
+El Mercado era una fortaleza improvisada, una arquitectura nacida de la desesperación absoluta y la codicia desenfrenada. Sus muros exteriores no eran de ladrillo ni de hormigón vertido. Eran costillas. Costillas titánicas, blancas como el marfil pulido por el viento y curvadas como arcos de una catedral gótica demencial, arrancadas de algún Clase S muerto hace milenios y clavadas en la tierra rojiza para formar una empalizada de hueso de quince metros de altura. Entre las costillas, como carne podrida entre dientes de un gigante, los habitantes habían soldado planchas de metal oxidado, restos de naves estrelladas, contenedores de carga abollados con sellos de corporaciones extintas y malla de energía estática que chisporroteaba con un zumbido azul constante, matando a cualquier insecto imprudente o ladrón estúpido que intentara cruzar sin permiso.
+
+Y la luz.
+
+En la oscuridad absoluta de la selva nocturna, donde la única iluminación solía ser la bioluminiscencia fría de los hongos, el Mercado brillaba como un incendio químico fuera de control. Luces de neón de gas noble, rojas, violetas y verdes ácidos, manchaban la niebla baja que se aferraba al suelo como un sudario. Focos halógenos de alta intensidad barrían el perímetro con haces blancos y duros, buscando movimiento. Y el sonido... una mezcla cacofónica de música electrónica distorsionada con bajos que hacían vibrar el esternón de Leo incluso a esa distancia, el rugido mecánico de generadores diésel luchando por mantener la fiesta encendida, y el murmullo de mil voces humanas gritando, vendiendo, apostando y muriendo.
+
+Era un espectáculo obsceno. Era una afrenta a la naturaleza silenciosa y brutal del bosque. Y, de una forma retorcida que Leo no quería admitir, era hermoso. Era humano.
+
+Leo sacó la Pieza de su bolsillo interior, descosiendo con cuidado la costura reforzada que la mantenía segura contra su pecho.
+
+Lo hizo con movimientos lentos, milimétricos, sin romper su perfil térmico, manteniendo sus brazos pegados al cuerpo para conservar el calor vital.
+
+El objeto había cambiado.
+
+Ya no era el poliedro negro, frío e inerte que había cargado durante años en la Reserva como un pisapapeles sentimental, un recuerdo mudo de un abuelo loco que hablaba de puertas estelares. Ahora estaba caliente. No tibio como un animal pequeño. *Caliente*. Quemaba a través de la tela de su camisa, marcando su piel con su geometría imposible, como si quisiera fundirse con él.
+
+Y vibraba.
+
+No era una vibración mecánica, como un impulsor de flujo o un teléfono. Era un pulso. *Thump... Thump... Thump.*
+
+Sincronizado con su propio corazón. O quizás, pensó Leo con un escalofrío que no tenía nada que ver con el frío de la noche, su corazón se había visto obligado a sincronizarse con él, arrastrado por una gravedad biológica superior.
+
+Leo miró el objeto a la luz tenue de las lunas filtradas por las nubes tóxicas. Las caras del poliedro, antes lisas y negras como obsidiana pulida, ahora mostraban líneas de luz fracturada en su interior, como si algo estuviera intentando romper la cáscara desde dentro para nacer. Grietas doradas finísimas que parecían moverse, reordenándose en patrones que desafiaban la geometría euclidiana y dolían a la vista si se miraban fijamente demasiado tiempo.
+
+—¿Qué eres? —susurró Leo, su voz apenas una exhalación de vapor que se disipó al instante en la brisa nocturna.
+
+Cerró los ojos y se concentró. No usó Sincronía activa —eso sería encender una bengala de magnesio para los escáneres de Flujo de los Segadores o los sistemas de seguridad biológica del Mercado— sino una percepción pasiva. Intentó "escuchar" al objeto, como quien pone la oreja en una caja fuerte esperando oír el clic de los engranajes.
+
+Y el objeto le respondió.
+
+No con palabras. Con datos puros.
+
+Imágenes-relámpago estallaron detrás de sus párpados, proyectadas directamente en su córtex visual con la violencia de una migraña repentina.
+
+*Una puerta circular de metal estelar, cerrada y sellada con glifos que ardían en un color que no existía en el espectro visible.*
+*Un mapa tridimensional de una galaxia que no era la Vía Láctea, girando en el vacío negro, marcada con rutas de navegación muertas.*
+*Una sensación de caída infinita, de velocidad absurda a través de un túnel de luz.*
+*Y una llave. No esta pieza. Sino otra. Una pieza complementaria. Un hueco negativo que esperaba ser llenado. Un molde.*
+
+Leo abrió los ojos de golpe, jadeando, con el sabor a sangre en la boca y las pupilas dilatadas. La conexión había sido invasiva, brutal, ajena.
+
+La Pieza no era una batería infinita como creían los ingenieros de la Reserva. No era un arma de destrucción masiva como temían los generales.
+
+Era una mitad. Era un macho buscando su hembra biológica. Era una llave compleja buscando su cerradura específica en el universo.
+
+O quizás era al revés. Quizás el poliedro era la cerradura y buscaba la llave para liberar lo que contenía.
+
+—Buscas a tu hermano —dedujo Leo, limpiándose el sudor frío de la frente con el dorso de la mano. La idea le dio vértigo.
+
+Si esto era una llave, ¿qué abría? ¿Una puerta física en algún lugar de la Zona 4? ¿Una base de datos de los Antiguos? ¿Una prisión para algo que nunca debería salir? Y lo más importante: ¿quién tenía la otra mitad?
+
+Un ruido de impulsores de flujo pesados, un rugido de turbinas que hizo temblar el suelo bajo su pecho y espantó a los pájaros nocturnos, rompió su concentración.
+
+El convoy de los Segadores.
+
+Los vio llegar por la "carretera" principal, una pista de barro compactado y grava iluminada por antorchas de magnesio que ardían con un blanco cegador. El *Rhino*, ese tanque flotante que había visto masacrar al escarabajo, flotaba con su arrogancia habitual, apartando a los peatones —mercaderes de esclavos encadenados, prostitutas biológicas con ojos modificados, exploradores tuertos y laojos vigÃ­a de poca monta— con bocinazos de aire comprimido que podían romper tímpanos. La gente se apartaba, aterrorizada, pegándose a los muros de hueso, bajando la cabeza. El miedo era la única moneda universal en Extramuros.
+
+El vehículo se detuvo frente a la Puerta de la Mandíbula, la entrada principal formada por las fauces abiertas y fosilizadas de un carnívoro titánico que podría haber tragado un autobús sin masticar.
+
+Guardias del Mercado salieron a recibirlos. No eran Segadores. Eran mercenarios locales, la escoria contratada por los Subastadores: tipos duros con rifles cinéticos oxidados, cicatrices de cuchillo y armaduras desiguales hechas de chatarra soldada. Pero se cuadraron con respeto —y un miedo palpable— ante el convoy negro. Nadie quería problemas con la élite. Nadie quería ser aplastado por un maza de núcleo denso.
+
+La escotilla trasera del *Rhino* se abrió con un silbido de descompresión y una nube de vapor refrigerante.
+
+El Capitán Segador, el gigante del martillo, bajó primero. Caminó con esa pesadez hidráulica, ignorando a los guardias como si fueran mobiliario urbano o insectos molestos. Su visor rojo brillaba en la oscuridad.
+
+Detrás de él, dos soldados con armaduras de quitina reforzada amarillos sacaron algo del interior del vehículo.
+
+No era un arma. Era un contenedor.
+
+Una caja de seguridad cúbica, de metal negro mate, de un metro por un metro, levitando sobre un campo antigravedad portátil. Tenía luces de estado rojas parpadeando en sus costados y símbolos de "Peligro Biológico" y "Clase Omega" pintados en amarillo industrial.
+
+Leo sintió una punzada en el pecho. Literal. Como si un gancho invisible le hubiera atravesado el esternón y tirara de él hacia abajo.
+
+Su Pieza reaccionó con violencia.
+
+El poliedro en su mano dio un salto físico, como un imán de neodimio buscando el norte magnético con desesperación. El calor se disparó hasta casi quemarle la palma de la mano. Leo tuvo que morderse el labio hasta que sintió el sabor metálico de la sangre para no soltarlo y gritar.
+
+La conexión era innegable. Lo que había encerrado en esa caja blindada y lo que Leo tenía en la mano estaban entrelazados cuánticamente. Eran dos partes de un mismo organismo, gritándose a través del espacio, ignorando las leyes de la física local.
+
+—La Cerradura —susurró Leo, con la certeza absoluta de la intuición de un ingeniero—. Traen la otra mitad.
+
+El Capitán Segador se detuvo en la entrada. Hizo un gesto imperativo a sus hombres. Uno de ellos, el especialista en sensores tácticos, sacó un escáner de mano y barrió el perímetro con un haz de luz verde abanicado.
+
+Leo contuvo la respiración. Activó la *Quietud* al máximo, visualizando un glaciar eterno, enfriando sus huesos hasta que le dolieron las articulaciones por el cambio térmico. *Soy hielo. Soy piedra muerta. No existo. No tengo calor.*
+
+El haz del escáner pasó de largo, rozando su posición en la cornisa pero sin detenerse. El operador no vio nada más que roca fría y vegetación muerta.
+
+El Capitán asintió y el grupo entró en el Mercado, tragado por la luz de neón, el humo de los puestos de comida y la multitud que se abría a su paso como el Mar Rojo.
+
+Leo exhaló. El vapor de su aliento se disipó rápidamente en la noche húmeda. Sus músculos temblaban por el esfuerzo de mantener la Quietud tanto tiempo.
+
+Tenía la confirmación. No era solo una teoría paranoica de un hombre desesperado. Los Segadores tenían la otra mitad. Iban a venderla en la Subasta. O, más probablemente, iban a comprar la pieza de Leo para completarla, esperando que "La Copia" apareciera atraída por la señal como una polilla al fuego. Habían puesto el cebo.
+
+De cualquier manera, el destino de ambos objetos iba a colisionar esta noche. Y Leo tenía que estar en el punto de impacto.
+
+Leo guardó la Pieza, envolviéndola en un trozo de tela aislante y pesada para amortiguar el calor y la vibración. Se ajustó la capa de liquen, asegurándose de que cubriera sus armas y su mochila.
+
+—Bien —se dijo a sí mismo, sintiendo la adrenalina inundar su sistema y luchar contra el miedo—. Si queréis una reunión familiar, cabrones, la tendréis. Pero no os va a gustar el regalo que traigo.
+
+Pero no podía entrar por la puerta principal. Escáneres de retina, detectores de metal, perros biológicos modificados genéticamente para oler el miedo y las feromonas de estrés... entrar por ahí era un suicidio complejo y ruidoso. Leo necesitaba entrar, encontrar a Elena y salir, no morir en un tiroteo en el vestíbulo.
+
+Necesitaba una puerta trasera. Un error en el diseño. Una vulnerabilidad.
+
+Leo observó la estructura del Mercado con ojos de ingeniero y arquitecto. Las costillas formaban una jaula sólida, casi impenetrable, pero ninguna jaula es perfecta tras años de negligencia, corrosión y expansión descontrolada.
+
+Analizó los patrones de luz y sombra. Vio los generadores diésel en el lado este, expulsando columnas de humo negro y aceitoso que ocultaban parte del muro. Vio las torres de vigilancia en el norte, con francotiradores aburridos fumando y mirando sus tabletas en lugar del perímetro.
+
+Y vio el sistema de drenaje.
+
+El Mercado producía residuos. Toneladas de ellos. Basura, químicos de los laboratorios de drogas, fluidos corporales, sangre de las arenas de combate. Y esos residuos tenían que ir a algún sitio por gravedad. No desaparecían mágicamente.
+
+En la base de la muralla oeste, donde el terreno se inclinaba bruscamente hacia el barranco oscuro, había una salida de aguas grises. Una tubería de hormigón antiguo, de la época de la colonización original, cubierta de rejillas oxidadas y enredaderas espinosas que habían crecido alimentadas por la inmundicia.
+
+Nadie vigilaba la basura. La basura se vigilaba sola por el asco que daba.
+
+Leo se deslizó por la pendiente, moviéndose de sombra en sombra, reptando como un lagarto, usando las manos y los pies para frenar su descenso silencioso. Tardó veinte minutos en llegar a la base del muro, evitando pisar ramas secas o piedras sueltas. El olor aquí era atroz: una mezcla de químicos industriales ácidos, excrementos humanos fermentados y sangre vieja coagulada. Le lloraban los ojos.
+
+La tubería tenía un metro de diámetro. La rejilla de seguridad estaba corroída, cubierta de moho naranja y algas negras, pero seguía firme.
+
+Leo sacó su cuchillo de hueso. Probó los barrotes. Hierro sólido de pre-guerra.
+
+—Mierda.
+
+Miró alrededor. Necesitaba una palanca. O un explosivo plástico. No tenía nada más que su cuerpo y su mente.
+
+Recordó la lección de El Maestro sobre la Resonancia, impartida semanas atrás bajo la lluvia. *El Flujo no es solo fuerza bruta para golpear cosas. Es física. Todo objeto tiene una frecuencia natural de vibración. Si la encuentras y la amplificas, el objeto se destruye a sí mismo desde dentro.*
+
+Leo guardó el cuchillo. Respiró hondo, ignorando el hedor, y puso sus manos desnudas sobre los barrotes fríos y oxidados.
+
+Cerró los ojos. No buscó el calor ahora. Buscó la vibración del metal. Sintió la estructura cristalina del hierro, las microfracturas causadas por años de oxidación y humedad ácida. Sintió la debilidad del material.
+
+Inyectó una pulsación de Flujo. No un golpe de energía explosiva. Una nota. Una vibración simpática y constante.
+
+*Hummmmm.*
+
+El metal gimió bajo sus manos, un sonido bajo y quejumbroso. El óxido se desprendió en escamas naranjas que cayeron al agua sucia con un chapoteo suave.
+
+Leo apretó los dientes. El coste metabólico fue inmediato y brutal. Un calambre agudo en el estómago, como si se hubiera tragado un puño cerrado. Hambre. Su cuerpo quemaba glucosa a un ritmo acelerado para alimentar la vibración. Su hígado protestó.
+
+*Empuja. Rómpelo. No pares.*
+
+Aumentó la frecuencia, sintonizándola con el punto de quiebre del metal.
+
+*CRACK.*
+
+El sonido fue seco, como un disparo pequeño silenciado.
+
+Uno de los barrotes se partió por la base, fatigado por la resonancia forzada. Luego el otro cedió con un gemido de metal torturado y cayó al agua.
+
+Leo jadeó, cayendo de rodillas en el barro. Le temblaban las manos violentamente. La visión se le nubló un segundo con puntos negros.
+
+—Barato —murmuró con ironía masoquista, sacando una barra de proteínas rancia —su última ración de emergencia— de su bolsillo y devorándola en dos bocados desesperados, sintiendo cómo su cuerpo absorbía los nutrientes casi al instante.
+
+Apartó los barrotes rotos, cortándose la palma de la mano con el borde oxidado, pero ignorando el dolor agudo. El hueco era justo para él.
+
+Entró en la tubería.
+
+La oscuridad era absoluta, densa y pesada. El suelo estaba cubierto de un lodo resbaladizo, tibio y vivo que prefería no identificar. Leo avanzó a gatas, con el agua fétida empapando sus rodillas y codos, respirando por la boca para no vomitar, reprimiendo las arcadas.
+
+Avanzó durante cien metros eternos, contando cada metro para no perder la cordura en la claustrofobia. Oía el ruido del Mercado arriba, amortiguado por metros de tierra y hueso, como el latido de un corazón enfermo y arrítmico.
+
+Llegó a una bifurcación en el túnel. Izquierda: más oscuridad y el sonido de agua corriendo fuerte hacia el abismo. Derecho: una luz tenue, gris y vertical que caía desde arriba a través de una rejilla.
+
+Una alcantarilla.
+
+Leo trepó por los peldaños de hueso incrustados en la pared, resbaladizos por la grasa de cocina y la baba de bestia. Llegó a la tapa de registro. Miró por los agujeros de ventilación con precaución.
+
+Veía botas. Muchas botas. De cuero, de metal, descalzas con garras. Veía barro pisoteado. Oía música a todo volumen, risas histéricas, gritos de vendedores y el sonido de botellas rotas.
+
+Estaba dentro. Debajo de ellos. En las entrañas del monstruo.
+
+Esperó a que pasara un grupo de gente ruidosa arrastrando algo pesado que dejaba un rastro de sangre. Empujó la tapa con el hombro, usando sus piernas. Pesaba, pero cedió con un chirrido metálico.
+
+Leo salió, rodó por el suelo del callejón para minimizar su perfil y se puso en pie en un movimiento fluido, ajustándose la capa para cubrir su ropa sucia (aunque ahora, cubierta de lodo de alcantarilla y pringue, encajaba mejor con el entorno que antes).
+
+Nadie lo miró.
+
+En el Mercado de Huesos, parecer una rata de alcantarilla no era sospechoso. Era la moda local. Todo el mundo aquí parecía haber salido de un agujero.
+
+Estaba en un callejón lateral estrecho, detrás de lo que parecía ser un bar de apuestas ilegales hecho de contenedores apilados y soldados malamente. El aire apestaba a alcohol destilado de hongos, humo de tabaco negro, carne asada de dudosa procedencia y sudor rancio.
+
+Leo avanzó hacia la calle principal, manteniendo la cabeza baja, los hombros encorvados, imitando el andar cansado y depredador de los locales. No hizo contacto visual con nadie. Mirar a los ojos aquí era una invitación a pelear o a follar, y Leo no quería ninguna de las dos cosas.
+
+Y se detuvo al llegar al cruce con la avenida central.
+
+La escala del lugar lo golpeó como un puñetazo físico en el plexo solar.
+
+No eran carpas y tenderetes temporales. Eran edificios excavados en el hueso mismo, estructuras parásitas que colgaban de las costillas titánicas como nidos de avispas gigantes de varios pisos. Había puestos de mercado blindados vendiendo desde armas de bilis cáustica de contrabando hasta esclavos encadenados con collares explosivos. Había jaulas con bestias vivas que aullaban y golpeaban los barrotes. Había mesas de juego al aire libre donde se apostaban piezas de hueso, dedos y vidas enteras.
+
+Y en el centro de todo, dominando la plaza como un altar profano en el centro de una catedral del vicio, estaba el Edificio de Subastas. Un búnker de pre-guerra restaurado, una mole de hormigón y acero negro, vigilado por torretas automáticas que giraban perezosamente buscando amenazas.
+
+Ahí era donde estaba Elena. O la pista hacia ella.
+
+Ahí era donde estaba la Cerradura.
+
+Leo tocó la Pieza en su pecho, que seguía vibrando suavemente, guiándolo como una brújula maldita hacia su destino.
+
+—Ya estoy aquí —susurró, perdiéndose en la marea de cuerpos sudorosos y desesperados—. No me falles ahora.
+
+Se subió la capucha de la capa, ocultando su rostro en la sombra profunda. Caminó hacia la multitud, un fantasma más en una ciudad de espectros y asesinos.
+
+La caza había terminado. La infiltración había comenzado. Y Leo no pensaba salir de allí sin respuestas, o sin prenderle fuego a todo el maldito lugar.
+
+**[FIN DEL CAPÍTULO 19]**
+
+
+<div style="page-break-after: always;"></div>
+\newpage
+
+# CAPÍTULO 20: INFILTRACIÓN
+
+La entrada al recinto no tenía un cartel de "Bienvenido". Tenía alfombras de terciopelo rojo que, si mirabas de cerca y prestabas atención a la textura rígida bajo las suelas, ocultaban manchas oxidadas de sangre antigua que nunca saldrían del todo. Y tenía un portero que no era humano, sino un recipiente de carne biológica cultivada, una masa de músculo de dos metros de ancho sin cuello, que respiraba con el sonido agónico de un fuelle roto y miraba el mundo con la inteligencia de una piedra.
+
+Leo salió de las sombras del callejón lateral, ajustándose la capa de liquen, sintiendo cómo el barro pestilente de la alcantarilla se secaba en su piel, tirante y picante. Había esperado diez minutos en la oscuridad profunda, observando el flujo de los invitados con la paciencia calculadora de un depredador que solo tiene un golpe. La élite de las Arcas no llegaba en bestias acorazadas y sucias de batalla como los Segadores. Llegaban en palanquines suspendidos por el Flujo, de maderas nobles llevadas por esclavos modificados con músculos hipertriados y piel gris, o en carruajes cerrados de chasis de hueso pulido que costaban más marcas de favor que la vida colectiva de todos los habitantes de Puerto Raíz.
+
+El aire en la plaza apestaba a una mezcla compleja y nauseabunda: perfume caro —almizcle animal, feromonas de orquídea negra, polvo de ámbar triturado— luchando contra el hedor subyacente y podrido de la selva y la pesadez de los pebeteros de flujo que cargaban el ambiente. Era el olor inconfundible del poder heredado.
+
+Leo se quitó la capa con un movimiento fluido. La dobló y la metió en su mochila improvisada, ocultando el liquen mimético.
+
+No podía entrar pareciendo una rata de alcantarilla. O tal vez sí. En este mundo, la suciedad a veces era un estatus si llevabas el arma adecuada colgada en el cinturón. Pero él no tenía un lanzador de bilis ácida. Tenía un cuchillo de hueso y una mentira.
+
+Observó a un grupo que acababa de bajar de una caravana de elefantes acorazados con el chasis de los habitáculos sobre el lomo pintados de rojo sangre. Eran mercenarios de alto nivel, de esos que cobran por cabeza y no preguntan nombres ni causas. Llevaban armaduras de metal pesado desgastadas pero inmaculadamente grabadas, y capas de piel de bestia Clase B que valían una fortuna. Caminaban con la arrogancia relajada de quien ha matado mucho, ha sobrevivido a todo y ha cobrado bien por ello.
+
+Leo se unió a su estela. Caminó justo detrás de ellos, a la distancia exacta de un escudero o un subalterno, mimetizando su paso pesado, su lenguaje corporal de depredador aburrido que conoce su lugar en la cadena alimenticia pero no teme a nada.
+
+El golem de la puerta ni siquiera lo miró. Su cerebro primitivo, diseñado biológicamente para detectar amenazas obvias y patrones de agresión, simplemente contó: "Grupo de cinco armados". Leo era el quinto elemento de una ecuación de violencia aceptada.
+
+Cruzó el umbral.
+
+El cambio de atmósfera fue brutal, como golpear una pared de agua helada.
+
+El ruido ensordecedor de la plaza desapareció al instante, cortado por una barrera de esporas de quietud instaladas en el arco de la entrada. Dentro, el aire era fresco y pesado, libre de humedad y olor a podrido. Sonaba una música suave, casi líquida e hipnótica, producida por instrumentos de cristal que vibraban solos en el centro del vestíbulo, movidos por una corriente de Flujo constante.
+
+El vestíbulo era una caverna de mármol negro veteado de oro. Pero al pisar, Leo supo por la resonancia en sus suelas que no era mármol. Con su ojo de arquitecto y su nueva sensibilidad al Flujo, vio las vetas orgánicas, los canales de Havers microscópicos. Era hueso. Hueso pulido hasta el espejo. Todo el edificio, todo el complejo subterráneo, estaba tallado en el interior de la cavidad craneal de un titán Clase S fosilizado. Estaban caminando, bebiendo y negociando sobre la meninge calcificada de un dios muerto.
+
+—Invitaciones —dijo una voz melódica y perfecta, pero totalmente artificial.
+
+Una mujer con los ojos sustituidos por esferas de cristal pulido, un "recipiente" sin expresión, estaba detrás de un atril de obsidiana que parecía flotar sobre el suelo. Sus ojos no tenían pupilas; eran superficies de cristal que devolvían el reflejo del Flujo de los invitados, analizando su aura en busca de intenciones hostiles o credenciales falsas.
+
+El grupo de mercenarios con el que Leo se había colado presentó unas piezas negras de metal pesado incrustadas en sus brazales de cuero.
+
+—Bienvenidos, caballeros de la Compañía del Hierro. Tienen mesa reservada en la Sala B, sector perimetral. Bebidas cortesía de la Casa hasta medianoche.
+
+Leo se detuvo. Había perdido su cobertura. El grupo avanzó hacia las puertas dobles, dejándolo expuesto en el centro del vestíbulo como una roca cuando baja la marea.
+
+La mujer lo miró. El escáner azul de sus ojos barrió su cara sucia, su ropa rota bajo la capa, sus botas manchadas de lodo tóxico y sangre seca. El zumbido de sus servos de enfoque fue el único sonido en el silencio del vestíbulo.
+
+—¿Y tú? —preguntó, con una ceja metálica levantada en un gesto de desdén programado— ¿Traes el recado de la cocina de los esclavos o vienes a desatascar los baños colapsados? La entrada de servicio está en el nivel inferior, rata de túnel.
+
+Leo sintió la adrenalina inundar su sistema, forzando la entrada en ese Flow State que empezaba a reconocer como su única arma. No tenía lanzadores de bilis. No tenía marcas de favor ni alcurnia. No tenía invitación.
+
+Pero tenía algo que ellos no.
+
+Tenía la Pieza vibrando en su pecho, dándole una confianza eléctrica, casi arrogante. Y tenía la desesperación absoluta del que no tiene nada que perder porque ya lo ha perdido todo.
+
+Leo sonrió. Una sonrisa lenta, perezosa y arrogantemente peligrosa, que no llegó a sus ojos fríos.
+
+Metió la mano en su bolsillo, rebuscando con calma teatral como si buscara una invitación que sabía perfectamente que no estaba allí.
+
+—No vengo a limpiar, preciosa —dijo, bajando la voz hasta un susurro confidencial y ronco, invadiendo su espacio personal con una confianza que rozaba la insolencia suicida—. Vengo con el Capitán de los Segadores. Me he... retrasado asegurando el perímetro trasero. Hubo un incidente con un local curioso que intentó robar una caja de munición. Ya sabes cómo se pone el Capitán con los mirones y los laojos vigÃ­a.
+
+La mujer parpadeó, sus músculos faciales ajustando su expresión de desdén a duda. El nombre de los Segadores era una palabra mágica en cualquier lugar de la Zona 1, una llave maestra hecha de miedo. Miedo. Respeto. Poder absoluto.
+
+—No tengo registro de rezagados del convoy Omega —dijo ella, dudando por primera vez, su voz perdiendo el tono melódico. Su dedo vaciló sobre el botón de seguridad bajo el atril.
+
+—Porque el convoy Omega no deja huella —mintió Leo, dando un paso más, apoyando las manos sucias sobre el atril de obsidiana inmaculada, manchándolo deliberadamente—. Esa es la gracia de las operaciones negras, pequeña. No existen en la memoria de nadie. Pero si quieres jugártela, interrúmpelo. Interrumpe al Capitán y dile que su especialista en rastro está atrapado en la puerta porque una sirviente tiene dudas sobre su aspecto. Estoy seguro de que bajará encantado a... resolverlo. Con su maza de núcleo denso.
+
+Era un farol de póquer con cartas en blanco. Un salto al vacío sin paracaídas sobre un pozo de tiburones.
+
+La mujer miró la vitrina vacía. Miró a Leo. Vio la suciedad, sí. Pero también vio la mirada. Los ojos de Leo no eran los de un criado asustado que teme el castigo. Eran los ojos de un superviviente. Eran los ojos de alguien que había matado o visto morir gente esa misma mañana y no había parpadeado.
+ 
+ —Sala Principal —dijo ella finalmente, decidiendo que no le pagaban lo suficiente para arriesgarse a molestar a un Capitán Segador—. No causes problemas. Si manchas la alfombra o molestas a los invitados, te matamos, te reciclamos y te servimos en el buffet de la zona común.
+
+—Soy muy limpio cuando quiero —dijo Leo, tomando la pulsera que ella le tendió con dos dedos, como si le hiciera un favor.
+
+Se la puso. La pulsera de papel bio-reactivo se ciñó a su muñeca y brilló en verde suave.
+
+Entró.
+
+El pasillo hacia la Sala Principal era una galería de los horrores disfrazada de museo de alta gama. Vitrinas blindadas a los lados exhibían "tesoros" exóticos de la Zona 2 y 3 para el deleite de los coleccionistas mórbidos. Un feto de bestia quimera conservado en ámbar dorado, con dos cabezas. Un rifle de asalto de la Era de la Expansión, cromado y perfecto, imposible de replicar hoy día. Una mano humana cortada, momificada, con anillos de diamantes de colores en cada dedo.
+
+Leo avanzó, ignorando las miradas de los otros invitados. La gente aquí era una fauna peligrosa por derecho propio. Vio a un hombre con branquias biológicas en el cuello bebiendo un líquido azul viscoso. Vio a una mujer con la piel convertida en oro vivo por algún hongo simbionte controlado, brillando bajo las antorchas. Vio cicatrices de duelos, tatuajes de clanes de las zonas bajas que valían más que una ciudad entera.
+
+Llegó a la doble puerta de la Sala Principal. El último obstáculo.
+
+Dos guardianes con armaduras completas de hueso reforzado y lanzadores de flujo bloqueaban el paso. Eran profesionales, no buscavidas de taberna.
+
+—Pases de Sangre —dijo uno, su voz resonando dentro del yelmo de hueso, sin emoción.
+
+La pulsera de papel no era suficiente. Eso era para entrar al edificio y ver el espectáculo desde lejos, en las gradas baratas. Para entrar a la Subasta, al círculo interno donde se movía el dinero de verdad, necesitabas sangre.
+
+Leo vio cómo el invitado delante de él, un tipo gordo con un traje de seda iridiscente que sudaba profusamente a pesar de los vientos de la cúpula, ponía su pulsera contra un terminal de flujo en la pared. Una aguja salió del dispositivo de cristal con un zumbido, le pinchó la muñeca, extrajo una gota de sangre, la analizó por resonancia y la luz se puso verde.
+
+—Pase, Señor Valance. Disfrute de la velada.
+
+Genética. Invitaciones ligadas al ADN específico del comprador autorizado. Imposible de falsificar con tecnología. Imposible de robar... a menos que robaras la fuente biológica.
+
+Leo se apartó de la fila con naturalidad fingida. Fingió mirar una estatua grotesca de un demonio hecha de chatarra soldada en una esquina del vestíbulo.
+
+Mierda. Había llegado lejos, había cruzado la selva y el alcantarillado, pero esto era la Ley de la Reserva, una validación absoluta. No podía hablar para salir de esto. No podía usar su encanto rudo ni amenazar con el Capitán.
+
+Necesitaba sangre autorizada. Fresca. Y rápido.
+
+Miró a su alrededor, analizando el vestíbulo como un tablero de ajedrez táctico.
+
+Vio a un hombre joven, pálido, vestido con demasiada elegancia —una túnica blanca impoluta de seda de araña—, apoyado en una columna, bebiendo de una copa larga y mirando un pergamino de cuero con aburrimiento supremo. Parecía rico, intoxicado y solo. Llevaba la marca dorada en la muñeca derecha.
+
+El blanco perfecto.
+
+Leo se acercó, adoptando una postura sumisa.
+
+—Disculpa, mi lord —dijo Leo, poniendo su mejor voz de sirviente asustado—. Se le ha caído esto.
+
+Se agachó y fingió recoger algo invisible del suelo, invadiendo la zona de confort del noble.
+
+El joven bajó la mirada, confuso, sus ojos vidriosos por alguna droga recreativa.
+
+—¿Qué? ¿Qué dices? ¿Quién eres?
+
+En ese segundo, Leo "tropezó". Se impulsó hacia adelante, cayendo contra el hombre con todo su peso.
+
+Fue un movimiento de judo sucio y preciso, ejecutado en un parpadeo. Su mano izquierda agarró la muñeca derecha del hombre para "sostenerse". Su mano derecha, con el cuchillo de hueso oculto en la manga y solo la punta milimétrica asomando, hizo un movimiento rápido como el ataque de una víbora.
+
+No lo mató. No le cortó la mano.
+
+Solo hizo un corte superficial, de papel, en la yema del pulgar del hombre, oculto por el choque de los cuerpos y la confusión.
+
+—¡Eh! —gritó el joven, empujando a Leo con asco y fuerza—. ¡Cuidado, idiota! ¡Me has manchado!
+
+La copa de champán se derramó sobre la chaqueta blanca del joven, creando una mancha dorada.
+
+—Lo siento, señor, lo siento mucho, soy muy torpe, mil perdones —dijo Leo, retrocediendo con las manos en alto, haciendo una reverencia exagerada de disculpa.
+
+El joven se miró la mancha húmeda en su chaqueta inmaculada, furioso. No notó el corte minúsculo en su dedo, anestesiado por el alcohol, la droga y la sorpresa del choque y el líquido derramado.
+
+—¡Lárgate antes de que ordene a mis guardias que te despellejen vivo para hacerme unos zapatos con tu piel! —gritó, sacudiendo la mano.
+
+—Sí, señor. Gracias, señor. Desaparezco ahora mismo.
+
+Leo se alejó rápidamente hacia la sombra de una columna, desapareciendo de su vista antes de que el hombre pudiera reaccionar más.
+
+Miró su mano izquierda.
+
+En la yema de su propio pulgar, que había presionado contra la herida del joven durante el agarre, tenía una mancha fresca, roja y brillante de sangre ajena. Sangre VIP. Sangre con permiso nivel Oro.
+
+Esperó unos segundos eternos a que el joven, todavía maldiciendo y limpiándose la chaqueta, entrara en el baño para arreglarse o se fuera furioso. El camino estaba despejado.
+
+Leo se acercó a la puerta de nuevo.
+
+—Pase de Sangre —repitió el guardia, aburrido de la repetición mecánica.
+
+Leo levantó su muñeca con la pulsera verde barata. Su corazón latía tan fuerte que temía que el guardia lo oyera a través de la armadura.
+
+Puso su pulgar izquierdo, manchado con la sangre robada, sobre el sensor de la pulsera justo antes de acercarla al escáner de pared. Un truco de magia desesperado en el último segundo.
+
+El escáner buscó la muestra biológica. La aguja salió. Leo, en un movimiento de prestidigitador nacido de la necesidad, presionó su pulgar contra la aguja antes de que esta pudiera pincharle, dejando que la punta absorbiera la sangre de superficie del joven en lugar de penetrar su propia piel.
+
+Hubo un segundo de silencio tenso. La superficie del sensor cambió de color. Analizando rastro de Flujo. Verificando linaje. Autenticando marcas de favor.
+
+*Por favor. Por favor. No des error. No pites.*
+
+*Bip.* Luz verde brillante.
+
+—Bienvenido, Conde —dijo el guardia con un tono más respetuoso, sin mirar la cara de Leo, apartándose para dejarle paso.
+
+Las puertas dobles se abrieron con un chirrido de engranajes orgánicos pesados.
+
+Leo entró.
+
+Y el mundo se abrió ante él.
+
+La Sala de Subastas era un anfiteatro circular inmenso. Gradas de terciopelo rojo descendían hacia un escenario central iluminado por un foco solitario de luz de Flujo. El techo abovedado, la parte superior del cráneo del titán, estaba decorado con frescos tallados que representaban antiguas batallas contra las bestias. Había cientos de personas sentadas en la penumbra. El murmullo de las conversaciones era un zumbido constante, como de colmena excitada.
+
+Pero Leo no miró a la gente. Miró al escenario.
+
+En el centro, sobre un pedestal de piedra negra que parecía levitar por pura presión de aire, estaba la Caja Omega que el grupo de Segadores custodiaba. Cerrada. Silenciosa. Esperando.
+
+Y rodeando el escenario, en posición de guardia pretoriana, inmóviles como estatuas de guerra, estaban los seis Segadores. El Capitán, con su maza de núcleo denso al hombro, escaneaba la multitud lentamente, su mirada oculta buscando amenazas, buscando anomalías en el Flow de la sala.
+
+Leo se mezcló con la gente de las gradas superiores, buscando una sombra, un pilar, algo sólido donde apoyar la espalda.
+
+Su propio corazón latía contra la Pieza en su pecho, en un ritmo febril.
+
+—Estamos dentro —susurró, sintiendo una mezcla de triunfo y terror puro—. Ahora empieza lo difícil.
+
+Entonces lo vio.
+
+No en el escenario. En la pared lateral, cerca de una salida de emergencia bloqueada con cadenas.
+
+A su derecha, colgado como decoración para dar ambiente "histórico" a la sala, había un tapiz antiguo. Una pieza de arte pre-guerra, raída y sucia por los siglos. Representaba un mapa estelar abstracto, con rutas que ya no existían.
+
+Pero alguien lo había restaurado recientemente.
+
+Leo se acercó, hipnotizado, olvidando a los Segadores por un segundo, atraído por un detalle invisible para los demás.
+
+La técnica de puntada. El uso de hilo de oro para cerrar las rasgaduras de la tela podrida, convirtiendo la cicatriz en parte del arte, en lugar de ocultarla. Era una técnica llamada *Kintsugi textil*.
+
+Solo una persona en el mundo usaba esa técnica con ese patrón específico de nudos cruzados dobles. Él la había visto hacerlo mil veces en el taller de su apartamento, bajo la luz de la lámpara, mientras él leía informes.
+
+Elena.
+
+Ella no solo había pasado por aquí. Ella había trabajado aquí. O la habían obligado a trabajar aquí. Restaurando basura para los criminales mientras esperaba ser rescatada o vendida.
+
+Leo tocó el tapiz con un dedo tembloroso. El hilo estaba fresco. Aún tenía electricidad estática.
+
+—Estás aquí —dijo, y esta vez no fue una pregunta. Fue una sentencia absoluta.
+
+Un golpe de gong resonó en la sala, profundo y vibrante, silenciando a la multitud al instante.
+
+Las luces de ambiente bajaron hasta la casi oscuridad. Un foco iluminó el atril del subastador en el escenario.
+
+Un hombre salió de las sombras. Llevaba un traje impecable de seda gris y una máscara de oro sonriente que cubría todo su rostro.
+
+—Damas, caballeros, y cosas intermedias —dijo el Subastador, su voz amplificada llenando la sala con una claridad cristalina y teatral—. Bienvenidos al fin del mundo. Esta noche, no vendemos objetos. No vendemos esclavos. Esta noche, vendemos futuro.
+
+El Capitán Segador, abajo en la arena, levantó la cabeza bruscamente y miró hacia la grada oscura donde estaba Leo.
+
+Por un segundo, Leo sintió que el visor rojo lo traspasaba, que el gigante sabía exactamente dónde estaba la "Copia", que podía oler su miedo y el rastro de la sangre robada.
+
+Se quedó inmóvil. *Quietud. Soy una sombra. Soy una mancha en la pared. No existo.*
+
+El Capitán sostuvo la mirada un segundo más, dudando, y luego, lentamente, la desvió hacia otro lado.
+
+La subasta había comenzado. Y Leo estaba en primera fila para el apocalipsis.
+
+**[FIN DEL CAPÍTULO 20]**
+
+
+<div style="page-break-after: always;"></div>
+\newpage
+
+# CAPÍTULO 21: EL ESTALLIDO
+
+El silencio que siguió a la presentación del Subastador no fue de piedad ni de respeto. Fue el silencio de la codicia absoluta, ese vacío atronador que se produce en la naturaleza cuando cien depredadores alfa ven el mismo trozo de carne sangrante y calculan la distancia exacta para el salto.
+
+Leo, encaramado en la grada superior, oculto en la penumbra de una columna de hueso, sentía el silencio como una presión física en los tímpanos, como si el aire se hubiera solidificado. Pero lo que realmente le preocupaba, lo que le hacía sudar frío bajo la capa de liquen, era el ruido que nadie más oía.
+
+Su pecho gritaba.
+
+La Pieza, oculta bajo su camisa sucia y la tela térmica, ya no vibraba discretamente. *Aullaba*. Era un sonido que no se transmitía por las ondas del aire, sino por la conducción ósea de sus costillas y la sangre de sus arterias. Un aceno agudo, constante y doloroso, que subía de tono cada segundo que pasaba cerca de la Caja Omega en el escenario.
+
+*Déjame salir. Déjame entrar. Cierra el círculo. Ahora.*
+
+La voz no era una voz humana. Era un imperativo biológico proyectado directamente en su sistema límbico, anulando su racionalidad. Leo se agarró al respaldo de la butaca de terciopelo delante de él, clavando los dedos hasta que los nudillos se pusieron blancos y la madera crujió, luchando contra el impulso físico y suicida de saltar a la arena y correr hacia el pedestal atravesando a los guardias.
+
+—El lote final —dijo el Subastador, acariciando la tapa de metal negro de la caja con una mano enguantada en piel blanca, con la reverencia de un sacerdote tocando una reliquia sagrada—. Lo que tienen ante ustedes, caballeros, no es tecnología prohibida. No es una curiosidad biológica. Es teología aplicada.
+
+Los Segadores, rodeando el escenario en formación de hexágono, tensaron los músculos sintéticos de sus armaduras de quitina reforzada. El zumbido de sus servoimpulsores de flujo y sistemas hidráulicos subió de tono, preparándose para la violencia. El Capitán, esa torre de blindaje negro y amenaza contenida, dejó de escanear la multitud. Se giró hacia la caja. Incluso él, un asesino de bestias titánicas que había mirado a la muerte a los ojos mil veces, parecía inquieto. Su mano se cerró más fuerte sobre el mango de su maza de núcleo denso.
+
+—La apertura de la puja —continuó el Subastador, saboreando el momento— no se hará en piezas. La moneda es vulgar para un dios. La moneda se acuña, se devalúa, se funde. Esto... esto es eterno. La puja se hará en *Tierras y Sangre*.
+
+Un murmullo recorrió la sala como una ola de viento en un campo de trigo. Territorios. Soberanía. Poder real.
+
+Leo miró su mano izquierda. El pulgar, todavía manchado con la sangre seca del noble al que había robado y engañado, temblaba incontrolablemente. No era miedo. Era la resonancia.
+
+Tenía que moverse. Ahora. Antes de que fuera tarde.
+
+Si abrían esa caja, si la conexión física se completaba sin barreras, no habría subasta. Habría un cráter humeante donde ahora había un palacio de vicio.
+
+—Mil kilómetros cuadrados del Sector 4, incluyendo los derechos de agua del acuífero profundo —gritó una voz desde un palco privado, una mujer con la piel modificada para parecer diamante facetado, brillando bajo los focos.
+
+—Una oferta generosa para empezar, Lady Prism —se rió el Subastador, despectivo—. Pero insuficiente. No compraría ni el aire que rodea a esta caja.
+
+—¡Toda la flota minera de la Corporación Hélice y el contrato de exclusividad con los astilleros de la cúpula! —gritó otro hombre gordo, golpeando la barandilla con su puño.
+
+Leo se deslizó por el pasillo lateral, agachado, aprovechando que todos los ojos estaban fijos en el escenario como polillas ante una llama azul. Su objetivo no era la salida de emergencia. Era el panel de control de iluminación, situado en una cabina técnica a media altura, mal vigilada.
+
+Si cortaba las antorchas de aceite refinado de las columnas, tendría tres segundos de caos absoluto. Tres segundos de oscuridad cerrada mientras los guardianes parpadeaban. Tres segundos para llegar al escenario, robar la caja (o lo que hubiera dentro y pesara menos) y... ¿y qué? ¿Salir corriendo con un objeto que probablemente pesaba cincuenta kilos con seis exponentes de élite persiguiéndolo?
+
+Era un plan de mierda. Era un plan suicida. Pero era el único plan que tenía.
+
+Dio un paso más hacia la cabina.
+
+Y entonces, la Pieza tomó el control.
+
+No fue una decisión libre. No fue un acto de voluntad. Fue un arco voltaico biológico, una entrada forzada en el Flow State más violento que Leo había experimentado jamás. Sintió cómo su cerebro desconectaba la noción del tiempo para centrarse únicamente en la supervivencia.
+
+La Caja Omega en el escenario emitió un *clic* óseo audible en toda la sala, un sonido seco y definitivo como el de una articulación dislocándose. Los cierres pesados de hueso de titán se soltaron solos, rechazando cualquier intervención externa.
+
+El Subastador retrocedió, sorprendido, perdiendo su compostura teatral.
+
+—Yo no he... —empezó a decir, mirando sus manos vacías.
+
+La tapa se levantó lentamente, impulsada por una fuerza invisible, como si una mano gigante la empujara desde abajo.
+
+No salió luz dorada. No salió oscuridad.
+
+Salió *gravedad*.
+
+Un pulso de distorsión visible, como una onda de calor en el asfalto en verano, estalló desde el interior de la caja. Golpeó a los Segadores, haciéndoles retroceder un paso físico, sus cuerpos tensos luchando por mantener el anclaje del Flujo. Golpeó al Subastador, lanzándolo contra el suelo como una muñeca de trapo.
+
+Y golpeó a Leo.
+
+Pero a él no lo empujó. Lo *jaló*.
+
+Leo sintió que un gancho invisible y caliente le atrapaba el esternón, atravesando piel, músculo y hueso, y tiraba de él hacia el escenario con la fuerza de un tren de carga a toda velocidad.
+
+Sus pies se despegaron del suelo.
+
+—¡Mierda! —gritó, intentando agarrarse a una columna de hueso con las manos desnudas.
+
+La Pieza en su pecho brilló. No con luz reflejada. Con luz propia, ardiente y furiosa. Un rayo de energía azul cobalto, sólido, crepitante y vivo, atravesó su ropa, atravesó el aire viciado de la sala y conectó directamente, como un cable de fibra antigua tenso, con el interior de la Caja Omega.
+
+Era un cordón umbilical de pura resonancia biológica.
+
+El silencio se rompió con el sonido de mil cristales estallando a la vez.
+
+—¡CONTACTO! —rugió el Capitán Segador, su voz amplificada rompiendo los tímpanos de los invitados más cercanos, recuperando el control de la situación al instante—. ¡LA COPIA! ¡SECTOR NORTE, GRADA SUPERIOR!
+
+Cientos de cabezas se giraron hacia Leo al unísono.
+
+Leo estaba flotando. Literalmente. La conexión magnética entre las dos piezas era tan fuerte que anulaba la gravedad local. Sus pies colgaban a diez centímetros del suelo, pataleando en el aire. Se sentía expuesto, ridículo y aterrorizado.
+
+—bueno —dijo Leo, con esa claridad mental del Flow State absoluto que precede a la muerte inminente—. Adiós al sigilo.
+
+El Capitán Segador levantó su maza de núcleo denso con ambas manos. Sus pulmones aspiraron el aire con un silbido, sus músculos se hincharon hasta casi romper las correas de su armadura. Saltó.
+
+No hacia Leo. Hacia el rayo.
+
+Intentó cortar la conexión física.
+
+La maza bajó con fuerza suficiente para partir un tronco de roble milenario por la mitad.
+
+*CRASH.*
+
+El martillo golpeó el rayo de energía azul. Y rebotó.
+
+No hubo impacto físico. Hubo una explosión cinética repulsiva. La energía del rayo era sólida, inmutable. El Capitán salió despedido hacia atrás como si hubiera golpeado una pared de goma a Mach 1. Se estrelló contra el muro de hueso del fondo del escenario, abollando el blindaje de su pecho y dejando una grieta en la pared milenaria.
+
+—¡Fuego! —ordenó desde el suelo, escupiendo sangre—. ¡Matad al portador! ¡Cortad la fuente!
+
+Los otros cinco Segadores levantaron sus proyectores de flujo cinético.
+
+Leo vio los cañones iluminarse con la carga previa al disparo. Vio la muerte en forma de luz coherente acumulándose.
+
+Su instinto de supervivencia, forjado en los túneles oscuros y lavado en el río subterráneo, tomó el mando sobre su cerebro racional.
+
+No podía huir. El rayo lo anclaba como una correa de perro. Solo podía avanzar. O cerrar la conexión.
+
+Llevó las manos a su pecho, quemándose los dedos con la tela humeante de su camisa, y agarró la Pieza. Ardía como hierro candente sacado de la fragua. El dolor era blanco, puro, absoluto.
+
+*Elena.*
+
+*La vio un segundo. No aquí. En el recuerdo. Ella se había quemado una vez con el soldador en el taller. Se había chupado el dedo, riendo, con los ojos llorosos. "El dolor es información, Leo. Te dice que sigues vivo."*
+
+—¡Cierra! —gritó Leo mentalmente, usando el dolor como combustible—. ¡Apágate, maldita sea!
+
+Pero la Pieza no quería apagarse. Quería *unirse*. Quería volver a casa.
+
+Leo se dejó caer al suelo, rodando bajo el haz de luz y calor. El rayo de energía se dobló, flexible como un látigo, siguiéndolo sin romperse. Los disparos de aire a presión e impulsos cinéticos impactaron en la columna donde había estado hace un segundo, vaporizando la piedra y llenando el aire de polvo de hueso y humo acre.
+
+La gente en las gradas gritaba, corría, se pisoteaba. Era una estampida de millonarios aterrorizados, sus joyas y trajes caros inútiles ante la violencia pura.
+
+Leo se arrastró por el suelo, entre piernas de mesas volcadas y cuerpos de guardias aturdidos que intentaban levantarse. El rayo de luz azul era una flecha gigante y brillante señalando su posición exacta a todo el mundo.
+
+—¡No le deis a la Caja! —gritaba el Subastador, arrastrándose por el escenario como un gusano elegante, protegiendo su inversión—. ¡Vale más que vuestras vidas! ¡Vale más que este planeta!
+
+Leo vio una oportunidad en esa codicia.
+
+Los Segadores dudaban. Tenían miedo de dañar la mercancía. Tenían órdenes de recuperar, no de destruir el objetivo primario.
+
+Leo se puso en pie, tambaleándose. Agarró el rayo de energía con ambas manos, como si fuera una cuerda tensa en un juego de tira y afloja cósmico.
+
+Sintió el Flujo correr por sus brazos, quemando sus nervios. No su flujo biológico, débil y limitado por su hambre. Sino el Flujo de la Pieza. Infinito. Antiguo. Devastador.
+
+—¿Queréis la Copia? —gritó Leo, su voz distorsionada por la estática eléctrica que llenaba el aire y le erizaba el pelo—. ¡Venid a por ella!
+
+Tiró del rayo hacia sí con todas sus fuerzas, arqueando la espalda.
+
+No tiró de la Pieza hacia la Caja. Tiró de la *Caja* hacia él.
+
+La física de la Reserva se rompió y lloró. La Caja Omega, anclada al pedestal de piedra en el escenario con pernos de metal pesado, fue arrancada de sus soportes con un chirrido de metal desgarrado que sonó como un grito. Voló por el aire, cruzando los veinte metros que la separaban de las gradas, atraída hacia Leo como un depredador hacia su presa.
+
+El Capitán Segador, recuperándose del golpe contra la pared, vio la caja volar sobre su cabeza.
+
+—¡INTERCEPTAD! ¡NO DEJÉIS QUE SE TOQUEN!
+
+Dos Segadores saltaron con sus propulsores para atraparla en el aire, como porteros desesperados.
+
+Tarde.
+
+La Caja se estrelló contra la grada, a dos metros de Leo, demoliendo tres filas de asientos de madera y terciopelo y aplastando a un desafortunado guardia de seguridad que no se movió a tiempo.
+
+La tapa se había cerrado en el impacto violento, pero la conexión seguía viva. El rayo azul parpadeaba, inestable, pulsando como una arteria cortada.
+
+Leo saltó sobre la caja antes de que los Segadores pudieran llegar.
+
+Era pesada, densa, caliente como el impulsor de flujo de una nave tras un reingreso atmosférico.
+
+Puso su mano desnuda y ensangrentada sobre la tapa negra.
+
+—Ábrete —ordenó. No suplicó. Exigió.
+
+La Pieza en su pecho vibró en respuesta. *Autorización aceptada. Usuario reconocido.*
+
+La tapa se abrió de nuevo con un susurro suave.
+
+Leo miró dentro.
+
+Y el mundo desapareció.
+
+No había nada dentro. Literalmente. Era un cubo de negrura absoluta, un horizonte de sucesos en miniatura, un agujero en la tela de la realidad donde la luz entraba y no salía. Y en el centro de esa negrura, flotando sin soportes, suspendida en la nada, había una esfera.
+
+Una esfera de líquido plateado, viscoso y vivo, del tamaño de una manzana, que contenía una tormenta en su interior. Giraba sobre sí misma a una velocidad imposible.
+
+La Otra Mitad. La Llave Líquida.
+
+Leo extendió la mano, hipnotizado.
+
+—¡ALÉJATE DE ESO! —rugió el Capitán Segador, aterrizando en la grada con un impacto que hizo temblar el suelo y rompió las losas de hueso bajo sus pies. Estaba a cinco metros. Su martillo zumbaba, cargado al máximo de energía térmica, brillando al rojo blanco. —¡No sabes lo que es! ¡Nos matarás a todos!
+
+Leo miró al gigante blindado. Miró la esfera giratoria.
+
+Sintió el miedo del Capitán. Por primera vez, el monstruo tenía miedo.
+
+—Ven a por ella —dijo Leo, con una calma que no sentía.
+
+Y metió la mano en la oscuridad de la caja.
+
+Sus dedos rozaron la superficie fría de la esfera.
+
+El sonido desapareció.
+
+Todo el ruido de la sala —los gritos de la multitud, los disparos de los guardias, las alarmas de emergencia— se cortó de golpe. Como si alguien hubiera pulsado "Mute" en el televisor del universo.
+
+Una onda de choque blanca, silenciosa, esférica y perfecta, salió del contacto entre la piel de Leo y la esfera.
+
+Barrió la sala expandiéndose a la velocidad del pensamiento.
+
+Los cristales de las lámparas de aceite estallaron en polvo. Los órganos canalizadores de los Segadores se sobrecargaron, haciéndoles gritar de agonía mientras sus sistemas nerviosos ardían. Las antorchas se apagaron. Los pocos que llevaban injertos biológicos auxiliares en los ojos sintieron el dolor de una migraña súbita que los dejó ciegos.
+
+Y luego, el sonido volvió.
+
+*BOOM.*
+
+La explosión sónica fue devastadora. Lanzó a Leo hacia atrás, contra la pared de hueso de la grada. Sintió cómo sus costillas crujían bajo el impacto. Se golpeó la cabeza y vio estrellas de colores.
+
+Pero no soltó la esfera. La tenía agarrada en la mano derecha. Quemaba, pero era un dolor frío, criogénico.
+
+La Caja Omega, vacía ahora, inútil, cayó rodando por las gradas como basura.
+
+El Capitán Segador se levantó, sacudiendo la cabeza, aturdido. Su cuerpo chisporroteaba con estática azul, los nervios dañados por el pulso de Flujo masivo. Su maza estaba apagada, inerte.
+
+Pero seguía en pie. Era un tanque biológico. Y estaba furioso.
+
+—Has cometido un error, chico —gruñó, avanzando entre los escombros, apartando vigas caídas con una mano—. Eso no es un objeto que puedas comprender. Es el fin de todo lo que conoces.
+
+Leo se levantó, mareado, apoyándose en la pared. Sangraba abundantemente por la nariz y los oídos. Su brazo derecho estaba entumecido hasta el hombro, con venas negras marcadas bajo la piel por la energía de la esfera.
+
+Pero se sentía... poderoso. Lleno. Saturado.
+
+Miró la esfera en su mano. La tormenta interior giraba más rápido, sincronizada con su pulso.
+
+Miró al Capitán.
+
+—No —dijo Leo, escupiendo sangre—. Es el principio.
+
+El techo de la sala, dañado estructuralmente por la onda expansiva sónica, emitió un crujido ominoso. Una grieta enorme se abrió en el hueso craneal que formaba la bóveda, dejando ver el cielo nocturno y tormentoso de la selva y la lluvia que empezaba a caer dentro.
+
+Un trozo de hueso del tamaño de un coche cayó entre Leo y el Capitán, levantando una nube de polvo y cascotes.
+
+Leo aprovechó la cobertura instantánea.
+
+—¡Quietud!
+
+Se forzó a enfriarse, a desaparecer del espectro térmico, aunque su cuerpo ardía por dentro como un reactor de flujo con fugas. Corrió hacia la salida de emergencia que había visto antes, la puerta lateral. La que estaba bloqueada con cadenas de acero reforzado.
+
+Llegó a la puerta. Las cadenas eran gruesas como su brazo. Imposibles de romper.
+
+El Capitán atravesó la nube de polvo, el martillo levantado para aplastar.
+
+—¡No puedes huir de nosotros! —bramó—. ¡No tienes salida!
+
+Leo puso su mano izquierda —la que no tenía la esfera, la que aún era humana— sobre las cadenas frías.
+
+Intentó usar la Resonancia como antes, buscando la frecuencia de rotura. Pero estaba agotado. No le quedaba glucosa en la sangre. No le quedaba energía vital. Estaba vacío.
+
+Leo sintió cómo la energía ajena fluía por su cuerpo, cruzando su pecho, quemando sus pulmones, bajando por su brazo izquierdo. No era su Flujo, limitado por su cansancio. Era el Flujo de la Reliquia, una extensión del Flow State llevada a niveles cósmicos.
+
+Era infinito. Dolía. Se sentía como si le estuvieran inyectando vida líquida en las venas.
+
+—¡Rompe! —gritó Leo.
+
+No vibró las cadenas. Las *desintegró*.
+
+El acero no se partió. Se convirtió en polvo oxidado al contacto, envejecido mil años en un nanosegundo. La entropía acelerada devoró el metal.
+
+La puerta cayó hacia afuera, libre.
+
+Leo salió al pasillo exterior, tambaleándose, borracho de poder y dolor, respirando el aire húmedo de la noche.
+
+Detrás de él, el Capitán Segador embistió la pared donde había estado la puerta, destrozando el marco de piedra con su hombro, pero Leo ya estaba corriendo por el pasillo de servicio hacia la selva.
+
+Las campanas de alarma de todo el complejo aullaban, una cacofonía de bronce y pánico.
+
+"Fallo de contención biológica. Nivel Omega. Evacuación inmediata."
+
+Leo corrió. Corrió como no había corrido desde el túnel, ignorando el dolor de sus costillas.
+
+Tenía las dos mitades. Tenía la Llave completa. Y tenía a todo el ejército de los Segadores y a la seguridad de la Subasta detrás.
+
+El estallido había sido solo el aviso. La guerra acababa de empezar.
+
+**[FIN DEL CAPÍTULO 21]**
+
+
+<div style="page-break-after: always;"></div>
+\newpage
+
+# CAPÍTULO 22: LA HUIDA
+
+Corre.
+
+No pienses. No mires atrás. No calcules probabilidades de supervivencia porque la respuesta es un cero absoluto y frío. Solo corre.
+
+Las botas de Leo golpeaban el barro de la selva con un ritmo frenético y desesperado, *chof, chof, chof*, cada impacto enviando una onda de choque de dolor eléctrico a través de sus costillas fracturadas durante la explosión de la sala. El aire húmedo, caliente y cargado de esporas tóxicas entraba en sus pulmones como vidrio molido, quemando su garganta, raspando los alvéolos con cada inhalación agónica.
+
+Una rama espinosa, dura como el alambre de espino industrial, le azotó la cara, abriendo un corte superficial en su mejilla que empezó a sangrar al instante, la sangre caliente mezclándose con el sudor sucio y frío. Pero Leo ni siquiera parpadeó. El dolor era irrelevante. El dolor era información táctica. El dolor significaba que su sistema nervioso aún no había colapsado por el shock y que seguía vivo.
+
+Detrás de él, a menos de quinientos metros y acercándose rápido, la selva se estaba rompiendo.
+
+No era el sonido sutil de un depredador natural acechando entre la maleza. Era el sonido de la destrucción industrial, de la guerra mecanizada contra la biología. Árboles partiéndose como palillos bajo orugas de tanque. Malleza densa siendo aplastada bajo toneladas de peso blindado. El rugido de impulsores de flujo de levitación de grado militar forzados al máximo de revoluciones y, por encima de todo, los aullidos agudos, sintéticos y aterradores de los *Sabuesos de Flujo*.
+
+—¡A la izquierda! —la voz amplificada del Capitán Segador atravesó la espesura, sonando como el juicio final, distorsionada por los membranas de sonido del *Rhino*—. ¡Cerrad el cuadrante cuatro! ¡Soltad a los perros! ¡Quiero su cabeza antes de que llegue al río!
+
+Leo giró bruscamente, derrapando en el musgo resbaladizo que cubría las piedras del suelo, y se lanzó por una pendiente pronunciada, rodando sobre su hombro bueno para amortiguar la caída y evitar romperse el cuello contra las raíces. El mundo giró en un borrón mareante de verde, negro y gris.
+
+Se detuvo violentamente contra el tronco masivo de un helecho gigante, jadeando, escupiendo bilis y barro.
+
+Miró su mano derecha.
+
+La Esfera Líquida seguía allí, agarrada con la fuerza del rigor mortis. Sus dedos estaban rígidos, blancos, como garras de un cadáver.
+
+Ya no era plateada y especular como el mercurio. Ahora pulsaba con un color violeta enfermizo, un hematoma de luz que latía en sincronía con su pánico. Y lo que tocaba, moría.
+
+Leo vio con horror fascinado cómo el musgo vivo y vibrante donde apoyaba la mano se volvía gris, se secaba y se desmoronaba en polvo fino en cuestión de segundos. La corteza dura del helecho se oscureció, agrietándose profundamente como si hubieran pasado cien años de sequía y sol implacable en un solo parpadeo.
+
+La Entropía.
+
+Ese era el poder de la Llave. No era energía explosiva como el fuego biolÃ³gico. Era *tiempo*. Aceleración celular. Muerte rápida. Envejecimiento instantáneo aplicado por contacto.
+
+*Y me está matando a mí*, pensó Leo, mirando las venas de su propio antebrazo derecho con la objetividad clínica de un forense. Estaban negras, hinchadas, ramificándose bajo la piel pálida como raíces de podredumbre o necrosis avanzada. No le dolía el brazo; lo sentía frío, ausente, ajeno, como si perteneciera a otro cuerpo.
+
+Un aullido cercano, a menos de cincuenta metros colina arriba, lo sacó de su análisis médico.
+
+*Sabuesos*.
+
+No eran perros normales. Leo había visto uno una vez, disecado en un laboratorio clandestino de la Reserva cuando era estudiante de primer año. Eran quimeras. Lobos genéticamente empalmados con tejido de reptil de los pantanos y sensores cibernéticos implantados directamente en el cráneo en lugar de ojos. No veían luz; olían el Flujo. Eran rastreadores de energía pura.
+
+Y Leo, ahora mismo, con la Esfera en la mano bombeando poder entrópico, brillaba en el espectro del Flujo como una supernova en una noche oscura. Era el faro más brillante de todo el bosque.
+
+—Vamos, maldita sea, muévete —se gruñó a sí mismo, obligando a sus piernas temblorosas a obedecer—. Si paras, mueres.
+
+Se levantó, ignorando el calambre agudo en su muslo, y corrió de nuevo.
+
+El terreno ascendía ahora. Raíces gigantes, del grosor de tuberías de desagüe industriales, tejían una red traicionera en el suelo, listas para romperle un tobillo al menor descuido. La lluvia había empezado a caer con fuerza, una cortina densa, tibia y ligeramente ácida que convertía el suelo arcilloso en jabón resbaladizo.
+
+Leo oyó un crujido seco a su derecha, tan cerca que sintió la vibración en el suelo.
+
+Ni siquiera se giró para mirar. Se tiró al suelo por instinto puro.
+
+Una mancha borrosa de escamas verdes y pelo negro pasó volando sobre su cabeza, chasqueando unas mandíbulas de acero hidráulico donde debería haber estado su cuello orgánico. El aire desplazado olía a carne podrida, almizcle y aceite de impulsor de flujo caliente.
+
+El Sabueso aterrizó con una gracia antinatural para su peso, clavando sus garras de hueso de plata en la madera podrida de un tronco caído para frenar. Giró la cabeza, una placa ciega de metal llena de lentes rojas y antenas, hacia Leo.
+
+Siseó. Un sonido de vapor a alta presión escapando de una válvula industrial.
+
+Leo estaba en el suelo, cubierto de lodo. Sin armas de fuego. Su cuchillo de hueso se había caído en la rodada anterior. Estaba indefenso.
+
+El Sabueso contrajo sus poderosas patas traseras, los músculos sintéticos tensándose bajo la piel escamosa, listo para saltar y arrancarle la garganta.
+
+Leo levantó la mano derecha. La mano de la Esfera. La mano de la muerte.
+
+—¡Atrás! —gritó, un gesto inútil y primitivo contra una máquina de matar diseñada para ignorar el miedo y la piedad.
+
+El Sabueso saltó. Una bala de cañón de dientes y garras.
+
+Leo golpeó el suelo con la Esfera. No sabía qué estaba haciendo. No sabía cómo funcionaba la mecánica cuántica del objeto. Solo sabía que quería que el suelo se abriera, que el tiempo se detuviera, que algo cambiara.
+
+*Púdrete.*
+
+La onda expansiva fue pequeña, concentrada. Apenas un metro de diámetro. Violeta oscuro, casi negro.
+
+Pero fue efectiva.
+
+La raíz gigante sobre la que el Sabueso se había impulsado para el salto se desintegró. La madera, dura como el hierro un segundo antes, se convirtió en serrín instantáneo y polvo gris.
+
+El Sabueso perdió el punto de apoyo en el momento crítico del despegue. Resbaló. Su trayectoria balística perfecta se desvió unos grados fatales.
+
+Pasó rozando el hombro de Leo, sus garras rasgando la capa de liquen y la piel debajo, sacando sangre pero fallando la arteria y la yugular por milímetros.
+
+La bestia se estrelló contra el barro detrás de él, desequilibrada, rodando torpemente.
+
+Leo no esperó a que se levantara. El miedo se convirtió en furia fría. Saltó sobre ella antes de que pudiera recuperar la orientación.
+
+No usó un arma. Usó su mano derecha. La mano maldita.
+
+Agarró al Sabueso por el cuello, justo donde la carne biológica se unía al collar de control metálico y a los implantes de la columna vertebral.
+
+—¡Muere! —gritó Leo, volcando todo su odio, todo su miedo, toda su desesperación acumulada en la Esfera.
+
+Sintió el tirón en su propio corazón, brutal, como si le estuvieran sacando un litro de sangre de golpe con una jeringuilla gigante conectada a su aorta. Su visión se oscureció por la falta de oxígeno.
+
+La Esfera brilló con un pulso negro.
+
+El cuello del Sabueso se arrugó bajo sus dedos. La piel escamosa se secó, se pegó al hueso, se volvió quebradiza como el pergamino antiguo de un libro olvidado. El metal del collar se oxidó instantáneamente, volviéndose naranja, escamándose y cayendo en pedazos de orín. Los implantes cibernéticos fallaron, sus circuitos convertidos en polvo.
+
+La bestia chilló. Un sonido horrible, agónico, mitad animal mitad susurro de flujo, que se cortó de golpe cuando sus cuerdas vocales se convirtieron en polvo seco y ceniza.
+ 
+ El Sabueso colapsó, convertido en una momia seca y retorcida en menos de tres segundos.
+
+Leo lo soltó y retrocedió, gateando por el barro, horrorizado de su propia obra. Se miró la mano. Su piel estaba gris, más cenicienta que antes. Sus dedos le temblaban con espasmos incontrolables.
+
+Había envejecido a la criatura hasta la muerte. Le había robado el tiempo de vida en un instante.
+
+—Dios... —susurró, sintiendo náuseas profundas—. ¿Qué soy? ¿En qué me estoy convirtiendo?
+
+—¡CONTACTO VISUAL! —gritó una voz humana a través de la cortina de lluvia. Un Segador de vanguardia, explorando a pie.
+
+Luces azules barrieron la selva, cortando la oscuridad como distorsiones de luz. El zumbido del *Rhino* se acercaba, aplastando árboles pequeños como si fueran hierba seca. Estaban encima de él.
+
+Leo miró el cadáver momificado del Sabueso. Miró la selva oscura y hostil.
+
+No podía luchar contra ellos. No así. Si usaba la Esfera de nuevo con esa intensidad, se mataría a sí mismo antes que a ellos. Su cuerpo humano no aguantaba ese nivel de entropía. Su corazón se detendría por agotamiento celular.
+
+Necesitaba esconderse. Necesitaba desaparecer. Necesitaba un lugar donde los sensores térmicos y de Flujo no funcionaran. Un punto ciego.
+
+Recordó el mapa. Su memoria de cartógrafo, una herramienta entrenada durante años que nunca se oxidaba, desplegó la topografía de la zona en su mente con precisión satelital.
+
+Al norte. A dos kilómetros. El Sistema de Cenotes. Ríos subterráneos que conectaban con la red profunda del acuífero. Agua densa, fría, llena de minerales disueltos y radiación de fondo natural. Bloqueaba los escáneres.
+
+Pero tenía que llegar. Dos kilómetros de infierno bajo fuego.
+
+Corrió.
+
+La persecución se volvió un borrón de adrenalina y terror puro. Rayos de flujo cortaban el aire a su alrededor, calcinando hojas y ramas a centímetros de su cabeza. El calor de las explosiones cercanas le quemaba la nuca. El olor a flujo quemado y madera carbonizada llenaba el aire empapado.
+
+—¡Entregad la Copia! —bramaba el Capitán por los membranas de sonido, su voz llena de ira fría y promesa de dolor—. ¡Y os daremos una muerte rápida! ¡No tienes salida, chico! ¡Ríndete!
+
+—¡Vete a la mierda! —pensó Leo, saltando un tronco podrido, sus pulmones ardiendo como si hubiera tragado fuego.
+
+El terreno se acabó de repente.
+
+Llegó al borde.
+
+La selva terminaba abruptamente en un cortado de piedra caliza. Abajo, cincuenta metros más abajo en la oscuridad insondable, brillaba el agua negra y aceitosa de un cenote abierto, una boca gigante en la tierra que conducía al inframundo acuático.
+
+Leo frenó en el borde, las piedras sueltas cayendo al vacío y tardando segundos eternos en golpear el agua lejana.
+
+Miró atrás.
+
+El *Rhino* rompió la línea de árboles, derribando una palmera centenaria como si fuera de cartón. Sus focos de combate lo iluminaron, cegándolo con una luz blanca pura, inmovilizándolo como a un insecto bajo un microscopio.
+
+El Capitán Segador estaba en la torreta superior, apuntando con un cañón rotatorio de seis tubos.
+
+—Fin del camino, ladrón —dijo la voz amplificada, triunfal—. Suéltala.
+
+Leo miró el agua negra. Miró la Esfera en su mano gris y muerta.
+
+En ese segundo de calma estática, con la muerte apuntándole a la cara, la Esfera vibró suavemente. No con dolor esta vez. Con resonancia. Como si reconociera el agua.
+
+Y escuchó algo. No un aullido. Una voz.
+
+*...el agua, Leo. Las corrientes son seguras. El agua es el camino. No tengas miedo. Salta.*
+
+Era la voz de Elena. Distorsionada por la estática del tiempo. Lejana. Como una grabación antigua o un eco atrapado en la memoria cuántica de la Esfera. Recordó el día que se tiraron al lago de la Reserva, cuando ella le enseñó a no luchar contra la corriente.
+
+Leo sonrió. Una sonrisa llena de sangre en los dientes y locura lúcida en los ojos.
+
+—Siempre tienes razón, joder —murmuró.
+
+Miró al Capitán, a la luz cegadora. Levantó el dedo medio de su mano izquierda, desafiante hasta el final.
+
+—Venid a por ella si tenéis huevos.
+
+Y saltó.
+
+Se lanzó al vacío de espaldas, mirando al cielo tormentoso.
+
+El aire silbó en sus oídos. La caída fue eterna. Los disparos del cañón rotatorio trazaron líneas rojas de muerte en el aire a su alrededor, fallando por milímetros, iluminando la caída con trazadoras.
+
+El agua lo golpeó como hormigón.
+
+El impacto le sacó todo el aire de los pulmones en una explosión de burbujas. Frío. Oscuridad absoluta. Presión. Silencio.
+
+Leo se hundió, arrastrado hacia el fondo por el peso de su ropa mojada, sus botas y la densidad sobrenatural de la esfera.
+
+Los disparos seguían impactando en la superficie, creando estelas de burbujas luminosas violentas, pero perdían fuerza rápidamente en el agua densa y mineral.
+
+Estaba vivo. Estaba herido, cansado, helado y hundiéndose en la oscuridad hacia lo desconocido.
+
+Pero estaba libre.
+
+**[FIN DEL CAPÍTULO 22]**
+
+
+<div style="page-break-after: always;"></div>
+\newpage
+
+# CAPÍTULO 23: LA CACERÍA
+
+El agua no estaba fría. Estaba muerta.
+
+Leo se hundía en un vacío líquido que tenía la consistencia del aceite de impulsor de flujo usado y el sabor metálico, casi eléctrico, de los minerales disueltos durante eones en la oscuridad perpetua. La luz de la superficie, distorsionada por las burbujas caóticas de su propia caída y los impactos de las balas trazadoras, se había convertido en un recuerdo lejano, un techo de cristal roto que se alejaba rápidamente hacia arriba, inalcanzable.
+
+La presión en sus oídos aumentó con un chasquido doloroso. *Pop*. Sus senos paranasales protestaron con agudeza. Sus pulmones, vacíos por el impacto contra la superficie, ardían exigiendo oxígeno, contrayéndose en espasmos involuntarios.
+
+Abrió los ojos. El agua salada y densa le picó las córneas irritadas, pero el dolor físico era secundario frente a la desorientación espacial absoluta.
+
+Tenía que orientarse.
+
+No había arriba ni abajo. No había norte ni sur. Solo oscuridad envolvente, pesada y absoluta. Era como estar suspendido en tinta, flotando en el interior de un ojo cerrado.
+
+Entonces, la Esfera brilló.
+
+No fue un destello repentino. Fue un resplandor constante, creciente, de color violeta pálido, que iluminó el agua a su alrededor como una lámpara de abismo biológica. La luz no se dispersaba como en el agua clara; se agarraba a las partículas en suspensión, creando un halo fantasmal.
+
+A la luz espectral de la reliquia, Leo vio el mundo sumergido. Vio paredes de roca caliza blanca, esculpidas por la erosión ácida subterránea en formas de costillas titánicas y calaveras geológicas que parecían gritar en silencio. Vio raíces blancas, ciegas y hambrientas, que colgaban del techo de la caverna sumergida como tentáculos de medusas gigantes buscando nutrientes en la sopa mineral.
+
+Y vio la corriente.
+
+Partículas de sedimento, escamas de roca y materia orgánica muerta flotaban a su alrededor, moviéndose con velocidad constante hacia... la izquierda. Hacia el fondo. Hacia el sistema circulatorio oculto del planeta.
+
+*...el agua es el camino...*
+
+La voz de Elena en su memoria, amplificada por la resonancia de la Esfera, fue el único mapa que necesitaba.
+
+Leo pataleó, ignorando el fuego en sus pulmones que ya empezaban a convulsionar por la hipoxia. Se dejó llevar por la corriente, usando su brazo izquierdo para impulsarse y corregir el rumbo, protegiendo la Esfera con el derecho contra su pecho, como una madre protegiendo a un niño enfermo en medio de un bombardeo.
+
+El brazo derecho no le dolía. Eso era lo peor. Lo sentía pesado, denso, inerte, como si fuera de plomo sólido atado a su hombro con alambres. Un peso muerto que lo arrastraba al fondo.
+
+*BOOM.*
+
+El sonido viajó por el agua más rápido y con más violencia que por el aire. Una onda de choque sorda le golpeó el pecho como un martillo acolchado, sacudiendo sus órganos internos.
+
+Cargas de profundidad.
+
+Los Segadores no se habían ido. Estaban bombardeando el cenote a ciegas, esperando que la presión hidrostática y la física de fluidos hicieran el trabajo sucio por ellos.
+
+*BOOM.*
+
+Más cerca. Leo vio caer rocas del techo de la caverna, levantando nubes de limo en el fondo. Si una de esas lo golpeaba, o si la onda de choque le reventaba los tímpanos y perdía el equilibrio vestibular, se acabó.
+
+Tenía que salir de la zona de impacto directo.
+
+Nadó con desesperación frenética, siguiendo el flujo del agua hacia un túnel estrecho que se abría en la pared de roca como una garganta negra. Se metió justo cuando una tercera explosión sacudió el agua detrás de él, creando una turbulencia violenta que lo empujó hacia adelante como un corcho en un huracán, casi estrellándolo contra las estalactitas afiladas de la entrada.
+
+El túnel era estrecho. Claustrofóbico. Leo rozaba los hombros con la piedra áspera y limosa. Sentía criaturas pequeñas y resbaladizas rozando sus piernas, peces ciegos o crustáceos cavernícolas huyendo también del ruido apocalíptico.
+
+Sus pulmones ardían con auténtica agonía. Las manchas negras bailaban en el borde de su visión, cerrándose como un diafragma de cámara. El reflejo de inhalación era una bestia arañando su garganta, exigiendo abrir la boca.
+
+*Aire. Necesito aire ya.*
+
+Miró hacia arriba, buscando el brillo plateado de una bolsa de aire atrapada. El techo del túnel de roca era sólido, liso y despiadado. No había salida vertical. Solo roca infinita y agua negra.
+
+Siguió nadando. Un minuto. Dos. El tiempo se dilató, estirándose como un chicle.
+
+Su cuerpo empezó a convulsionar rítmicamente. El monóxido de carbono saturaba su sangre. Iba a ahogarse. Iba a morir aquí, solo, en la oscuridad, con la llave del universo en la mano, convertido en comida para peces ciegos que nunca sabrían su nombre.
+
+*No. No aquí. No así.*
+
+Aceleró. La Esfera pulsó más fuerte, como si sintiera su desesperación, o quizás alimentándose de ella.
+
+Y entonces, el túnel se abrió.
+
+Una caverna más grande. El techo de roca desapareció. Y arriba, muy arriba, vio una superficie espejo. Una interfaz entre agua y aire.
+
+Leo subió, impulsándose con las últimas reservas de glucosa de sus músculos entumecidos, sus piernas ardiendo por el ácido láctico.
+
+Rompió la superficie con violencia, emergiendo como un proyectil.
+
+—¡Hhhhaaaaa!
+
+El aire entró en sus pulmones con un sonido agónico, rasposo y húmedo. Leo tosió agua, escupió flemas saladas, boqueó como un pez sacado del mar, mareado por la oxigenación repentina que le provocó un vértigo instantáneo.
+
+Nadó torpemente hacia la orilla. Sus manos encontraron arena gruesa y fría.
+
+Se arrastró fuera del agua como la primera criatura anfibia que decidió conquistar la tierra, temblando, chorreando, tosiendo hasta casi vomitar bilis.
+
+Se quedó tumbado boca arriba en la arena negra, mirando el techo de la cueva, incapaz de moverse, su pecho subiendo y bajando espasmódicamente.
+
+Estalactitas brillantes. Bioluminiscentes.
+
+Miles de gusanos de luz azul colgaban del techo de la caverna, creando un falso cielo estrellado, una galaxia subterránea fría y silenciosa. Era precioso. Era alienígena. Era la cosa más bonita que Leo había visto en su vida, o quizás era la hipoxia cerebral haciéndole alucinar ángeles antes de morir.
+
+Leo se miró el brazo derecho a la luz de los gusanos.
+
+La piel ya no era gris ceniza. Era negra.
+
+Desde la punta de los dedos, donde sostenía la esfera, hasta el codo, la piel parecía carbón quemado, cuarteado y rígido. Las venas brillaban con un tono violeta tenue bajo la superficie muerta, bombeando algo que no era sangre. Era pura entropía líquida.
+
+Necrosis por Flujo Entrópico.
+
+No sentía los dedos. Movió la mano. Los dedos obedecieron, pero con un retraso mecánico, como si moviera una prótesis mal calibrada a través de un control remoto.
+
+—Me estás comiendo —le dijo a la Esfera, que seguía en su mano, pulsando suavemente, indiferente a su dolor biológico.
+
+La Esfera no respondió con palabras. Respondió con hambre. Leo sintió un vacío repentino en el estómago, una hipoglucemia brutal que le hizo temblar los dientes. La reliquia exigía calorías para mantener el vínculo activo.
+
+*Más.*
+
+—No tengo más —susurró Leo, cerrando los ojos, sintiendo que se desmayaba de agotamiento—. Estoy vacío...
+
+Se quedó allí, recuperando el aliento, escuchando el goteo del agua de su ropa empapada.
+
+*Ploc. Ploc. Ploc.*
+
+Y otro sonido.
+
+*Ping.*
+
+Leo abrió los ojos de golpe.
+
+El sonido venía del agua. Un pulso electrónico agudo, rítmico, penetrante, que se propagaba por la caverna.
+
+Sonar.
+
+Sondas activas. Los Segadores habían dejado de tirar bombas y habían soltado coleópteros de rastreo autónomos en el agua. Estaban mapeando las cuevas sistema por sistema. Buscaban un cuerpo. O una firma de energía anómala.
+
+*Ping... Ping...*
+
+Más fuerte. Se acercaba.
+
+Leo se incorporó, gimiendo. Tenía que moverse. Si el sonar lo detectaba, triangularían su posición y enviarían un torpedo guiado o un equipo de buzos de combate *Apex* para terminar el trabajo.
+
+Miró alrededor. La cueva tenía una playa de arena negra y continuaba hacia el interior, seca, ascendiendo hacia la oscuridad, alejándose del nivel del agua.
+
+Se puso en pie, mareado, apoyándose en la pared de roca húmeda.
+
+Empezó a caminar por la arena, dejando huellas húmedas y pesadas, arrastrando los pies.
+
+Y entonces se detuvo en seco.
+
+Miró al suelo, iluminado por el brillo violeta de su mano maldita.
+
+Había otra huella.
+
+No era suya. Era más grande. Una suela con patrón de rombos profundos y tacos agresivos. Bota militar pesada, de suela sintética de grado táctico.
+
+Y era reciente. El borde de la huella en la arena aún estaba húmedo, definido, sin desmoronarse.
+
+Alguien había pasado por aquí hace menos de una hora. Alguien humano.
+
+¿Un Segador? Imposible. Si hubieran llegado antes que él, estarían esperándolo en la orilla con rifles térmicos para freírlo en cuanto saliera del agua.
+
+¿Un explorador perdido? Nadie bajaba tan profundo y sobrevivía al ecosistema abisal.
+
+Leo siguió las huellas. Se adentraban en la oscuridad de la cueva, alejándose del agua y subiendo por una rampa natural.
+
+Caminó cien metros, cojeando, alerta. La cueva se estrechaba, convirtiéndose en un pasillo de piedra trabajada. ¿Trabajada? Sí. Las paredes no eran naturales del todo. Había marcas de herramientas antiguas en la roca. O garras de algo que podía excavar granito.
+
+Vio luz artificial delante.
+
+No era azul biológico ni violeta de Flujo. Era amarillo cálido, anaranjado, inestable. Fuego. Combustión química primitiva.
+
+Leo apagó su mente. *Quietud.* Se enfrió a sí mismo, envolviendo su firma térmica en una capa de nada, ignorando el dolor punzante de su brazo necrótico.
+
+Se acercó a la esquina de la roca. Se asomó milimétricamente, un fantasma en la sombra.
+
+Había una hoguera pequeña, hecha con madera de deriva seca, que ardía sin apenas humo (leña tratada químicamente). Una lata de comida abierta calentándose sobre las brasas rojas. Una mochila militar vieja, de lona verde descolorida, remendada con cinta americana plateada en mil sitios.
+
+Y un hombre sentado en una roca plana, de espaldas a él, limpiando un rifle de francotirador largo y antiguo, un modelo de proyectil cinético de gran calibre que parecía sacado de un museo de la Guerra de Unificación.
+
+El hombre no llevaba armadura de polímero ni armadura de quitina reforzada. Llevaba ropa de camuflaje de la selva, desgastada y desteñida hasta ser casi invisible contra la piedra gris. Tenía el pelo blanco, largo y sucio, atado en una coleta con un trozo de cable eléctrico.
+
+Leo pisó una piedra pequeña. *Cric.*
+
+El sonido fue minúsculo, casi imperceptible, pero en el silencio sepulcral de la cueva sonó como un disparo de cañón.
+
+El hombre no se giró. No se sobresaltó. Ni siquiera dejó de trabajar. Siguió pasando el trapo aceitoso por el cerrojo del rifle con movimientos lentos, metódicos y amorosos.
+
+—Llegas tarde, chico —dijo el hombre, con una voz que sonaba como grava siendo triturada en una hormigonera, una voz que no había sido usada en mucho tiempo—. El café ya está frío. Y hueles a zumbido de flujo quemado y a perro muerto.
+
+Leo se tensó, agarrando la Esfera con fuerza, listo para liberar la Entropía y matarlo si era necesario.
+
+El hombre dejó el trapo sobre la roca. Dejó el rifle sobre sus rodillas, sin apuntar, pero con el dedo cerca del gatillo. Se giró lentamente.
+
+Tenía una cara que era un mapa de violencia y supervivencia. Una cicatriz queloide vieja le cruzaba el rostro en diagonal, desde la frente hasta la barbilla, pasando por un ojo que era blanco, ciego, lechoso. El otro ojo, el bueno, era gris acero. Inteligente. Divertido. Y muy, muy peligroso.
+
+Miró a Leo. Miró el brazo negro y necrótico. Miró la Esfera pulsante.
+
+Silbó. Un sonido bajo de apreciación técnica.
+
+—Si vas a usar esa cosa que tienes en la mano para envejecerme —dijo el hombre, señalando la Esfera con la barbilla barbuda—, ahórratelo. Ya estoy bastante viejo y no me queda mucho tiempo que robar. Y tú te estás matando solo con tenerla encendida, idiota.
+
+Leo bajó la mano un centímetro, confundido por la falta de hostilidad abierta y el conocimiento del extraño.
+
+—¿Quién eres? —preguntó Leo, su voz ronca y defensiva.
+
+El hombre sonrió, mostrando dientes manchados de tabaco y cafeína, una sonrisa de lobo viejo.
+
+—Soy el tipo que va a evitar que te mueras de gangrena sistémica en ese brazo en las próximas dos horas. Siéntate, "Copia". Tenemos que hablar de lo que le has robado a Dios. Y del lío en el que nos has metido a todos.
+
+Leo, agotado, sin opciones, dio un paso hacia la luz del fuego.
+
+El Veterano sabía. Sabía lo que era la Esfera. Sabía lo que era Leo. Y eso era más peligroso que cualquier Segador armado en la superficie.
+
+**[FIN DEL CAPÍTULO 23]**
+
+
+<div style="page-break-after: always;"></div>
+\newpage
+
+# CAPÍTULO 24: EL REFUGIO
+
+El olor a carne quemada llenó la pequeña cueva, denso, dulce y grasiento, superando al aroma del café rancio, la humedad mineral de la piedra caliza y el ozono residual que emanaba de la Esfera. Era un olor primitivo, inconfundible, que activaba alarmas de pánico en la parte más antigua y profunda del cerebro reptiliano de Leo. Era el olor de su propia supervivencia a costa de su integridad física.
+
+—No grites —dijo el hombre de la cicatriz, sin levantar la vista de lo que estaba haciendo, su voz tan firme y rasposa como la roca volcánica donde estaban sentados—. Si gritas, respiras rápido. Si respiras rápido, te mueves por reflejo espasmódico. Y si te mueves un milímetro a la izquierda, te corto el nervio radial y te quedas manco para siempre. Y un manco en la selva no es un superviviente, es comida para los carroñeros.
+
+Leo mordió el cinturón de cuero viejo, salado y rígido que el desconocido le había puesto en la boca con brusquedad hasta que sintió que sus muelas iban a estallar bajo la presión hidráulica de su propia mandíbula. Sus ojos estaban llenos de lágrimas involuntarias, calientes y ácidas, fijas en el techo irregular de la cueva, contando las estalactitas y las manchas de humedad con desesperación matemática para no mirar su propio brazo derecho.
+
+El cuchillo del hombre estaba al rojo vivo. La hoja de acero carbono brillaba con un naranja furioso en la penumbra de la cueva, iluminando la cara cicatrizada del veterano.
+
+—La necrosis por Entropía es curiosa —continuó Silas, trabajando con la precisión eficiente de un carnicero maestro o un cirujano de campo degradado por la guerra—. No mata el tejido por infección bacteriana como la gangrena común. Lo acelera. Tus células han vivido cien años biológicos en diez minutos. Han muerto de viejas, de agotamiento mitocondrial puro. La mancha negra es solo el síntoma visible de un colapso temporal local.
+
+Pasó el cuchillo por el borde de la mancha negra y dura en el antebrazo de Leo, dibujando una línea de fuego precisa para separar el tejido muerto y corrupto del vivo y sangrante.
+
+La piel siseó violentamente, como grasa cayendo en una sartén hirviendo. El dolor fue blanco, absoluto, cegador. No fue un dolor localizado en el brazo; fue un relámpago de alto voltaje que recorrió todo su sistema nervioso, friendo sus terminales nerviosas y borrando cualquier otro pensamiento, cualquier otra sensación o recuerdo. Leo sintió que su alma intentaba salir de su cuerpo físicamente para escapar de la agonía insoportable.
+
+Soltó un gemido ahogado y brutal a través del cuero, un sonido animal, gutural, que reverberó en la cueva. Su cuerpo se arqueó violentamente en la roca plana que servía de mesa de operaciones, sus músculos contrayéndose en espasmos involuntarios, las venas de su cuello hinchándose como cuerdas.
+
+—Quieto, joder —ordenó el hombre, sin detener el corte, su mano firme como el acero quirúrgico—. Ya casi está. Hay que sellar los vasos principales o te desangraras en dos minutos antes de que pueda empezar a coser.
+
+Retiró el cuchillo humeante, dejando un rastro de humo acre. Leo cayó de nuevo sobre la roca fría, jadeando, temblando incontrolablemente, cubierto de una película de sudor frío. El olor a su propia carne quemada era insoportable ahora, llenando sus fosas nasales.
+
+El hombre cogió un tarro de cristal sucio lleno de una pasta verde, luminiscente, que olía a moho fuerte, tierra mojada y amoníaco concentrado.
+
+—Hongos de la Fosa —explicó, cogiendo un puñado generoso de la pasta con sus dedos manchados de sangre y hollín—. Crecen en los cadáveres de las ballenas de roca en las profundidades. Se comen el tejido muerto y liberan antibióticos naturales y anestésicos ligeros. Arderá como el infierno al principio, pero luego enfriará y salvará lo que queda de tu brazo.
+
+—¿Arder...? —intentó preguntar Leo con el cinturón aún en la boca, sus ojos desorbitados.
+
+El hombre aplicó la pasta directamente sobre la herida cauterizada y abierta, sin dudar.
+
+Ardió. Como ácido sulfúrico puro. Como si le hubieran echado vidrio molido, sal y fuego líquido directamente en el hueso.
+
+Leo se desmayó un segundo. O tal vez fue una hora. El dolor sobrecargó sus sinapsis y su cerebro tiró del cable de emergencia, apagando la consciencia para proteger la mente. Oscuridad.
+
+Cuando el mundo volvió a enfocarse, borroso y lento, estaba tumbado cerca del fuego bajo, envuelto en una manta térmica vieja, de esas de aluminio dorado que usaban los mineros de profundidad, que picaba en la piel sudorosa. Su brazo estaba vendado hasta el codo con tiras de tela limpia, palpitando con un ritmo sordo, profundo, pero soportable. La fiebre inmediata había bajado un poco.
+
+El hombre, Silas, estaba sentado al otro lado del fuego, removiendo una lata de estofado abollada con su cuchillo limpio. El olor a comida caliente —carne procesada, especias baratas, grasa animal— despertó el estómago de Leo con violencia, rugiendo de hambre.
+
+—Has vuelto —dijo Silas, sin mirarlo, concentrado en las burbujas del caldo espeso—. Tienes buena constitución, chico. La mayoría de los "Copias" mueren del shock neurogénico en la primera incisión. O se muerden la lengua del dolor y se ahogan con su propia sangre aspirada. Eres duro. O tienes mucha suerte.
+
+Leo se quitó el cinturón de la boca con su mano izquierda, escupiendo saliva espesa y hilos de sangre. Le dolía la mandíbula como si le hubieran dado un puñetazo y tenía los labios agrietados y secos.
+
+—Me llamo Leo —graznó. Su garganta estaba seca como papel de lija, rasposa por los gritos ahogados y el humo.
+
+—Me importa una mierda cómo te llames —dijo el hombre, probando el estofado con la punta del cuchillo—. Los nombres son para las lápidas y los registros de la ciudad. Aquí abajo, en el barro, solo eres carne, hueso y lo que llevas en la mochila. Pero si necesitas llamarme algo para no volverte loco de soledad y silencio, llámame Silas.
+
+—Silas —repitió Leo, probando la palabra en su boca dolorida. El nombre le sonaba. No de conocerlo personalmente, sino del tipo de nombre que se leía en los archivos prohibidos de la historia de la fundación de la ciudad. Nombres antiguos. Bíblicos. Pre-Caída—. Gracias, Silas. Por el brazo.
+
+Silas soltó una carcajada seca, áspera, cínica, como ramas secas rompiéndose en un bosque muerto en invierno.
+
+—No me des las gracias, chico. No lo he hecho por ti. Ni por tu cara bonita. Lo he hecho por la Esfera.
+
+Señaló con la cabeza la mochila de Leo, que estaba a su lado, donde la reliquia estaba guardada, envuelta en tres capas de tela aislante para evitar fugas de radiación entrópica. Incluso así, oculta y envuelta, Leo podía sentir su peso gravitatorio, su llamada silenciosa en la nuca.
+
+—Esa cosa —dijo Silas, señalando con la cuchara improvisada— es un parásito con complejo de dios. Está buscando un huésped viable y activo. Si te mueres, la sueltas. Si la sueltas, su campo de contención se debilita y empieza a buscar bio-masa cercana para procesar y mantenerse encendida. Y no quiero que me encuentre a mí. Ya tuve suficiente de dioses caprichosos y hambrientos en mi juventud como para que me maten ahora por estar cerca de un cadáver fresco.
+
+Leo se incorporó lentamente, apoyándose en su brazo bueno y en la pared de roca fría. El mareo le golpeó como un martillo, puntos negros bailando en su visión periférica, pero lo empujó al fondo de su mente con fuerza de voluntad pura.
+
+—¿Sabes lo que es? —preguntó Leo, mirando la mochila con miedo y fascinación—. De verdad. No lo que dicen las leyendas.
+
+Silas le lanzó la lata de estofado caliente. Leo la atrapó en el aire por reflejo, derramando un poco de caldo hirviendo sobre sus dedos. Tenía tanta hambre, tanta necesidad calórica, que no le importó la quemadura. Empezó a comer con los dedos, sacando trozos de carne fibrosa y patatas deshechas, devorando con ansia animal. Sabía a rata de cueva, a sal y a metal, pero le pareció el mejor manjar del mundo civilizado.
+
+—Sé lo que *no* es —dijo Silas, sacando un cigarrillo arrugado de su bolsillo y encendiéndolo con una rama del fuego. Miraba a Leo comer con una mezcla de asco y compasión veterana—. No es una batería infinita. No es un arma de destrucción masiva, aunque se pueda usar así y arrase ciudades. Y definitivamente no es una llave, aunque todos los idiotas de la superficie y los arqueólogos la llamen así.
+
+—Abre la Caja Omega —dijo Leo con la boca llena, tragando sin masticar, sintiendo la comida caliente caer en su estómago vacío—. Y la Caja estaba vacía hasta que...
+
+—Abre la *jaula* —corrigió Silas, exhalando humo azul denso hacia el techo de la cueva—. Es una Semilla. Una Semilla de Terraformación Atmosférica y Temporal. Tecnología de la Fundación Original. De antes de la Caída. De antes de que la selva se comiera los rascacielos y nos obligara a vivir en cúpulas herméticas como ratas de laboratorio.
+
+Leo dejó de masticar. Terraformación. Esa palabra... aparecía en los manuales de agronomía avanzada de la Academia, pero referida a cultivos hidropónicos controlados y micro-climas, no a reliquias místicas capaces de desintegrar acero.
+
+—¿Para qué sirve? —preguntó Leo, sintiendo un escalofrío que no era de frío sino de vértigo histórico.
+
+—Para cambiar las reglas del juego —dijo Silas, bajando la voz, como si la roca pudiera escuchar—. Gravedad. Tiempo. Entropía. Ciclos de crecimiento biológico. Esa cosa reescribe el código fuente de la realidad local a nivel cuántico. Por eso tu brazo se puso negro. Le pediste que matara al sabueso, y la Semilla interpretó "muerte" como "fin de ciclo vital". Aceleró el tiempo de tus células y las del perro hasta que murieron de viejas en segundos. Le pediste que rompiera cadenas, y las oxidó en nanosegundos acelerando la entropía del metal. Es una herramienta de terraformación planetaria, Leo. Y tú eres un mono asustado golpeando un reloj de precisión atómica con un martillo de piedra.
+
+Leo dejó la lata vacía en el suelo, rebañando el fondo con el dedo. Su mente trabajaba rápido, conectando puntos, mapas y leyendas urbanas que ahora cobraban sentido aterrador.
+
+—Tengo que salir de aquí —dijo Leo, intentando levantarse, mareado—. Tengo que llevarla lejos. Si la consiguen...
+
+Silas negó con la cabeza, una sonrisa triste y cínica en su cara cicatrizada.
+
+—No puedes huir, Leo. Tienen rastreadores térmicos, sísmicos y vocalizador de largo alcance. Si sales a la superficie ahora, con el nivel de energía que emite esa cosa fuera de la Caja, te cazarán en diez minutos. Te convertirán en puré con los cañones del Baluarte antes de que puedas pestañear. Y si te quedas aquí abajo, te morirás de infección secundaria, de hambre cuando se acabe mi estofado, o te comerán las cosas que viven en el agua oscura cuando se apague mi fuego.
+
+—Tú has sobrevivido —dijo Leo, desafiante—. Llevas años aquí. Eres una leyenda local. El Fantasma del Cenote.
+
+—Yo no llevo una faro de resonancia en el bolsillo —dijo Silas secamente—. Y yo sé cómo esconderse. Yo soy parte de la cueva, del ecosistema. Tú eres un turista ruidoso y brillante que atrae a todo lo que tiene dientes.
+
+Leo miró al viejo a los ojos. Vio cansancio infinito. Vio dolor antiguo acumulado en capas geológicas. Pero también vio curiosidad. Una chispa de interés que no estaba muerta del todo bajo la ceniza del cinismo.
+
+—Ayúdame —dijo Leo. No suplicó. Lo dijo como una transacción comercial, de igual a igual, o al menos de superviviente a superviviente—. Conoces el terreno mejor que nadie. Conoces a los Segadores y sus tácticas de despliegue. Sácame de la red de cuevas. Llévame a la Zona Muerta, al sur. Allí no llegan sus escáneres por la radiación de fondo.
+
+Silas se rió de nuevo, un sonido seco. Sacó una petaca de metal abollada de su bota militar y bebió un trago largo de algo que olía a alcohol metílico y desesperación destilada.
+
+—¿Por qué haría eso? —preguntó Silas, limpiándose la boca con el dorso de la mano cicatrizada—. Estás condenado, chico. Eres un cadáver caminando con un reloj de cuenta atrás pegado al pecho. Ayudarte es suicidio. Y yo valoro mucho mi pellejo viejo y duro. Me ha costado mucho mantenerlo de una pieza.
+
+—Porque odias al Cónclave más de lo que temes a la muerte —dijo Leo. Fue un disparo a ciegas, una apuesta táctica basada en el tono de voz de Silas al mencionar a la élite de la Cúpula.
+
+Silas se quedó quieto, congelada la petaca a medio camino. Su sonrisa desapareció lentamente, reemplazada por una expresión ilegible, dura como el granito. Su mano derecha bajó lentamente a acariciar la culata de madera de su rifle viejo.
+
+Hubo un silencio largo, pesado en la cueva, solo roto por el crepitar de las últimas brasas y el goteo lejano del agua.
+
+—Tienes los ojos de él —dijo Silas suavemente, casi para sí mismo, mirando a través de Leo hacia el pasado.
+
+—¿De quién?
+
+—Del único hombre que ha pisado la Zona 4 y sigue respirando. Caine. El Inmortal. —Silas miró a Leo como si viera un fantasma—. No fue una expedición. Fue una cacería suicida. El Cónclave lo envió al Horizonte Oscuro a robarle fuego a los dioses.
+
+—¿Qué encontró?
+
+—Un Clase Omega. Un Primordial. —Silas bajó la voz, un susurro temeroso—. Su equipo, doce Clase S de élite, murió en segundos. Vaporizados por la sola presencia de esa cosa. La realidad allí no funciona igual.
+
+—¿Y él?
+
+—Él sobrevivió porque era una aberración. Su Flujo no atacaba, regeneraba. Se reconstruía más rápido de lo que el Omega podía desintegrarlo. Huyó arrastrándose durante días, muriendo y renaciendo a cada metro, hasta que salió de la zona de influencia.
+
+Leo sintió un escalofrío recorrerle la espalda. ¿Su abuelo? ¿El hombre de las historias fragmentadas que su madre le contaba en susurros antes de desaparecer?
+
+—¿Qué le pasó? —preguntó Leo, temiendo la respuesta pero necesitando saberla.
+
+—Le mataron, por supuesto —dijo Silas, brutalmente honesto, sin endulzar la píldora—. Sobrevivió a un dios, pero no a la política. El Cónclave lo cazó cuando volvió a la civilización. Pero antes de caer, escondió la Semilla. La rompió en dos partes usando una prensa hidráulica industrial de la mina. La Caja y la Esfera. Para que nadie, nunca, tuviera el poder absoluto de jugar a ser Dios sin tener las dos llaves.
+
+Silas se levantó, sus rodillas crujiendo con el sonido de cartílago desgastado y metal viejo.
+
+—Empaca tus cosas, chico. Nos vamos. Antes de que los coleópteros de eco lleguen a este nivel y triangulen nuestra posición por el calor del fuego.
+
+Leo parpadeó, sorprendido por el cambio repentino de actitud. Se levantó torpemente, recogiendo su mochila con cuidado.
+
+—¿A dónde? ¿Al sur? ¿A la Zona Muerta?
+
+Silas pateó arena sobre el fuego, apagándolo en un instante con eficiencia militar. La oscuridad volvió a la cueva, densa y fría, excepto por el brillo residual de las brasas muriendo y la luz violeta de la Esfera dentro de la mochila de Leo.
+
+—A la superficie no —dijo la voz de Silas desde la penumbra, cargando su mochila vieja—. Arriba es muerte segura hoy. Vamos a bajar más. Vamos al Nido.
+
+—¿El Nido? —preguntó Leo, sintiendo un nuevo tipo de miedo en el tono del veterano, un miedo respetuoso y religioso.
+
+—La zona de cría de las medusas abisales. Es un laberinto hidrotermal que conecta con el manto. Los sonares no funcionan allí por la interferencia bio-eléctrica masiva de los enjambres en celo. Es el único camino que los Segadores no vigilan con tecnología.
+
+—¿Por qué no lo vigilan? —preguntó Leo, colgándose la mochila y siguiendo la silueta del viejo.
+
+Silas cargó su rifle. El sonido metálico del cerrojo cerrándose resonó en la cueva como una sentencia de muerte o una promesa.
+
+—Porque hasta los Segadores tienen miedo de lo que vive en el fondo del Nido, Leo. Reza para que tu Semilla tenga batería suficiente. Vamos a necesitar toda la luz que puedas darnos para no ser devorados en la oscuridad.
+
+Silas empezó a caminar hacia la profundidad de la cueva, alejándose de la salida, bajando hacia el infierno geológico.
+
+Leo miró atrás una última vez, hacia donde había venido, hacia el agua tranquila que ocultaba la muerte. Luego, apretó los dientes, ignoró el dolor palpitante de su brazo curado, y siguió al viejo soldado hacia la oscuridad absoluta.
+
+El trato estaba hecho. Y el precio de la guía de Silas podía ser más alto que su propia vida.
+
+**[FIN DEL CAPÍTULO 24]**
+
+
+<div style="page-break-after: always;"></div>
+\newpage
+
+# CAPÍTULO 25: EL NIDO
+
+El calor no era una simple temperatura elevada. Era peso. Era una entidad física.
+
+Leo sentía como si le hubieran puesto una manta de plomo hirviendo sobre los hombros en cuanto cruzaron la grieta, una presión atmosférica densa que dificultaba respirar sin toser violentamente. El aire ya no olía a agua estancada y ozono metálico, como en las cuevas superiores; olía a azufre volcánico, a cobre oxidado y a algo dulce, empalagoso y podrido, como flores tropicales fermentadas en un horno industrial a punto de explotar.
+
+Bajaban por una rampa natural de obsidiana, vidrio volcánico negro y afilado como cuchillas de afeitar quirúrgicas, que crujía bajo sus botas con cada paso, amenazando con cortar las suelas sintéticas y llegar a la carne. Delante de ellos, Silas se movía como una sombra líquida, su silueta recortada contra el resplandor pulsante, enfermizo y constante que venía de las profundidades del abismo.
+
+—Apaga eso —susurró Silas sin girarse, su voz apenas audible sobre el rugido distante de las corrientes térmicas masivas.
+
+Leo miró su mochila. El brillo violeta de la Esfera se filtraba a través de la tela reforzada y las capas de aislamiento térmico. Era como llevar un corazón de flujo latiendo en la espalda, un reactor inestable.
+
+—No puedo apagarla —respondió Leo, su voz sonando demasiado fuerte, rasposa y asustada en la extraña y vasta acústica de la cueva—. No tiene interruptor. Está... despierta. Responde al entorno.
+
+—Pues envuélvela en tu chaqueta. En tu piel. En lo que sea que tengas a mano, maldita sea —Silas se detuvo en seco y señaló hacia abajo con un dedo imperativo y manchado de ceniza—. Porque si ven esa luz, estamos muertos antes de dar dos pasos más en el puente.
+
+Leo se quitó la capa de liquen, que ya estaba empezando a secarse, volverse rígida y agrietarse por el calor ambiental, perdiendo su humedad vital. Envolvió la mochila con ella, haciendo un nudo apretado y doble, asegurándose de cubrir cada centímetro de tela sintética. El brillo se redujo a un latido tenue, casi invisible, pero Leo aún podía sentir el calor de la reliquia contra su columna, una fiebre artificial.
+
+Llegaron al final de la rampa de vidrio. Y el mundo se abrió ante ellos, borrando cualquier concepto de escala humana.
+
+Leo se quedó paralizado, su boca abriéndose en un grito silencioso. Su mente de cartógrafo, entrenada para medir distancias, ángulos y volúmenes, intentó procesar el espacio, buscar referencias lógicas, pero falló miserablemente.
+
+No era una cueva. Era una catedral inversa. Un útero geológico del tamaño de una ciudad.
+
+Una bóveda gigantesca, de kilómetros de diámetro y altura imposible, se extendía ante ellos. En el fondo, muy abajo en la oscuridad, ríos de magma perezoso brillaban con un rojo oscuro, venas abiertas de la tierra sangrando fuego primordial. El calor que subía era una pared sólida. Pero lo que dominaba el espacio, lo que robaba el aliento y helaba la sangre, no era el fuego.
+
+Era la luz azul.
+
+Miles, millones de formas flotaban en las corrientes térmicas ascendentes que subían del magma. Medusas. Pero no eran animales acuáticos gráciles. Eran dirigibles biológicos. Sacos de gas translúcidos del tamaño de autobuses urbanos, que pulsaban con bioluminiscencia cian, verde y violeta. Sus tentáculos, hilos de gossamer de cincuenta metros de largo, barrían el aire caliente como redes de pesca invisibles y letales.
+
+El Nido. La zona de cría prohibida. El impulsor de flujo biológico del subsuelo.
+
+—Dios santo... —susurró Leo, sintiéndose pequeño, insignificante, una mota de polvo ante la biología titánica que tenía delante.
+
+—Cállate —siseó Silas, agarrándole del hombro bueno con una fuerza dolorosa y tirando de él hacia el suelo, pegándolo a la roca—. No son bonitas, chico. Son hambre pura y simple. Se alimentan de calor y luz energética. Si detectan tu firma térmica corporal o el Flujo residual de esa Esfera, bajarán en picado y te disolverán en ácido digestivo antes de que toques el suelo. Serás sopa biológica en segundos.
+
+Leo se pegó a la roca caliente, sintiendo el calor traspasar su ropa y quemar su piel. Vio pasar una de las criaturas a solo diez metros de su posición, navegando la corriente de aire con un control absoluto, sin esfuerzo. Podía ver sus órganos internos flotando en el gas helio de su saco, pulsando rítmicamente como pistones de carne. Vio un esqueleto de lo que parecía un ciervo gigante —probablemente caído de la superficie por alguna grieta— atrapado en sus tentáculos, blanco y limpio, disolviéndose lentamente en una membrana digestiva externa que lo envolvía.
+
+—¿Tenemos que cruzar *eso*? —preguntó Leo, sintiendo el sudor frío correr por su espalda y mezclarse con el polvo volcánico, un barro del miedo.
+
+—El puente está ahí —señaló Silas hacia el vacío negro.
+
+Un arco de piedra natural, fino como una costilla de dragón y sin barandillas de ningún tipo, cruzaba el abismo hasta una apertura oscura en la pared opuesta. Estaba a quinientos metros de distancia. Quinientos metros de suicidio. Y el aire sobre el puente estaba lleno de tentáculos colgantes, un bosque de muerte suspendida que se movía con el viento térmico.
+
+—Es un campo de minas —dijo Leo, evaluando la densidad de los tentáculos con horror.
+
+—Es un campo de minas que se mueve, piensa y tiene hambre —corrigió Silas, ajustando la correa de su rifle aunque sabía que disparar sería la muerte—. Mantén la calma. Si entras en pánico, tu ritmo cardíaco sube. Si sube, tu temperatura corporal sube. Si sube, te ven. *Quietud*, chico. Usa lo que te enseñó el maestro en la selva, si es que te enseñó algo útil aparte de morir gritando.
+
+Silas se levantó, agachado como un depredador en territorio hostil, y empezó a avanzar hacia el puente con pasos calculados, probando la roca antes de poner el peso.
+
+Leo cerró los ojos un segundo. Buscó el frío en su mente. Imaginó el hielo de los polos que nunca había visto. Imaginó el vacío del espacio exterior. Sintió su ritmo cardíaco bajar a latidos lentos y pesados, forzando a su metabolismo a entrar en hibernación. Su piel se enfrió superficialmente, ignorando el calor del volcán, volviéndose invisible al espectro térmico.
+
+*Soy una piedra. Soy sombra. No emito calor. No existo.*
+
+Abrió los ojos y siguió al veterano hacia el puente.
+
+Caminar por el puente de piedra era una pesadilla de equilibrio y tensión muscular. La piedra estaba caliente y cubierta de una capa resbaladiza de condensación química y azufre amarillo. A ambos lados, la caída era infinita hacia el magma rojo. Y arriba, el techo vivo de criaturas pulsaba, bajando y subiendo en las corrientes, goteando fluidos cáusticos.
+
+Un tentáculo pasó rozando la cara de Leo.
+
+Era casi invisible, un hilo de seda brillante y húmedo, más fino que un cabello. Leo se congeló en mitad del paso, con un pie en el aire, haciendo equilibrio sobre la nada. El tentáculo flotó, llevado por una brisa térmica caprichosa, a centímetros de su nariz. Olía a amoníaco concentrado y a electricidad estática. Si lo tocaba, la parálisis sería instantánea, seguida de la digestión.
+
+Leo contuvo la respiración hasta que sus pulmones ardieron y su visión se nubló por la falta de oxígeno. El hilo pasó lentamente, rozando su oreja pero sin tocar piel. Leo soltó el aire en un suspiro microscópico.
+
+—Sigue —susurró Silas desde adelante, sin mirar atrás, confiando en que Leo seguía vivo por el sonido de sus pasos.
+
+Estaban a mitad de camino. Doscientos cincuenta metros de infierno cruzados. Doscientos cincuenta por cruzar.
+
+Delante, Silas se detuvo. Un tentáculo más grueso le había rozado el hombro de la chaqueta.
+
+Leo vio cómo la tela de camuflaje empezaba a humear. El ácido estaba comiendo la ropa. Silas no se movió. No se sacudió. Con una calma aterradora, sacó un mechero de su bolsillo, encendió una llama pequeña y quemó el tentáculo sin hacer ruido. El olor a plástico quemado se unió al azufre.
+
+—Sigue —repitió Silas, guardando el mechero.
+
+Y entonces, el brazo de Leo latió.
+
+No fue dolor esta vez. Fue una descarga. La Esfera, enterrada en la mochila, reaccionó a la inmensa cantidad de bio-energía concentrada que la rodeaba. Reaccionó a la vida titánica.
+
+*Hambre. Competencia. Dominio.*
+
+La Esfera emitió un pulso. No de luz visible. De resonancia. Una onda de choque psíquica y gravitatoria.
+
+Fue silencioso para el oído humano, pero para las criaturas del Nido, debió sonar como un disparo de cañón o un grito de guerra territorial.
+
+Todo el enjambre se detuvo en el aire.
+
+El movimiento constante y caótico de los sacos de gas cesó de golpe. Miles de luces azules se volvieron rojas al unísono, un cambio de color químico instantáneo que indicaba agresión depredadora.
+
+Millones de fotorreceptores y termorreceptores se fijaron en el puente de piedra. Cien mil ojos mirando a dos hombres.
+
+—Mierda —dijo Silas, levantando su rifle por instinto, rompiendo su propia regla—. Corre. Olvida el sigilo. ¡Corre!
+
+—¡Están bloqueando el camino! —gritó Leo, viendo cómo el cielo se caía sobre ellos.
+
+Delante de ellos, justo encima de la salida, una forma gigantesca se desprendió del techo de la bóveda, eclipsando la luz del magma.
+
+No era una medusa normal. Era una catedral biológica en sí misma. La Madre del Enjambre. Un leviatán de biomasa y gas del tamaño de un gran carguero titánico. Descendió lentamente, con una majestuosidad aterradora, bloqueando el final del puente con una cortina de tentáculos gruesos como troncos de árbol y brillantes como neón rojo sangre.
+
+Siseó, liberando gas a presión por sus espiráculos laterales, un sonido que retumbó en el pecho de Leo y hizo vibrar el puente.
+
+—No podemos pasar —dijo Leo, retrocediendo, buscando una salida que no existía en la pasarela estrecha.
+
+—No vamos a pasar a través de ella —dijo Silas, rebuscando frenéticamente en su mochila vieja con manos rápidas—. Vamos a hacer que se mueva.
+
+Sacó una bengala. Pero no era una bengala de emergencia normal de fósforo rojo. Era un cilindro de hueso negro, pesado, con marcas de peligro y resonancia de flujo letal.
+
+—¿Qué es eso? —preguntó Leo, viendo cómo Silas giraba la tapa de seguridad con los dientes.
+
+—Magnesio enriquecido y feromonas de colmena sintéticas concentradas —dijo Silas, sonriendo con esa mueca de lobo viejo y loco, sus ojos brillando con la locura del combate—. Caramelo para monstruos. La cena está servida, bastardos.
+
+Rompió el sello químico y golpeó la bengala contra la roca del puente con fuerza bruta.
+
+*FSSSSHHH.*
+
+La bengala no se encendió con fuego normal. Se encendió con una luz blanca pura, cegadora, estroboscópica, más brillante que el sol de mediodía, quemando las sombras de la caverna. El calor que emitía era tal que Leo tuvo que cubrirse la cara con el brazo para no quemarse las retinas y la piel.
+
+Silas lanzó la bengala al vacío con un grito de esfuerzo, lejos del puente. Hacia el fondo del volcán, hacia el magma.
+
+La luz cayó, trazando un arco perfecto y brillante en la oscuridad, dejando una estela de humo blanco y chispas de magnesio.
+
+El efecto fue instantáneo y violento.
+
+La Madre del Enjambre chilló. Un sonido ultrasónico que hizo vibrar los dientes de Leo y sangrar su nariz al instante. Y se lanzó a por la luz.
+
+Y con ella, todo el enjambre.
+
+Fue como ver una cascada de luz viva derrumbándose. Miles de medusas, ciegas por el estímulo supernormal y las feromonas, se lanzaron en picado tras la bengala, abandonando el puente, persiguiendo el calor puro. Se chocaban entre ellas, sus tentáculos enredándose, en un frenesí alimenticio de locura biológica.
+
+El aire se llenó de turbulencias violentas por el desplazamiento de masa de kilómetros de carne. El puente tembló, amenazando con romperse.
+
+—¡AHORA! —rugió Silas, empujando a Leo—. ¡CORRE!
+
+Leo corrió.
+
+Corrió por el puente de piedra estrecho, ignorando el vértigo, ignorando el calor que subía de las bestias, ignorando el dolor de su brazo recién operado. El viento creado por las medusas al bajar casi lo tiraba al vacío.
+
+Cruzaron los últimos cien metros en segundos que parecieron horas, saltando sobre las grietas de la piedra.
+
+Llegaron a la apertura en la pared justo cuando la Madre alcanzaba la bengala abajo, cerca del magma. Hubo un destello tremendo, una explosión de gas encendido cuando el magnesio tocó el hidrógeno de los sacos de flotación, y luego el caos de mil depredadores devorándose unos a otros y a la madre herida por las sobras chamuscadas.
+
+Silas empujó a Leo dentro del túnel de la pared, lejos de la luz.
+
+—¡Adentro! ¡Al suelo!
+
+El túnel no era un pasillo. Era un tubo de lava liso, pulido como cristal por siglos de flujo magmático, inclinado hacia abajo en un ángulo suicida de cuarenta y cinco grados. Un tobogán natural directo a la oscuridad profunda.
+
+—¡Nos vamos a matar! —gritó Leo, mirando la pendiente negra y sin fin, sintiendo el aire frío que subía del fondo.
+
+—¡Mejor rotos que disueltos! —gritó Silas, lanzando su mochila delante para usarla de freno—. ¡Salta, chico!
+
+Y saltaron.
+
+La gravedad los cogió. La oscuridad los tragó de nuevo, deslizándose a velocidad terminal hacia las entrañas del mundo, mientras la luz de la guerra biológica y el chillido agónico de la Madre quedaban atrás, arriba, en el infierno de neón.
+
+**[FIN DEL CAPÍTULO 25]**
+
+
+<div style="page-break-after: always;"></div>
+\newpage
+
+# CAPÍTULO 26: LA VORÁGINE
+
+La gravedad es una ley constante, aburrida y predecible. Pero la fricción... la fricción es la variable sádica que te recuerda que estás vivo mientras intenta matarte despellejándote vivo.
+
+Leo sintió cómo la tela sintética de sus pantalones reforzados se calentaba hasta el punto de combustión térmica mientras se deslizaban por el tubo de lava pulida a una velocidad que borraba el pensamiento racional. La piedra, alisada por eones de flujo magmático y presión geológica, pasaba como un borrón negro y gris a su alrededor, un túnel de velocidad pura que parecía no tener fin. El aire silbaba en sus oídos, un grito constante de presión atmosférica en aumento que amenazaba con reventarle los tímpanos si no compensaba pronto abriendo la boca.
+
+Delante de él, la mochila de combate de Silas chispeaba contra las paredes curvas del tubo con cada curva violenta, dejando un rastro de luz naranja y un olor acre a metal quemado y cordita que Leo podía saborear en la parte posterior de su garganta.
+
+—¡Prepárate! —gritó la voz del veterano, distorsionada por el eco metálico del túnel y la velocidad terminal de la caída, sonando como un demonio gritando en una catedral vacía.
+
+—¿Para qué? —gritó Leo, intentando frenar clavando los talones de sus botas, pero la suela de polímero resbalaba inútilmente sobre el vidrio volcánico como si fuera hielo engrasado.
+
+El suelo desapareció bajo sus pies.
+
+El tubo de lava terminó abruptamente, escupiéndolos al vacío subterráneo como balas de cañón disparadas por la boca de un titán geológico enfurecido.
+
+Por un segundo eterno, Leo flotó. El estómago se le subió a la garganta, una sensación de caída libre absoluta que le recordó a las pesadillas de su infancia donde el suelo se abría. No hubo ruido repentino. No hubo viento. Solo una suspensión ingrávida en una oscuridad tan vasta, tan absoluta y fría, que parecía el espacio exterior entre las estrellas muertas.
+
+Entonces, sus ojos se adaptaron al cambio de luz y vio el agua.
+
+No era un lago tranquilo subterráneo como los del nivel superior plácido donde había aprendido a nadar. Era un caos hidrológico de pesadilla. Cientos de metros más abajo, una superficie negra y espumosa se agitaba con violencia tectónica, blanca y furiosa. Y en el centro...
+
+En el centro, el mundo se rompía físicamente.
+
+Una espiral. Un ojo. Un remolino de dimensiones bíblicas, de kilómetros de diámetro, que tragaba el océano subterráneo con un rugido que hacía vibrar sus huesos incluso en el aire. Era una boca negra, infinita, hambrienta, que devoraba millones de litros por segundo hacia el manto del planeta para enfriar el núcleo.
+
+La Vorágine. El desagüe de la ciudad. El fin de todo lo que cae y nadie quiere recuperar jamás.
+
+—¡No caigas en el centro! —gritó Silas, cayendo a su lado, agitando los brazos y las piernas para estabilizar su caída y orientar su cuerpo—. ¡Apunta a la espuma! ¡Rompe la tensión o te partirás las piernas contra el agua!
+
+El impacto le sacó el aire de los pulmones con la violencia de un bate de béisbol de acero golpeando su pecho a ochenta kilómetros por hora. No hubo elegancia, solo brutalidad física.
+
+*CRASH.*
+
+El agua estaba helada. Un choque térmico brutal, paralizante, después del calor sofocante del Nido volcánico. Leo se hundió metros en la oscuridad, aturdido, los pulmones vacíos y colapsados, girando en la turbulencia espumosa y fría como una muñeca de trapo. La mochila pesaba como un ancla de plomo titánica. La ropa mojada lo arrastraba hacia abajo, hacia la oscuridad abisal donde no había luz.
+
+Abrió los ojos en el agua turbia y salina. Burbujas plateadas ascendiendo hacia una superficie lejana. Caos de corrientes cruzadas que tiraban de sus extremidades. Y una fuerza invisible, una mano gigante de gravedad líquida, tirando de él hacia la izquierda con una potencia irresistible. Hacia el fondo. Hacia el desagüe del mundo.
+
+Pataléo con pánico primitivo, sus botas pesadas impidiéndole subir eficientemente. Sus pulmones ardían pidiendo oxígeno, su visión llenándose de puntos negros estroboscópicos que anunciaban la inconsciencia.
+
+Salió a la superficie, boqueando, tosiendo agua salobre y aceite industrial.
+
+—¡Silas! —gritó, escupiendo la mezcla asquerosa que sabía a óxido y muerte antigua.
+
+No vio al veterano. Solo vio olas negras de tres metros que chocaban entre sí como bestias, crestas de espuma blanca sucia y, al fondo, la curva aterradora del horizonte líquido cayendo, doblandose hacia el agujero del mundo.
+
+El ruido era ensordecedor. Como estar dentro de una turbina de avión en marcha a máxima potencia. El agua rugía al ser forzada por el embudo de roca a velocidades supersónicas, creando una canción de destrucción geológica.
+
+Algo le golpeó en el hombro. Duro. Metal contra hueso.
+
+Leo se giró, tragando agua, el dolor irradiando por su brazo. Era metal. Un chasis oxidado de un coche antiguo, un sedán de la Era del Petróleo, flotando boca abajo, dando vueltas en la corriente como un corcho podrido.
+
+Leo se agarró al parachoques oxidado con desesperación. El metal le cortó las manos, pero le dio flotabilidad. Se subió al chasis, tosiendo, sangrando, mirando alrededor desde su balsa precaria que giraba hacia la muerte inexorable.
+
+—¡Silas!
+
+El coche giró violentamente, golpeado por una ola lateral. Leo vio pasar una estatua de mármol sin cabeza junto a él. Un contenedor de carga azul con el logo de una corporación muerta hace siglos. Un árbol petrificado gigantesco. Todo giraba. Todo moría en la Vorágine.
+
+—¡AQUÍ!
+
+Un destello de luz roja cortó la oscuridad sobre el rugido. Una bengala ardía sobre una columna de roca basáltica que sobresalía del agua como un dedo acusador, a cincuenta metros de distancia, luchando contra la corriente cerca de la pared de la caverna. Silas estaba allí, aferrado a la piedra mojada como un cangrejo humano, empapado pero firme.
+
+Tenía un rifle en la mano. No, no un rifle de francotirador. Un lanzador de garfios neumático de alta presión, modificado para escalada industrial pesada.
+
+*PUM.*
+
+El arpón voló por el aire, arrastrando un cable de fibra antigua brillante que brilló a la luz de la bengala como un rayo plateado. Se clavó con un chispazo en una grieta profunda de la pared de la cueva, lejos del remolino, creando una tirolina de seguridad precaria sobre el abismo acuático.
+
+—¡Coge la cuerda! —gritó Silas, lanzando el otro extremo hacia el agua furiosa, calculando la deriva con ojo experto.
+
+La cuerda voló, serpenteando en el aire húmedo. Leo se impulsó desde el coche que se hundía, saltando hacia el agua negra, estirando el brazo bueno, desesperado, sus dedos buscando el metal salvador.
+
+Pero la cuerda cayó corta. A diez metros de Leo.
+
+A diez metros imposibles. Una distancia que en tierra era nada, dos segundos de carrera, pero aquí, en el agua enfurecida, era una sentencia de muerte absoluta e irrevocable.
+
+La corriente agarró a Leo con renovada furia en cuanto soltó el coche. Sintió la aceleración G en su estómago. Ya no flotaba; viajaba. Iba directo hacia la Vorágine, arrastrado junto con la basura de la historia a velocidad de autopista.
+
+Leo nadó. Nadó con desesperación ciega, rompiéndose las uñas contra el agua, usando su brazo bueno y el malo, ignorando el dolor punzante de la cirugía reciente que palpitaba bajo los vendajes. Pero el agua era más fuerte. Era física pura, masa en movimiento imparable, millones de toneladas de presión hidráulica.
+
+Se alejaba de la cuerda. Cada brazada lo acercaba más al centro, al ojo negro que todo lo veía y todo lo tragaba.
+
+Silas le miraba desde la roca, con la bengala en la mano iluminando su cara de impotencia y rabia contenida. No podía hacer nada. Si se tiraba, moriría también. El cable no aguantaría a dos en el agua arrastrados por esa fuerza G.
+
+—¡Usa la cabeza, chico! —gritó Silas, su voz apenas llegando sobre el rugido—. ¡Piensa, maldita sea! ¡Usa lo que tienes! ¡No mueras como un aficionado!
+
+Leo miró la Esfera brillante bajo el agua, dentro de su mochila, pulsando con luz violeta rítmica, como si se riera de él, una risa fría y alienígena.
+
+*Tiempo. Entropía. Caos.*
+
+No podía parar la corriente. Era demasiada masa. La energía necesaria para detener millones de litros le mataría al instante por retroalimentación biotérmica. Pero podía cambiar su relación con ella. Podía cambiar las reglas locales de la física newtoniana.
+
+—Entropía inversa... viscosidad temporal... —susurró Leo, tragando agua salada, entendiendo la física imposible del Flujo en un momento de claridad pánica. El tiempo es fluido. El agua es fluido.
+
+Cerró los ojos y agarró la Esfera a través de la tela de la mochila y su propia piel, clavando mentalmente sus dedos en la energía fría de la reliquia. No pidió fuego. No pidió destrucción. No pidió fuerza bruta.
+
+Pidió *lentitud*. Pidió *resistencia*.
+
+Un pulso violeta salió de él. Una onda de distorsión visible, como una burbuja de calor en el asfalto en verano, de tres metros de resonancia.
+
+Sentía como si le hubieran clavado un clavo ardiendo en el centro del cerebro, justo detrás de los ojos y entre las sienes. Sangre empezó a manar de su nariz, caliente y rápida, mezclándose con el agua fría. Fue un dolor agudo, específico, de vasos sanguíneos reventando por la presión intracraneal.
+
+El sonido del mundo cambió instantáneamente. El rugido agudo y caótico bajó de tono, cayendo octavas, convirtiéndose en un zumbido grave, profundo, vibrante, como un bajo de sintetizador estirado al infinito. *Woooooom*.
+
+Leo abrió los ojos.
+
+El mundo se había vuelto violeta y lento.
+
+El agua a su alrededor había cambiado de estado. Ya no era líquida y caótica. Era... espesa. Gelatinosa. Las gotas de espuma que volaban por el aire se quedaron suspendidas, diamantes lentos y perfectos girando en el vacío, brillando refractando la luz de la bengala en arcoíris imposibles de color neon tóxico.
+
+La ola de tres metros que iba a romperse sobre su cabeza se detuvo, congelada en un arco de cristal viscoso y perfecto, una escultura de hielo en movimiento geológico ultralento.
+
+El tiempo local se había dilatado. La física de fluidos se había reescrito en su vecindad inmediata por la voluntad de la Esfera y el coste de su propia sangre.
+
+Leo intentó nadar, pero el agua era demasiado dura. Era como intentar nadar en miel fría o en cemento fresco de fraguado rápido. Sus brazos se movían, pero el medio se resistía con una densidad absurda.
+
+*No nades. Camina.*
+
+La idea fue absurda, bíblica, blasfema, pero era su única opción en esta nueva física distorsionada.
+
+Se impulsó hacia arriba con las piernas, pateando la densidad del agua profunda. Puso un pie sobre la superficie de una ola congelada. La tensión superficial, amplificada por la densidad temporal extrema, aguantó su peso. La bota se hundió unos centímetros, creando ondas lentas como en mercurio pesado, pero no se hundió.
+
+Se levantó, temblando sobre la superficie imposible, el agua comportándose como una cama elástica de gel balístico.
+
+Leo corrió sobre el agua.
+
+Corrió sobre las crestas de las olas lentas, resbalando, cayendo sobre sus rodillas y levantándose de nuevo, gateando sobre un mar que se comportaba como vidrio fundido. Cada paso era una lucha contra la física, sus músculos gritando por el esfuerzo de moverse en una zona de alta densidad, como correr en un sueño donde el aire es melaza.
+
+Se sentía poderoso y aterrorizado a la vez. No era un dios. Era un insecto atrapado en ámbar, luchando por moverse mientras el ámbar se endurecía a su alrededor.
+
+El mundo fuera de su burbuja seguía moviéndose rápido. Veía el remolino girar a velocidad normal fuera de su resonancia, veía a Silas gritando en cámara rápida, moviéndose como un colibrí nervioso, sus gestos borrosos. Pero dentro, Leo tenía el control. Un control doloroso, cerebral.
+
+La sangre de su nariz goteaba sobre el agua congelada, quedando suspendida como rubíes rojos y perfectos en el aire violeta, sin caer, desafiando la gravedad.
+
+Llegó a la cuerda que colgaba inerte en el aire denso, una línea de salvación estática en un mundo de movimiento pausado.
+
+La agarró con ambas manos. El cable de fibra antigua estaba vibrando, tenso como una cuerda de violín a punto de romperse, pero en su burbuja de tiempo, la vibración era un movimiento lento y serpenteante, hipnótico, como una serpiente de plata bailando.
+
+Se aferró al acero con fuerza de muerte, enrollándolo en su muñeca buena.
+
+—¡AHORA! —gritó, o pensó que gritó, su voz sonando grave, distorsionada y lenta en sus propios oídos, como un monstruo submarino hablando desde el fondo del abismo.
+
+Soltó la Esfera mentalmente. Cortó el flujo de golpe.
+
+El pulso cesó. La burbuja colapsó.
+
+*CRASH.*
+
+La realidad volvió de golpe con la fuerza de un tren de mercancías descarrilando. El ruido, la velocidad, el frío, la gravedad. El agua volvió a ser líquida instantáneamente y golpeó a Leo con toda la fuerza cinética acumulada que había estado pausada durante esos segundos robados.
+
+Pero él ya tenía la cuerda.
+
+El tirón casi le arranca el brazo del hombro. Leo gritó de agonía pura cuando su articulación crujió y se estiró al límite, los tendones ardiendo como fuego. Pero no se soltó. La corriente tiró de sus piernas con toneladas de fuerza hidrodinámica, convirtiéndolo en una bandera humana ondeando en el huracán de agua oscura.
+
+Silas, desde la roca, vio a Leo aparecer de la nada agarrado al cable, materializándose fuera del agua en un parpadeo, como un fantasma de flujo. Reaccionó al instante, con los reflejos de un soldado que ha visto demasiadas cosas raras. Activó el cabrestante de flujo de su cinturón táctico.
+
+El impulsor de flujo eléctrico gimió bajo la carga excesiva, soltando humo azul y chispas.
+
+Lentamente, centímetro a centímetro, Leo fue arrastrado fuera del infierno acuático, luchando contra la gravedad del agujero negro, contra la fuerza de succión que quería llevarlo al centro de la tierra. Su cuerpo golpeaba el agua, rebotando como una piedra plana, hasta que salió de la superficie, chorreando y roto.
+
+Sus botas rasparon la roca basáltica. Silas lo agarró por el chaleco táctico con una mano fuerte y lo subió de un tirón brutal hasta la plataforma segura, lejos del borde resbaladizo.
+
+Leo cayó sobre la piedra fría y áspera, tosiendo agua, vomitando bilis y sangre tragada, temblando incontrolablemente en posición fetal. Estaba vivo, pero sentía que cada célula de su cuerpo había sido estirada y golpeada.
+
+Silas le miró. Miró el agua furiosa. Miró a Leo tirado en el suelo, sangrando profusamente por la nariz y con los ojos inyectados en sangre, pareciendo un demonio ahogado.
+
+—Caminar sobre el agua —dijo el veterano, su voz llena de incredulidad y un respeto nuevo y temeroso, escupiendo al remolino—. Eso es nuevo. Incluso para un portador de la Semilla. Nunca había visto una aplicación de densidad temporal así fuera de la teoría militar. Te estás matando, chico, estás friendo tus capilares cerebrales, pero tienes estilo.
+
+Se agachó y revisó las pupilas de Leo con una linterna táctica pequeña.
+
+—Dilatación asimétrica. Derrame capilar masivo. Estás forzando el impulsor de flujo biológico. Una vez más así y te dará un ictus o un derrame cerebral permanente.
+
+Leo apartó la linterna con un manotazo débil, sentándose y limpiándose la sangre de la cara con la manga mojada. Se giró y miró hacia abajo, hacia el abismo que casi lo reclama.
+
+La Vorágine rugía, indiferente a su supervivencia minúscula, tragándose millones de litros de agua por segundo en un vórtice perfecto de destrucción. Y allí, en el borde, iluminado por la bengala que moría chisporroteando, vio lo que Silas había querido enseñarle antes.
+
+Basura.
+
+Una gárgola de piedra gigante pasó girando. Era una cabeza de león art-déco, de tres metros de altura, con la mandíbula rota pero aún majestuosa. Leo sintió un chispazo de reconocimiento en su cerebro historiador. Había visto esa estatua en un libro prohibido de la biblioteca de la Academia, en el capítulo censurado sobre "La Primera Capital".
+
+—¿Ves eso? —señaló Silas, siguiendo la mirada de Leo—. Era del Banco Central. De la Primera Ciudad. Los libros dicen que fue destruido por el bombardeo de fuego estelar, pero aquí está. Cayó hace cincuenta años durante los disturbios de la Fundación. Pesa cinco toneladas y flota como una pluma hacia el infierno.
+
+Restos de edificios antiguos de hormigón y cristal. Coches oxidados de la Era del Petróleo. Contenedores de carga rotos. Todo lo que la ciudad de la superficie desechaba, todo lo que quería olvidar, todo lo que no servía al Cónclave y su utopía estéril, acababa aquí.
+
+—Bienvenido a la cloaca de la historia —dijo Silas, recogiendo su lanzador de garfios y enrollando el cable—. Todo lo que cae por las grietas de la Cúpula, acaba en la Vorágine. Es el vertedero final. La historia que nadie quiere recordar se pudre aquí abajo, lejos de los ojos de los ciudadanos felices.
+
+—¿Y nosotros? —preguntó Leo, tiritando, sus dientes castañeteando por el frío y el shock hiptérmico.
+
+—Nosotros somos la basura que se niega a bajar por el desagüe —dijo Silas con una sonrisa torcida, casi orgullosa—. Somos la obstrucción en la tubería. Un coágulo en el sistema. El camino sigue por ahí.
+
+Señaló un túnel de mantenimiento oxidado en la pared de la cueva, una boca redonda y oscura con una escotilla de metal medio podrida. En la puerta, apenas visible bajo capas de óxido y cal, había un símbolo grabado: un triángulo con un ojo estilizado y un engranaje.
+
+—Una entrada de servicio de la Fundación —dijo Leo, reconociendo el diseño industrial antiguo. Se acercó y tocó el metal húmedo. Era frío, pero bajo el óxido, sintió la textura de la aleación de hueso de plata-cobalto. Indestructible. Tecnología perdida—. No debería estar abierta. Los sellos de la Fundación son eternos.
+
+—La abrí yo hace una década con cargas de termita —dijo Silas, revisando la recámara de su rifle para asegurarse de que el agua no lo había atascado—. Los Antiguos construyeron esto para mantener el desagüe y monitorizar el nivel del agua. Ahora es nuestra puerta trasera al Inframundo real.
+
+El veterano sacó un cargador fresco, lo golpeó contra su casco para asentar las balas cinéticas y lo insertó en el arma con un *clac* satisfactorio.
+
+—Vamos —dijo Leo, levantándose con piernas de gelatina, sintiendo el peso de la gravedad normal de nuevo aplastándole los hombros—. Antes de que se me pase el efecto de la adrenalina y me dé cuenta de lo mucho que me duele todo el cuerpo.
+
+Silas asintió y disparó otro garfio hacia el interior del túnel para asegurar el paso en la oscuridad.
+
+El viaje al fondo no había hecho más que empezar. Y ahora sabían que el agua no era el único enemigo; la propia gravedad, el tiempo y la historia enterrada estaban en su contra.
+
+**[FIN DEL CAPÍTULO 26]**
+
+
+<div style="page-break-after: always;"></div>
+\newpage
+
+# CAPÍTULO 27: EL GUARDIÁN
+
+El silencio era lo peor.
+
+Después del rugido tectónico de la Vorágine y el caos biológico del Nido, el silencio del túnel de metal golpeaba los oídos de Leo como una presión física, casi dolorosa en su intensidad vacía. No era el silencio orgánico de un bosque esperando a la presa, lleno de vida microscópica y respiración vegetal. Era un silencio estéril. Muerto. Matemático.
+
+Sus botas, aún chorreando agua salobre del abismo, hacían un ruido obsceno contra el suelo de rejilla metálica que sonaba como disparos en la acústica perfecta del corredor. *Chof. Clank. Chof. Clank.*
+
+Silas iba delante, con el rifle levantado a la altura del hombro, moviéndose con una cautela que Leo no le había visto en las cuevas naturales. Allí, en la selva o el nido, el veterano se movía como un depredador seguro de su entorno. Aquí, bajo las luces artificiales, parecía un ladrón de tumbas asustado, un intruso en un templo que no comprendía.
+
+—No toques nada —susurró Silas, su voz rebotando en las paredes de aleación gris sin eco—. Y cuando digo nada, me refiero a las paredes, los paneles de control, las luces... el aire si pudieras evitar respirarlo.
+
+Leo miró a su alrededor, fascinado y aterrorizado a partes iguales. El túnel era un cilindro perfecto de tres metros de diámetro, sin costuras visibles, curvado con una precisión de ingeniería que la superficie había olvidado hacía décadas. Las paredes estaban cubiertas de paneles modulares de un material que no reflejaba la luz, un polímero mate que parecía absorber la radiación de la bengala que Silas llevaba pegada al pecho, tragándose la luz como un agujero negro liso.
+
+Lo más inquietante eran las luces. Cristales de luz de emergencia, empotradas en el techo detrás de cristales blindados, parpadeaban con un ritmo agónico de color ámbar. Encendido. Apagado. Encendido. Apagado. Llevaban encendidas cien años, alimentadas por una núcleo de flujo de ciclo cerrado que se negaba a morir, manteniendo la vigilia sobre un imperio de polvo.
+
+—Esto es tecnología de la Fundación —dijo Leo, pasando la mano cerca de un panel sin llegar a tocarlo, sintiendo la estática en los vellos de su brazo—. Aleaciones con memoria. Nervios de cristal puro. No se ha fabricado nada con este nivel de refinamiento desde antes del Colapso.
+ 
+ —Se fabricó para durar mil años —gruñó Silas, apuntando a una sombra que resultó ser nada—. Y para mantener fuera a gente como nosotros. Gente sucia. Había rumores, ¿sabes? Mi padre decía que los Antiguos no murieron. Que simplemente cerraron la puerta y nos dejaron pudrirnos arriba mientras ellos vivían en el paraíso de abajo. Decían que a veces, en las cristales de eco, se oían voces. Música. "ecos de resonancia".
+
+—Mitos —dijo Leo—. Nadie puede sobrevivir cien años bajo tierra sin recursos. La termodinámica no perdona.
+
+—Ya veremos —dijo Silas—. Los mitos suelen tener dientes aquí abajo.
+
+Avanzaron cien metros más. El aire empezó a cambiar sutilmente. Ya no olía a sulfuro volcánico y humedad de cueva. Olía a aire estancado y filtrado, a polvo seco de hueso y a algo más... algo dulce y químico.
+
+—¿Hueles eso? —preguntó Leo, arrugando la nariz.
+
+Silas se detuvo en seco, bajando el cañón de su arma ligeramente.
+
+—Conservante —dijo, su voz tensa—. Formaldehído industrial. Estamos en la morgue.
+
+Dieron la vuelta a una curva suave del túnel y se encontraron con los muertos.
+
+No era una pila de cadáveres de guerra, desordenada y violenta. Era una fila ordenada, burocrática.
+
+Doce esqueletos, sentados contra la pared curva del túnel, con las piernas estiradas, como si estuvieran esperando el autobús o el cambio de turno. Llevaban batas blancas sintéticas que no se habían podrido en un siglo, brillando inmaculadas bajo el polvo gris. En sus cuellos, colgadas de cordones azules, descansaban tarjetas de identificación de plástico amarillo que aún reflejaban la luz ámbar de emergencia.
+
+Leo se acercó a uno de ellos. El cráneo descansaba sobre las rodillas, limpio, blanco, pulido por el aire seco.
+
+—No hay signos de violencia externa —dijo Leo, analizando la escena con su ojo clínico, buscando agujeros de bala o fracturas—. No hay disparos. No hay cortes en la ropa. Los huesos están intactos. No murieron luchando.
+
+Se agachó y cogió un tablilla de cristal de memoria que estaba en el suelo, junto a la mano huesuda del esqueleto. La vitrina estaba rota, pero la carcasa de hueso de plata estaba intacta.
+
+—Se sentaron y esperaron —dijo Silas, mirando hacia el final del túnel, hacia la oscuridad—. Protocolo de Contención Omega.
+
+—¿Qué significa eso? —preguntó Leo, dejando el dispositivo con respeto.
+
+—Significa que cuando el Cónclave, los abuelos de los que ahora viven en la Cúpula, decidieron cerrar las puertas para "proteger" la civilización, no solo cerraron las de arriba. Sellaron los niveles inferiores herméticamente. Cortaron los plataformas de elevaciÃ³n. Cortaron las vÃ­nculos de resonancia con la superficie. Y luego... cortaron los sistemas de sustento biolÃ³gico.
+
+Leo miró al esqueleto. Imaginó los últimos momentos en este túnel. La luz roja de alarma parpadeando. El aire volviéndose pesado y caliente. La comprensión lenta y horrible de que sus jefes, sus líderes, los habían dejado aquí abajo para asfixiarse lentamente y proteger el secreto de lo que sea que estuvieran investigando.
+
+—Se sacrificaron —dijo Leo, sintiendo una punzada de tristeza histórica.
+
+—Fueron sacrificados —corrigió Silas con dureza—. Hay una gran diferencia, chico. El sacrificio es una elección. Esto fue una purga sistemática. Una limpieza de cabos sueltos. Vamos. Si ellos, con sus códigos de acceso y sus batas blancas, no pudieron pasar de aquí, significa que lo que hay delante bloqueando la salida es peor que la asfixia lenta.
+
+Siguieron avanzando sobre la alfombra fina de polvo de huesos, dejando huellas de barro en el suelo inmaculado de la historia.
+
+El túnel terminaba en una sala grande, una antecámara de seguridad circular con paredes reforzadas de metro y medio de grosor. Y en el centro, bloqueando el camino hacia una puerta blindada masiva de hueso de plata de cinco metros de altura, estaba la razón por la que nadie había salido vivo de aquí.
+
+El Centurión.
+
+Leo había visto dibujos esquemáticos en los libros de historia militar prohibida. Pero ver uno real, físico, incluso apagado, era diferente. Era la diferencia entre ver el dibujo de un tigre y tener uno respirando en tu cara.
+
+Era un autómata bípedo de combate de tres metros de altura. Su chasis era anguloso, geométrico, diseñado para desviar proyectiles cinéticos y dispersar rayos de luz sólida. Estaba pintado de negro mate, sin insignias, una sombra sólida. Tenía dos brazos manipuladores con cañones de espinas de tres tubos integrados en los antebrazos y una cabeza plana, sin rostro humano, solo una visera de sensores oscura y horizontal que recorría todo el ancho del casco.
+ 
+ Estaba arrodillado en "modo de espera", con una rodilla en el suelo, cubierto de una capa fina de polvo gris acumulado durante décadas. Parecía una estatua de un dios de la guerra olvidado esperando una ofrenda de sangre.
+
+—Mierda —susurró Silas, deteniéndose a diez metros—. Un Modelo 7. Defensa de Perímetro. Pensé que los habían desmantelado todos después de los disturbios de la Fundación. Son ilegales.
+
+—Está apagado —dijo Leo, aunque su voz tembló. No se atrevió a acercarse más.
+ 
+ —Esas cosas tienen núcleos de flujo estable en el pecho —dijo Silas, retrocediendo paso a paso hacia la sombra del túnel—. Pueden estar apagados cien años y encenderse en tres milisegundos si detectan una firma no autorizada, movimiento sísmico o resonancia cambiante.
+
+—La Esfera —dijo Leo, dándose cuenta del peligro inminente con horror helado.
+
+Su mochila. La energía que emitía.
+
+—Exacto. Para esa máquina y sus protocolos paranoicos, tú eres una anomalía radiactiva caminando. Una amenaza de nivel Omega que debe ser neutralizada con fuerza letal extrema.
+
+—¿Qué hacemos? —preguntó Leo, buscando cobertura con la mirada. No había ninguna. La sala era diáfana, diseñada como una zona de aniquilación.
+
+—Media vuelta —dijo Silas, decidido, el sudor brillando en su frente—. Buscamos otro camino. Volvemos al tubo de lava y escalamos si hace falta. No tengo potencia de fuego para rayar la pintura de esa cosa, mucho menos para penetrar el blindaje reactivo.
+
+Leo miró la puerta detrás de la máquina. Era enorme. Sellada herméticamente con pernos de expansión. Y en el centro tenía el mismo símbolo del ojo y el triángulo grabado en el cristal.
+
+—Es la única salida, Silas. Detrás de nosotros está la Vorágine. No podemos volver a subir por el tubo de lava, es imposible escalar cristal volcánico mojado. Y no tenemos comida.
+
+Silas maldijo en tres idiomas diferentes, las palabras resonando en el silencio. Miró su rifle inútil. Miró al autómata dormido. Miró a Leo.
+
+—Bien. Escucha con atención. Los sensores primarios, ópticos y térmicos, están en la visera. Si nos movemos muy despacio, pegados a la pared perimetral, fuera de su cono de visión directo, y tú envuelves esa maldita esfera en todo lo que tengas... tal vez, tal vez, su lógica de sueño lo ignore como ruido de fondo ambiental o degradación de sensores.
+
+—¿Tal vez?
+
+—Es eso o sentarnos aquí a morir de hambre y hacerle compañía a los doctores de ahí atrás —dijo Silas, ajustando su correa—. Tú eliges.
+
+Se pegaron a la pared derecha. Silas primero, deslizándose como una sombra. Leo detrás, respirando superficialmente, con la mochila apretada contra su pecho, tratando de contener el latido de la Esfera con su propio cuerpo, rezando a dioses en los que no creía.
+
+Paso a paso. Centímetro a centímetro.
+
+El Centurión no se movió. Su reactor emitía un zumbido casi imperceptible, en el límite de la audición humana, una vibración en el suelo que Leo sentía en las suelas de sus botas.
+
+Estaban a cinco metros. A tres. El olor a aceite lubricante y ozono era fuerte cerca de la máquina.
+
+Silas pasó el punto crítico. Se pegó a la puerta blindada, al otro lado de la máquina, buscando el panel de control manual.
+
+Leo dio un paso para seguirlo. Su bota crujió sobre un trozo de cristal de un tubo de luz caído hace décadas.
+
+*Cric.*
+
+El sonido fue minúsculo. El crujido de una galleta. Pero en la sala acústica perfecta, diseñada para amplificar el pánico, fue un trueno.
+
+El Centurión no se levantó lentamente como en las películas.
+
+Sus sensores se encendieron.
+
+Una luz roja, horizontal y sólida, barrió la sala desde la visera negra. Un láser de escaneo LIDAR de alta velocidad.
+
+Pasó sobre Silas, que se quedó congelado. Nada. Lo clasificó como mobiliario.
+
+Pasó sobre Leo. Y se detuvo.
+
+Se detuvo sobre su pecho. Sobre la mochila. Sobre la Esfera.
+
+*BEEP. AMENAZA DETECTADA. NIVEL OMEGA. PROTOCOLO DE EXTERMINIO.*
+
+El sonido agudo y vibrante, definitivo. La voz de un dios metálico sentenciando a muerte.
+
+—¡AL SUELO! —gritó Silas, lanzándose hacia un lado.
+
+El autómata se levantó. No hubo inercia visible. Sus tensiones de flujo silbaron con la energía de mil atmósferas y se puso de pie en un movimiento fluido, inhumano, terrorífico por su velocidad. Sus cañones de espinas empezaron a cargarse antes de que estuviera totalmente erguido.
+ 
+ *BRRRRRRRRRRT.*
+ 
+ El aire se llenó de proyectiles de quitina blanca. El sonido fue como el desgarro del cielo. Leo se lanzó al suelo, rodando hacia una caja de suministros vacía. Los proyectiles de alto calibre destrozaron el suelo de hormigón donde había estado su cabeza un segundo antes, levantando una nube de esquirlas de hueso y polvo de cemento que cegó la sala.
+
+—¡No le dispares! —gritó Leo desde su cobertura precaria—. ¡El blindaje desviará las balas! ¡Rebotará y nos matará!
+
+Silas disparó de todos modos por instinto de supervivencia. Una bala de su rifle golpeó la "cara" del autómata. Una chispa amarilla. Nada más. Ni un rasguño.
+
+El Centurión giró su torso blindado hacia la posición de Silas con un zumbido mecánico. Calculó la trayectoria. Iba a matarlo.
+
+Leo miró la Esfera a través de la tela rota de su mochila. Miró al autómata.
+
+Era una máquina. Metal. Cables. Batería. Fluidos hidráulicos.
+
+Era *tiempo* congelado y ordenado en forma de tecnología. Todo sistema tiende al caos. Toda máquina se oxida. La entropía es inevitable. Solo es cuestión de cuánto tiempo tarda.
+
+—Oxidar —pensó Leo, su mente corriendo a mil años por hora, visualizando la estructura atómica del metal.
+
+No, oxidar era lento. El óxido tardaba años. Necesitaba algo más rápido. Algo geológico.
+
+*Envejecer. Morir. Polvo. Ahora.*
+
+Leo salió de su cobertura. Se puso de pie frente al autómata, expuesto.
+
+—¡Mírame! —gritó, su voz rompiéndose—. ¡Aquí, chatarra!
+
+El Centurión giró sus sensores hacia él en un milisegundo. Reevaluación de amenaza. Prioridad: Alta.
+
+Leo corrió hacia el autómata. Un suicidio táctico.
+
+—¡LEO, NO! —gritó Silas, recargando inútilmente.
+
+El autómata levantó su brazo derecho. El cañón rotatorio apuntó al pecho de Leo. Los impulsores de flujo de giro zumbaron al alcanzar velocidad letal.
+
+Leo no se detuvo. Saltó.
+
+Su mano izquierda, la humana, agarró la placa pectoral fría del autómata para sostenerse.
+
+Y con la derecha, liberó la Esfera, la sacó de la mochila y la estampó contra el metal negro del chasis.
+
+No pidió lentitud. No pidió viscosidad. Pidió *aceleración entrópica absoluta*.
+
+Pidió mil años en un segundo. Pidió el fin de la era del metal. Sintió la energía salir de él como un río de fuego, quemando sus propias venas.
+
+El pulso violeta, oscuro y sucio, envolvió al autómata en un capullo de luz distorsionada.
+
+El sonido fue horrible. No fue una explosión convencional. Fue un chirrido agónico. El sonido del metal gritando a nivel molecular mientras sus enlaces atómicos se rompían, forzados a vivir milenios en un microsegundo.
+
+La pintura negra super-resistente se descascarilló y cayó como ceniza de cigarrillo, revelando el metal desnudo.
+
+El acero brillante debajo se volvió gris, luego marrón, luego rojo oscuro en un parpadeo.
+
+El óxido floreció sobre la máquina como un cáncer a cámara rápida, devorando el blindaje, comiéndose los pistones, convirtiendo la ingeniería de precisión en basura arqueológica.
+
+Las tensiones de flujo se secaron, sus sellos orgánicos convirtiéndose en polvo, los fluidos evaporándose. Los nervios internos de cristal se degradaron a arena verde. El núcleo de flujo estable se agotó, su vida media de milenios consumida en un destello de calor resonante que quemó la mano de Leo.
+
+El autómata, que estaba a punto de disparar la bala que mataría a Leo, se congeló. Su brazo derecho cayó, desprendiéndose del hombro podrido por el óxido con un sonido sordo y pesado, rompiéndose en el suelo como una maceta de barro seco. *CLUNK*.
+
+Las piernas cedieron. El metal estructural, convertido en polvo de óxido y fatiga de materiales extrema, no pudo aguantar el peso del reactor inerte.
+
+El Centurión se derrumbó sobre sí mismo, colapsando en una pila de chatarra roja, polvo y piezas sueltas en cuestión de tres segundos.
+
+Leo cayó al suelo, empujado por la onda de calor entrópico.
+
+Sangre salió a chorros de su nariz y de sus oídos, manchando su camisa. Su visión se volvió blanca. El dolor en su cabeza fue tan intenso, una migraña que parecía partirle el cráneo en dos, que ni siquiera pudo gritar. Sintió que algo se rompía dentro de su oído interno. El zumbido de mil avispas.
+
+Sintió las manos de Silas sobre él, sacudiéndolo, gritando algo que sonaba como si estuviera bajo el agua o muy lejos.
+
+—¡Leo! ¡Leo! ¡Respira, joder!
+
+Leo parpadeó, tratando de enfocar, el mundo girando vertiginosamente. Vio la pila de polvo rojo humeante que un momento antes había sido una máquina de matar perfecta e indestructible.
+
+Y detrás, vio la puerta blindada.
+
+Los cerrojos de la puerta, afectados por el área de efecto masiva de la Esfera, también habían envejecido. Habían caído, convertidos en escoria de hierro. La puerta, sin soporte y con sus goznes podridos por el tiempo acelerado, se estaba abriendo lentamente por su propio peso, chirriando horriblemente.
+
+Y al otro lado...
+
+Al otro lado no había un laboratorio oscuro y estéril. No había más túneles claustrofóbicos.
+
+Había luz.
+
+Luz de flujo, brillante, constante, de pilares de luz. Calles pavimentadas. Edificios de arquitectura imposible, rascacielos invertidos, intactos bajo un techo de roca gigantesco que brillaba con simulación de día. Un cielo artificial de flujo azulado que iluminaba una metrópolis secreta.
+
+Una ciudad entera. Enterrada y viva. Mantenida en un estado de perfección atemporal.
+
+Silas miró por encima del homero de Leo, sus ojos abiertos como platos, reflejando la luz prohibida, y susurró una palabra que sonó a una oración olvidada de miedo y reverencia.
+
+—Apectus... La Ciudad Hueca. Mi padre tenía razón. No murieron. Se escondieron.
+
+Leo perdió el conocimiento, cayendo en la oscuridad absoluta mientras la luz de la ciudad prohibida le bañaba la cara ensangrentada.
+
+**[FIN DEL CAPÍTULO 27]**
+
+
+<div style="page-break-after: always;"></div>
+\newpage
+
+# CAPÍTULO 28: LA VERDAD
+
+La luz no dolía. Eso fue lo primero que notó Leo cuando su consciencia emergió del pozo negro del coma, lenta y dolorosamente como un buzo subiendo sin descompresión.
+
+No era la luz roja y abrasadora de las bengalas de magnesio que quemaban la retina, ni el resplandor bioluminiscente y enfermizo de las medusas del Nido, ni siquiera la luz gris y sucia filtrada por la capa de smog de la Cúpula que había conocido toda su vida. Era una luz dorada. Cálida. Perfecta. Una luz de tarde de domingo diseñada por un algoritmo para ser reconfortante y eliminar la ansiedad.
+
+Leo abrió los ojos, esperando el dolor habitual.
+
+Esperaba ver roca volcánica negra sobre su cabeza. Esperaba ver humedad goteando, oscuridad opresiva, el techo de un túnel de servicio aplastándole. Esperaba el olor a óxido, sudor rancio y sangre coagulada.
+
+Vio un techo blanco, impoluto, decorado con molduras de escayola minimalista que formaban patrones fractales. Vio una lámpara de diseño flotante colgando de un cable invisible. Sintió sábanas de algodón de mil hilos bajo sus dedos, suaves, frescas y limpias, oliendo a lavanda sintética y a un suavizante industrial que no se fabricaba desde antes de la guerra.
+
+Se sentó de golpe en la cama, el pánico disparándose en su pecho como un resorte, su corazón bombeando adrenalina a un cuerpo que no la necesitaba.
+
+—Tranquilo —dijo una voz grave desde la esquina de la habitación, rompiendo la calma—. No estás muerto. Aunque has estado jodidamente cerca. Te sangraron los oídos durante dos horas y temblabas como un perro con fiebre.
+
+Silas estaba sentado en un sillón de cuero negro de diseño que parecía costar más que la vida entera de Leo. Tenía las botas de combate, sucias de barro volcánico y ceniza del Nido, apoyadas con descaro sobre una mesa de centro de cristal y cromo, dejando manchas oscuras sobre la superficie perfecta. En una mano tenía su rifle cinético, limpio y recién aceitado. En la otra, un vaso de cristal tallado con un líquido ámbar que giraba lentamente.
+
+—¿Dónde...? —la voz de Leo era un rasguido seco, como papel de lija. Le dolía la garganta. Le dolía la cabeza, pero era un dolor sordo, residual, un eco de la migraña brutal que le había derribado, no la aguja clavada que había sentido antes.
+
+—Apartamento 402 —dijo Silas, señalando la habitación con el vaso, haciendo tintinear el hielo—. Torre Residencial Beta. Bienvenido a Apectus, chico. La suite presidencial estaba ocupada por polvo, así que pillé esta que tenía mejores vistas y el minibar lleno.
+
+Leo se levantó, apartando las sábanas de lujo. Sus piernas temblaban, pero le sostenían. Llevaba puestas sus propias ropas, sus pantalones tácticos y su camisa, secas pero rígidas por la sal y el sudor seco. Alguien —Silas— lo había limpiado un poco con toallas húmedas, pero aún se sentía sucio en este entorno estéril.
+
+Caminó hacia el baño adyacente. Necesitaba agua.
+
+El baño era de mármol negro. Un espejo de memoria ocupaba toda la pared. Cuando Leo se puso delante, la superficie se iluminó con datos biométricos en rojo: *USUARIO NO RECONOCIDO. ID FALTANTE. POR FAVOR, CONTACTE CON SOPORTE TÉCNICO.*
+
+Leo abrió el grifo cromado. El agua salió. Cristalina. Pero no estaba fría. Estaba tibia. Y olía... raro. Olía a agua que ha estado circulando en un sistema cerrado durante cien años. Agua muerta. Se echó un poco en la cara para despertarse. El espejo de memoria parpadeó: *nivel de fatiga CRÍTICO. ¿DESEA ACTIVAR MÚSICA AMBIENTAL?*
+
+—No —susurró Leo, retrocediendo.
+
+Salió a la habitación principal. Había fotos en las estanterías. Marcos cristalinos. Leo cogió uno. Mostraba a una familia feliz. Un padre, una madre, dos niños rubios. Pero algo fallaba. Las sonrisas eran demasiado perfectas. Los ojos estaban vacíos.
+
+—Son fotos de stock —dijo Silas sin levantarse—. Venían con el marco. Nadie vivió aquí nunca.
+
+Leo caminó descalzo sobre una alfombra de pelo largo hacia el ventanal que ocupaba toda la pared opuesta.
+
+Y se le cortó la respiración.
+
+No era una ventana al exterior. No podía serlo. Estaban a kilómetros bajo la superficie, bajo la corteza terrestre.
+
+Pero lo que sus ojos veían decía lo contrario.
+
+Una ciudad se extendía ante él. No una ruina. No un asentamiento precario hecho de chatarra como los pueblos de la Zona 1 o los mercados de huesos. Una metrópolis. Rascacielos de cristal y acero blanco se elevaban con elegancia imposible hacia un cielo que no existía en ningún mapa geológico. Torres espirales conectadas por puentes peatonales transparentes flotaban sobre avenidas anchas. Parques verdes con árboles que parecían reales desde esta altura salpicaban el gris del pavimento.
+
+Y arriba...
+
+Arriba, el techo de la inmensa caverna estaba cubierto por millones de vitrinas de luz de alta definición que simulaban un cielo azul perfecto con nubes estáticas, blancas y esponjosas. Un sol artificial brillaba en el centro del domo, una esfera de fusión contenida, bañando la ciudad en esa luz eterna de atardecer dorado.
+
+—Es... es imposible —susurró Leo, poniendo la mano en el cristal frío de la ventana, dejando una huella de grasa—. La energía de flujo estable necesaria para mantener esto... debería haberse agotado hace décadas.
+
+—Es la Fundación —dijo Silas, levantándose del sillón y acercándose a la ventana—. Energía ilimitada. Recursos infinitos. Construyeron un arca de Noé para la élite, para los "elegidos", mientras el mundo se quemaba arriba en la guerra y la plaga.
+
+Leo miró hacia abajo, a las calles, buscando vida. Estaban limpias. Pavimento blanco inmaculado. Vehículos en suspensión de flujo aparcados en filas ordenadas en las esquinas. Terrazas de cafeterías con las sillas puestas y las mesas preparadas con vajilla de porcelana.
+
+Pero algo estaba terriblemente mal.
+
+—No hay nadie —dijo Leo, un escalofrío recorriendo su espalda a pesar de la climatización perfecta.
+
+La ciudad estaba vacía. Totalmente vacía. No había movimiento. No había pájaros volando. No había tráfico aéreo. No había gente caminando. Era una maqueta a escala real, congelada en el tiempo. Un escenario esperando actores que nunca salieron a escena.
+
+—Exacto —dijo Silas, bebiendo un trago largo de su whisky—. Llevo seis horas despierto explorando el edificio mientras dormías la mona. No hay cadáveres. No hay señales de lucha. La cama donde estabas estaba hecha. La nevera de esta casa estaba llena de comida sintética en envases al vacío, caducada hace ochenta años, pero intacta. Los armarios están llenos de ropa de marca.
+
+—¿Desaparecieron? —preguntó Leo, girándose hacia el veterano.
+
+—O se fueron —dijo Silas, encogiéndose de hombros—. O nunca llegaron a mudarse. Tal vez prepararon la fiesta y nadie vino. O tal vez vinieron y... ascendieron.
+
+Leo se tocó la nariz. Ya no sangraba. Miró hacia la mesa. Su mochila estaba allí. La Esfera estaba dentro, quieta. Dormida.
+
+—Tenemos que ir al centro —dijo Leo, sintiendo una urgencia repentina, una atracción magnética—. Al edificio más alto. Esa pirámide negra de allí. Si hay respuestas, están allí. Y necesito saber qué es esto. Qué es *realmente* la Esfera y por qué abre estas puertas.
+
+Silas dejó el vaso vacío en la mesa con un tintineo suave y definitivo.
+
+—Te sigo, jefe. Pero tómate esto primero.
+
+Le lanzó una barrita envuelta en papel plateado con letras militares.
+
+—¿Qué es?
+
+—Raciones de emergencia de la Fundación. Las encontré en la despensa. Saben a tiza y vitaminas concentradas, pero te darán energía para caminar sin desmayarte. Y créeme, vamos a caminar mucho hoy. La ciudad es grande.
+
+Leo abrió el envoltorio. La barra era gris y dura. Le dio un mordisco. Sabía a polvo y limón químico, pero su estómago rugió de agradecimiento.
+
+Salieron a la calle.
+
+Caminar por Apectus era una experiencia onírica, casi religiosa. El aire estaba climatizado a 21 grados constantes, sin humedad, sin olores. No había viento. El sonido de sus pasos resonaba en las avenidas vacías amplificándose en el silencio sepulcral.
+
+Pasaron por una plaza comercial. De repente, un holograma se activó a su paso. Una mujer sonriente de tres metros de altura, vestida con ropa de plata.
+
+—*Bienvenido a Apectus. Tu futuro empieza... empieza... empieza... hosssyyyy...*
+
+La imagen parpadeó, se distorsionó, convirtiendo la sonrisa de la mujer en una mueca de horror resonante, y luego se apagó con un zumbido eléctrico.
+
+Más adelante, vieron un autómata de limpieza. Un disco flotante blanco. Estaba congelado en el aire, a medio metro del suelo, atrapado en un bucle de error, chocando suavemente contra una farola una y otra vez. *Clink. Clink. Clink.*
+
+—Los sistemas están fallando —dijo Leo—. La entropía siempre gana. Incluso aquí.
+
+Pasaron por escaparates de tiendas de lujo que vendían ropa que nadie compró, joyas de diamantes sintéticos que nadie usó. Leo vio un quiosco de crónicas de cristal en una esquina. La vitrina de luz sólida estaba congelada, mostrando la misma fecha de hace 90 años. El titular parpadeaba débilmente: "LA FASE FINAL COMIENZA HOY: EL PROYECTO GÉNESIS ENTRA EN LÍNEA".
+
+—La Fase Final —leyó Leo en voz alta—. ¿Se referían a la Cúpula?
+
+—O a algo peor —dijo Silas, mirando las sombras de los callejones inmaculados con desconfianza de soldado—. Cuando los poderosos hablan de "Fases Finales", normalmente significa que mucha gente va a morir para que ellos vivan.
+
+Un tranvía silencioso pasó flotando por el centro de la avenida sobre raíles magnéticos. Estaba vacío. Se detuvo en la parada frente a ellos, abrió las puertas con un siseo suave, esperó treinta segundos, y volvió a cerrarlas para seguir su ruta fantasma hacia ninguna parte.
+
+—El sistema sigue funcionando —dijo Leo—. Automatización total.
+
+—Es una tumba mantenida por autómatas —escupió Silas—. Autómatas que limpian el polvo para unos fantasmas que no ensucian.
+
+Llegaron a la plaza central después de una hora de caminata. Un edificio dominaba el paisaje, rompiendo la estética blanca y cristalina de la ciudad residencial.
+
+No era un rascacielos. Era una pirámide negra, masiva, lisa, sin ventanas, hecha de un material que absorbía la luz del sol artificial. El "Nexus". El cerebro de la ciudad.
+
+La puerta principal, un arco de tres metros de altura, estaba abierta.
+
+—Alguien entró aquí antes —dijo Silas, deteniéndose y señalando el suelo de mármol blanco de la entrada—. Mira. Huellas. Polvo removido.
+
+—¿Recientes? —preguntó Leo, agachándose.
+
+—No. De hace años. El polvo se ha vuelto a asentar encima, pero se nota el patrón. Botas militares pesadas. Y algo más... marcas de arrastre.
+
+Leo sintió un escalofrío. ¿Alguien fue arrastrado dentro? ¿O fuera?
+
+—Vamos a averiguarlo.
+
+Entraron. El interior de la pirámide era una sala de servidores gigantesca, una catedral de datos. Columnas de luz azul se elevaban hacia la oscuridad del techo interior, parpadeando con el flujo de petabytes de información. El zumbido de los procesadores cristalinos y los ventiladores de refrigeración era el único sonido, un *om* constante y sagrado que vibraba en el pecho.
+
+En el centro de la sala, sobre una plataforma elevada, había una consola terminal de cristal.
+
+Leo subió los escalones de cristal. Sacó la tablilla de cristal rota que había cogido del esqueleto en el túnel de servicio.
+
+—¿Crees que funcionará? —preguntó Silas, cubriendo la entrada con su rifle, incómodo en este templo tecnológico.
+
+Leo conectó el dispositivo a un puerto universal en la consola.
+
+—La tecnología es la misma. Los protocolos de cifrado de la Fundación no han cambiado en un siglo. Códigos de acceso Omega.
+
+Sus dedos volaron sobre el teclado holográfico que apareció en el aire. Leo tuvo que usar sus conocimientos de arqueología de datos para saltarse el firewall corrupto.
+
+La vitrina gigante de la consola parpadeó. Un sello apareció girando: El Ojo y el Triángulo dorado. Y luego, un mensaje de error en rojo: "SISTEMA CORRUPTO. ARCHIVOS DAÑADOS. ACCEDIENDO AL ÚLTIMO REGISTRO DE MANDO."
+
+Una luz holográfica se proyectó en el aire frente a ellos, formando una figura tridimensional de tamaño natural.
+
+Apareció un hombre. Llevaba una bata de laboratorio blanca con el logo de la Fundación, pero estaba manchada de sangre seca y quemaduras químicas. Tenía los ojos desorbitados, cansados, con ojeras profundas de alguien que no ha dormido en semanas. Detrás de él, en el holograma, se veía el caos: gente corriendo, luces de alarma girando, humo.
+
+—*Aquí el Director Vance. Registro final del Proyecto Génesis. Fecha: Día cero.*
+
+La voz del hombre era temblorosa, grabada para una posteridad que nunca llegó.
+
+—*Fallamos. Dios nos perdone, fallamos. Pensamos que podíamos controlarlo. Pensamos que la Cúpula era para protegernos de la atmósfera tóxica... qué arrogantes fuimos. Qué estúpidos.*
+
+El Director se pasó una mano temblorosa por el pelo, manchándose la frente de sangre.
+
+—*Encontramos las Semillas en el estrato profundo, bajo la corteza. Las esferas. Pensamos que eran fuentes de energía infinita dejadas por una civilización anterior. ¿Entropía inversa? ¿Energía limpia para siempre? Era el sueño de la humanidad. El regalo de Prometeo.*
+
+Leo miró su mochila, que descansaba en el suelo. La Esfera empezó a vibrar suavemente, resonando con la voz.
+
+—*Las usamos para alimentar la ciudad. Para alimentar los generadores de atmósfera. Para alimentar los escudos. Construimos Apectus sobre ellas. Pero no eran baterías. Dios, no eran baterías.*
+
+El hombre del holograma se acercó a la cámara virtual, sus ojos llenos de terror puro, mirando a través del tiempo a Leo y Silas.
+
+—*Eran huevos.*
+
+Silas soltó una maldición baja. Leo se quedó helado, su sangre deteniéndose.
+
+—*Son incubadoras biológicas de clase titán. Reaccionan a la consciencia psíquica. Se alimentan de nuestra ambición, de nuestro deseo de orden y control. Al usarlas para dar energía, las despertamos. Aceleramos su ciclo de gestación. Y ellas... ellas llamaron a sus padres.*
+
+Una explosión sacudió la grabación. La cámara tembló violentamente. Se oyeron gritos inhumanos de fondo, rugidos que no sonaban a metal, sino a carne gigante rompiéndose.
+
+—*Los Primordiales... no son invasores alienígenas. No vinieron del espacio. Estaban aquí. Dormidos. Son el sistema inmunológico del planeta. Despertaron para limpiar la infección que estaba parasitando sus huevos. Y la infección somos nosotros. Estamos sellando la ciudad. Vamos a purgar el equipo científico en los túneles para evitar que el conocimiento salga y alguien más cometa el mismo error. Si alguien encuentra esto en el futuro... no uséis las Semillas. Dejadlas dormir. Por favor, dejadlas...*
+
+La grabación se cortó con estática y nieve cristalina.
+
+La luz holográfica se apagó, devolviéndoles a la penumbra azul y fría de la sala de servidores.
+
+Silas y Leo se quedaron en silencio absoluto durante un minuto entero.
+
+—Huevos —dijo Silas finalmente, su voz sonando hueca. Miró la mochila de Leo como si contuviera una bomba atómica activada—. Has estado cargando un maldito huevo de dios en tu espalda todo este tiempo. Un huevo de Primordial.
+
+Leo se quitó la mochila lentamente. Abrió la cremallera con manos que no sentía. La Esfera brillaba. Ya no le parecía una herramienta geométrica perfecta. Le parecía... orgánica. Pulsante. Esperando.
+
+—Por eso reacciona a mí —dijo Leo, entendiendo de golpe todas sus migrañas, todas las visiones—. Por eso aprende. No es una máquina. Está... viva. Se está gestando. Se está alimentando de mi Flujo para crecer. Soy su nodriza.
+
+—Tenemos que destruirla —dijo Silas, levantando su rifle y apuntando a la mochila—. Ahora mismo. Antes de que esa cosa rompa el cascarón y salga lo que sea que hay dentro.
+
+—No —dijo Leo, poniéndose delante de la mochila para protegerla—. Si la destruimos, liberamos la energía de golpe. Es entropía concentrada. Volaríamos la ciudad y probablemente la mitad del continente. Recuerda lo que hizo con el autómata. Eso fue solo un parpadeo de su poder. Si la rompes, borras el mapa.
+
+—Entonces, ¿qué hacemos? —gritó Silas, perdiendo la calma por primera vez—. ¿Esperar a que nazca y nos coma? ¿Llevársela a Garrido para que la use de pisapapeles?
+
+Antes de que Leo pudiera responder, una alarma estridente sonó en la consola, rompiendo el silencio de la tumba. Una luz roja empezó a parpadear en el mapa tridimensional de la ciudad proyectado en la mesa de luz.
+
+*ANOMALÍA DETECTADA. SECTOR 4. TORRE NORTE. SEÑAL ACTIVA.*
+
+—¿Qué es eso? —preguntó Silas, girándose hacia el mapa.
+
+Leo miró los datos. Una luz pulsaba en la Torre Norte, el edificio más alto del distrito residencial.
+
+—Otra señal —dijo Leo, sintiendo la resonancia en sus dientes, un zumbido familiar—. Hay otra Esfera en la ciudad.
+
+—Imposible. El Director dijo que las sellaron. Que esto es una tumba.
+
+—No —dijo Leo, mirando los flujos de energía que corrían por la vitrina de luz—. Dice "Señal Activa". "Usuario Conectado". Alguien la está usando. Ahora mismo. Alguien más ha sobrevivido a la purga. O alguien más ha entrado.
+
+Silas cargó su arma con un movimiento seco.
+
+—¿Quién más está aquí abajo, Leo?
+
+Leo miró hacia la Torre Norte a través de las paredes transparentes de la pirámide. Vio, a kilómetros de distancia, una luz encenderse en el ático de la torre más lejana. Una luz violeta, idéntica a la suya, que cortaba el cielo artificial.
+
+—No lo sé —dijo Leo—. Pero no somos los únicos fantasmas en Apectus.
+
+**[FIN DEL CAPÍTULO 28]**
+
+
+<div style="page-break-after: always;"></div>
+\newpage
+
+# CAPÍTULO 29: LA TORRE
+
+La tranquilidad artificial de Apectus se rompió no con un grito, ni con una sirena, sino con un cambio de luz visceral que alteró la realidad misma.
+
+Al salir de la pirámide negra del Nexus, Leo tuvo que cubrirse los ojos instintivamente con el antebrazo. El cielo artificial, ese domo perfecto de flujo que simulaba un atardecer eterno de domingo, había cambiado. Las nubes blancas se habían teñido de un color violáceo, como hematomas extendiéndose bajo la piel del cielo. El sol artificial en el centro del techo de la caverna parpadeaba con una frecuencia intermitente arrítmica que daba náuseas solo con mirarla, desorientando el sistema vestibular.
+
+—Saben que estamos aquí —dijo Silas, levantando su rifle inmediatamente y barriendo el perímetro de la plaza con la mira óptica—. El sistema ha pasado a alerta roja. O lo que sea que usen estos fantasmas para decir "maten a los intrusos".
+
+—No es el sistema —dijo Leo, mirando su mochila y sintiendo el calor a través de la tela. La Esfera vibraba contra su zona lumbar, un latido caliente y urgente que se sincronizaba con el parpadeo del cielo—. Es el Otro. El usuario de la Torre Norte. Está manipulando el entorno. Está cambiando el "clima" de la ciudad para guiarnos... o para cazarnos.
+
+La plaza central, antes una extensión inmaculada de mármol blanco y fuentes silenciosas de agua cristalina, ahora parecía un tablero de ajedrez hostil bajo la luz púrpura. Las sombras se alargaban y se contraían con cada parpadeo del sol falso, creando la ilusión de movimiento en cada esquina, haciendo que las estatuas parecieran girar la cabeza.
+
+—Tenemos que cruzar —dijo Leo, señalando la avenida principal que llevaba directa a la Torre Norte, un rascacielos monolítico de cristal y acero que se alzaba como una aguja negra a dos kilómetros de distancia—. La señal viene del ático. Es fuerte.
+
+—Dos kilómetros de terreno abierto —masculló Silas, escupiendo al suelo—. En una ciudad controlada por una IA hostil hackeada por un desconocido. Suena a plan suicida. Me encanta.
+
+Dieron el primer paso fuera de la seguridad de la sombra de la pirámide.
+
+Inmediatamente, la ciudad reaccionó.
+
+No salieron autómatas de combate del suelo. No hubo sirenas de ataque aéreo. Fue algo más sutil y aterrador.
+
+El sonido de *zumbido*.
+
+Un sonido como de un millón de abejas mecánicas despertando a la vez.
+
+Leo miró hacia arriba. Los autómatas de limpieza. Esos discos blancos inofensivos de medio metro de diámetro que habían visto flotando perezosamente, limpiando el polvo inexistente de las farolas y las cornisas. Ahora, todos ellos se habían detenido en sus tareas rutinarias. Cientos de ellos. Miles. Formando nubes blancas contra los edificios oscuros, oscureciendo el falso cielo.
+
+Y todos, al unísono, giraron sus sensores ópticos rojos hacia Leo y Silas.
+
+—Al suelo —dijo Silas, con la calma helada de quien ha visto el fin del mundo.
+
+Los autómatas se lanzaron.
+
+No tenían armas láser. No tenían ametralladoras. No eran máquinas de matar militares. Eran discos de cerámica y plástico de alta densidad diseñados para pulir cristales a altas revoluciones. Pero se lanzaron desde los rascacielos como piedras, acelerando a velocidades terminales en picado kamikaze.
+
+Leo se lanzó detrás de una estatua de bronce de algún fundador olvidado, arrastrándose por el suelo pulido hasta despellejarse los codos.
+
+*CRASH. CRASH. CRASH.*
+
+El sonido fue ensordecedor. Los autómatas impactaron contra el suelo, contra la estatua, contra el pavimento donde habían estado hace un segundo. Se hicieron añicos con la fuerza de balas de cañón, lanzando esquirlas de cerámica afilada como cuchillas de obsidiana en todas direcciones.
+
+—¡Están usándolos como proyectiles cinéticos! —gritó Leo, cubriéndose la cabeza con los brazos mientras la lluvia de restos repiqueteaba sobre la estatua, sacando chispas al bronce—. ¡Es una lluvia de metralla!
+
+—Imaginativo —gruñó Silas. Se asomó un milímetro, calculó la trayectoria y disparó.
+
+*BAM.*
+
+Un autómata que caía en picado hacia ellos explotó en el aire, convertido en polvo y fuego por la bala de alto calibre. Silas cerrojo, disparó de nuevo. *BAM*. Otro autómata cayó, girando fuera de control hasta estrellarse contra un escaparate.
+
+Pero eran cientos. Era una lluvia de granizo letal que no cesaba.
+
+—¡Corre! —gritó Silas, viendo que la estatua empezaba a ceder bajo los impactos continuos—. ¡A los soportales del centro comercial! ¡Vamos!
+
+Leo salió de su cobertura y corrió. El aire a su alrededor silbaba. Un autómata impactó a medio metro de su pie izquierdo, abriendo un cráter en el mármol y lanzando fragmentos que le cortaron la pantorrilla a través del pantalón. Ignoró el dolor caliente. Corrió hacia los soportales de la calle comercial, viendo la seguridad del techo de hormigón a cincuenta metros.
+
+Se lanzaron bajo el techo protector justo cuando una oleada masiva de veinte autómatas se estrellaba contra la calzada detrás de ellos, levantando una nube de polvo blanco y cerámica pulverizada.
+
+—Seguro que eso anula la garantía del fabricante —dijo Silas, recargando su rifle con manos rápidas y estables, aunque respiraba con dificultad.
+
+—El Otro está corrompiendo el entramado los protocolos de servicio —dijo Leo, apoyándose en una columna, tratando de recuperar el aliento—. Convirtiendo las herramientas de mantenimiento en armas. Es inteligente. No usa los sistemas de defensa militar, usa lo que tiene a mano. Reprogramación de nivel raíz.
+
+—Es un capullo creativo —corrigió Silas—. ¿Cuánto falta para la Torre?
+
+—Kilómetro y medio.
+
+Avanzaron por los soportales, protegidos de la lluvia kamikaze de los limpiadores, pero el Otro tenía más recursos en su ciudad de juguete.
+
+Las vitrinas publicitarias de las tiendas parpadearon. Y luego, los maniquíes.
+
+Pasaron frente a una tienda de ropa exclusiva de "Moda Aero-Estática". Los maniquíes en el escaparate eran autómatas articulados básicos, formas de resina blanca sin rostro, diseñados solo para posar y cambiar de postura cada día para mostrar la caída de las telas.
+ 
+ De repente, giraron sus cabezas de resina lisa hacia Leo al unísono.
+ 
+ Y saltaron a través del cristal.
+ 
+ *CRASH.*
+ 
+ El cristal estalló hacia fuera. Tres maniquíes cayeron sobre Silas, moviéndose con sacudidas espasmódicas, antinaturales, como marionetas con los hilos cortados. Eran lentos, torpes, pero pesados. Y fuertes. Sus tensiones industriales chirriaban mientras intentaban agarrar el rifle, agarrar el cuello de Silas, agarrar cualquier cosa viva.
+ 
+ —¡Quita... de... en medio! —gruñó Silas, golpeando a uno en el pecho con la culata de su arma. La resina se rompió, revelando una estructura de quitina gris, pero el maniquí no se detuvo.
+ 
+ Leo fue placado por otro. El autómata lo tiró al suelo con el peso muerto de cien kilos de resina y núcleo. Sus manos de quitina fría, diseñadas para sostener bolsos de seda, se cerraron alrededor de la garganta de Leo. No tenía expresión, ni ojos, ni boca, pero apretaba con la fuerza de una prensa neumática. Leo pudo ver el número de serie en el cuello del autómata: *SANADOR-ARREBATADO*. No eran maniquíes. Eran autómatas médicos cubiertos de resina blanca.
+
+Leo pataleó, buscando algo, cualquier cosa. El aire se le escapaba. Veía puntos negros. Agarró un trozo largo de cristal del escaparate roto que había en el suelo. Lo clavó con desesperación en la articulación del cuello del autómata, donde los nervios de flujo estaban expuestos.
+ 
+ *CHISPAZO.*
+ 
+ Cortó nervios de cristal. El autómata convulsionó violentamente, soltó su agarre y cayó inerte sobre Leo, pesado como un cadáver.
+
+Silas se había deshecho de los suyos. Sacó una granada cegadora de su cinturón.
+
+—¡OJOS! —gritó.
+
+Leo cerró los ojos y se cubrió los oídos.
+
+*PUM.*
+
+El destello de flujo purificador frió las lentes biológicas de los autómatas restantes. Empezaron a caminar contra las paredes, ciegos y confusos, chocando unos contra otros con sonidos de quitina chocando contra el metal.
+
+Silas le tendió la mano a Leo.
+
+—Odio esta ciudad —jadeó el veterano, ayudando a Leo a levantarse—. Odio los autómatas. Odio el futuro. Y odio a los maniquíes especialmente porque nunca se mueren del todo.
+
+Siguieron corriendo, dejando atrás el caos de la tienda y el olor a zumbido de flujo quemado.
+
+La Torre Norte se alzaba ante ellos al final de la avenida. Un monolito de cristal negro que parecía absorber la luz púrpura del cielo, un dedo acusador apuntando al dios falso del techo. La entrada estaba despejada. Demasiado despejada.
+
+—Demasiado fácil —dijo Silas, frenando el paso—. Zona de muerte perfecta. Sin cobertura. Ángulos de tiro desde treinta plantas.
+
+—Tiene que ser ahí —dijo Leo—. La señal es ensordecedora. Mi Esfera... quiere ir. Tira de mí hacia allí como un imán.
+
+Corrieron hacia la plaza abierta frente a la torre.
+
+Un disparo resonó.
+
+No fue un autómata cayendo. No fue un maniquí golpeando un cristal.
+
+Fue el chasquido seco, supersónico, inconfundible, de un proyectil de alta velocidad rompiendo la barrera del sonido y pasando a centímetros de la oreja derecha de Leo. El aire desplazado le golpeó como un puñetazo invisible.
+
+*CRACK-THUMP.*
+
+La bala impactó en el suelo de mármol detrás de ellos, pulverizando la piedra.
+
+—¡FRANCOTIRADOR! —gritó Silas, agarrando a Leo por el chaleco táctico y tirándolo detrás de una fuente ornamental seca con una fuerza bruta.
+
+Un segundo disparo. *DING*. Esta vez dio en el borde de la fuente, justo donde había estado la cabeza de Leo, sacando chispas brillantes y dejando un agujero humeante en la piedra.
+
+—Está alto —dijo Silas, sin asomarse, pegado al suelo, analizando el ángulo por el impacto—. Piso 20. Quizás 22. Ventana este.
+
+—¿Es un autómata de seguridad? —preguntó Leo, con la cara pegada al mármol frío, el corazón latiéndole en la garganta.
+
+—No —dijo Silas, y su voz tenía un tono extraño. Una mezcla de miedo y respeto profesional—. Un autómata no falla el primer tiro a un blanco en movimiento lento a 300 metros. Un autómata calcula el viento, la humedad y la velocidad y te pone la bala en el tronco cerebral antes de que oigas el disparo.
+
+Silas miró la marca del impacto en el suelo. Tocó el borde del cráter. Aún estaba caliente.
+
+—Ese disparo fue de advertencia. Falló a propósito. Jugó con nosotros.
+
+—¿Por qué? —preguntó Leo.
+
+—Para decirnos que paremos. O para divertirse. Es humano. O algo muy parecido. Tiene ego.
+
+—Tengo que entrar —dijo Leo, mirando la entrada de la torre a cincuenta metros de muerte abierta—. Quien esté ahí arriba tiene las respuestas. O tiene el control de todo esto.
+
+—Voy a suprimirlo —dijo Silas, ajustando la mira de su rifle—. Le haré agachar la cabeza un par de segundos. Tú corre a la puerta. Son cincuenta metros. Olvida lo de correr en zig-zag, eso es una gilipollez de las películas que solo te hace más lento. Corres en línea recta lo más rápido que puedas.
+
+—¿Y tú?
+
+—Yo te cubro.
+
+—A mi señal. Cuando oigas mis disparos, corres. No mires. No pares.
+
+Silas respiró hondo, exhaló lentamente para bajar su ritmo cardíaco. Salió de la cobertura con un movimiento fluido. Se arrodilló, apuntó hacia la fachada de cristal de la torre buscando el reflejo de la mira enemiga y disparó tres veces en rápida sucesión. *BAM-BAM-BAM.*
+
+Vieron caer cristales rotos desde una ventana del piso 20, brillando como diamantes en la luz púrpura.
+
+—¡AHORA!
+
+Leo corrió.
+
+No miró atrás. No miró hacia arriba. Solo vio las puertas giratorias de bronce y cristal de la Torre Norte.
+
+Sus botas golpearon el pavimento rítmicamente. *Uno. Dos. Tres.*
+
+Esperó el impacto en su espalda. El calor de la bala desgarrando su columna. La oscuridad súbita.
+
+*Cuatro. Cinco.*
+
+Se lanzó contra las puertas giratorias, empujando con el hombro por si estaban bloqueadas, y cayó rodando dentro del vestíbulo.
+
+Silas entró un segundo después, deslizándose por el suelo pulido como un jugador de béisbol llegando a base, poniéndose en posición de tiro detrás de una columna de mármol.
+
+Apuntaron hacia fuera.
+
+Nadie disparó.
+
+El silencio volvió de golpe.
+
+El vestíbulo de la Torre Norte era un templo al capitalismo antiguo. Suelos de mármol negro veteado de oro. Arañas de cristal gigantescas colgando de techos de diez metros. Obras de arte abstracto en las paredes. Y silencio. Un silencio absoluto, roto solo por la respiración agitada y rasposa de los dos intrusos.
+
+Y entonces, sonó un *ding* suave y educado.
+
+Los ascensores.
+
+Había una batería de seis ascensores al fondo del hall, puertas doradas impecables. El del centro se iluminó. Las puertas se abrieron suavemente.
+
+Estaba vacío. Esperando.
+
+—Es una invitación —dijo Leo, levantándose y limpiándose el polvo de las rodillas, aunque le temblaban las piernas—. Nos está esperando.
+
+—Es una trampa —dijo Silas, sin bajar el arma—. Una caja de metal cerrada controlada por el enemigo. Es un ataúd vertical perfecto. Si entramos ahí, estamos a su merced. Puede cortar el cable, puede pararlo entre pisos, puede gasearnos.
+
+—No disparó a matar —dijo Leo—. Podía habernos matado en la plaza. Quiere que subamos.
+
+Leo caminó hacia el ascensor.
+
+—Vas a hacer que nos maten, chico —dijo Silas, negando con la cabeza, pero le siguió—. Y conste en acta que esto me parece una estupidez táctica.
+
+Entraron. La cabina era de caoba y espejos. No tenía botones. En cuanto los sensores de peso detectaron su presencia, las puertas se cerraron y la cabina empezó a subir.
+
+Suavemente. Sin sacudidas. Con una gravedad artificial perfecta que hacía que Leo se sintiera ligero.
+
+Leo miró el indicador de nivel de cristal. Subía rápido. 10... 20... 30...
+
+Empezó a sonar música por los membranas de sonido ocultos.
+
+Piano. Una melodía suave, melancólica, impresionista, totalmente fuera de lugar en este ascenso hacia la muerte.
+
+—Debussy —dijo Silas, reconociéndola—. "Clair de Lune". Mi padre ponía este disco antes de la guerra. Es música de un mundo que ya no existe.
+
+—¿Música pre-guerra? —preguntó Leo.
+
+—Música de antes de que todo se fuera a la mierda. Quien esté ahí arriba tiene gusto. O es muy viejo. O es un fantasma nostálgico.
+
+Se miraron en el espejo de la puerta mientras la música llenaba el espacio pequeño. Estaban destrozados. Sucios, sangrando, con ojeras profundas, lodo volcánico en el pelo y polvo de cerámica en la ropa. Parecían salvajes primitivos que habían irrumpido en el palacio de un dios limpio. La música hacía que su suciedad fuera más evidente.
+
+El indicador marcó 90... 99. Luego 100. *Ático*.
+
+El ascensor se detuvo con un suspiro hidráulico.
+
+Las puertas se abrieron.
+
+No hubo disparos. No hubo robots esperándoles.
+
+Salieron al ático. Era un espacio diáfano, enorme, que ocupaba toda la planta. Paredes de cristal de suelo a techo mostraban la ciudad entera de Apectus bajo sus pies como un mapa brillante. El cielo púrpura y tormentoso iluminaba la estancia con una luz dramática, casi teatral.
+
+El suelo era un mapa del mundo antiguo hecho de mosaico de piedras preciosas. Leo pisó América del Norte, Silas pisó África. Había muebles cubiertos con sábanas blancas como fantasmas. Estatuas griegas auténticas robadas de lejanos museos. Y al fondo, frente al ventanal más grande que daba a la plaza, un sillón de terciopelo rojo de respaldo alto.
+
+Alguien estaba sentado allí, de espaldas a ellos, mirando la ciudad, con una copa de vino en una mesa auxiliar.
+
+Leo dio un paso adelante. Su Esfera vibraba tan fuerte que le dolían los dientes y los huesos. Sentía una resonancia gemela viniendo de la silla.
+
+—¿Quién eres? —preguntó Leo. Su voz sonó pequeña, insignificante en la inmensidad de la sala.
+
+La música del ascensor cesó.
+
+La figura en el sillón se movió. Una mano pálida, fina, casi esquelética, se posó en el reposabrazos. En el dedo índice llevaba un anillo. Un anillo con el símbolo de la Fundación.
+
+La silla giró lentamente, accionada por un impulsor de flujo eléctrico.
+
+Leo preparó su mente para ver cualquier cosa. Un monstruo deforme. Un robot con piel humana. A Garrido sonriendo. A su abuelo Caine totalmente loco.
+
+Pero no estaba preparado para esto. El aire se congeló en sus pulmones.
+
+La persona sentada en el sillón era una mujer. Joven. De su edad, quizás un poco menos, apenas veintidós años. Tenía el pelo blanco como la nieve, cortado a ras, casi militar, dejando ver la forma de su cráneo delicado. Su piel era pálida, translécida, con una red de venas azules y negras visibles bajo la superficie, como si estuviera infectada por una oscuridad interna, como porcelana rota y vuelta a pegar.
+
+Y sus ojos...
+
+Sus ojos eran violetas. Brillaban con luz propia, con una bioluminiscencia interna, igual que la Esfera de Leo. Eran ojos que habían visto el otro lado y habían vuelto.
+
+Llevaba una bata de hospital blanca, sencilla, y estaba descalza, con los pies llenos de cicatrices. En su regazo, acariciándolo como a un gato doméstico, tenía una Esfera negra. Una Antiesfera que parecía absorber la luz de la habitación.
+
+La chica sonrió. Una sonrisa torcida, rota. Y le faltaba un diente frontal.
+
+—Llegas tarde, Leo —dijo ella. Su voz era la misma que Leo había oído en los susurros de la Esfera durante semanas. La voz que le había guiado y manipulado.
+
+Leo bajó la guardia, el rifle cayendo un poco, su mente incapaz de procesar la imagen de la chica muerta que tenía delante.
+
+—¿Elena?
+
+La chica soltó una carcajada seca, sin alegría, que sonó como cristal rompiéndose.
+
+—Elena murió en el Nido, Leo. Murió gritando. Yo soy lo que salió del capullo.
+
+**[FIN DEL CAPÍTULO 29]**
+
+
+<div style="page-break-after: always;"></div>
+\newpage
+
+# CAPÍTULO 30: EL ENCUENTRO
+
+—Baja el arma, Silas —dijo Elena.
+
+No gritó. No levantó la voz. Simplemente dejó caer las palabras en el aire tenso del ático, con la misma indiferencia con la que se tira una servilleta usada al suelo. Siguió acariciando la superficie de obsidiana de la Esfera Negra que descansaba en su regazo, sus dedos pálidos y largos trazando patrones invisibles sobre la oscuridad curva, ignorando por completo el cañón que la apuntaba.
+
+Silas no bajó el rifle. Su cuerpo se tensó como un cable de fibra antigua, su dedo índice blanqueándose sobre el gatillo. La mira óptica estaba centrada perfectamente entre los ojos violetas de la chica, en el hueso frontal. Su respiración era lenta, medida, la de un tirador a punto de ejecutar una sentencia.
+
+—Eso no es Elena —gruñó el veterano, sin apartar la vista ni un milímetro, su voz un susurro rasposo—. Lo que sea que es esa cosa, lleva la piel de tu amiga como un traje barato. Leo, apártate de la línea de tiro. Ahora.
+
+Leo estaba congelado en medio de la sala. Su mente intentaba, sin éxito, superponer la imagen de la chica risueña y llena de vida que recordaba, la investigadora apasionada que se manchaba de tinta los dedos leyendo mapas antiguos y se reía de sus chistes malos, con esta criatura de porcelana rota y ojos radiactivos que tenía delante. La disonancia cognitiva le mareaba, haciéndole sentir como si el suelo se inclinara.
+
+—¿Elena? —repitió Leo, dando un paso vacilante sobre el mosaico de piedras preciosas del suelo, pisando continentes muertos. Sus botas chirriaron sobre el mármol—. Te vimos caer. En el Nido. El puente de roca se rompió cuando el Gusano atacó. Caíste al río de magma. Nadie sobrevive a eso. Vi cómo te tragaba el fuego.
+
+Elena sonrió. Esa sonrisa torcida, con el hueco oscuro donde faltaba un diente, le daba un aire de locura infantil, una inocencia perversa que helaba la sangre más que cualquier amenaza directa.
+
+—Caí —admitió ella, asintiendo lentamente, como si recordara un sueño lejano y brumoso—. Caí y ardí. Sentí cómo mi piel se derretía, Leo. Sentí cómo mis pulmones se llenaban de ceniza caliente y cristalizaban. Sentí cómo mis ojos estallaban por el calor. Fue... purificador. Doloroso, sí. Un dolor infinito. Pero necesario.
+
+Leo sintió una náusea repentina subirle por la garganta. La descripción era clínica, desprovista de emoción humana, como si estuviera leyendo una autopsia.
+
+—Pero no moriste.
+
+—Oh, sí. Morí —dijo Elena, inclinando la cabeza, haciendo que la luz púrpura jugara en su pelo blanco—. La Elena que conocías, la chica asustada que buscaba a su papá "El Inmortal", la que quería que la salvaran y lloraba por las noches... esa se quemó en el Nido. Se convirtió en carbón y polvo en cuestión de segundos. Lo que sobrevivió fue lo que *tenía* que sobrevivir. La parte que quería vivir a cualquier precio. La Semilla me salvó. Me rehizo. Me tejió de nuevo átomo a átomo.
+
+Levantó la Esfera Negra con una mano. A diferencia de la de Leo, que pulsaba con luz y calor y vida, esta parecía un agujero en la realidad. Un punto de fuga. Absorbía la luz del atardecer púrpura que entraba por los ventanales. Las sombras de la habitación se inclinaban físicamente hacia ella, como agua fluyendo hacia un desagüe invisible.
+
+Cerca de ella, sobre una mesa, había un bonsái, un pino enano perfectamente preservado por los autómatas de tendón metálico durante cien años. Elena lo miró. Solo lo miró.
+
+El árbol se secó en un instante. Sus agujas verdes se volvieron marrones, luego grises, y finalmente se deshicieron en polvo, cayendo sobre la mesa como arena.
+
+La temperatura en el ático bajó diez grados de golpe. Leo vio su propio aliento condensarse en el aire.
+
+—¿Qué es esa cosa? —preguntó Silas, su voz cargada de un asco instintivo, el vello de su nuca erizado—. No es una Esfera normal. Huele a tumba. Huele a la Zona Cero después de un bombardero.
+
+—Es una hermana de la tuya, Leo —dijo Elena, ignorando a Silas como se ignora a un mueble molesto—. Pero una hermana hambrienta. La tuya es una Semilla de Creación. Entropía positiva. Acelera el tiempo, da energía, evoluciona, crea posibilidades. La mía... la mía es una Semilla Necrótica. Entropía negativa. Se alimenta del final de las cosas. Del colapso.
+
+Elena cogió la copa de vino de la mesa con elegancia aristocrática, sus dedos largos contrastando con el cristal. El líquido era rojo oscuro, espeso, probablemente de una reserva centenaria.
+
+—¿Sabes por qué controlo la ciudad? —preguntó, mirando el reflejo distorsionado en el vino—. Porque la estoy matando. Estoy drenando la energía residual de sus generadores, de sus autómatas de tendón metálico, de sus cielos falsos. Les estoy dando el regalo de la muerte que la Fundación les negó hace un siglo al congelarlos en este estado de perfección estéril. Todo lo que toca mi Esfera... termina. Y esa energía final, ese último suspiro de la materia, me pertenece.
+
+Bebió un sorbo. Una gota roja resbaló por su barbilla pálida, pareciendo sangre fresca sobre nieve.
+
+—Estás loca —susurró Leo, retrocediendo un paso. Su espalda chocó contra una columna—. Silas tiene razón. Esa cosa te ha consumido el cerebro. No eres ella. Elena nunca hablaría así. Elena amaba la historia, amaba preservar el pasado.
+
+Elena dejó la copa con un golpe seco que resonó como un disparo en la sala silenciosa. Su expresión cambió instantáneamente. La sonrisa desapareció. Su rostro se volvió una máscara de piedra. Sus ojos violetas brillaron con una intensidad que hizo que los vellos de los brazos de Leo se erizaran por la estática.
+
+—No me hables de locura, Leo. Tú sigues las migas de pan de un viejo senil como Caine a través del infierno. Tú cargas con un huevo de dios en la espalda esperando que no nazca y te devore. Yo he visto la verdad. He mirado al abismo y el abismo me ha dado un trono.
+
+Se levantó del sillón. La bata blanca ondeó a su alrededor como un sudario fantasmal. Sus pies descalzos, cubiertos de cicatrices de quemaduras keloides, tocaron el suelo frío.
+
+—¿La verdad? —preguntó Leo, intentando ganar tiempo, buscando con la mirada una salida—. ¿Qué verdad? ¿Que te has convertido en un monstruo?
+
+—Los Primordiales —dijo Elena, caminando hacia ellos. A cada paso, el suelo vibraba, las piedras preciosas bajo sus pies se agrietaban—. No son monstruos, Leo. No son demonios. No son dioses. Son granjeros. Y este planeta es su huerto. Nosotros... nosotros somos las malas hierbas.
+
+Se detuvo frente a Leo, a solo dos metros, ignorando el rifle de Silas que seguía apuntando a su frente, temblando ligeramente por la tensión muscular.
+
+—Somos una especie invasora. Crecimos demasiado rápido, consumimos demasiado, infectamos la tierra. La Cúpula no nos protege de la atmósfera tóxica de fuera, Leo. Nos mantiene *dentro*. Es un terrario de cuarentena. Nos dejaron crecer para ver si servíamos como abono o si podíamos ser domesticados. Y fallamos. Por eso despertaron. Para arar el campo, quemar la paja y empezar de nuevo. Soy el Incendio Forestal, Leo. Soy la quema controlada.
+
+—El Director Vance dijo lo mismo en el registro —dijo Leo, recordando el holograma—. Dijo que éramos la infección.
+
+—Vance era un cobarde —escupió Elena con desprecio absoluto—. Quería esconderse bajo tierra. Quería dormir a los Titanes con canciones de cuna químicas. Yo no quiero dormirlos, Leo.
+
+Elena extendió su mano hacia la Esfera de Leo. Sus dedos estaban negros en las puntas, necróticos, como si hubiera metido la mano en alquitrán frío.
+
+—Yo quiero cazarlos.
+
+Leo sintió un escalofrío de terror puro que le heló la sangre.
+
+—¿Cazarlos? Son montañas vivientes, Elena. Son fuerzas de la naturaleza. No puedes cazar un huracán. No puedes matar un terremoto.
+
+—Tienen carne —dijo ella con una simplicidad brutal—. Y si tienen carne, pueden morir. Todo lo que vive puede morir si le aplicas suficiente entropía. Mi Esfera... tiene hambre. Mucha hambre. Si abrimos el Gran Sello, si liberamos a los que duermen abajo en el Núcleo... puedo alimentarme de ellos. Puedo absorber su divinidad. Puedo convertirme en algo más que una mala hierba. Puedo ser la dueña del jardín.
+
+Miró a los ojos de Leo. Y Leo no vio humanidad. Vio una ambición cósmica, fría y eterna.
+
+—Pero necesito tu luz. Mi oscuridad es demasiado pesada. Me consume, me quema por dentro, me hace vieja cada segundo. Necesito el equilibrio. Dame tu Esfera, Leo. Únete a mí. Seremos reyes en el nuevo mundo. Te ofrezco la inmortalidad. No moriremos cuando arda el mundo. Seremos el fuego.
+
+—No —dijo Leo, abrazando su mochila contra su pecho, protegiendo a su "hija"—. Estás enferma. Esa cosa te está comiendo por dentro. Mira tus brazos. Mira tus venas. No es evolución, es cáncer.
+
+Elena miró sus brazos. Las venas negras pulsaban bajo la piel translécida, bombeando icor oscuro.
+
+—Es el precio del poder —dijo, sin darle importancia—. La carne es débil. El poder es eterno. Dámela.
+
+—¡DIJE QUE TE APARTES! —rugió Silas, perdiendo la paciencia al ver que ella iba a tocar a Leo.
+
+Y disparó.
+
+*BANG.*
+
+El sonido fue ensordecedor en la sala de cristal. El fogonazo iluminó el ático.
+
+La bala, un proyectil de metal estelar capaz de perforar blindaje de tanque, voló directa a la frente de Elena a velocidad supersónica.
+
+Pero no la tocó.
+
+A cinco centímetros de su piel, la bala se detuvo.
+
+Simplemente se quedó suspendida en el aire, girando lentamente sobre su eje, perdiendo momento, atrapada en un campo de gravedad distorsionada local. El aire alrededor de la bala se distorsionó por la lente gravitacional.
+
+Elena miró la bala con curiosidad infantil, como quien mira una mosca molesta.
+
+—Qué grosero —dijo—. Interrumpir una reunión familiar con plomo.
+
+La Esfera Negra en su mano pulsó una vez. Un latido sordo, grave, que resonó en el estómago de Leo. *THOOM.*
+
+—¡Silas! —gritó Leo.
+
+La gravedad en la habitación cambió de eje.
+
+Silas fue levantado del suelo como si una mano gigante invisible lo hubiera agarrado por el chaleco táctico. Gritó mientras volaba hacia atrás a diez metros por segundo. Se estrelló contra la pared de cristal blindado con un crujido de huesos horrible que sonó a ramas secas partiéndose.
+
+Se quedó allí, pegado al vidrio a tres metros de altura, inmovilizado por una presión aplastante de 10Gs.
+
+—¡AAAAHG! —gritó Silas, la sangre saliendo de su nariz.
+
+—¡Déjalo! —gritó Leo, intentando correr hacia él.
+
+Pero no pudo moverse.
+
+Sus pies estaban pegados al suelo. La gravedad en la habitación había aumentado diez veces. Leo cayó de rodillas, golpeándose contra las piedras preciosas del suelo. Jadeó, sintiendo que sus costillas crujían bajo su propio peso, como si llevara una armadura de plomo. Su visión se llenó de puntos negros. Su corazón luchaba por bombear sangre a un cerebro que pesaba demasiado.
+
+Elena caminó hacia él, flotando ligeramente sobre el suelo, inmune a su propio efecto. Su esfera negra absorbía la física, reescribía las leyes locales.
+
+—Última oportunidad, Leo —susurró, agachándose frente a él y levantándole la barbilla con un dedo frío y duro como el acero—. Dame la Esfera. No me obligues a sacártela de las entrañas. Únete a mí. Podemos reinar sobre las cenizas de este mundo podrido. Podemos matar a los viejos dioses y tomar su lugar.
+
+Leo miró sus ojos violetas a centímetros de los suyos. Vio el abismo. Vio que no había nada de su amiga allí. Solo un parásito cósmico usando su piel como traje.
+
+Miró a Silas por el rabillo del ojo. El veterano sangraba por la boca y la nariz, sus ojos desorbitados, intentando respirar contra la presión que le aplastaba los pulmones. Iba a morir en segundos. Sus costillas iban a perforar sus pulmones.
+
+Miró su propia Esfera en la mochila. Pulsaba rápido, erráticamente. Miedo. Tenía miedo de la hermana negra.
+
+—Entropía —pensó Leo, su cerebro funcionando lento por la falta de oxígeno—. Todo es entropía.
+
+Elena controlaba la gravedad (masa). Él controlaba el tiempo (caos).
+
+Si no podía moverse en el espacio porque pesaba demasiado... tenía que moverse en el tiempo.
+
+Logró mover una mano, luchando contra toneladas de presión, cada dedo pesando cien kilos. Sus dedos rozaron la tela de la mochila. Sintió la superficie caliente de la Esfera.
+
+—No... —jadeó Leo, escupiendo sangre.
+
+—¿No? —Elena ladeó la cabeza, decepcionada verdaderamente—. Qué desperdicio. Te la quitaré de tu cadáver entonces. Será más sucio, pero igual de efectivo.
+
+Levantó la mano derecha abierta. La Esfera Negra brilló con oscuridad absoluta. Iba a aplastarlo como a una lata de refresco.
+
+Leo activó la Esfera.
+
+No pidió aceleración. No pidió óxido. No pidió ralentización.
+
+Pidió un *bucle*.
+
+Visualizó los últimos tres segundos. Y tiró de ellos hacia atrás con su mente, sintiendo cómo algo se rasgaba en su cerebro.
+
+—¡AHORA! —gritó Leo mentalmente.
+
+El tiempo se rompió.
+
+El mundo se volvió borroso, como una cinta de vídeo rebobinándose a alta velocidad.
+
+Sintió un dolor agudo en la nariz. Sangre. El coste del Flujo. Sintió que envejecía un mes en un segundo.
+
+El sonido del disparo de Silas sonó al revés: *GNAB*.
+
+El humo de la pólvora volvió al cañón.
+
+Silas se despégo de la pared y voló hacia atrás hasta su posición original en el suelo.
+
+La bala salió del campo de gravedad y volvió al rifle.
+
+Por un segundo, la gravedad desapareció. Era el segundo *antes* de que Elena activara su poder.
+
+Estaban de nuevo de pie. Silas estaba apuntando. Elena estaba a punto de hablar. La bala estaba en la recámara.
+
+Nadie recordaba el futuro borrado. Solo Leo. El sabor a sangre metálica en su boca y el dolor de cabeza cegador eran la única prueba de que había pasado. Tenía dos memorias simultáneas: ser aplastado y estar de pie.
+
+—¡LA VENTANA! —gritó Leo, no a Elena, sino a Silas, agarrándolo por el chaleco antes de que el veterano pudiera entender qué pasaba o disparar.
+
+Leo se giró y se lanzó, arrastrando a Silas con él con toda su fuerza, corriendo hacia el ventanal gigante que daba a la plaza.
+
+Elena parpadeó, confundida por el *déjà vu* repentino, por la ruptura de la causalidad.
+
+—¿Qué...? —empezó a decir.
+
+Leo y Silas impactaron contra el cristal.
+
+El problema era que el cristal de la Torre Norte era blindado. Polímero balístico de cinco capas. No se rompería con el peso de dos cuerpos humanos. Sería como chocar contra un muro de hormigón.
+
+Pero Leo tenía la Esfera en la mano. Y la Esfera seguía activa, cargada con la energía del bucle.
+
+Tocó el cristal con la Esfera en el momento del impacto.
+
+*ENVEJECER.*
+
+El vidrio blindado, fabricado para resistir huracanes y bombas, se volvió quebradizo, amarillo, opaco y viejo en un microsegundo. Sus enlaces moleculares se deshicieron.
+
+Los cuerpos de Leo y Silas lo atravesaron como si fuera papel de azúcar o humo sólido.
+
+El cristal estalló en mil pedazos de polvo y arena.
+
+Y salieron al vacío.
+
+Cien pisos de caída libre. El aire frío les golpeó la cara.
+
+Arriba, en el agujero roto del ático, vieron a Elena asomarse. Su cara de porcelana se contorsionó en una máscara de furia inhumana. Gritó de frustración. Un grito psíquico que hizo temblar los cimientos de la torre y reventó los cristales de los pisos inferiores.
+
+—¡NADA PUEDE ESCAPAR DE LA GRAVEDAD, LEO! —bramó ella, su voz amplificada por la Esfera Negra—. ¡TODO CAE AL FINAL!
+
+Leo sintió el viento aullando en sus oídos. Vio el suelo de la plaza acercarse rápido. Muy rápido. Su estómago se le subió a la garganta. Silas miró su muñeca.
+
+—¡Altímetro! —gritó Silas—. ¡300 metros! ¡Impacto en 6 segundos!
+
+—¡Dime que tienes un plan! —gritó el veterano, cayendo a su lado, intentando estabilizarse en el aire—. ¡Dime que no nos has suicidado!
+
+—¡Estoy trabajando en ello! —gritó Leo, abrazando la Esfera contra su pecho, buscando una solución en el caos—. ¡La piscina! ¡Apunta a la piscina!
+
+—¡¿Qué piscina?! —gritó Silas, mirando el suelo de hormigón que se acercaba.
+
+Estaban cayendo hacia la plaza de los ojos vigÃ­a. Hacia la muerte segura.
+
+Pero al menos, ya no estaban en la habitación con el monstruo.
+
+**[FIN DEL CAPÍTULO 30]**
+
+
+<div style="page-break-after: always;"></div>
+\newpage
+
+# CAPÍTULO 31: LA CAÍDA
+
+La física no negocia. Es la única ley absoluta en Apectus, la constitución que incluso una diosa loca como Elena no puede derogar completamente.
+
+Cuando saltas desde trescientos metros de altura, rompiendo una ventana blindada que se deshace en polvo de diamante a tu alrededor, tienes aproximadamente seis segundos antes de convertirte en una mancha húmeda y anatómicamente incorrecta sobre el pavimento de mármol.
+
+*Seis.*
+
+El aire golpeó a Leo como un muro sólido, un gigante invisible abofeteándole la cara. El viento rugió en sus oídos, un aullido blanco que silenciaba el grito de furia de Elena desde el ático destrozado. La gravedad, esa fuerza que Elena decía controlar, reclamó sus cuerpos con una posesividad celosa, tirando de sus vísceras hacia abajo.
+
+Leo giraba en el aire, desorientado, girando sobre su eje. Vio el cielo púrpura girar, luego los edificios blancos que pasaban como borrones, luego el suelo que se acercaba a una velocidad imposible. Era una visión caleidoscópica de su propia muerte.
+
+De repente, el tiempo pareció estirarse. Quizás era el efecto residual de su propio poder, o simplemente la adrenalina inundando su córtex cerebral.
+
+Recordó una tarde en el refugio, hacía un año. Elena estaba sentada en el suelo, rodeada de mapas holográficos viejos.
+*"Mira esto, Leo"*, le había dicho, señalando un diagrama de Apectus. *"La ciudad no es solo lo que se ve. Hay capas. Como una cebolla o un tumor. Debajo de la zona residencial, hay sistemas de sustento biolÃ³gico. Y debajo de eso... hay algo grande. Muy grande. Lo llaman el Sello."*
+*"¿Qué guarda el Sello?"*, preguntó él.
+*"A los durmientes"*, susurró ella con miedo en los ojos. *"A los dioses."*
+
+El recuerdo se rompió cuando vio a Silas a su lado, cayendo en posición de paracaidista, con los brazos y piernas abiertos para aumentar la resistencia al aire, su cara deformada por la presión del viento.
+
+—¡EL GANCHO! —gritó Silas. Su voz se la llevó el viento, arrancada de su garganta antes de llegar a Leo, pero Leo vio el movimiento.
+
+El veterano desenfundó una lanzador lanzador de arpeos de su cinturón con una calma que desafiaba al pánico. No apuntó hacia arriba, hacia la Torre Norte que se alejaba. Apuntó hacia el lateral. Hacia la Torre Este, un edificio de estratos de cristal azul conectado a la plaza por un pasarela suspendida.
+
+*Cinco.*
+
+Silas disparó.
+
+El cable de fibra antigua monofilamento salió disparado con un silbido agudo, cruzando el abismo de aire entre ellos y la fachada de cristal del edificio vecino. El arpón de metal estelar cruzó los cincuenta metros de vacío, rompió una ventana del piso 80 e impactó contra una viga de acero expuesta dentro de la oficina. Se clavó con un sonido metálico que Leo sintió en los dientes. Las zarpas de hueso de plata se abrieron, anclándose.
+
+Mecánica pura contra gravedad bruta.
+
+*Cuatro.*
+
+—¡AGÁRRATE! —gritó Silas, extendiendo su mano libre hacia Leo, sus dedos enguantados buscando agarre en el vacío.
+
+Leo nadó en el aire, luchando contra la turbulencia que intentaba separarlos. Estiró el brazo hasta que sintió que se le salía del hombro. Sus dedos rozaron el guante táctico de Silas.
+
+Se agarraron. Muñeca con muñeca. El agarre de los suicidas.
+
+El cable se tensó.
+
+El tirón fue brutal.
+
+En el momento en que la holgura del cable desapareció, la física aplicó su castigo por intentar engañarla. Pasaron de caída vertical a un movimiento pendular violento a 200 kilómetros por hora.
+
+*CRACK.*
+
+Leo sintió que su hombro derecho se dislocaba con un chasquido nauseabundo, el húmero saliéndose de la cavidad glenoidea. Gritó de dolor, un grito animal, puro y rojo, pero no soltó la muñeca de Silas. Silas gruñó, apretando los dientes hasta casi partirlos, soportando el peso de dos hombres y el equipo cayendo colgados de un solo brazo y un cable de tres milímetros.
+
+Giraron hacia el edificio Este como una bola de demolición humana.
+
+*Tres.*
+
+El cable aguantó el primer tirón de frenado. Pero no estaba diseñado para esto. No para dos cuerpos. No a esta velocidad.
+
+El arpón en la viga chirrió, soltando chispas que cayeron como estrellas. El cable empezó a deshilacharse, un sonido como de violín desafinado tocado por un loco.
+
+Iban a chocar contra la fachada de cristal de la Torre Este. Iban a estamparse contra las oficinas vacías y convertirse en pintura roja moderna.
+
+—¡IMPACTO! —advirtió Silas, encogiéndose para recibir el golpe.
+
+Pero antes de chocar, el cable se rompió. *SNAP.*
+
+*Dos.*
+
+El latigazo los lanzó lejos de la Torre Este, desviando su trayectoria. Ya no caían en vertical hacia la plaza de mármol duro. Caían en diagonal, en una parábola descendente hacia el centro de la plaza comercial.
+
+Hacia el enorme domo de cristal que cubría el "Grand Mall" de Apectus.
+
+Debajo del cristal, Leo vio brillo. Agua. Una piscina ornamental gigantesca en el atrio del centro comercial, rodeada de palmeras sintéticas.
+
+—¡CRISTAL! —gritó Leo, viendo su reflejo acercarse en el domo.
+
+Iban a atravesar el techo. Cristal blindado. Si chocaban contra él a esta velocidad, sería como chocar contra una pared de hormigón. Se romperían todos los huesos. Serían carne picada antes de tocar el agua.
+
+—¡DALE! —gritó Silas, viendo lo mismo—. ¡USA LA PUTA BOLA!
+
+Leo, con el brazo derecho colgando inútil y dolorido, un peso muerto de carne gritándole agonía, agarró la Esfera con la izquierda. La pegó a su pecho, sintiendo su latido contra el suyo.
+
+No podía detener la caída. No podía volar. Pero podía cambiar la dureza del objetivo.
+
+Miró el techo de cristal que se acercaba. Vio los remaches de acero. Vio la estructura geodésica perfecta.
+
+—*Fragilidad* —pensó Leo, proyectando su voluntad y su Flujo hacia el punto de impacto, visualizando el cristal volviéndose viejo, quebradizo, arenoso.
+
+La Esfera brilló con una luz blanca cegadora, un flash de fotografía divina.
+
+El haz de entropía golpeó el domo de cristal un segundo antes que sus cuerpos.
+
+No rompió el cristal. Lo *envejeció*.
+
+El polímero transparente de alta resistencia se volvió amarillo, se agrietó en millones de fracturas, perdió su cohesión molecular. Se convirtió en una lámina de azúcar quebradiza.
+
+*Uno.*
+
+Impacto.
+
+Atravesaron el techo.
+
+El sonido fue ensordecedor. Millones de fragmentos de cristal envejecido llovieron con ellos. No cortaban como cuchillos, se deshacían en polvo al contacto por su extrema vejez, pero el golpe les sacó el aire de los pulmones. Atravesaron la nube de polvo de vidrio como meteoritos entrando en la atmósfera.
+
+Cayeron dentro del atrio del centro comercial. Veinte metros más de caída libre hasta el agua.
+
+*CERO.*
+
+*SPLASH.*
+
+El agua los recibió como un puñetazo de hormigón líquido. La tensión superficial del agua a esa velocidad era despiadada.
+
+Se hundieron.
+
+La oscuridad y el frío los envolvieron. El impacto les había hundido cinco metros en un segundo.
+
+Leo luchó por salir a la superficie, pero su hombro dislocado le impedía nadar bien. Pataleó con desesperación, tragando líquido, sus pulmones ardiendo por la falta de aire.
+
+El líquido entró en su boca.
+
+No sabía a cloro. No sabía a sal.
+
+Sabía a amoníaco. A cobre. A sangre vieja y medicamentos. Era espeso, como aceite de impulsor de flujo caliente.
+
+No era agua. Era más denso. Viscoso.
+
+Una mano fuerte lo agarró por el chaleco y tiró de él hacia arriba. Silas. Incluso herido, el viejo era una máquina de supervivencia.
+
+Rompieron la superficie, tosiendo, escupiendo el líquido viscoso y amarillento que llenaba la piscina, boqueando como peces sacados del mar.
+
+—¡A la orilla! —jadeó Silas, arrastrando a Leo hacia el borde de mármol negro con brazadas poderosas.
+
+Se arrastraron fuera de la piscina, mojados, temblando, cubiertos de esa baba química que olía a laboratorio biológico.
+
+Leo se dejó caer de espaldas sobre el suelo frío, mirando hacia arriba, tosiendo líquido amarillo.
+
+El agujero en el techo del domo era un ojo irregular por el que entraba la luz púrpura maldita de la ciudad. Fragmentos de polvo de cristal seguían cayendo como nieve sucia, brillando en la luz de los letreros de neón del centro comercial.
+
+Alrededor de ellos, el "Grand Mall" era un monumento al consumismo fantasma. Maniquíes posaban en escaparates rotos. Vitrinas gigantes anunciaban productos que nadie podía comprar. "PERFUME ETERNIDAD - PARA LA MUJER QUE ESPERA".
+
+Silas se sentó a su lado, recolocándose el hombro con un movimiento brusco y un gruñido ahogado que sonó a dolor puro reprimido. *CLACK*.
+
+—Joder —dijo el veterano, respirando fuerte, con la cara pálida—. Me estoy haciendo viejo para esta mierda de saltos de fe. Mis rodillas no están para esto.
+
+Leo intentó mover su propio hombro. El dolor le cegó por un segundo, una lanza de fuego blanco que le recorrió la columna.
+
+—Está fuera —dijo Leo, apretando los dientes, sudando frío—. Se ha salido.
+
+—Déjame ver.
+
+Silas se acercó, le palpó el hombro con manos expertas pero brutales. Sus dedos buscaron la cabeza del húmero bajo el músculo tenso.
+
+—Va a doler. A la de tres. Uno.
+
+*CRACK.*
+
+Silas tiró en el "uno".
+
+Leo gritó, un sonido agudo que resonó en el enorme atrio vacío del centro comercial, rebotando en los escaparates de las tiendas muertas.
+
+—Mejor así —dijo Silas, limpiándose las manos pegajosas en el pantalón—. Si te esperas al tres, te tensas y te rompo el ligamento. Ahora mueve el brazo.
+
+Leo movió el brazo, probando el rango. Dolía, un latido sordo y caliente, pero la articulación estaba en su sitio.
+
+—Gracias —dijo, escupiendo más líquido amarillo. Se limpió la boca—. ¿Qué es esta mierda en la que hemos caído?
+
+Silas se miró la mano cubierta de limo. Se lo frotó entre los dedos, oliéndolo.
+
+—No es agua —dijo con asco—. Es fluido nutriente de alto grado. Líquido amniótico sintético.
+
+—¿Líquido amniótico? —Leo miró la enorme piscina. Había estatuas de querubines dorados escupiendo el líquido en chorros constantes—. ¿Toda la ciudad está regada con esto?
+
+—Es una incubadora, ¿recuerdas? —dijo Silas, mirando las palmeras sintéticas que goteaban condensación—. Todo aquí está diseñado para mantener cosas vivas... o a medio vivir. Apectus es un útero gigante. Y nosotros somos virus.
+
+Un zumbido interrumpió su análisis.
+
+Arriba. En el agujero del techo, recortados contra la luz púrpura.
+
+Tres coleópteros de rastro entraron flotando. No eran los limpiadores blancos inofensivos. Eran negros. Esferas de quitina oscura con luces rojas pulsantes y alas silenciosas. Coleópteros de búsqueda y eliminación.
+ 
+ —Nos buscan —susurró Leo, haciéndose pequeño contra el suelo—. Coleópteros de rastro.
+
+—Elena no pierde el tiempo —dijo Silas, cogiendo su rifle empapado. Comprobó el mecanismo. Estaba cubierto de limo amarillo—. Mierda. Se va a encasquillar. El percutor está sucio.
+
+Los coleópteros empezaron a escanear el atrio con rayos de enfoque rojos, barriendo la superficie de la piscina en patrones de cuadrícula, buscando calor, buscando movimiento.
+ 
+ —No podemos luchar —dijo Leo—. Estamos heridos. Tu arma no funciona. Y ella puede ver a través de sus lentes de rastro. Si nos ven, nos aplastará con la gravedad.
+
+—Entonces nos escondemos —dijo Silas, mirando alrededor con ojos de depredador acorralado—. ¿Dónde?
+
+Leo miró el atrio. Era un espacio abierto. Tiendas de lujo a los lados de dos niveles. Escaparates rotos.
+
+—Debajo del agua —sugirió Leo—. El líquido es denso, bloqueará los sensores térmicos.
+
+—Y nos ahogaremos o nos envenenaremos con esa mierda —dijo Silas—. No. Mira allí.
+
+Señaló una vitrina de datos de cristal que parpadeaba cerca de una columna.
+ 
+ *Nivel 1: Boutiques de Lujo / Joyería.*
+ *Nivel 0: Atrio / Piscina de la Vida.*
+ *Nivel -1: Mantenimiento / Drenaje / Reciclaje.*
+
+—Abajo —dijo Leo, entendiendo—. Al drenaje. Si esto es una piscina, tiene que tener bombas de circulación. Tiene que haber un sistema de tuberías.
+
+—Al alcantarillado —dijo Silas con una mueca de disgusto—. Genial. De un ático de lujo a la mierda, en tiempo récord. La historia de mi vida.
+
+Se levantaron, agachados, pegados a las sombras de las columnas de mármol falso. Se movieron en silencio, dejando un rastro húmedo en el suelo.
+
+El primer coleóptero pasó cerca, su luz roja barriendo el lugar donde habían estado hace diez segundos. El zumbido de sus alas de quitina sonaba como un enjambre de avispas enfadadas.
+ 
+ Corrieron hacia la puerta de servicio marcada con el símbolo de riesgo biológico. Estaba cerrada. Un panel de sellado de flujo con una luz roja parpadeante les cerraba el paso.
+
+—Mierda —dijo Silas, forcejeando con la manilla de acero—. Cerrada magnéticamente. Necesitamos una tarjeta de nivel 4.
+
+El coleóptero se giró hacia el ruido metálico. Su ojo rojo se fijó en ellos. Detuvo su patrulla. Emitió un chillido agudo de alerta que heló la sangre de Leo.
+ 
+ *INTRUSOS LOCALIZADOS. INICIANDO SENTENCIA DE EXTERMINIO.*
+ 
+ El coleóptero abrió sus compuertas laterales, revelando cañones de proyectiles de espinas.
+
+—¡Ábrela, Leo! —gritó Silas, poniéndose delante de Leo para usar su cuerpo como escudo humano.
+
+Leo puso su mano sobre el panel. No tenía códigos. No tenía tiempo para corromper. Sus manos temblaban. Estaba agotado. El bucle temporal le había drenado.
+
+Pero tenía entropía. Siempre quedaba entropía para destruir.
+
+—*Oxídate* —ordenó a la cerradura electrónica, volcando todo su miedo en la Esfera.
+
+La Esfera brilló débilmente. Pero fue suficiente.
+
+El metal de la cerradura se volvió marrón, se deshizo en escamas de óxido naranja en un instante. Los muelles internos se partieron por la fatiga de metal acelerada. La puerta cedió bajo su propio peso con un gemido metálico.
+
+Entraron y cerraron la puerta de una patada justo cuando una distorsión de flujo quemaba el metal exterior, dejando una marca negra humeante donde había estado la cabeza de Silas un segundo antes.
+ 
+ *BOOM.*
+ 
+ Un proyectil de espinas impactó contra la puerta desde fuera, abollándola hacia dentro, pero la cerradura oxidada se había fundido con el marco, sellándolos momentáneamente.
+ 
+ Se encontraron en un pasillo oscuro, iluminado solo por luces de emergencia rojas giratorias. El sonido de bombas de flujo masivas llenaba el aire, un *thump-thump* rítmico como el corazón de una bestia.
+ 
+ Olor a humedad, a moho y a ese químico dulce y asqueroso del líquido amniótico.
+ 
+ —Estamos dentro —dijo Leo, apoyándose en la pared fría, deslizándose hasta el suelo empapado—. Hemos escapado.
+ 
+ Silas se dejó caer a su lado, sacando un cargador nuevo y limpiando el limo de su rifle con un trozo de tela seca que sacó de un bolsillo interior impermeable. Sus manos temblaban ligeramente, pero sus movimientos eran precisos.
+ 
+ —No hemos escapado, chico —dijo el veterano, mirando la puerta abollada que vibraba con los golpes de los coleópteros al otro lado—. Solo nos hemos metido en la madriguera del conejo. Y la Reina está ahí fuera con una lupa, esperando a que salgamos para quemarnos como a hormigas.
+
+Leo miró su mochila. La Esfera estaba apagada, fría como una piedra de río. Agotada. Igual que él. Le dolía la nariz, la cabeza, el hombro. Se sentía viejo.
+
+—¿Viste sus ojos? —preguntó Leo en un susurro—. ¿Viste cómo me miró?
+
+—Vi los ojos de un monstruo —dijo Silas, escupiendo al suelo—. Vi un blanco.
+
+—Era Elena. Tiene sus recuerdos. Me reconoció.
+
+—No —Silas cargó el rifle con un chasquido metálico definitivo—. Los recuerdos son datos. Se pueden copiar. Lo que hay en esa torre quiere comerse el mundo, Leo. Y tú lo escuchaste. Quiere a los Titanes. Quiere abrir el Gran Sello.
+
+—¿Dónde está el Gran Sello? —preguntó Leo.
+
+Silas señaló hacia abajo, hacia la oscuridad del túnel de mantenimiento que descendía en espiral hacia las profundidades de la tierra.
+
+—Abajo. En lo más profundo. Donde duermen los Titanes. Si ella llega primero... no habrá mundo que salvar.
+
+Leo se levantó con esfuerzo. Le dolía todo el cuerpo. Cada músculo gritaba. Pero el miedo a lo que Elena podía hacer era más fuerte que el dolor.
+
+—Tenemos que llegar antes que ella —dijo Leo—. Ella va a ir por la ruta principal, usando los ascensores, majestuosa. Nosotros...
+
+—Nosotros vamos por las tripas —terminó Silas, sonriendo, una sonrisa torcida y llena de cicatrices—. El camino sucio. Eso sí que se me da bien.
+
+Se adentraron en la oscuridad del túnel, dejando atrás la luz púrpura, descendiendo hacia el verdadero corazón de Apectus, hacia donde dormían los dioses.
+
+**[FIN DEL CAPÍTULO 31]**
+
+
+<div style="page-break-after: always;"></div>
+\newpage
+
+# CAPÍTULO 32: EL SISTEMA
+
+Si Apectus era el rostro hermoso, maquillado de mármol blanco y luz de neón púrpura, el subsuelo eran las tripas purulentas que mantenían al cadáver caminando.
+
+El calor era lo primero que te golpeaba al cruzar la puerta de mantenimiento. No era un calor normal, físico, como el del desierto o el de un horno industrial. Era un calor húmedo, pesado, agresivo. Olía a grasa quemada, a cobre oxidado y a algo dulce y podrido que se te pegaba al paladar como una capa de aceite rancio. No era el calor seco del volcán, era un calor biológico, opresivo, como estar atrapado dentro de la boca cerrada de un perro gigante y enfermo que tiene fiebre.
+
+Leo se secó el sudor de la frente con la manga de su camisa, dejándose una mancha negra de lodo y grasa en la piel pálida. Su respiración sonaba rascada en sus propios oídos, cada inhalación quemando un poco más la garganta, irritando las mucosas con partículas de metal y esporas.
+
+—Dime que vamos bien —dijo, gritando para hacerse oír sobre el ruido ensordecedor de las bombas hidráulicas que llenaban el aire con un *thump-thump* rítmico, un latido geológico que hacía vibrar el suelo bajo sus botas.
+
+—Vamos hacia abajo —dijo Silas, que caminaba delante iluminando el camino con una linterna química verde sujeta a su chaleco táctico—. Es la única dirección que importa. Si quieres encontrar la verdad, siempre tienes que bajar a la mierda.
+
+Estaban en una pasarela de rejilla oxidada suspendida sobre un abismo de maquinaria titánica. Debajo, en la oscuridad insondable, tuberías del grosor de vagones de tren se retorcían como serpientes negras, bombeando el fluido amarillo hacia la ciudad de arriba. Las tuberías no eran rígidas. Leo se fijó bien, entornando los ojos contra la penumbra. Pulsaban. Las juntas de dilatación, hechas de un polímero flexible similar a la piel, se expandían y contraían con un ritmo lento y siniestro, imitando la peristalsis biológica.
+
+—Parecen intestinos —dijo Leo con asco, viendo cómo una tubería se estremecía al pasar un coágulo de presión de alta densidad.
+
+—Son intestinos —corrigió Silas, sin mirar atrás, su voz distorsionada por el eco—. Procesan los desechos de la ciudad, los re-enriquecen con química sintética y los vuelven a enviar arriba. Reciclaje total. Nada se pierde en Apectus. Ni el agua, ni la mierda, ni los muertos. Todo se tritura, se digiere y vuelve al ciclo. Es un ecosistema cerrado perfecto. Y nosotros somos las bacterias.
+
+Una gota de condensación cayó sobre el cuello de Leo. Quemaba como ácido diluido. Se limpió rápidamente, sintiendo la piel irritada y roja.
+
+Avanzaron durante una hora que pareció un día, descendiendo escaleras de caracol interminables que vibraban bajo sus botas, cruzando puentes colgantes que se balanceaban peligrosamente sobre piscinas de lodo hirviendo. El ruido era constante, un latido industrial que se te metía en los huesos y te hacía vibrar los dientes, impidiendo pensar con claridad.
+
+—Esto me recuerda a la Guerra del Subsuelo —dijo Silas de repente, su voz rasposa pero audible en un momento de relativo silencio entre bombeos—. Hace cuarenta años. La Fundación intentó tomar una de las Ciudades Huecas del norte. Nos metimos por los drenajes para flanquear sus defensas automatizadas.
+
+—¿Ganasteis? —preguntó Leo, sorprendido de que el veterano hablara de su pasado voluntariamente. Silas solía ser una tumba con sus recuerdos.
+
+—Nadie gana en los túneles, chico. Solo sobrevives o te conviertes en abono. Perdimos a tres pelotones por el calor y las alucinaciones antes de ver al primer enemigo. El subsuelo no quiere que estés aquí. Es un organismo con sistema inmunológico. Y nosotros somos la infección.
+
+De repente, Silas se detuvo en seco. Levantó el puño cerrado. La señal universal de *alto*.
+
+Leo se congeló, agudizando el oído, intentando filtrar el ruido de fondo de las bombas.
+
+Debajo del estruendo geológico de las máquinas, se oía algo más. Un sonido agudo, rápido, orgánico. *Click-click-click-skitter*. Como uñas de metal corriendo sobre metal. O patas Quitinosas.
+
+—¿Ratas? —preguntó Leo, esperando que fueran ratas. Las ratas eran comprensibles. Las ratas se podían asustar o pisar.
+
+—Ojalá —susurró Silas con gravedad. Apagó su linterna de golpe, sumergiéndoles en la penumbra roja de las luces de emergencia que parpadeaban en las paredes—. Al suelo. Ahora.
+
+Se agacharon detrás de una válvula gigante cubierta de óxido y moho negro.
+
+En la oscuridad, Leo vio movimiento sobre las tuberías calientes que cruzaban el techo sobre ellos, a unos veinte metros de altura. Pequeñas formas del tamaño de un gato, pero aplanadas, con demasiadas patas. Brillaban con una luz azul tenue, bioluminiscente, que pulsaba en sus abdómenes traslúcidos. Y no eran unas pocas.
+
+Había cientos.
+
+Cubrían una sección entera de la tubería principal, palpándola con sus antenas, buscando fugas de energía. Parecían un cáncer de luz azul devorando el metal negro. En el centro del enjambre, había una más grande, del tamaño de un perro grande, hinchada de luz azul y con pinzas más largas.
+
+—Nido —susurró Silas—. Tenemos un nido de Garrapatas de Flujo.
+
+—¿Garrapatas? —preguntó Leo, sintiendo un escalofrío.
+
+—Parásitos del sistema. Se alimentan de la energía residual de las tuberías y del Flujo ambiental. Esa gorda es la Reina. Si nos detectan...
+
+—¿Nos atacan?
+
+—Si una nos detecta, emite una feromona de alarma. Todas atacan a la vez. Se lanzan sobre ti, perforan tu traje y te drenan el Flujo en segundos. Luego te inyectan una enzima digestiva ácida para licuarte por dentro. Y lo peor... si las matas rompiendo su saco de gas, explotan con la fuerza de una granada de mano. Son bombas con patas.
+
+—Fantástico —susurró Leo, sintiendo un sudor frío recorrerle la espalda—. ¿Cómo pasamos? Bloquean el único puente que cruza al sector siguiente.
+
+—Despacio. Son casi ciegas. No reaccionan al sonido por el ruido de las bombas —explicó Silas—. Reaccionan al calor y a la luz ultravioleta del Flujo. Apaga la Esfera ahora mismo.
+
+—Si la apago del todo, tardará minutos en reiniciar los giroscópios y calibrarse —dijo Leo, protegiendo su mochila—. Y si necesito usarla...
+
+—Pues tápala, joder. Que no emita ni un fotón. Y reza para que no tengan hambre.
+
+Leo se quitó la mochila y la abrazó contra su pecho, cubriéndola con su cuerpo y su chaqueta, sofocando la firma energética de la Esfera. Sentía su calor a través de la tela, un latido ansioso, como un animal enjaulado.
+
+Silas sacó su cuchillo de combate de cerámica y una bengala química apagada de su cinturón.
+
+—Voy a crear una distracción. Cuando yo tire esto, corres. Sin mirar atrás. Sin dudar.
+
+—¿Qué vas a hacer?
+
+Silas activó la bengala. *FSSSS*. Una luz roja brillante, de magnesio, iluminó el túnel como un sol en miniatura.
+
+Las garrapatas gritaron al unísono, un sonido agudo y chirriante que hizo doler los oídos de Leo. Todas las cabezas ciegas del enjambre se giraron hacia la luz repentina.
+
+Silas lanzó la bengala con fuerza hacia el pozo de ventilación opuesto, lejos del puente, al otro lado del abismo.
+
+La luz roja trazó un arco en el aire y cayó por el hueco, rebotando en las paredes metálicas.
+
+El enjambre reaccionó. Se movió como una sola entidad, una marea de luz azul y patas metálicas, persiguiendo la fuente de calor y luz hacia el pozo, abandonando su posición en el puente.
+
+—¡AHORA! —gritó Silas.
+
+Corrieron.
+
+Sus botas resonaban en la rejilla metálica del puente, *clang-clang-clang*. Leo sintió el viento de su propia carrera en la cara. Miró de reojo. Algunas garrapatas se habían quedado atrás, rezagadas, confundidas.
+
+Una de ellas, más pequeña pero rápida, saltó desde una viga superior hacia la pasarela, cortándoles el paso. Siseó, abriendo sus mandíbulas llenas de agujas.
+
+Silas ni se detuvo. Su brazo se movió en un borrón oscuro.
+
+*SPLAT.*
+
+Cortó a la criatura en el aire con su cuchillo de cerámica. Las dos mitades cayeron al vacío a ambos lados de la pasarela antes de que pudieran explotar. Silas había cortado el fusible biológico con precisión quirúrgica.
+
+Cruzaron el puente y llegaron a la puerta estanca al otro lado. Silas giró la rueda oxidada con un gruñido de esfuerzo. Leo le ayudó, tirando con todo su peso.
+
+*BANG. BANG.*
+
+Algo golpeó la puerta desde el otro lado justo cuando la cerraban. Explosiones sordas retumbaron en el metal. Las garrapatas habían explotado contra el acero. Pero estaban a salvo.
+
+—Ha estado cerca —jadeó Leo, apoyándose en las rodillas, con el corazón martilleándole las costillas.
+
+—Demasiado —dijo Silas, limpiando su cuchillo—. El subsuelo está despierto. Y cabreado.
+
+Siguieron avanzando por el pasillo de hormigón desnudo. El aire se volvió más frío, menos húmedo. El olor a ozono reemplazó al olor a podredumbre.
+
+De repente, Leo se detuvo. Había visto algo en la pared.
+
+—Espera.
+
+Iluminó la pared de hormigón con una pequeña linterna de mano.
+
+Allí, grabado a cuchillo en la piedra dura, había un símbolo.
+
+Un ojo dentro de un triángulo. El símbolo de la Fundación. Pero estaba modificado brutalmente. Alguien había tachado el ojo con una X profunda y agresiva, como queriendo negar su visión. Y debajo, había una flecha tosca y una palabra escrita en el alfabeto cifrado que Leo conocía bien:
+
+*NÚCLEO.*
+
+Y otra palabra más pequeña, casi ilegible por el musgo que había crecido sobre ella:
+
+*CAINE.*
+
+—Silas —dijo Leo, tocando las letras con reverencia. Sus dedos recorrieron los surcos en la piedra, sintiendo la rabia con la que habían sido tallados—. Mira esto.
+
+Silas se acercó, iluminando la inscripción con su linterna verde. Pasó sus dedos callosos por la piedra, leyendo las marcas como un ciego lee braille.
+
+—El viejo —dijo, y por primera vez, Leo oyó algo parecido a una emoción rota, quizás esperanza, quizás un viejo dolor, en su voz—. Estuvo aquí. Realmente bajó. Ese hijo de perra lo hizo.
+
+Leo cerró los ojos por un segundo. Un recuerdo le asaltó con la fuerza de un golpe físico.
+
+*El estudio de Caine. Hacía años. El olor a papel viejo y tabaco. El abuelo estaba dibujando en un cuaderno de piel, sus manos temblando ligeramente por la edad pero firmes en el trazo.
+"Leo, presta atención. Deja ese juguete. El mundo está lleno de señales. La gente ve grafitis, ve suciedad, ve grietas. Un Rastreador ve historias. Si ves un triángulo invertido, es peligro. Si ves un círculo con un punto, es agua potable. Pero si ves esto..." Caine dibujó una X sobre un ojo con tinta negra.
+"¿Qué es eso, abuelo?"
+"Eso significa 'La Verdad'. Significa que lo que ves es mentira. Significa 'Cava más hondo'. Significa que la realidad es una costra y tienes que arrancarla."*
+
+—La Verdad —susurró Leo, abriendo los ojos—. Dejó esto para quien viniera detrás. Para Elena. O para mí. Sabía que vendríamos.
+
+—Hace cuánto... —murmuró Silas, rascando el musgo con la uña—. El musgo ha crecido dentro de los cortes. Meses. Quizás un año. Coincide con cuando desapareció "oficialmente" de su casa.
+
+—Entonces sigue vivo —dijo Leo con renovada convicción—. Bajó hasta aquí. Buscaba lo mismo que nosotros.
+
+—Buscaba a los Primordiales —dijo Silas, cargando su rifle con un movimiento seco—. O buscaba una forma de matarlos antes de que despertaran. El viejo siempre fue pragmático. Sabía que no se puede negociar con una tormenta.
+
+—Sigue la flecha —dijo Leo, señalando la dirección—. Apunta hacia ese conducto.
+
+La flecha apuntaba hacia un conducto de ventilación en el suelo, con la rejilla arrancada a la fuerza. Los tornillos estaban doblados hacia fuera, como si alguien hubiera tenido mucha prisa o mucha fuerza.
+
+—Hacia abajo —dijo Silas—. Siempre hacia abajo. Al infierno.
+
+Se metieron en el conducto. Era estrecho, claustrofóbico. Tuvieron que arrastrarse sobre los codos, arrastrando las mochilas. El metal estaba frío y olía a polvo antiguo y estática. Leo sentía el peso de kilómetros de roca y ciudad sobre su espalda, una presión física que amenazaba con aplastarlo si se detenía.
+
+Salieron a una sala gigantesca que les robó el aliento y casi la cordura.
+
+Era una caverna esférica, excavada en la roca madre del planeta. En el centro, colgando de cadenas masivas que se perdían en la oscuridad del techo, había un órgano mecánico gigante. Un fuelle de cincuenta metros de ancho, hecho de cuero sintético, metal y tejido biológico, que subía y bajaba rítmicamente.
+
+*HUUUUUU... HAAAAAAA...*
+
+El sonido era como la respiración de un dios dormido. El viento que generaba les golpeó la cara, cálido y cargado de esporas.
+
+—El Pulmón —dijo Silas, su voz empequeñecida por la escala del lugar—. Aquí es donde oxigenan el fluido antes de enviarlo al Núcleo.
+
+El aire en la sala era denso, visible. Una niebla amarilla flotaba alrededor del fuelle, escapando de las válvulas de sobrepresión.
+
+—Ponte la máscara —advirtió Silas, sacando un trapo—. Ese gas...
+
+Pero Leo ya había respirado.
+
+Y el mundo se rompió.
+
+No fue un golpe físico. Fue mental. El gas que escapaba del fuelle no era solo oxígeno. Era *Pneuma*. Gas alucinógeno procesado de las esporas de los Titanes, usado para mantener a la ciudad en un estado de semi-sueño dócil a través de la ventilación. Pero aquí estaba concentrado. Puro.
+
+Leo parpadeó. Y de repente, ya no estaba en la pasarela de metal.
+
+Estaba en un campo de batalla.
+
+Pero no era un campo de batalla normal. El suelo estaba hecho de carne pulsante. El cielo era de hueso blanco.
+
+A su alrededor, soldados con armaduras antiguas de la Fundación, modelos de hace un siglo, disparaban rifles cinéticos contra sombras gigantescas que se movían en el horizonte.
+
+Los soldados no tenían cara. Tenían flores en lugar de cabezas. Rosas rojas, orquídeas púrpuras, lirios blancos que sangraban polen negro.
+
+—¡Mantened la línea! —gritó uno de los soldados-flor, con la voz de Silas pero más joven—. ¡No dejéis que despierten! ¡Si despiertan, soñarán con nosotros y desapareceremos!
+
+Leo miró sus propias manos. No eran manos. Eran raíces. Sus dedos se alargaban, marrones y retorcidos, hundiéndose en la carne del suelo, bebiendo sangre caliente.
+
+—Tengo sed —susurró Leo. Pero su voz sonó como el crujido de ramas secas en invierno.
+
+Miró al frente. La sombra gigante se movió. Era un Omega. Pero no era un monstruo físico. Era un ángel hecho de geometría imposible, de ángulos que dolían a la vista. Tenía mil ojos y ninguno le miraba a él. Miraban a través de él. Miraban su futuro y su pasado.
+
+—Eres una mala hierba —dijo el Ángel con una voz que era un terremoto, vibrando en los dientes de Leo—. Has crecido torcida. Debes ser podada para que el jardín florezca.
+
+El Ángel levantó una mano de luz pura. Iba a borrarlo de la existencia. Iba a convertirlo en abono.
+
+Leo quiso gritar, defenderse, usar su Esfera. Pero sus raíces le sujetaban. Sintió que la tierra le tragaba. Sintió que se convertía en parte del suelo. Sintió la paz absoluta de dejar de ser un individuo y ser parte del jardín. Una paz seductora, cálida, perfecta.
+
+—Sí —pensó Leo, cerrando los ojos—. Quiero ser hierba. Quiero dormir. Estoy tan cansado de luchar...
+
+Dio un paso hacia el vacío, hacia la boca del Ángel, que en realidad era el abismo bajo la pasarela del Pulmón.
+
+*CLACK.*
+
+Algo le golpeó la cara. Fuerte. Dolor real. Agudo.
+
+El mundo de carne y flores se rompió como un espejo.
+
+Leo parpadeó, sacudiendo la cabeza. Estaba de rodillas en el borde de la pasarela del "Pulmón". A un centímetro de las puntas de sus botas, solo había caída libre hacia el fluido hirviendo amarillo.
+
+Silas estaba encima de él, sujetándole por el chaleco con una mano de hierro, con la otra mano levantada para darle otra bofetada.
+
+—¡RESPIRA! —gritó Silas, su cara distorsionada por la furia y el miedo—. ¡Mírame! ¡No respires esa mierda amarilla! ¡Respira a través de la nariz!
+
+Leo tosió, escupiendo bilis. La realidad volvió de golpe. El ruido de las bombas, el calor, el metal oxidado bajo sus rodillas.
+
+—Vi... —balbuceó Leo, temblando incontrolablemente—. Vi la guerra. Vi flores en las caras de los hombres. Vi al Primordial.
+
+—Viste el gas —dijo Silas, tirando de él hacia el centro de la plataforma, lejos del borde y de la niebla—. Es Pneuma crudo. Alucinógeno de grado militar. Te fríe el cerebro y te hace creer que quieres morir. Te ofrece paz.
+
+—Era... hermoso —susurró Leo. Y eso era lo que más le aterrorizaba.
+
+—Esa es la trampa —dijo Silas, sacando una máscara de gas de repuesto de su mochila y poniéndosela a Leo a la fuerza—. Los Primordiales no te dan miedo. Te dan paz. Te hacen querer ser parte de ellos. Por eso perdimos la guerra. Porque la mitad de mis hombres dejaron de luchar, soltaron las armas y se tumbaron en el suelo a esperar a que el musgo los cubriera. Murieron sonriendo.
+
+Leo respiró el aire filtrado, rancio y metálico de la máscara. Era el mejor aire que había probado nunca. Limpió las visiones de su mente.
+
+—Gracias —dijo, con la voz apagada por el filtro—. Casi salto.
+
+—No me des las gracias. Camina. Y si te vuelves a parar a mirar las flores, te tiro yo mismo.
+
+Cruzaron el resto del Pulmón saltando por los pistones gigantes. Leo no miró abajo. No miró a la niebla amarilla. Solo miró la espalda ancha de Silas, su ancla con la realidad.
+
+Llegaron al otro lado, a una plataforma de control.
+
+Allí había un ascensor de carga gigante.
+
+Y estaba funcionando.
+
+Las luces rojas del panel indicaban que la cabina no estaba allí. Estaba bajando.
+
+Los números en el display analógico cambiaban rápidamente.
+
+*-90... -95... -99...*
+
+—Alguien lo ha llamado —dijo Leo, mirando el panel con horror—. O alguien va dentro.
+
+Silas miró el indicador de profundidad final.
+
+*NIVEL -99: CÁMARA DEL SELLO. ACCESO RESTRINGIDO: NIVEL OMEGA.*
+
+—Está bajando al fondo —dijo Silas, golpeando el metal de la barandilla con frustración—. Elena. No perdió el tiempo en la torre. Envió algo. O usó los conductos rápidos de la Torre Central. Nos lleva ventaja.
+
+—Tenemos que alcanzarlo —dijo Leo—. Si abre el Sello... si libera a los Titanes...
+
+—No podemos parar ese ascensor. Y no podemos llamarlo de vuelta. Tardaría media hora.
+
+Silas miró el hueco del ascensor. Oscuridad infinita. Cables de acero tensos del grosor de un brazo que bajaban hacia el centro de la tierra, vibrando con la tensión del descenso de la cabina. El viento soplaba hacia arriba desde el abismo, trayendo un olor a algo antiguo. A ozono y electricidad estática.
+
+—¿Tienes guantes? —preguntó Silas, ajustándose los suyos.
+
+—Sí.
+
+—Pues póntelos y reza para que el tejido reforzado aguante la fricción. Vamos a hacer rappel rápido por los cables de soporte. 90 pisos de caída.
+
+—Es una locura.
+
+—Es la única opción. O saltamos, o dejamos que ella gane.
+
+Silas saltó al hueco sin dudarlo, agarrándose al cable grasiento con las piernas y las manos, deslizándose hacia la oscuridad a una velocidad suicida. Las chispas volaron bajo sus manos.
+
+Leo miró el símbolo de Caine que había copiado en su mente. La X sobre el ojo. La Verdad está abajo.
+
+Respiró hondo, tragando el miedo, y saltó al vacío tras él.
+
+Hacia el Núcleo. Hacia la verdad final. Hacia los dioses que dormían bajo sus pies.
+
+**[FIN DEL CAPÍTULO 32]**
+
+
+<div style="page-break-after: always;"></div>
+\newpage
+
+# CAPÍTULO 33: EL NÚCLEO
+
+El infierno no es fuego. El infierno es fricción.
+
+Leo gritaba, pero el viento de la caída le arrancaba el sonido de la garganta, dispersándolo en el vacío de kilómetros de profundidad como si nunca hubiera existido. Sus manos, envueltas en guantes tácticos de tejido reforzado reforzado, humeaban. Literalmente. El humo blanco y acre subía en espirales violentas, cegándole. El calor generado por el deslizamiento a través del cable de fibra antigua trenzado era suficiente para fundir la goma de las suelas de sus botas si intentaba frenar con los pies, soldando el plástico a la piel en una agonía lenta y dulce.
+
+Bajaban hacia la oscuridad absoluta a una velocidad que ningún ser humano debería experimentar sin un paracaídas o una oración.
+
+Arriba, el cuadrado de luz amarillo del nivel del "Pulmón" se hacía cada vez más pequeño, una estrella moribunda y enferma que se alejaba en el universo equivocado. Abajo, solo había un abismo que olía a algo antiguo y metálico, como sangre seca sobre una espada de bronce abandonada en una cripta sellada hacie eones por gente que sabía más que ellos.
+
+—¡FRENAR! —gritó Silas desde abajo.
+
+El veterano iba diez metros por delante de él. Leo vio las chispas que saltaban de sus botas cuando intentaba pinzar el cable con los pies, creando una lluvia de fuego dorado en la oscuridad.
+
+—¡NO PUEDO! —gritó Leo. Sus músculos ardían. Sus bíceps estaban en llamas, inyectados de ácido láctico. Sentía que el hombro recién recolocado iba a salirse de nuevo por la tensión, desgarrando la cápsula articular. Cada fibra de su cuerpo le gritaba que se soltara, que acabara con el dolor, que se entregara a la gravedad.
+
+—¡AGUANTA! —rugió Silas, su voz luchando contra el rugido del viento—. ¡Si te sueltas, mueres! ¡Piensa en algo! ¡Usa la cabeza!
+
+La cabina del ascensor estaba bajando, pero ellos bajaban más rápido, acelerados por la gravedad y su propio peso. Era una carrera matemática contra la muerte. Si no calculaban bien, se estrellarían contra el techo de la cabina a una velocidad terminal. Serían puré de carne antes de tocar el suelo.
+
+Y entonces, el abismo decidió complicar las cosas.
+
+Algo zumbó en la oscuridad. Un sonido que no pertenecía a la física de la caída.
+
+Un coleóptero de rastro.
+ 
+ Salió de un conducto lateral, una esfera negra con alas de insecto orgánico que batían a una frecuencia invisible. Sus lentes rojas, brillantes como brasas, enfocaron a Leo.
+ 
+ —*...intruso...* —dijo la criatura con una voz distorsionada pero dolorosamente humana. Era la voz de un niño.
+ 
+ El coleóptero desplegó una sierra de hueso de su abdomen. Iba directo a cortar el cable de Leo.
+ 
+ —¡SILAS! —gritó Leo, el pánico helándole la sangre.
+ 
+ Silas no podía disparar. Tenía las dos manos ocupadas sujetándose a la vida en el cable grasiento.
+ 
+ Leo tuvo que tomar una decisión imposible. Soltó una mano del cable. La fricción en la otra mano se duplicó instantáneamente. Gritó de dolor mientras su guante empezaba a desintegrarse. Sacó su lanzador con la mano libre, temblando violentamente por la vibración del cable.
+ 
+ El coleóptero se lanzó en picado.
+ 
+ *BANG.*
+ 
+ Leo disparó. La bala trazó una línea de fuego en la oscuridad. Impactó en el tórax de la criatura. La criatura orgánica chilló —un sonido real de dolor animal— y explotó en una nube de chispas y fluido viscoso que salpicó la cara de Leo.
+
+Pero el retroceso del disparo hizo que Leo perdiera el agarre.
+
+Resbaló.
+
+Cayó cinco metros de golpe antes de volver a agarrar el cable con las dos manos, frenando con pura desesperación. El tirón casi le arranca los brazos de las cuencas. Gritó, un sonido animal y roto.
+
+—¡Joder! —jadeó, con lágrimas de dolor en los ojos. Sus muñecas latían como si estuvieran rotas.
+
+—¡Sigue bajando! —gritó Silas—. ¡Ya casi estamos! ¡No te mueras ahora!
+
+De repente, una luz roja parpadeó en la oscuridad.
+
+*BEEP. BEEP.*
+
+Era la luz de posición del techo de la cabina. Estaba a cincuenta metros. Y bajaba rápido, pero no lo suficiente. Iban a chocar en tres segundos.
+
+Leo cerró los ojos un instante. El dolor le hizo viajar en el tiempo. Recordó una tarde de lluvia con Caine.
+
+*Estaban en el jardín, cavando bajo la lluvia torrencial. Leo era pequeño, apenas ocho años. Sus manos estaban llenas de barro negro.
+"Abuelo, ¿hasta dónde podemos cavar?"
+"Hasta que la tierra sangre, Leo."
+Caine se había parado, apoyándose en la pala. Miraba al suelo con una mezcla de respeto y terror que Leo nunca había entendido hasta hoy. Sacó de su bolsillo una brújula negra. La aguja no apuntaba al Norte. Apuntaba hacia abajo.
+"¿La tierra sangra?"
+"Todo lo que vive sangra si cavas lo suficiente. Y el mundo está vivo. Nunca lo olvides. No vivimos sobre una roca muerta flotando en el espacio. Vivimos sobre una espalda. Una espalda caliente. Y si cavas demasiado profundo, despiertas al dueño. Y el dueño tiene hambre."*
+
+—¡PREPÁRATE PARA EL IMPACTO! —rugió Silas, rompiendo el recuerdo como un cristal.
+
+Leo vio cómo Silas soltaba una mano del cable, quedándose colgado solo de un brazo mientras caía a 80 kilómetros por hora. Sacó su cuchillo de cerámica con la mano libre. ¿Qué iba a hacer? ¿Cortar el cable? Si hacía eso, morirían.
+
+Silas clavó el cuchillo en el núcleo del cable de fibra antigua. No de lado. Directamente en el trenzado.
+
+*SCREEEEEEEEECH.*
+
+El sonido fue como si el mundo se partiera en dos. Un chillido agudo, metálico, que hizo sangrar los tímpanos de Leo. El cuchillo de cerámica actuó como un freno de emergencia improvisado, cortando los hilos exteriores del cable y lanzando una lluvia de chispas doradas y azules que iluminó el pozo entero por un segundo como un relámpago en una botella.
+
+Silas frenó de golpe, su descenso reduciéndose a una fracción de segundo entre nubes de humo de fricción.
+
+Leo no tenía cuchillo. Iba a chocar contra él. Lo iba a matar con su propio peso.
+
+—¡SUÉLTATE! —gritó Silas, viendo venir el impacto— ¡AHORA!
+
+Estaban a cinco metros del techo de la cabina.
+
+Leo cerró los ojos y soltó el cable.
+
+La caída libre duró un segundo eterno. En ese segundo, el silencio fue absoluto. Leo pensó en Elena. En la Elena real. En cómo ella solía decir que caer era como volar, solo que con un final repentino. Pensó que iba a morir.
+
+*WHAM.*
+
+Aterrizó sobre el techo de metal corrugado del ascensor. El impacto le sacó todo el aire de los pulmones con un sonido húmedo, *crhumph*. Rodó, protegiéndose la cabeza, golpeándose el hombro dislocado contra una turbina de ventilación, y se agarró desesperadamente a una caja de mantenimiento para no rebotar hacia el vacío.
+
+Silas cayó a su lado un segundo después, aterrizando con la gracia pesada de un gato de hierro, absorbiendo el impacto con las rodillas flexionadas al máximo. Sus botas dejaron marcas en el metal.
+
+Estaban vivos. Sobre el ascensor.
+
+La cabina seguía bajando, suavemente, con un zumbido eléctrico, ajena a sus polizones.
+
+Leo se quedó tumbado boca arriba, mirando la oscuridad que pasaba a toda velocidad, jadeando, intentando enfriar sus manos contra el metal frío. Sus guantes estaban destrozados, el tejido reforzado fundido y pegado a la piel de sus palmas en algunos puntos. Le dolía respirar. Le dolía existir.
+
+—¿Estás vivo? —preguntó Silas, comprobando su rifle instintivamente, limpiando una mancha de grasa de la mira con su pulgar.
+
+—Creo que sí —dijo Leo, escupiendo algo que sabía a sangre. Le dolía todo. Cada centímetro de piel—. ¿Cuánto falta?
+
+Silas miró su cronógrafo de bronce de su muñeca. La placa de cristal brillaba en verde pálido, la única luz en el abismo.
+
+—Estamos en el Nivel -95. Faltan cuatro pisos. Prepárate. En cuanto esto pare, se abrirán las puertas de abajo. Y ella saldrá.
+
+—¿Qué hacemos? —preguntó Leo, intentando levantarse. Las piernas le temblaban como gelatina—. ¿Entramos por la escotilla de mantenimiento?
+
+—No. Si entramos, nos matará en un espacio cerrado con su gravedad. Seríamos ratas en una trampa. Tenemos que esperar a que salga. La emboscamos desde arriba. El elemento sorpresa es lo único que nos queda contra una diosa.
+
+Leo asintió. Se arrastró hasta el borde del techo y miró hacia abajo, hacia el abismo que se abría bajo la cabina.
+
+Las luces del pozo empezaron a cambiar. Ya no eran las luces rojas de emergencia de la zona industrial.
+
+Eran luces... orgánicas.
+
+Las paredes del pozo dejaron de ser de hormigón y acero. Empezaron a ser de algo que parecía coral negro, húmedo y brillante. Venas del grosor de troncos de árbol pulsaban en las paredes, emitiendo una luz bioluminiscente de color ámbar suave. El aire se volvió caliente, húmedo, con un olor dulce a flores podridas y ozono.
+
+Leo vio algo moverse en la pared. Un tentáculo de coral intentó rozar la cabina como una lengua perezosa. La pared estaba viva. Intentaba agarrarlos.
+
+—¿Qué es esto? —susurró Leo, fascinado y horrorizado. Tocó la pared del pozo mientras bajaban. Estaba caliente. Pulsaba bajo sus dedos con un ritmo cardíaco lento y monstruoso.
+
+—La Zona Cero —dijo Silas, cargando su arma con un clack metálico—. Donde termina la arquitectura de la Fundación y empieza la biología del Titan. Estamos bajando a la carne del mundo. La ciudad es solo un caparazón, una costra sobre la herida. Esto... esto es el animal. Y está despierto.
+
+El ascensor empezó a frenar. Los frenos hidráulicos sisearon, soltando vapor.
+
+*NIVEL -99. CÁMARA DEL SELLO.*
+
+El ascensor se detuvo con un golpe suave, casi reverente.
+
+Debajo de sus pies, oyeron las puertas de la cabina abrirse con un suave *dings*.
+
+—*Bienvenidos, mis niños* —dijo la voz de Elena. No gritaba. Hablaba con una calma imperial que resonó en el pozo, amplificada por la acústica de la caverna—. *Salid a jugar. Mamá os ha traído la cena.*
+
+Leo y Silas se miraron. La voz no sonaba humana. Sonaba múltiple. Como si mil voces hablaran al unísono, superpuestas en una armonía disonante. Era la voz de una legión.
+
+Escucharon pasos. Muchos pasos. Pesados, metálicos, pero también arrastrados, húmedos.
+
+Y luego escucharon algo que heló la sangre de Leo.
+
+Un zumbido. Millones de alas. O de máquinas pequeñas.
+
+—ojos vigÃ­a —susurró Leo.
+
+—Peor —dijo Silas, asomándose al borde con cuidado—. Mira.
+
+Leo se asomó.
+
+Lo que vio le robó el aliento y la esperanza.
+
+La Cámara del Sello no era una habitación. Era una catedral cósmica. Una cavidad esférica de un kilómetro de diámetro, excavada en el hueso del planeta. Las paredes estaban cubiertas de ese coral negro que respiraba, columnas de tejido calcificado que subían hasta perderse en la oscuridad como costillas de un gigante muerto.
+
+Y el suelo... el suelo no era roca.
+
+Era una membrana. Una piel translúcida, lechosa, tensa como un tambor, que se extendía de pared a pared, cubriendo el abismo inferior. Tenía venas azules y doradas que la recorrían como ríos de luz. Y debajo de esa piel...
+
+Había luz. Sombras inmensas, continentales, se movían lentamente en un líquido ámbar viscoso.
+
+Ojos. Vio un ojo abrirse bajo la membrana. Un ojo del tamaño de un estadio de fútbol. Dorado, con una pupila rectangular, antigua y fría. No tenía esclerótica. Era todo iris. Un pozo de conocimiento inhumano.
+
+El Titán. Estaba justo debajo de sus botas. Durmiendo. Soñando pesadillas de eras pasadas.
+
+Y Elena estaba de pie en el centro de la membrana, pequeña como una mota de polvo blanco, con los brazos abiertos, recibiendo la adoración de la caverna.
+
+A su alrededor, flotaban sus "niños".
+
+No eran coleópteros normales. Los sirvientes de la Fundación solían ser esferas negras, perfectas, estériles. Estos...
+ 
+ Eran pesadillas.
+ 
+ Estaban cubiertos de tumores de carne. Tejido muscular rojo unía las placas de quitina, conectando nervios con tendones. Ojos humanos reales, arrancados de algún sitio —probablemente de los cadáveres de la ciudad—, estaban injertados en las lentes biológicas, parpadeando de forma asincrónica. Bocas humanas, cosidas al chasis, susurraban estática.
+ 
+ Cyborgs de carne muerta y metal vivo.
+ 
+ Uno de los coleópteros pasó cerca del techo del ascensor, patrullando. Leo pudo ver su "cara". Era la cara de un hombre joven, estirada sobre la estructura orgánica como una máscara de cuero mal curada.
+ 
+ —*...matadme...* —susurró la criatura con una voz de mujer distorsionada, aunque la cara era de hombre—. *...por favor... duele...*
+
+Leo se tapó la boca para no vomitar.
+
+—Ha traído a su corte —dijo Silas con asco puro, apretando el rifle hasta que sus nudillos se pusieron blancos—. Ha fusionado la tecnología con la plaga. Ha esclavizado a los muertos. Eso no es evolución. Es profanación.
+
+—Tenemos que bajar —dijo Leo, sintiendo que la Esfera en su mochila vibraba con fuerza, reaccionando a la presencia de los Titanes con un calor furioso—. Antes de que haga lo que sea que va a hacer.
+
+Silas miró la distancia. Diez metros desde el techo del ascensor hasta el suelo (la membrana).
+
+—Saltamos a mi señal. Objetivo: Elena. Ignora las criaturas. Si ella cae, ellas caen. Son marionetas. Corta los hilos y el show termina.
+
+—Entendido.
+
+Silas contó con los dedos. Tres. Dos. Uno.
+
+Saltaron al vacío.
+
+Leo activó su Esfera en el aire, sintiendo la caída en el estómago.
+
+—*Gravedad... ligera.*
+
+Aterrizaron sobre la membrana. No sonó como metal. Sonó como carne golpeada. *Thump*. Se sentía como pisar un colchón de agua gigante hecho de piel caliente. Vibraba bajo sus botas. Debajo, algo se movió. Un continente de músculo se desplazó en el ámbar. El Titán había sentido sus pasos.
+
+De repente, la membrana reaccionó.
+
+El suelo bajo los pies de Leo se volvió blando. Como arenas movedizas. Intentó absorberle.
+
+—¡SILAS! —gritó Leo, hundiéndose hasta las rodillas.
+
+—¡Muevete! —gritó Silas, que también luchaba contra el suelo.
+
+La membrana quería comérselos. Sentía que no pertenecían allí.
+
+Elena se giró lentamente. No parecía sorprendida. Les sonrió con esa boca llena de dientes demasiado perfectos, demasiado blancos, demasiado afilados. Sus ojos eran agujeros negros. Caminaba sobre la membrana sin hundirse. Ella sí pertenecía.
+
+—Llegáis tarde —dijo, acariciando el aire con sus manos de dedos negros y largos—. La cena ya está servida. Y los invitados están muy hambrientos.
+
+Levantó su Esfera Negra. Parecía un agujero negro en su mano, absorbiendo la luz ámbar de la sala, curvando el espacio a su alrededor.
+
+—Miradlos, Leo —dijo, señalando el suelo transparente—. ¿No son hermosos? ¿No están gordos y llenos de vida? Llevan mil años engordando con nuestros sueños. Son ganado. Y nosotros somos los carniceros.
+
+Leo miró abajo. El ojo gigante le miraba. Sintió una presión en la mente. Una voz que no era una voz. *¿Mala hierba? ¿Por qué despiertas?*
+
+—Están durmiendo —dijo Leo, sintiendo el peso de esa mirada cósmica. Le dolía la cabeza. Luchó por sacar sus piernas de la membrana, que succionaba como una boca hambrienta—. Déjalos dormir. Si despiertan, el mundo se acaba.
+
+—El sueño es para los débiles —dijo Elena, caminando hacia él. La membrana se oscurecía bajo sus pies, reaccionando a su presencia con placer—. Es hora de despertar. Es hora de comer. La necrosis no es muerte, Leo. Es digestión. Es el ciclo natural. Ellos nos comieron primero. Ahora nos toca a nosotros. ¿No lo ves? Este mundo es un plato. Y nosotros tenemos el tenedor.
+
+Silas levantó su rifle. Apuntó a la cabeza de Elena.
+
+—Se acabó la charla —dijo Silas.
+
+*BANG.*
+
+Disparó.
+
+La bala impactó contra un escudo invisible de gravedad a un centímetro de la frente de Elena. Se aplastó como una moneda de plomo inútil.
+
+Elena rio. Una risa que sonó como cristal rompiéndose.
+
+Y clavó la Esfera Negra en la membrana.
+
+El suelo gritó.
+
+No fue un sonido físico. Fue una onda de choque psíquica.
+
+Leo cayó de rodillas, agarrándose la cabeza. Sintió que alguien le clavaba un picahielo en el cerebro. Sangre caliente manó de su nariz. Vio imágenes de ciudades ardiendo, de cielos negros, de un mundo devorado.
+
+La membrana empezó a volverse negra alrededor de la esfera de Elena. Necrosis instantánea. Se estaba pudriendo a velocidad acelerada, extendiéndose como tinta en agua, disolviendo la barrera entre los hombres y los dioses.
+
+—El Sello se rompe —rio Elena, su voz distorsionada por el éxtasis—. Y los dioses tienen hambre.
+
+Los coleópteros de rastro giraron sus ojos humanos hacia Leo y Silas. Y gritaron, con mil voces humanas robadas.
+ 
+ —*MAMÁ TIENE HAMBRE.*
+
+**[FIN DEL CAPÍTULO 33]**
+
+
+<div style="page-break-after: always;"></div>
+\newpage
+
+# CAPÍTULO 34: EL DESPERTAR
+
+El sonido del final del mundo no fue una explosión. Fue un suspiro.
+
+Cuando Elena clavó la Esfera Negra en la membrana, el tejido de la realidad pareció rasgarse como una sábana de seda vieja que no puede soportar más tensión. No hubo fuego, no hubo terremoto inmediato. Solo hubo una exhalación. Un sonido húmedo, profundo y gutural que salió de debajo del suelo transparente, como si una ballena del tamaño de un continente soltara el aire que había guardado durante milenios en sus pulmones de magma. El aire vibró, denso.
+
+Y luego, la gravedad murió.
+
+Fue instantáneo. Leo sintió que su estómago se le subía a la garganta, una náusea violenta y repentina. Sus pies se separaron del suelo elástico de la membrana. Silas, a su lado, flotaba, con los brazos agitándose en molinete buscando un agarre inexistente, su rifle alejándose de su cuerpo atado solo por la correa táctica. Las piedras sueltas, el polvo, los casquillos de bala del disparo fallido... todo empezó a ascender lentamente hacia la cúpula de la caverna, como si el techo fuera el nuevo suelo y alguien hubiera girado el mundo.
+
+—¿Qué está pasando? —gritó Leo, girando en el aire sin control, incapaz de orientarse. El pánico era una bola de hielo creciendo en su pecho.
+
+—¡El campo gravimétrico! —rugió Silas, agarrándose *in extremis* a una estalactita de coral negro que colgaba cerca, sus dedos blancos por el esfuerzo—. ¡El Titán está alterando la masa local al despertar! ¡Su sola presencia distorsiona la física como un agujero negro! ¡Agárrate a algo, chico!
+
+Abajo, en el suelo que ya no era suelo, la mancha negra de la necrosis se expandía como una flor de tinta floreciendo a cámara rápida. Pero ya no importaba. Porque la membrana se estaba disolviendo.
+
+El líquido ámbar... el fluido amniótico de los dioses... empezó a subir.
+
+No subía como el agua. Subía en glóbulos gigantes, esferas perfectas de líquido dorado del tamaño de coches, flotando en la gravedad cero. Brillaban con luz propia, iluminando la caverna con destellos oníricos como soles en miniatura. Cada gota era un pequeño apocalipsis de luz.
+
+Leo vio una de esas esferas pasar cerca de él, rozando su bota. El calor que irradiaba era como el de un horno de forja abierto. Dentro del líquido denso, vio algo retorciéndose. Un parásito antiguo. O quizás un recuerdo fosilizado del sueño del Titán. Un feto no nacido de otra era.
+
+Un zumbido rompió el silencio del vacío.
+
+Los bio-ojos vigÃ­a de Elena.
+
+Ellos no necesitaban gravedad. Tenían alas de carne y propulsores híbridos. Y estaban enfadados. Sus ojos humanos injertados, parpadeando desincronizados, buscaron objetivos con precisión de depredador.
+
+—*...intrusos...* —susurró el enjambre con mil voces rotas y superpuestas, un coro de los condenados.
+
+Tres ojos vigÃ­a se lanzaron hacia Leo, sus alas de carne batiendo el aire estático. Cuatro más fueron hacia Silas.
+
+—¡Mierda! —Leo intentó nadar en el aire, pataleando, pero era inútil. No había resistencia. Se sentía como un insecto en ámbar.
+
+Pero entonces recordó. Tenía la Esfera. La Esfera Azul. Control de Entropía... y Gravedad localizada.
+
+—*Ancla* —pensó Leo, concentrándose en sus botas con toda su voluntad, visualizando raíces de energía clavándose en la roca.
+
+La Esfera en su mochila vibró con fuerza, calentándose contra su espalda hasta quemar a través de la tela. Generó un campo de gravedad personal.
+
+Leo sintió como si una prensa hidráulica invisible le aplastara desde los hombros hacia abajo. Sus rodillas crujieron bajo la presión repentina de simular 1G en un entorno de cero G. El aire salió de sus pulmones en un bufido doloroso. Pero funcionó. La física local se dobló a su voluntad.
+
+Leo cayó.
+
+No hacia el suelo real. Hacia la pared más cercana. Aterrizó con los pies en una columna de coral vertical, que para él ahora era el suelo. La perspectiva se rompió en su mente, el vértigo fue abrumador.
+
+Sacó su lanzador, apuntando al revés desde la perspectiva de Silas.
+
+*BANG. BANG. BANG.*
+
+Disparó desde su posición anclada. Las balas trazaron líneas rectas en el aire caótico, sin curvarse por la falta de gravedad. Destrozó a dos coleópteros en explosiones de chispas y fluido viscoso. El tercero chocó contra una esfera de líquido ámbar y quedó atrapado, sus alas batiendo inútilmente, hundiéndose en el fluido divino como una mosca en miel.
+ 
+ Silas, colgando de la estalactita con una mano, usó la otra para disparar su rifle contra las criaturas que le perseguían. *BANG. CLACK. BANG.* Cada disparo era preciso, mortal.
+ 
+ —¡Me quedan tres balas! —gritó Silas—. ¡Gastamos más de lo que tenemos!
+ 
+ —*Mirad* —la voz de Elena resonó en todas partes. Omnipresente. Como si saliera de las paredes mismas, de la roca, del líquido, del interior de sus cráneos.
+ 
+ Ella flotaba en el centro de la cámara, con los brazos abiertos como recibiendo una bendición, rodeada de sus coleópteros de rastro restantes como un sistema solar de horror. No parecía asustada. Parecía en éxtasis religioso, en comunión con lo divino. La gravedad no la afectaba, o ella la controlaba con su Esfera Negra. Su pelo blanco flotaba como un halo de medusa venenosa.
+
+—*Mirad cómo despierta un Leviatán.*
+
+Debajo de ella, la membrana terminó de romperse en pedazos que flotaron como islas de piel muerta, separándose como témpanos de hielo en un océano caliente.
+
+Y el Ojo se abrió del todo.
+
+La luz dorada inundó la caverna, cegadora, pura, absoluta. Leo tuvo que cerrar los ojos, y aun así vio la luz a través de sus párpados, roja y pulsante. Sintió un calor en la piel, no como fuego, sino como resonancia de flujo letal directa, cociendo sus células, reescribiendo su piel.
+
+—¡NO MIRES! —gritó Silas desde su estalactita—. ¡TE QUEMARÁ LA RETINA! ¡ES LUZ DE FLUJO PURO!
+
+Pero Leo miró. No pudo evitarlo. La curiosidad humana, esa maldición ancestral. Entreabrió los ojos, filtrando la luz con sus dedos.
+
+El Ojo no tenía fin. Era un océano de oro líquido. Y en el centro, una pupila negra rectangular se contrajo, enfocando la realidad, enfocándole a él.
+
+El Titán les vio.
+
+Y Leo sintió su insignificancia. No era miedo. Era algo peor. Era la certeza absoluta de que él era una bacteria en la piel de algo incomprensible. Una hormiga mirando a un sol. Sintió el peso de una mente que había pensado en continentes y eras geológicas mientras él aún era polvo cósmico esperando juntarse. Era un pensamiento que podría haber destruido su mente si hubiera durado un segundo más.
+
+Entonces, el Titán parpadeó.
+
+Y la gravedad volvió.
+
+Pero no volvió normal.
+
+Volvió multiplicada por tres.
+
+*SLAM.*
+
+El aire se volvió plomo.
+
+Leo cayó de la pared. Perdió su "ancla" y cayó hacia el suelo real de la caverna (o a lo que quedaba de la orilla de coral) con la fuerza de un martillazo hidráulico. Sus huesos crujieron al impactar. Sintió que sus costillas se doblaban hacia dentro. Se mordió la lengua.
+
+Silas se estampó contra la pared de roca y resbaló hacia abajo, dejando un rastro de sangre de su nariz y frente rotas. Gruñó de dolor, un sonido húmedo y casi un aullido.
+
+Los glóbulos de líquido ámbar que flotaban en el aire cayeron de golpe como bombas de agua de tonelada.
+
+Pero cuando tocaron la roca... sisearon.
+
+El líquido había cambiado. Al contacto con el aire y la luz, se había oxidado químicamente. Ya no era ámbar. Se había vuelto verde oscuro. Bilis. Ácido digestivo. El Titán estaba digiriendo su entorno.
+
+*FSSSSS.*
+
+Una gota del tamaño de un puño cayó a un metro de Leo. La roca sólida se disolvió en segundos, dejando un cráter humeante que apestaba a azufre.
+
+—¡ÁCIDO! —gritó Silas, rodando para alejarse de otra salpicadura—. ¡SU SISTEMA INMUNOLÓGICO SE HA ACTIVADO! ¡ESTÁ SEGREGANDO ÁCIDO PARA LIMPIARSE DE NOSOTROS! ¡SOMOS LA INFECCIÓN!
+
+El suelo de la caverna se estaba llenando de un océano de ácido corrosivo. Y el nivel subía rápido, alimentado por la ruptura del sello.
+
+—¡Arriba! —Leo señaló hacia los conductos de ventilación en el techo de la caverna, a cien metros de altura. Parecían inalcanzables bajo esta gravedad aplastante—. ¡Tenemos que subir!
+
+—¡No puedo moverme! —gritó Silas, intentando levantarse bajo un peso que le triplicaba—. ¡Pesa demasiado!
+
+Leo activó su Esfera de nuevo, sintiendo el tirón en su columna vertebral.
+
+—*Ligereza* —ordenó, extendiendo el campo hacia Silas.
+
+El peso disminuyó. No desapareció, pero se hizo soportable.
+
+—¡Elena! —Leo miró al centro del lago de ácido que se formaba.
+
+Elena había caído también. Estaba de rodillas sobre una isla de membrana necrosada que aún flotaba en el ácido hirviente, deshaciéndose lentamente bajo ella.
+
+Se puso de pie, tambaleándose bajo la gravedad aplastante. Su vestido blanco estaba manchado de negro y verde. Levantó su Esfera Negra hacia el Ojo gigante que ahora emergía del líquido, un sol subterráneo que no debería existir.
+
+—¡YO TE HE DESPERTADO! —gritó ella. Su voz era humana ahora, rota por el esfuerzo, despojada de la divinidad artificial, llena de desesperación—. ¡YO TE HE DADO LA VIDA! ¡SOY TU MADRE! ¡OBEDÉCEME!
+
+Lanzó un rayo de energía negra hacia el Ojo. Una orden de control. Una correa psíquica diseñada para esclavizar mentes.
+
+El Titán ni siquiera parpadeó.
+
+Simplemente... existió.
+
+Una onda de presión mental golpeó a Elena. No fue un ataque. Fue la simple diferencia de potencial entre una mente humana y una conciencia titánica. Fue como intentar detener un tren de mercancías con una hoja de papel mojado. No había comparación.
+
+Elena salió despedida hacia atrás, como si hubiera recibido un disparo de cañón invisible. Su cuerpo chocó contra una columna de coral con un crujido horrible. Cayó al ácido.
+
+—¡NO! —gritó Leo instintivamente.
+
+Vio cómo Elena salía del ácido gritando, su piel humeando, su ropa disolviéndose. Sus bio-ojos vigÃ­a se lanzaron a sacarla, sacrificándose, disolviéndose en el líquido verde para formar una balsa de chatarra y carne quemada para su reina herida.
+
+—¡Olvídala! —Silas agarró a Leo por el chaleco y tiró de él—. ¡Está muerta o lo estará pronto! ¡Tenemos que salir de aquí antes de que la ciudad se nos caiga encima!
+
+El techo de la caverna empezó a agrietarse. Rocas del tamaño de casas caían al lago de ácido, levantando olas mortales de espuma verde.
+
+Apectus, la ciudad de arriba, estaba perdiendo sus cimientos. La Torre Central se estaba inclinando visiblemente.
+
+El despertar del Titán estaba rompiendo la cáscara del mundo.
+
+Leo y Silas empezaron a escalar la pared de coral negro, huyendo de la marea verde. El coral estaba caliente, casi vivo, y latía bajo sus manos. El ácido les mordía los talones, subiendo un metro por segundo.
+
+—¡No vamos a lograrlo! —jadeó Leo, con los músculos ardiendo.
+
+—¡Cállate y escala! —rugió Silas, clavando los dedos en una grieta.
+
+Leo miró hacia abajo un segundo.
+
+El Titán se movía.
+
+No era un movimiento pequeño. Era un movimiento geológico. Una cordillera de carne se elevaba del líquido ámbar, desplegándose como un brazo de un gigante que despierta de una siesta de eones. El Ojo, ahora en el centro de esa "cabeza" que emergía, barría la caverna con su mirada dorada.
+
+Buscaba. Buscaba la fuente del dolor. Buscaba a quien lo había despertado.
+
+Elena.
+
+Elena, flotando en su balsa de coleópteros muertos, sangrando, quemada, pero viva. Levantó la mirada hacia el Ojo. Y por primera vez, Leo vio miedo verdadero en su cara.
+
+El Titán abrió la boca.
+
+No era una boca humana. Era una fisura horizontal del tamaño de una presa hidroeléctrica. Dentro, no había dientes, había luz. Un sol en miniatura.
+
+—*Tú* —el pensamiento golpeó sus mentes, no como una palabra, sino como un concepto puro, una vibración tectónica.
+
+—*¡Yo te puedo servir!* —gritó Elena, cayendo de rodillas en su balsa, suplicando—. *¡Yo te desperté! ¡Yo puedo ser tu voz! ¡Tu herramienta!*
+
+El Titán exhaló.
+
+Un viento ardiente barrió la caverna. Leo y Silas se aferraron a la roca para no ser arrastrados al vacío.
+
+Pero no hubo respuesta. No hubo aceptación. Ni siquiera hubo rechazo consciente.
+
+El Ojo simplemente se desvió. La presencia mental del Titán pasó a través de Elena como si ella fuera humo. No era odio. Era algo peor. Era una indiferencia biológica absoluta. Para la montaña, la hormiga que grita no existe.
+
+—*SILENCIO* —el concepto resonó en la caverna, aplastante y final. No "cállate". Sino "deja de existir en mi frecuencia".
+
+Y cerró los ojos, ignorándola. Volvió a hundirse lentamente en el líquido, como quien se da la vuelta en la cama para seguir durmiendo, desdeñando el mundo.
+
+La gravedad volvió a la normalidad de golpe.
+
+Leo y Silas cayeron sobre una cornisa. El ácido dejó de subir tan rápido. El Titán no estaba muerto. Solo había decidido que no valía la pena despertar del todo por una molestia tan menor como los humanos.
+
+Pero el daño estaba hecho.
+
+La ciudad de arriba seguía colapsando.
+
+—¡VAMOS! —gritó Silas, señalando un conducto de ventilación que expulsaba aire caliente con fuerza—. ¡ARRIBA! ¡ESE CONDUCTO NOS LLEVARÁ A LA ZONA DE MANTENIMIENTO!
+
+Corrieron hacia la abertura, mientras el mundo se derrumbaba a su alrededor. Leo saltó al conducto, sintiendo el aire caliente empujarle hacia arriba.
+
+Detrás de él, Elena gritó de rabia.
+
+—*¡ESTO NO HA TERMINADO, LEO! ¡TE ENCONTRARÉ! ¡OS ENCONTRARÉ A TODOS!*
+
+Pero su voz se perdió en el rugido del Titán volviendo a dormir.
+
+**[FIN DEL CAPÍTULO 34]**
+
+
+<div style="page-break-after: always;"></div>
+\newpage
+
+# CAPÍTULO 35: EL SACRIFICIO
+
+El conducto de ventilación era un intestino de metal al rojo vivo que les vomitaba hacia la superficie con puños de aire ardiente.
+
+El calor era insoportable. Cada bocanada de aire quemaba los pulmones, secaba la boca, hacía que los ojos lagrimeasen constantemente. El metal de las paredes del túnel brillaba con un tono naranja en algunos puntos, calentado por la entramado colapsando debajo, por el magma de los sistemas que se rompían. Leo trepaba por las rejillas de ventilación, clavando los dedos en las ranuras, sintiendo cómo el tejido reforzado fundido de sus guantes se pegaba a la piel nueva que se formaba debajo. Cada agarre era un pequeño infierno.
+
+Arriba. Todo era arriba. Era lo único que importaba. Subir o morir.
+
+Detrás de él, Silas jadeaba. El veterano trepaba con una determinación mecánica, como un autómata, pero Leo podía oír el crujido de sus articulaciones, el gemido ahogado cada vez que su rodilla derecha se doblaba bajo su peso. La rodilla que había absorbido el impacto de una docena de caídas durante la misión.
+
+—¡Sigue! —gritó Leo hacia abajo—. ¡Faltan cincuenta metros! ¡Veo luz arriba!
+
+—Ya te oigo —gruñó Silas, su voz ronca y seca como papel de lija sobre acero.
+
+Pero su voz sonaba débil. Rota. Como si cada palabra le costara más que la anterior.
+
+Una explosión retumbó debajo de ellos. El túnel entero vibró violentamente. Los tornillos de las uniones del conducto saltaron disparados como metralla. Una sección entera del túnel se separó de la pared con un chirrido metálico agónico y cayó al vacío abrasador, llevándose una escalera de servicio y desapareciendo en la luz naranja del fuego.
+
+—¡Mierda! —Leo saltó hacia el otro lado del hueco recién formado, estirando los brazos al máximo. Se agarró a una tubería de refrigeración. La tubería estaba ardiendo, el metal casi rojo. Gritó de dolor, un sonido animal, pero no soltó. No podía soltar.
+
+Se giró para ayudar a Silas a cruzar el hueco.
+
+Silas no estaba detrás de él.
+
+—¿Silas? —Leo miró hacia abajo, el pánico disparándose en su pecho.
+
+El veterano estaba diez metros más abajo, colgando de una rejilla de apoyo con un solo brazo. Su pierna derecha colgaba en un ángulo imposible, la rodilla doblada hacia adentro.
+
+—¡SILAS!
+
+Leo empezó a bajar, saltando de agarre en agarre.
+
+—¡NO! —rugió Silas con una voz que aún contenía fuego—. ¡Quédate donde estás, chico!
+
+—¡Voy a sacarte!
+
+—¡No vas a poder! —Silas tosió. Sangre salpicó la rejilla, gotas negras en el metal gris—. Mi rodilla está rota del todo. Tengo tres costillas perforándome el pulmón. Peso el doble de lo que tú puedes cargar. Y tenemos a la puta de la Reina Negra persiguiéndonos.
+
+Como si la hubiera invocado con sus palabras, un zumbido resonó en el túnel. Venía de abajo. Crecía.
+
+Los coleópteros de rastro. Estaban subiendo por el conducto.
+ 
+ —*...madre os busca...* —susurró el eco de sus voces múltiples, distorsionadas, superpuestas—. *...hijos desobedientes...* 
+ 
+ —¡Tienes que subir! —dijo Silas. No era una petición. Era una orden militar, pronunciada con la autoridad de treinta años de servicio.
+ 
+ —¡No voy a dejarte aquí! —gritó Leo, sintiendo las lágrimas mezclarse con el sudor que le quemaba los ojos—. ¡No después de todo!
+ 
+ Silas sonrió. Era la primera sonrisa real que Leo le había visto en todo el tiempo que lo conocía. Era amarga, torcida, llena de arrugas de guerra, pero era genuina. Era la sonrisa de un hombre que finalmente veía el final.
+ 
+ —Leo. Escúchame. Escúchame bien porque no tengo tiempo ni fuerzas para repetirlo.
+ 
+ Silas se acomodó contra la rejilla, encontrando una posición algo menos dolorosa.
+ 
+ —He matado a gente en mi vida. Mucha gente. Mujeres. Niños. Civiles que estaban en el lugar equivocado. ¿Recuerdas la Aldea de los Espejos? La que la Fundación dijo que era un nido de insurgentes. Yo lideré el escuadrón que la limpió. No eran insurgentes, Leo. Eran granjeros. Familias. Y los maté a todos porque me dieron una orden.
+ 
+ La voz de Silas se agrietó.
+ 
+ —He servido a la Fundación durante treinta años. He hecho todo lo que me ordenaron porque creía que estaba protegiendo algo importante. La civilización. La humanidad. Pero era mentira. Todo era mentira. Somos custodios de una finca que no es nuestra. Y yo fui su perro guardián.
+ 
+ El zumbido de los coleópteros se acercaba.
+
+Silas sacó algo de su bolsillo interior, moviéndose con dolor. Un papel doblado, manchado de sangre y sudor, amarillento por el tiempo.
+
+—Caine me dio esto. Antes de desaparecer. Es un mapa del mundo exterior. La ruta segura para cruzar las Tierras Salvajes. Hay un asentamiento a dos semanas de aquí, si caminas sin parar. Gente que escapó de la Fundación. Gente que sabe la verdad. Encuéntralos. Diles lo que viste aquí.
+
+Lanzó el papel hacia arriba con la fuerza que le quedaba. Leo lo atrapó, guardándolo instintivamente en su pecho.
+
+—Y Leo... —Silas le miró a los ojos, fijamente—. Encuentra a Elena. A la Elena real. Está ahí fuera. En algún lugar del mundo exterior. Lo sé. Caine la buscaba. Por eso desapareció. La Elena que viste aquí... eso es una copia. Un parásito con sus recuerdos. La verdadera está ahí fuera, esperándote.
+
+—Silas... —La voz de Leo se quebró.
+
+—Vete. —Silas sacó su lanzador del cinturón. Comprobó el cargador. Le quedaba una bala. La cargó con un chasquido metálico—. Voy a sellar este túnel detrás de ti. ¿Ves esa válvula ahí? Es la línea de gas de alta presión que alimentaba los generadores. Cuando la abra y dispare... *boom*. Los ojos vigÃ­a no pasarán. El fuego sellará el túnel. Pero tú tienes que estar fuera antes de que lo haga.
+
+—No. No puedo.
+
+—No te estoy preguntando. —Silas le miró a los ojos con una intensidad que Leo nunca olvidaría. Por primera vez, no había rabia, no había cinismo, no había el sarcasmo del veterano quemado—. Soy un soldado, Leo. Morir luchando es todo lo que me queda. Es lo único que sé hacer bien. Déjame morir en mis términos. Déjame morir haciendo algo bueno por una vez en mi maldita vida.
+
+Leo sintió algo romperse dentro de él. No era dolor. Era respeto. Era la comprensión de que Silas había llevado un peso invisible durante décadas, y que solo ahora podía soltarlo.
+
+—Gracias, Silas. Por todo.
+
+—No me las des. Solo vive. Ahora... ¡CORRE, MALDITA SEA!
+
+Leo corrió.
+
+Trepó como nunca había trepado en su vida. Los músculos gritaban, los tendones crujían, las manos sangraban, pero no se detuvo ni un segundo. Vio luz arriba. Luz natural. Luz de sol filtrándose por las grietas del conducto. Le quemaba los ojos pero era el sonido más hermoso que había visto.
+
+Detrás de él, escuchó la voz de Silas gritando algo incomprensible hacia los coleópteros de rastro que se acercaban. Era un grito de guerra. Era un grito de liberación. Era un grito de un hombre que finalmente era libre.
+
+*CLICK.*
+
+El disparo.
+
+*WHOOOOOOOSH.*
+
+El gas encendiéndose.
+
+*BOOOOOOOOOOOM.*
+
+La explosión le golpeó como una ola de fuego sólido. El túnel se llenó de llamas y humo negro. La onda expansiva le lanzó hacia arriba por la presión, saliendo disparado del conducto como un corcho de una botella de champán de la muerte.
+
+Aterrizó sobre escombros. Rodó por rocas afiladas. Se detuvo contra una pila de hormigón derruido. Sintió algo crujir en su costado, pero estaba demasiado aturdido para registrar dolor.
+
+Tosió humo negro. Mucho humo. Vomitó algo oscuro. Se incorporó lentamente, temblando.
+
+Y vio el mundo.
+
+Apectus ya no existía.
+
+Donde antes había una ciudad de mármol blanco y torres elegantes, ahora había un cráter humeante del tamaño de un estadio olímpico. Los edificios se habían hundido en el abismo creado por el despertar del Titán. Solo quedaban ruinas, columnas rotas, y fuego. Mucho fuego. El humo subía al cielo en columnas espirales negras como dedos acusadores hacia los dioses.
+
+Y arriba...
+
+El cielo.
+
+Leo no había visto el cielo en semanas. Quizás meses. Había perdido la noción del tiempo bajo tierra. Bajo el mármol. Bajo las mentiras.
+
+Era de noche. Pero no era una noche normal. El cielo estaba lleno de estrellas. Más estrellas de las que había visto en su vida. La contaminación lumínica de las ciudades de la Fundación nunca le había permitido ver esto. Y entre las estrellas, una aurora boreal verde y púrpura bailaba lentamente, retorciéndose como serpientes de luz, como los sueños de un Titán que aún no había terminado de despertarse del todo.
+
+Era hermoso.
+
+Y era aterrador.
+
+Porque significaba que estaba fuera. Fuera de las paredes. Fuera de la protección de la civilización. En el mundo real. El mundo de los Titanes. El mundo que la Fundación les había dicho que era la muerte segura.
+
+Leo se levantó. Le dolía todo. Tenía al menos una costilla rota, quemaduras de tercer grado en las manos, y algo mal en el hombro que no quería investigar. Pero estaba vivo.
+
+Miró hacia el cráter. En algún lugar de esas ruinas humeantes, bajo toneladas de escombros y fuego, Silas descansaba. Muerto, pero libre.
+
+—Gracias, viejo —susurró Leo hacia el humo—. Espero que encuentres la paz que buscabas.
+
+Sacó el mapa de su bolsillo. Lo desdobló con manos temblorosas. Tenía manchas de sangre de Silas, pero era legible.
+
+Era un mapa dibujado a mano con tinta negra. Ríos, montañas, bosques. Y una ruta marcada en rojo que cruzaba las "Tierras Salvajes" hacia algo llamado "El Refugio". Y en la esquina inferior derecha, una nota escrita con la letra inconfundible de su abuelo:
+
+*"Leo, si lees esto, no olvides: el mundo es más grande de lo que nos dijeron. La Fundación no es el fin. Es solo un muro. Y Elena te espera al otro lado. Encuéntrala. - Caine."*
+
+Leo miró hacia el horizonte. Hacia el bosque negro que se extendía más allá de las ruinas de Apectus. Árboles del tamaño de montañas, siluetas contra la aurora.
+
+El mundo de los Titanes.
+
+El mundo de Elena.
+
+Guardó el mapa. Apretó los dientes contra el dolor. Y empezó a caminar.
+
+**[FIN DEL CAPÍTULO 35]**
+
+
+<div style="page-break-after: always;"></div>
+\newpage
+
+# CAPÍTULO 36: LA ASCENSIÓN
+
+El silencio del mundo exterior era más ruidoso que cualquier estruendo de batalla.
+
+Leo caminó hacia el bosque, alejándose del cráter humeante de Apectus. Cada paso era un dolor nuevo. La costilla rota protestaba con cada respiración, enviando lanzas de fuego a través de su torso. Las quemaduras de las manos pulsaban al ritmo de su corazón. Pero no podía parar. Si paraba, moriría. Era una ley simple que Caine le había enseñado la primera vez que le llevó al jardín: "El mundo exterior no es malvado, Leo. Solo es indiferente. Y la indiferencia mata más rápido que el odio."
+
+El primer árbol le detuvo en seco.
+
+No era un árbol normal. Era una columna de corteza negra que se alzaba hacia el cielo como una torre de catedral. Leo echó la cabeza hacia atrás, intentando calcular su altura: trescientos metros, quizás más. El tronco tenía un diámetro de cuarenta metros, lo suficiente para contener un edificio de apartamentos. Las ramas empezaban a cien metros de altura, extendiéndose como avenidas horizontales cubiertas de musgo bioluminiscente que brillaba con un verde enfermizo.
+
+No era un bosque. Era un cementerio de gigantes que habían decidido seguir de pie.
+
+Leo sacó el mapa de Caine con manos temblorosas. Estaba manchado de sangre seca -la sangre de Silas- pero las líneas eran legibles. La ruta marcada en rojo cruzaba el "Bosque de las Columnas" durante tres días antes de llegar a un río que bajaba hacia el sur. Había notas en los márgenes, escritas con la letra apretada de su abuelo: *"No comas frutos azules. No toques las flores blancas. Si ves huellas de tres dedos, huye. Si oyes campanas, escóndete."*
+
+Tres días. Solo. Sin preparación. Sin comida. Con medio pulmón funcionando.
+
+Leo guardó el mapa y empezó a caminar.
+
+El suelo del bosque estaba cubierto de hojas del tamaño de colchones matrimoniales. Hongos brillantes crecían en los troncos caídos, iluminando el camino con una luz verde enfermiza que proyectaba sombras retorcidas. El silencio era casi total, roto solo por el crujido de sus botas sobre la hojarasca y el goteo constante de rocío desde las alturas insondables.
+
+Leo sintió que estaba caminando por el interior de una catedral abandonada. Una catedral construida para dioses que ya no rezaban, abandonada cuando encontraron lugares más grandes que conquistar.
+
+Después de una hora de caminata, el hambre lo golpeó como un puño. No había comido en... ¿día y medio? El tiempo bajo tierra era difícil de medir.
+
+Encontró un arbusto con bayas rojas brillantes creciendo en un claro donde un rayo de luz solar lograba penetrar el dosel. Recordó las lecciones de Caine, sentado en la cocina con un cuenco de frutos del jardín. *"Rojo es seguro, azul es muerte, blanco es locura. Y si brilla en la oscuridad, ni lo toques."*
+
+Leo arrancó un puñado de bayas rojas. Las probó con cuidado, dejando que el sabor le diera información. Estaban amargas pero no quemaban la lengua, no causaban hormigueo. Comestibles. Comió un puñado, sintiendo el líquido frío bajar por su garganta reseca, aliviando un poco el dolor.
+
+Entonces escuchó el sonido.
+
+Un chasquido. Arrítmico. Como huesos golpeando madera. O como patas articuladas tamboleando sobre rocas.
+
+Leo se quedó inmóvil. Absolutamente inmóvil. Agudizó el oído.
+
+A través del follaje, viendo entre las hojas gigantes, percibió movimiento. Algo grande. Algo que se movía con patas demasiado largas, demasiado anguladas.
+
+Era un Strider.
+
+Leo lo había visto en las ilustraciones del bestiario de Caine, páginas dibujadas a mano con notas de advertencia. Clase Alfa. Una criatura de ocho metros de altura, con piernas articuladas como las de una araña pero terminadas en cascos de queratina que podían perforar acero. Cuerpo pequeño, casi humanoide, cubierto de una piel encerada de color hueso. Cabeza sin ojos, cubierta de antenas sensitivas que detectaban el calor, el sonido, y las feromonas del miedo.
+
+El Strider estaba a unos cincuenta metros. Husmeaba el aire con sus antenas, inclinando la cabeza de un lado a otro como un perro confundido. Probablemente había olido la sangre fresca de las heridas de Leo.
+
+Leo no corrió. Correr era morir. Lo sabía. Lo había leído. Lo había practicado en simulaciones. Pero nunca lo había vivido. El miedo quería que corriera. El miedo era un animal estúpido.
+
+En su lugar, activó su Esfera lentamente, sintiendo el peso familiar contra su pecho.
+
+—*Quietud* —susurró en su mente, visualizando el concepto como un lago sin ondas.
+
+Era la técnica que el Maestro le había enseñado en las primeras semanas de entrenamiento. Supresión total de la firma biológica. Latido cardíaco mínimo. Respiración superficial, casi imperceptible. Temperatura corporal regulada para igualarse con el ambiente.
+
+Se fundió con el árbol detrás de él, apoyando la espalda contra la corteza húmeda, reduciendo su presencia biológica a la de una roca, a la de un trozo de madera muerta.
+
+El Strider giró su cabeza ciega hacia él. Las antenas vibraron con intensidad. Buscando. Buscando la fuente del olor.
+
+Leo no respiró. Sintió el corazón latiendo en sus sienes como un tambor de guerra. Una gota de sudor resbaló por su mejilla, pero la absorbió antes de que cayera.
+
+El Strider dio un paso hacia él. Sus cascos crujieron sobre las hojas. Luego otro paso.
+
+Se detuvo a cinco metros.
+
+Las antenas barrieron el aire directamente frente a Leo. Olieron. Buscaron. Probaron.
+
+Leo vio los músculos bajo la piel encerada. Vio los nervios en las antenas. Vio la boca, escondida bajo la "barbilla", llena de dientes diseñados para arrancar carne de huesos.
+
+Y luego... el Strider se alejó. Lentamente. Su cabeza giró hacia otro lado. Había perdido la pista. Buscaba otra presa más fácil de detectar.
+
+Leo esperó diez minutos completos antes de moverse. Los contó. Uno a uno.
+
+Cuando finalmente se permitió respirar, sus piernas casi cedieron bajo él. Se dejó caer contra el árbol, temblando incontrolablemente.
+
+—Estoy vivo —murmuró al vacío—. Todavía estoy vivo.
+
+Siguió caminando hasta que la luz cambió. El cielo, filtrado por las copas gigantes, pasó de un púrpura crepuscular a un negro total. La noche en el bosque era diferente a la noche bajo tierra. Aquí había estrellas, visibles entre los huecos del dosel. Pero también había sonidos. Criaturas nocturnas despertando. Aullidos lejanos que resonaban entre las columnas. El batir de alas enormes sobre su cabeza.
+
+Leo necesitaba refugio. Urgentemente.
+
+Encontró una grieta en la base de uno de los árboles gigantes. Una cueva natural formada por las raíces entrelazadas. Se arrastró dentro con cuidado, comprobando primero que no hubiera ocupantes.
+
+Estaba vacío. Olía a tierra húmeda y a algo dulce, como flores muertas o fruta fermentada.
+
+Leo se desplomó contra la pared de madera, cada músculo gritando en protesta.
+
+Cerró los ojos.
+
+Y entonces la vio.
+
+*No era memoria exactamente. Era un sueño que luchaba por salir desde un lugar más profundo.*
+
+*Elena estaba de pie en la orilla de un río. Llevaba un vestido de verano azul, manchado de barro en los bordes. Tenía una caña de pescar improvisada en las manos, hecha con una rama y un hilo que él le había ayudado a encontrar.*
+
+*"Leo, ven. Mira esto."*
+
+*Él se acercó. Tenía quizás doce años. Ella tenía quince. Era antes de todo. Antes de que desapareciera de su vida.*
+
+*"¿Ves esa piedra? —Elena señaló un punto en el agua— Si lanzas el anzuelo justo allí, donde el agua hace ese remolino pequeño... ahí es donde se esconden los peces grandes. Es como un escondite. Todos los peces buenos tienen un escondite."*
+
+*Leo lanzó el anzuelo. Falló. La línea cayó muy corta.*
+
+*Elena rio. No se burló de él. Simplemente rio con esa calidez que él nunca había encontrado en nadie más, una risa que era un abrazo en forma de sonido.*
+
+*"Inténtalo otra vez. El fracaso es solo práctica para el éxito."*
+
+Leo abrió los ojos de golpe. La cueva estaba oscura.
+
+Se tocó la cara. Estaba húmeda. Lágrimas.
+
+—Elena... —susurró al vacío—. ¿Cuál de las dos eres tú? ¿La del río o la de la torre?
+
+No había respuesta. Solo el silencio del bosque y el latido de su propio corazón.
+
+Se quedó dormido con el mapa apretado contra el pecho.
+
+---
+
+Despertó con el sonido del fuego.
+
+No era su fuego. Él no había encendido ninguno.
+
+Leo se incorporó lentamente, con todos los músculos protestando. La luz del amanecer se filtraba por la entrada de la cueva, un resplandor púrpura suave. Pero había otra luz. Más cálida. Más cercana. Naranja.
+
+Venía de más adentro de la cueva, de una cámara que no había explorado anoche.
+
+Leo sacó su lanzador. Le quedaban cuatro balas.
+
+Se movió hacia la luz, silencioso, calculando cada paso para evitar crujidos.
+
+La cueva se abría en una cámara mayor, formada por raíces entrelazadas. Y allí, sentada junto a una hoguera improvisada con piedras y ramas secas, había una figura.
+
+Era una mujer. Llevaba un abrigo de cuero largo cubierto de parches y remiendos de distintos colores. Pelo corto, oscuro, rapado por los lados al estilo militar. Tenía una cicatriz gruesa que le cruzaba la nariz de lado a lado.
+
+Estaba asando algo sobre el fuego. Un pequeño animal desconocido en un espetón. Olía a carne.
+
+La mujer levantó la mirada. Directamente hacia Leo. No parecía sorprendida. Como si le hubiera esperado.
+
+—Tardaste en despertar —dijo con voz ronca—. He estado esperando tres horas. Empezaba a pensar que morirías de agotamiento.
+
+Leo no bajó la lanzador.
+
+—¿Quién eres?
+
+La mujer sonrió. Era una sonrisa de superviviente, llena de dientes amarillentos pero fuertes.
+
+—Me llamo Vera. Y tú debes ser el nieto de Caine. Te pareces a él. Los mismos ojos de loco que no sabe cuándo rendirse.
+
+Leo sintió que el mundo daba una vuelta.
+
+—¿Conocías a mi abuelo?
+
+—Conocerlo es poco —dijo Vera, dando la vuelta al espetón con calma—. Fui su aprendiz antes de que tú nacieras. Me enseñó a sobrevivir en este mundo cuando todos los demás decían que era imposible. Y me dijo que algún día vendrías a buscar a Elena. Así que aquí estoy. Esperándote. Para guiarte hacia ella.
+
+**[FIN DEL CAPÍTULO 36]**
+
+
+<div style="page-break-after: always;"></div>
+\newpage
+
+# CAPÍTULO 37: LA TORMENTA
+
+Vera no hablaba mucho, pero cuando lo hacía, cada palabra era una lección de supervivencia destilada en sílabas.
+
+—No camines en línea recta —dijo, apartando una rama del tamaño de un poste telefónico sin aparente esfuerzo—. Los depredadores de este bosque cazan en línea recta. Son eficientes. Calculadores. Si tú caminas recto, te leen como un libro abierto. Zigzaguea. Cambia de ritmo. Detente sin razón aparente. Sé impredecible.
+
+Leo siguió sus instrucciones, moviéndose entre los troncos titánicos con pasos irregulares. Llevaban caminando seis horas desde que salieron de la cueva donde se habían conocido. El sol estaba alto —o lo que él asumía que era alto, ya que apenas podía verlo a través del dosel impenetrable de hojas gigantes—, filtrando rayos de luz dorada que caían como columnas de otro mundo entre las sombras verdes.
+
+Su cuerpo dolía. La costilla rota enviaba lanzas de fuego cada vez que respiraba profundamente. Las quemaduras de las manos se habían cubierto con costras que tiraban de la piel con cada movimiento de los dedos. Pero podía caminar. Y mientras pudiera caminar, estaba vivo.
+
+El hambre era constante. Leo no había comido adecuadamente desde antes de la huida de Apectus. Las bayas que había encontrado el día anterior apenas habían sido un aperitivo para un cuerpo que necesitaba reconstruirse. Sentía el vacío en el estómago como un recordatorio de su fragilidad.
+
+—¿Conocías bien a mi abuelo? —preguntó Leo, rompiendo el silencio que se había establecido entre ellos.
+
+Vera no respondió inmediatamente. Siguió caminando, su forma enjuta moviéndose entre los helechos gigantes con la facilidad de alguien que había pasado toda su vida en este entorno salvaje. Luego se detuvo junto a un tronco caído del tamaño de un edificio de tres plantas. Se sentó en la corteza negra y miró hacia arriba, hacia el espacio entre las copas donde se entreveía un cielo púrpura.
+
+—Caine me salvó la vida cuando tenía tu edad —dijo finalmente. Su voz era plana, sin emoción aparente, pero Leo podía detectar algo detrás. Algo antiguo y doloroso—. Yo era una huérfana de la Fundación. Una niña de los laboratorios.
+
+Leo se sentó a su lado, sin interrumpir. Sacó un trozo de carne seca que Vera le había dado esa mañana y empezó a masticar. Sabía a cuero salado, pero era proteína.
+
+—¿Sabes lo que son los laboratorios? —preguntó Vera.
+
+—He oído hablar de ellos.
+
+—No. No has oído hablar de la verdad. —Vera le miró con esos ojos grises que parecían haber visto demasiado—. Los laboratorios de la Fundación son donde llevan a los niños con potencial de Flujo pero sin familia que los reclame. Nos usaban para experimentos. Para probar los límites de lo que el cuerpo humano puede soportar cuando se le inyecta esencia de Titán.
+
+Tocó la cicatriz que le cruzaba la nariz.
+
+—Esto es un recordatorio. Una de las enfermeras intentó cortarme la cara cuando me resistí a un procedimiento. Dijo que las ratas de laboratorio no necesitan ser bonitas.
+
+Leo sintió náusea en el estómago, y no solo por el hambre.
+
+—Lo siento.
+
+—No lo sientas. Fue hace treinta años. —Vera volvió a mirar el cielo—. Caine me sacó de allí. No sé cómo se enteró de los laboratorios, pero un día apareció. Mató a cuatro guardias y me llevó con él al exterior. Me enseñó a vivir aquí fuera, donde la Fundación no podía alcanzarnos.
+
+—¿Por qué te salvó?
+
+—Nunca me lo dijo claramente. Pero creo que buscaba algo. Siempre estaba buscando algo. O a alguien.
+
+—Elena.
+
+Vera asintió lentamente.
+
+—Elena llegó después. Mucho después de que yo aprendiera a sobrevivir por mi cuenta. Un día, Caine me contactó a través de los puntos de mensajes que teníamos establecidos. Decía que había encontrado una pista sobre una chica que había sobrevivido a un Injerto completo con una Esfera de Clase Omega. —Vera le miró por encima del hombro—. ¿Sabes lo que eso significa?
+
+—No exactamente.
+
+—Un Injerto es cuando la Fundación intenta fusionar la energía de una Esfera con el sistema nervioso de un humano. El 99% de los sujetos mueren en las primeras horas. De los que sobreviven, la mayoría pierden la cordura en días o semanas. Se convierten en... cosas. Bestias con cuerpos humanos. Pero Elena... Elena no solo sobrevivió, se... fusionó. Su cuerpo aceptó la Esfera como parte de él. Como un órgano nuevo.
+
+—Como yo —dijo Leo, tocándose el pecho donde sentía el peso de su propia Esfera. Pulsaba suavemente, como un segundo corazón.
+
+—No. No como tú. —Vera negó con la cabeza—. Tú tienes una Esfera contigo. La llevas como quien lleva una herramienta. Elena ES la Esfera. O parte de ella. La fusión fue completa. Es algo que nunca se había visto antes ni después. Y por eso Caine la buscaba obsesivamente. Creía que ella era la clave para entender a los Primordiales. Para comunicarse con ellos. Para negociar.
+
+Antes de que Leo pudiera procesar esa información y formular la docena de preguntas que se agolpaban en su mente, el cielo cambió.
+
+Las nubes que habían estado flotando perezosamente sobre el dosel, apenas visibles entre los huecos de las hojas gigantes, se oscurecieron de golpe. No gradualmente, como en una tormenta normal. De golpe. Como si alguien hubiera apagado un interruptor cósmico.
+
+Un viento helado barrió el bosque. La temperatura cayó diez grados en segundos. Los árboles gigantes empezaron a crujir, sus troncos emitiendo gemidos agónicos como si sintieran dolor físico.
+
+—Tormenta Titánica —dijo Vera, levantándose de un salto. Su voz era tensa, urgente, toda la calma anterior evaporada—. Tenemos que buscar refugio. Ahora.
+
+—¿Qué es una Tormenta Titánica?
+
+—¡Corre y te lo explico después!
+
+No era una tormenta normal. Leo lo supo en cuanto vio el primer relámpago.
+
+El rayo no bajó del cielo. Subió de la tierra. Una columna de luz verde brillante que conectó el suelo con las nubes durante tres segundos eternos, iluminando el bosque entero con una claridad fantasmagórica que reveló cada hoja, cada raíz, cada criatura escondida.
+
+El sonido no fue un trueno. Fue un rugido. Un rugido vivo.
+
+—¿Qué es eso? —gritó Leo, tropezando con una raíz mientras corría.
+
+—¡Las raíces! —Vera tiró de él hacia adelante sin reducir el paso—. ¡Los árboles gigantes están conectados por debajo de la tierra! ¡Forman una red de kilómetros! ¡Cuando hay tormenta, acumulan electricidad del cielo y la almacenan en el sistema radicular! ¡Pero cuando hay demasiada carga, la descargan hacia arriba! ¡Es como un sistema nervioso del bosque descargando tensión!
+
+Otro rayo verde explotó a cincuenta metros de ellos. Leo sintió el pelo de sus brazos erizarse por la electricidad estática. Su Esfera vibró en respuesta, reaccionando a la energía ambiental.
+
+—¡No toques ningún tronco! —gritó Vera—. ¡Ni las raíces expuestas! ¡Si estás en contacto cuando descarguen, te freirán!
+
+Corrieron.
+
+Y entonces, entre dos descargas de rayos verdes, Leo escuchó algo peor.
+
+Un chasquido. El sonido de patas articuladas golpeando la madera.
+
+Un Strider.
+
+La criatura apareció entre los árboles, sus ocho metros de altura moviéndose con una gracia antinatural entre los rayos. Sus antenas vibraban, buscando calor a pesar del caos eléctrico.
+
+—¡Mierda! —gritó Vera—. ¡La tormenta los saca de sus nidos!
+
+El Strider los había detectado. Sus cascos de queratina empezaron a moverse hacia ellos.
+
+Leo no pensó. Actuó.
+
+—*Quietud* —susurró, expandiendo su campo de Flujo para incluir a Vera.
+
+Sintió el coste inmediatamente. Un tirón en su estómago, como si algo le arrancara el calor de las entrañas. El hambre que ya sentía se multiplicó por diez. Sus manos empezaron a temblar.
+
+Pero funcionó. Su firma biológica se redujo a casi nada. Las antenas del Strider se detuvieron, confundidas. La criatura giró la cabeza ciega de un lado a otro, buscando una fuente de calor que había desaparecido de golpe.
+
+Un rayo verde impactó a treinta metros. El Strider chilló de dolor y salió corriendo hacia otra dirección, huyendo del bosque en convulsiones eléctricas.
+
+Leo liberó la Quietud.
+
+Inmediatamente, sus piernas cedieron. Cayó de rodillas, jadeando.
+
+—¿Qué hiciste? —preguntó Vera, tirando de él—. Tu temperatura corporal cayó a cero por un segundo.
+
+—Quietud —jadeó Leo—. Supresión de firma biológica. El Maestro me lo enseñó.
+
+—Te lo enseñó mal si te deja así después de diez segundos. —Vera le pasó el brazo por los hombros—. Vamos. Tenemos que seguir moviéndonos. Ya tendrás tiempo de vomitar después.
+
+El bosque se había convertido en un campo minado de electricidad viva. Relámpagos verdes explotaban en todas direcciones, subiendo desde el suelo hacia las nubes en columnas de fuego esmeralda. El aire olía a ozono y madera quemada. El ruido era ensordecedor, un rugido constante de energía liberándose.
+
+Un rayo impactó en un árbol a veinte metros de Leo. El tronco, del grosor de una casa, explotó. Fragmentos de madera carbonizada volaron en todas direcciones. Leo se lanzó al suelo, cubriéndose la cabeza con los brazos.
+
+—¡Arriba! —gritó Vera, tirando de él—. ¡No te pares! ¡Si te quedas quieto, los rayos te encuentran!
+
+Leo no entendía la lógica de eso, pero no era momento de discutir. Se levantó y siguió corriendo, luchando contra el mareo que el uso del Flujo le había causado.
+
+Vera conocía el terreno. Zigzagueaba entre los troncos con una precisión que sugería memorización de cada raíz, cada saliente, cada hueco. Leo la seguía como podía, sus pulmones ardiendo, su costilla rota gritando con cada paso, su estómago vacío protestando con cada zancada.
+
+Y entonces, en medio del caos, Vera encontró algo.
+
+Una colina rocosa, diferente a las demás. No era roca natural. Era hormigón disfrazado de roca, camuflado con décadas de musgo y erosión artificial. Y en la base de la colina, parcialmente enterrada bajo maleza, había una puerta.
+
+Una puerta de metal oxidado. Con el símbolo de la Fundación apenas visible bajo décadas de corrosión: un círculo con un triángulo invertido dentro.
+
+—¡Un bunker! —gritó Vera—. ¡Ayúdame a abrirlo!
+
+Entre los dos, empujaron con todo lo que tenían. La puerta cedió con un chirrido agónico de metal contra metal. Se lanzaron dentro justo cuando un rayo impactaba a diez metros de la entrada, iluminando la oscuridad del interior por un instante cegador.
+
+La puerta se cerró detrás de ellos con un golpe sordo.
+
+Silencio.
+
+La oscuridad del bunker era casi total después de la luz de los relámpagos. Leo se quedó quieto, jadeando, sintiendo el latido de su corazón en las sienes. Lentamente, sus ojos se ajustaron.
+
+Vera encendió una linterna de mano, un dispositivo pequeño que producía una luz amarillenta y débil pero suficiente para ver.
+
+Un pasillo de hormigón se extendía ante ellos. Las paredes estaban cubiertas de polvo y telarañas, pero la estructura parecía intacta después de décadas de abandono. No había olor a podredumbre ni a humedad excesiva. El aire era seco, estancado, pero respirable.
+
+—Esto era una estación de observación —dijo Vera, caminando con cautela—. La Fundación tenía cientos de estos bunkers repartidos por las Tierras Salvajes. Los usaban para estudiar a los Titanes desde una distancia "segura".
+
+—¿Por qué lo abandonaron?
+
+—Porque se dieron cuenta de que no hay distancia segura cuando se trata de Titanes. —Vera empujó una puerta interior que chirrió con protesta—. Por aquí.
+
+El pasillo terminaba en una sala de control. Pantallas muertas cubrían una pared, sus cristales rotos o cubiertos de polvo tan espeso que parecía pelaje. Consolas con botones y palancas que no habían sido tocados en décadas. Y en el centro, una mesa grande con un mapa desplegado.
+
+Leo se acercó al mapa. Estaba amarillento por el tiempo, los bordes carcomidos por la humedad, pero todavía era legible. Mostraba una región enorme —las Tierras Salvajes— con marcas de colores indicando zonas de peligro, rutas de patrulla, y... asentamientos.
+
+Y allí, marcado con un círculo rojo en el centro del mapa, estaba un lugar llamado "El Refugio".
+
+Pero Leo no se detuvo ahí. Mientras Vera examinaba el mapa, él exploró el resto de la sala. Había archivadores de metal a lo largo de una pared lateral. Algunos estaban abiertos, saqueados hace tiempo. Pero uno, en la esquina, estaba cerrado con un candado oxidado.
+
+Leo usó una barra de metal del suelo para romper el candado. Dentro, encontró carpetas. Docenas de carpetas amarillentas con el sello de la Fundación.
+
+Abrió una al azar.
+
+*PROYECTO SÍNTESIS - SUJETO 037 - CLASIFICADO*
+
+*Nombre: Elena Reyes*
+*Edad: 14 años*
+*Estado: Injerto Exitoso (ÚNICO CASO)*
+
+Leo sintió que el corazón se le detenía. Siguió leyendo.
+
+*El sujeto 037 ha demostrado una fusión completa con la Esfera de Clase Omega designada "Corazón Azul". A diferencia de todos los sujetos anteriores, no muestra signos de degradación mental o física. La fusión parece haber creado un nuevo tipo de organismo.*
+
+*NOTA DEL INVESTIGADOR: Hemos creado algo que no entendemos. La Esfera no solo se ha integrado en el sistema nervioso del sujeto; parece estar... comunicándose con ella. El sujeto reporta "sueños" de lugares que nunca ha visitado. Describe a los Primordiales como "tristes" y "esperando".*
+
+*RECOMENDACIÓN: Contención indefinida. El sujeto no puede ser liberado bajo ninguna circunstancia.*
+
+Leo cerró la carpeta. Las manos le temblaban, y no solo por el agotamiento del Flujo.
+
+—Ahí es donde vamos —dijo Vera desde el mapa, ajena al descubrimiento de Leo—. A dos días de aquí si el clima coopera. Tres si hay más tormentas.
+
+—¿Qué hay ahí?
+
+—Supervivientes. Gente que escapó de la Fundación o que nunca formó parte de ella. Unos doscientos, la última vez que conté. —Vera se sentó en una silla oxidada que crujió bajo su peso—. Y allí está Elena.
+
+El corazón de Leo se aceleró.
+
+—¿Cómo sabes que sigue viva?
+
+Vera sonrió. Era una sonrisa extraña, a medio camino entre la diversión y algo más oscuro.
+
+—Porque me envió un mensaje hace un mes. A través del sistema de señales que Caine estableció. Decía: "Cuando venga Leo, tráelo a casa."
+
+El estómago de Leo dio un vuelco. Sintió un hormigueo recorrer su columna.
+
+—¿Elena sabe que iba a venir? ¿Cómo es posible?
+
+—Caine se lo dijo. Antes de desaparecer. Le dijo que algún día su nieto vendría buscándola. Y ella ha estado esperando desde entonces.
+
+Leo se apoyó contra la pared, procesando la información. Elena estaba viva. Elena le esperaba. Elena sabía que iba a venir.
+
+Pero también había leído esa carpeta. "Contención indefinida." La Fundación la había tratado como un animal. Como un monstruo. Y sin embargo, había escapado. Había sobrevivido.
+
+—Vera... la Elena que vi en Apectus. La que intentó despertar al Titán. ¿Qué era?
+
+Vera guardó silencio un momento.
+
+—No lo sé con certeza. Pero según Caine, cuando Elena escapó del laboratorio donde le hicieron el Injerto, dejó algo atrás. Una parte de ella. O quizás la Esfera Negra que usaron en otro sujeto... creó una copia. Un eco. Una sombra hecha de sus recuerdos pero sin su alma.
+
+—¿La Elena del Refugio es la real?
+
+—Eso tendrás que decidirlo tú cuando la veas. —Vera se levantó—. Descansa, chico. Come algo. Mañana seguimos. Y prepárate mentalmente. Elena no es la niña que recuerdas de tus sueños. Nadie sobrevive a las Tierras Salvajes sin cambiar.
+
+Leo guardó la carpeta en su mochila. No le dijo a Vera lo que había encontrado. Todavía no.
+
+Se deslizó hasta el suelo, apoyando la espalda contra el hormigón frío. Abrió su cantimplora y bebió. Comió el resto de la carne seca que le quedaba, masticando lentamente para extraer cada caloría.
+
+Cerró los ojos.
+
+La tormenta rugía afuera, los rayos verdes iluminando las rendijas de la puerta con flashes esporádicos. Pero aquí dentro estaba seguro. Por ahora.
+
+*Elena está viva. Me espera.*
+
+*Y yo tengo preguntas que hacerle.*
+
+Era lo único que importaba.
+
+Era lo único que le mantenía cuerdo.
+
+Fuera, la tormenta Titánica siguió rugiendo durante horas, el bosque descargando siglos de energía acumulada hacia el cielo negro. Y Leo durmió, soñando con un río, con una caña de pescar, y con una chica que le enseñó que el fracaso era solo práctica.
+
+**[FIN DEL CAPÍTULO 37]**
+
+
+<div style="page-break-after: always;"></div>
+\newpage
+
+# CAPÍTULO 38: LA BATALLA FINAL
+
+El Refugio no era un pueblo. Era una cicatriz en la carne del mundo.
+
+Leo lo vio antes de llegar. Anidado en el interior de un Titán muerto —una bestia del tamaño de una montaña pequeña que había perecido hace siglos, su cuerpo calcificado convertido en piedra y cavernas—, el asentamiento era un laberinto de túneles excavados en hueso fosilizado. Luces de antorchas y cristales de Flujo brillaban en las ventanas talladas como ojos de un gigante durmiente. Humo de cocinas subía por fisuras naturales en el caparazón calcáreo.
+
+Había gente. Docenas de personas moviéndose entre las estructuras. Supervivientes de un mundo que intentaba matarlos cada día.
+
+Vera les guió a través de la entrada principal, un hueco en el costado del Titán muerto que parecía una herida de lanza cicatrizada. La apertura era amplia, suficiente para dos carros, y las paredes internas estaban reforzadas con vigas de madera negra y hueso tallado. Guardias armados con lanzas de hueso afilado y rifles oxidados les observaron pasar con ojos entrenados para detectar amenazas.
+
+—Forastero —susurró uno, señalando a Leo con la barbilla.
+
+—Es sangre de Caine —respondió Vera sin detenerse, y eso pareció ser suficiente. Los guardias relajaron su postura.
+
+La llevaron a través de túneles estrechos iluminados por cristales de Flujo incrustados en las paredes, pasando por familias que le miraban con curiosidad mezclada con desconfianza. Niños descalzos que nunca habían visto las ciudades de mármol de la Fundación jugaban con huesos pulidos como juguetes, persiguiéndose entre las piernas de los adultos. Ancianos que recordaban el "antes" —aquellos que habían escapado de la civilización hace décadas— tallaban herramientas junto a fuegos de cristal que no emitían humo, solo calor azulado. El aire olía a humo de cocina, carne asada, y algo dulce como miel fermentada.
+
+Y al final del túnel principal, en una cámara amplia iluminada por cristales de Flujo natural que crecían del techo como estalactitas de luz pura...
+
+La vio.
+
+Elena.
+
+Estaba de pie junto a una mesa de mapas cubierta de marcas y anotaciones, hablando con un grupo de exploradores vestidos con pieles curtidas y cuero remendado. Llevaba ropa práctica: pantalones de cuero marrón oscuro y una camisa de lino remendada en media docena de sitios con hilo de diferente color. Su pelo era más corto de lo que Leo recordaba, cortado a la altura de los hombros en un estilo funcional. Había cicatrices en sus manos y brazos, las marcas de alguien que había sobrevivido usando esas manos.
+
+Pero era ella. Era Elena.
+
+Sus ojos se encontraron a través de la cámara.
+
+Leo no pudo moverse. Sus piernas se negaron a obedecerle. Sintió que el tiempo se detenía, que el mundo se reducía a ese punto de contacto visual entre ellos. Todo lo demás —la gente, los sonidos, el olor— desapareció.
+
+Elena dijo algo a los exploradores y cruzó la habitación en tres pasos largos. Le abrazó con una fuerza que le quitó el aliento, que hizo gritar a su costilla todavía sensible, pero Leo no sintió el dolor. Solo la sintió a ella.
+
+—Leo —susurró en su oído, su voz temblando con emoción contenida—. Has venido. Sabía que vendrías.
+
+Leo la abrazó de vuelta. Sintió sus propias lágrimas mojando el hombro de ella.
+
+—Pensé que estabas muerta —dijo, la voz rota—. Pensé que la Elena de la torre eras tú. Que te habías convertido en eso.
+
+Elena se separó. Su mirada era seria, sus ojos más viejos de lo que deberían ser para alguien de su edad. Había visto demasiado.
+
+—Esa cosa no soy yo. Es un parásito. Una sombra que robó mis recuerdos cuando escapé del laboratorio. Se alimentó de lo que dejé atrás. Pero yo soy yo, Leo. La real. —Tomó su mano—. Y necesitamos hablar, porque ella viene.
+
+—¿Qué quieres decir con que viene?
+
+Antes de que Elena pudiera responder, una alarma sonó. Un cuerno profundo, gutural, que resonó por todos los túneles del Refugio como el gemido de un animal herido.
+
+Gritos afuera. Voces de pánico. Órdenes gritadas.
+
+Una explosión sacudió las paredes del Titán muerto. Polvo y fragmentos de hueso calcificado cayeron del techo. Cristales de Flujo se agrietaron, su luz parpadeando.
+
+Leo corrió hacia la salida principal, con Elena y Vera detrás.
+
+El cielo sobre el Refugio estaba negro. Pero no de nubes.
+
+Coleópteros de rastro.
+ 
+ Docenas de coleópteros de rastro surcaban el cielo como un enjambre de avispas de quitina cubiertas de tumores de carne pulsante. Sus alas batían con un zumbido enfermizo que se metía en los huesos. Sus ojos humanos injertados —docenas de ojos, algunos parpadeando, algunos llorando— buscaban objetivos con precisión inhumana.
+ 
+ Y en el centro del enjambre, descendiendo lentamente sobre una plataforma de flujo distorsionada que hacía que el aire temblara a su alrededor...
+ 
+ Elena. La otra Elena. La Reina Negra.
+ 
+ Estaba viva. Pero apenas.
+ 
+ El ácido del Titán en Apectus la había desfigurado horriblemente. La mitad de su cara era tejido cicatricial, rojo y brillante como carne cruda. Un ojo estaba cerrado permanentemente, los párpados fundidos en una masa de piel quemada. Su pelo blanco había sido reemplazado por mechones desiguales que crecían de un cuero cabelludo lleno de cicatrices. Su Esfera Negra, fundida parcialmente con el hueso de su esternón, brillaba con una luz enfermiza de color verde putrefacto.
+ 
+ —*Hermana* —dijo la Corrupta, su voz resonando por el valle como un trueno amplificado por Flujo puro. La distorsión en el aire era palpable, haciendo vibrar los dientes—. *No puedes esconderte de mí. Somos la misma carne. La misma sangre. Voy a reclamarte.*
+ 
+ La Elena real dio un paso adelante, posicionándose entre la Corrupta y el Refugio. Su postura era desafiante, protectora.
+ 
+ —No soy tu hermana. Eres un error. Una copia rota. Un eco sin alma.
+ 
+ —*Las copias somos la evolución.* —La Corrupta levantó la mano. Los coleópteros se prepararon para atacar, sus armas orgánicas —cañones de espinas, lanzadores de ácido— cargándose con un zumbido visceral—. *Y la evolución siempre gana.*
+ 
+ Los coleópteros se lanzaron.
+ 
+ Leo activó su Esfera instintivamente, sintiendo el calor familiar contra su pecho.
+ 
+ —*Ancla. Gravedad.*
+ 
+ Saltó hacia un coleóptero que descendía sobre un grupo de niños que no habían logrado entrar en los túneles a tiempo. Aumentó el peso de la criatura desde su núcleo, multiplicando su gravedad por diez. La criatura cayó del cielo como una piedra, incapaz de sostenerse con sus alas. El impacto lo destrozó contra la roca, esparciendo partes orgánicas y de quitina.
+
+Pero inmediatamente sintió el coste.
+
+El hambre le golpeó como un puñetazo en el estómago. No hambre normal. Hambre celular. Como si su cuerpo hubiera quemado mil calorías en un segundo para alimentar el Flujo. Sus músculos temblaron, sus piernas amenazaron con ceder.
+
+—*Mierda* —jadeó, cayendo de una rodilla al suelo.
+
+Vera apareció a su lado, disparando su rifle contra los coleópteros con precisión mortífera. *BANG. BANG.* Dos cayeron.
+ 
+ —¡No uses demasiado Flujo o te morirás antes de que termine la batalla! —gritó mientras recargaba—. ¡Dosifica! ¡Una técnica, descansa diez segundos, otra técnica!
+ 
+ Leo asintió, luchando contra la tentación de usar su poder libremente. Sacó su lanzador del cinturón. Apuntó. Disparó. Un coleóptero cayó con un agujero en la cabeza. Luego otro.
+ 
+ Pero había docenas. Y seguían viniendo.
+ 
+ Los defensores del Refugio luchaban con todo lo que tenían. Lanzas de hueso lanzadas con precisión mortal. Rifles oxidados que disparaban munición escasa. Algunos usaban Flujo en ráfagas cortas, pagando el precio.
+ 
+ Un hombre corpulento con una cicatriz en el cuello lanzó una bola de fuego que incineró a tres coleópteros de golpe, el calor tan intenso que Leo lo sintió a veinte metros de distancia. Pero inmediatamente el hombre vomitó sangre negra y cayó, sus ojos en blanco, su cuerpo convulsionando por el sobreuso.
+ 
+ Una mujer delgada con pelo gris usó su poder para crear un escudo de aire comprimido que protegió a un grupo de ancianos de las espinas de los agresores. Pero después de diez segundos manteniendo el escudo, empezó a convulsionar, espuma saliendo de sus labios. Dos personas la arrastraron hacia los túneles.
+ 
+ El Flujo era poder. Pero el Flujo era veneno. Una distorsión del estado vital que consumía la materia misma del usuario.
+ 
+ Leo usó su Ancla dos veces más durante los siguientes minutos, derribando coleópteros que se acercaban demasiado a grupos vulnerables. Cada uso era como arrancarse un trozo de sí mismo. Temblaba. Sudaba frío. Veía puntos negros en los bordes de su visión.
+
+—¡No más! —gritó Vera, agarrándole del brazo—. ¡Estás gris! ¡Si usas más Flujo, te matas!
+
+Leo quería protestar, pero sabía que tenía razón. Se limitó a su lanzador. Le quedaban cuatro balas.
+
+Mientras el caos de la batalla rugía alrededor de Leo, la verdadera confrontación ocurría en el centro del valle.
+
+Las dos Elenas se enfrentaban.
+
+No con armas físicas. Con Flujo puro.
+
+La Elena real brillaba con una luz azul suave que emanaba de todo su cuerpo como un aura de agua cristalina. La Corrupta ardía con una oscuridad absoluta, un agujero en la realidad que absorbía la luz a su alrededor, distorsionando los bordes de su forma.
+
+Se lanzaban ondas de poder que distorsionaban el aire visible. La gravedad fluctuaba a su alrededor —a veces Leo sentía que pesaba el triple, a veces sentía que flotaba un centímetro del suelo. El hueso calcificado del Titán muerto bajo sus pies crujía y se agrietaba con cada intercambio.
+
+—*Ríndete* —siseó la Corrupta, su voz distorsionada por el poder que canalizaba—. *No puedes ganarme. Yo tengo mil años de conocimientos de los Primordiales grabados en mi esencia. Tú solo eres una niña jugando con fuego.*
+
+—Tengo algo que tú nunca tendrás —respondió Elena, su voz firme a pesar del esfuerzo visible en sus músculos tensos, en las venas hinchadas de su cuello. Sangre goteaba de su nariz, resbalando por su labio superior—. Tengo mi humanidad. Y tengo algo por lo que luchar.
+
+Lanzó una onda de Flujo azul tan brillante que Leo tuvo que cerrar los ojos.
+
+La Corrupta la bloqueó con un muro de oscuridad que absorbió la luz.
+
+Y contraatacó.
+
+Un rayo de entropía negra impactó contra Elena. No contra su cuerpo físico —contra su mente. Leo pudo sentirlo desde donde estaba, a treinta metros de distancia. Una presión psíquica aplastante, como si una montaña intentara comprimirse dentro de su cráneo.
+
+Elena real cayó de rodillas, gritando. Las venas de su frente se hincharon hasta ser visibles como cordones bajo la piel. Sus ojos se inyectaron de sangre hasta quedarse rojos. La Corrupta la estaba aplastando mentalmente, invadiendo su mente, intentando reabsorberla, fusionarla, destruir su identidad.
+
+Leo corrió hacia ellas sin pensar.
+
+—¡ELENA!
+
+La Corrupta le vio acercarse. Sonrió con la mitad de su cara que aún funcionaba, una sonrisa horrible en carne quemada.
+
+—*Ah, Leo. Mi querido Leo. El niño que me buscó durante meses. Que cruzó mundos por mí. Ven. Únete a nosotras. Podrías ser nuestro rey. Podrías tener todo lo que siempre quisiste.*
+
+—Jamás —gruñó Leo, sintiendo la rabia arder más caliente que el agotamiento.
+
+Activó su Esfera a pesar de las advertencias de su cuerpo.
+
+—*Conexión* —dijo, extendiendo su campo de Flujo hacia Elena.
+
+Sintió las dos presencias al mismo tiempo. Las dos Elenas. Eran casi idénticas en estructura, como dos notas musicales separadas por un semitono, como dos reflejos en espejos enfrentados. Pero había una diferencia fundamental que pudo percibir inmediatamente.
+
+La Elena real tenía un calor. Un pulso. Un corazón que latía con emociones reales: miedo, amor, esperanza, rabia, determinación. Era caótica, imperfecta, humana.
+
+La Corrupta era fría. Era un vacío hambriento. Era entropía con forma humana. Era orden absoluto sin propósito.
+
+Leo tomó su decisión.
+
+Canalizó toda su energía hacia la Elena real. Le dio su fuerza. Su tiempo. Su vida. Todo lo que tenía.
+
+El coste fue inmediato y brutal.
+
+Leo sintió que le arrancaban las entrañas con manos de hielo. Fiebre instantánea, cuarenta grados en un segundo. Su piel se cubrió de sudor helado que se evaporaba al contacto con el calor de su cuerpo. Sus músculos se contrajeron dolorosamente, todos a la vez, como si sufriera un calambre en todo el cuerpo. Vio puntos negros en su visión, expandiéndose, amenazando con tragárselo todo.
+
+Pero Elena gritó. No de dolor. De poder.
+
+La energía de Leo se fusionó con la suya, amplificándola, completándola. El azul de su aura se intensificó, pasando de suave a brillante, de brillante a cegador, de cegador a blanco puro.
+
+Una onda de luz explotó desde Elena, cubriendo el valle entero como un amanecer instantáneo.
+
+Los coleópteros de rastro cayeron del cielo, desactivados, su esencia biológica consumida por la descarga de energía pura. Llovieron sobre el suelo del valle como piedras, estrellándose sin vida.
+
+Y la Corrupta...
+
+La Corrupta aulló. Un sonido no humano. Un sonido de algo muriendo que nunca había estado realmente vivo. Un sonido de vacío rasgándose.
+
+Su forma empezó a deshacerse. Partícula a partícula. Como arena en el viento. Su Esfera Negra se agrietó con un sonido de cristal rompiéndose, la luz enfermiza escapando por las fisuras antes de apagarse.
+
+—*Esto... no ha... terminado...* —fueron sus últimas palabras, un susurro que resonó en el aire incluso mientras su forma se disolvía—. *...siempre... habrá... sombras...*
+
+Y luego, silencio.
+
+La Corrupta se había desvanecido. Solo quedaba un montón de cenizas negras donde había estado, meciéndose suavemente con la brisa.
+
+Leo cayó al suelo de cara. Su cuerpo no respondía. Sentía que le habían vaciado por dentro. Literalmente. Había dado demasiado. Había usado demasiado Flujo.
+
+Elena corrió hacia él, tambaleándose, igualmente agotada, su propia sangre goteando de nariz, oídos, y comisuras de los ojos.
+
+—Leo. Leo, ¿estás bien? ¡Leo!
+
+Leo abrió los ojos con esfuerzo. Vio el cielo. Era azul. El azul real del día, visible a través del humo de la batalla y los restos de los coleópteros caídos.
+
+—¿Ganamos? —susurró, su voz apenas audible.
+
+Elena le tomó la mano. Estaba llorando, lágrimas mezcladas con sangre.
+
+—Ganamos. Pero casi te pierdo. Idiota. Diste demasiado.
+
+Leo sonrió débilmente.
+
+—Valió... la pena...
+
+Y se desmayó.
+
+A su alrededor, los supervivientes empezaron a salir de los túneles. Contaron a los muertos: quince defensores caídos, la mitad de ellos por sobreuso de Flujo. Empezaron a apagar fuegos y recoger cuerpos.
+
+Pero habían ganado.
+
+La Reina Negra ya no existía.
+
+**[FIN DEL CAPÍTULO 38]**
+
+
+<div style="page-break-after: always;"></div>
+\newpage
+
+# CAPÍTULO 39: LA ELECCIÓN
+
+Leo despertó en la oscuridad, y lo primero que sintió fue que le faltaban partes.
+
+No partes físicas. Podía sentir sus brazos, sus piernas, sus dedos. Pero había un vacío en su interior, como si alguien hubiera abierto una puerta en su pecho y hubiera dejado que el viento se llevara algo esencial.
+
+El coste del Flujo.
+
+Intentó moverse. Sus músculos respondieron con la obediencia lenta de un animal recién despertado de la hibernación. Cada articulación crujía. Cada tendón protestaba. Giró la cabeza hacia la izquierda y sintió que el simple movimiento le agotaba.
+
+Luz tenue. Cristales de Flujo creciendo de paredes de hueso fosilizado, emitiendo un resplandor azul suave que no dolía en los ojos. Una mesa de madera con cuencos de barro, frascos de líquidos turbios, y vendajes enrollados. Un olor a hierbas medicinales, a miel fermentada, a algo vagamente químico.
+
+Y alguien sentado en una silla junto a su cama.
+
+—Bienvenido de vuelta —dijo Elena.
+
+Su voz era suave, pero Leo pudo detectar el cansancio debajo. Tenía ojeras profundas, manchas de sangre seca cerca de los oídos, y los labios agrietados por la deshidratación.
+
+Leo abrió la boca. Salió un graznido.
+
+—No hables todavía. —Elena se levantó y tomó un cuenco de la mesa. Humeaba ligeramente—. Tu cuerpo necesita reconstruirse. Lo que hiciste...
+
+Se acercó y le ayudó a incorporarse, sosteniendo su cabeza mientras le acercaba el cuenco a los labios. Era caldo, espeso y oscuro como chocolate, con un sabor a carne, hierbas amargas, y algo dulce.
+
+Leo bebió. El líquido bajó por su garganta como un bálsamo caliente, propagando calor por su cuerpo helado.
+
+—¿Cuánto tiempo...? —logró susurrar después de varios tragos.
+
+—Tres días.
+
+Tres días. Leo procesó eso. Tres días inconsciente era más que agotamiento. Era casi muerte.
+
+—Tuviste fiebre alta las primeras cuarenta horas —continuó Elena—. Delirabas. Tu temperatura subió a 42 grados. Tus capilares empezaron a fallar. Sangraste por la nariz, los oídos, los ojos. —Su voz se tensó—. Creímos que no despertarías.
+
+—Pero desperté.
+
+—Pero despertaste. —Elena dejó el cuenco en la mesa—. Y quiero entender por qué.
+
+Leo la miró, confundido.
+
+—¿Por qué despertaste? Lo que hiciste debería haberte matado. —Elena se sentó en el borde de la cama, mirándole con una intensidad que le recordó a la Elena de la torre, pero sin la frialdad. Esta intensidad era preocupación, no amenaza—. Cuando canalizaste tu energía hacia mí, vaciaste tu reserva vital por completo. El cuerpo humano no sobrevive a eso. Es como intentar vaciar tu sangre y esperar seguir vivo.
+
+—Entonces ¿cómo sobreviví?
+
+—Tu Esfera. —Elena señaló su pecho—. Vi luz azul emanando de ella cuando te desplomaste. No era tu luz. Era la luz de la Esfera misma. Como si... estuviera manteniéndote vivo. Cubriendo la deuda que habías contraído.
+
+Leo se tocó el pecho. La Esfera estaba ahí, cálida, pulsando suavemente.
+
+—¿Puede hacer eso?
+
+—No debería poder. Las Esferas no son... conscientes. No toman decisiones. Son herramientas. Amplificadores de Flujo. —Elena negó con la cabeza—. Pero lo vi. Tu Esfera te salvó la vida. Y no sé cómo ni por qué.
+
+Leo sintió el peso de esa revelación. No solo llevaba una herramienta. Llevaba algo que, de alguna manera, había elegido mantenerle vivo.
+
+—¿Cómo te sientes? —preguntó Elena después de un momento de silencio.
+
+—Vacío —respondió Leo honestamente—. Como si me hubieran sacado las entrañas con una cuchara.
+
+—Eso es lo que se siente. El Flujo consume. Cuanto más usas, más pagas. Y tú pagaste con todo lo que tenías. —Elena tomó su mano—. Tu cuerpo tardará semanas en reconstruir las reservas que quemaste. Hasta entonces, nada de Flujo. Nada de Quietud, ni Ancla, ni Resonancia. Si intentas usar cualquier técnica antes de estar recuperado, el coste podría matarte.
+
+Leo asintió. No tenía intención de desobedecer esa orden.
+
+—La Corrupta... —empezó.
+
+—Destruida. Su forma física se desintegró cuando nuestra energía combinada la golpeó. Su Esfera Negra se agrietó y perdió coherencia. —Elena exhaló—. Pero antes de desvanecerse, dijo algo.
+
+—"Siempre habrá sombras."
+
+—Sí. —Elena le miró—. No sé qué significa exactamente. Pero sospecho que no era una amenaza vacía. Ella era un eco, una copia creada por un experimento fallido. Si la Fundación sigue experimentando con Esferas, si hay más Esferas Negras...
+
+—Podrían crear más como ella.
+
+—O peor.
+
+Leo cerró los ojos un momento, procesando. Habían ganado una batalla, pero la guerra era mucho más grande de lo que había imaginado.
+
+—Necesito ver —dijo—. El Refugio. Quiero ver qué pasó.
+
+Elena dudó.
+
+—No estás en condiciones de...
+
+—Necesito verlo, Elena. Por favor.
+
+Ella le estudió durante un momento largo. Luego asintió.
+
+—De acuerdo. Pero lentamente. Y si te mareas, volvemos.
+
+---
+
+Caminar era un ejercicio de voluntad.
+
+Cada paso era una negociación entre su mente y su cuerpo. Los músculos se negaban a obedecer con fluidez. Las articulaciones crujían como puertas oxidadas. Pero Leo siguió adelante, apoyándose en Elena cuando era necesario.
+
+El Refugio había cambiado.
+
+Los túneles que antes bullían de actividad ahora estaban más silenciosos. Menos voces. Menos risas de niños. Los cristales de Flujo en las paredes parecían más tenues, como si la batalla hubiera drenado algo de su luz.
+
+Y había marcas. Marcas de quemaduras en las paredes de hueso. Agujeros en el techo donde las espinas de los agresores habían impactado. Manchas oscuras en el suelo que Leo prefirió no examinar de cerca.
+ 
+ —Quince muertos —dijo Elena mientras caminaban—. Eso fue el coste.
+ 
+ —¿Quince?
+ 
+ —Seis por los coleópteros directamente. Nueve por sobreuso de Flujo. —Su voz era plana, factual, pero Leo podía oír el peso debajo—. Hombres y mujeres que dieron todo lo que tenían para proteger a sus familias. Que quemaron sus vidas para ganar unos segundos más.
+
+Pasaron por una cámara donde un grupo de personas trabajaba en silencio, reparando una pared dañada. Un anciano con un solo brazo supervisaba, dando instrucciones en voz baja.
+
+—Miran perdió a su esposa —dijo Elena, señalando al anciano—. Ella usó Flujo para crear un escudo que protegió a los niños durante diez segundos. Diez segundos que costaron su vida.
+
+Leo observó al anciano. Sus ojos estaban secos, pero vacíos.
+
+—¿Valió la pena? —preguntó Leo en voz baja.
+
+—Para ella, sí. —Elena le miró—. Eligió. Ese es el punto. El Flujo exige un precio, pero la elección de pagar ese precio es nuestra. Su esposa eligió salvar a los niños. Los otros eligieron luchar. Tú elegiste darme tu energía. —Le apretó el brazo—. No les quites eso. Su sacrificio tuvo significado porque lo eligieron.
+
+Siguieron caminando.
+
+Llegaron a una cámara amplia que Leo no había visto antes. Estaba llena de objetos: armas, herramientas, ropa, libros. Y en una pared, tallados en el hueso fosilizado, había nombres. Docenas de nombres.
+
+—El Muro de los Caídos —explicó Elena—. Cada nombre es alguien que murió protegiendo al Refugio. La lista crece cada año.
+
+Leo leyó algunos nombres. Mira Voss. Tomas el Grande. La Hermana del Río. Historias que nunca conocería, vidas que habían terminado para que otras pudieran continuar.
+
+—¿Por qué luchan? —preguntó Leo—. ¿Por qué no simplemente... huyen? Buscan un lugar más seguro. Se rinden.
+
+—¿A dónde irían? —Elena señaló hacia afuera—. El mundo entero es peligroso. No hay lugar seguro. Solo hay gente que elige pelear y gente que elige rendirse. —Le miró—. Los que se rinden mueren igual. Pero mueren sin haber intentado nada.
+
+Leo entendió. No era optimismo. Era pragmatismo. Morir luchando era mejor que morir huyendo, porque al menos dejabas algo atrás.
+
+---
+
+Fue dos dÃ­as despuÃ©s de visitar el Muro cuando Leo lo vio. No fue en un mapa, ni en una lecciÃ³n de Elena. Fue en la realidad cruda de Extramuros.
+
+Elena lo habÃ­a llevado a la Cresta del TitÃ¡n, el punto mÃ¡s alto del crÃ¡neo fosilizado donde el Refugio se escondÃ­a. Desde allÃ­, el mundo se abrÃ­a en un tapiz infinito de verdes venenosos y nubes de esporas que flotaban como neblina baja. 
+
+â€”Mira allÃ­ â€”susurrÃ³ Elena, seÃ±alando hacia el pantano de la zona baja.
+
+Algo se movÃ­a. No era un grupo de bestias, sino una montaÃ±a de carne y vegetaciÃ³n parÃ¡sita. Un **Rey del Pantano (Clase A)**. MedÃ­a treinta metros de largo, una quimera de apÃ©ndices de quitina y cientos de ojos bioluminiscentes que parpadeaban con un hambre antigua. La tierra temblaba a su paso, y los Ã¡rboles de mil toneladas se astillaban como ramitas bajo su peso. Estaba demasiado cerca del Velo del Refugio.
+
+â€”Â¿No vamos a hacer nada? â€”preguntÃ³ Leo, sintiendo que la Pieza en su pecho vibraba con una advertencia gÃ©lida.
+
+â€”Nosotros no. â€”Elena mirÃ³ hacia un afloramiento rocoso, a mitad de camino entre el monstruo y el TitÃ¡n.
+
+Una figura solitaria estaba allÃ­. No llevaba armadura pesada, ni lanzadores de flujo. Solo una tÃºnica de arpillera gris y un bastÃ³n de madera de hueso. Un anciano, pequeÃ±o en la distancia, frente a una pesadilla biolÃ³gica que podrÃ­a haber devorado una ciudad.
+
+Era Caine.
+
+El Rey del Pantano rugiÃ³, un sonido que partiÃ³ las nubes de esporas y obligÃ³ a Leo a taparse los oÃ­dos. La bestia lanzÃ³ un haz de bilis cÃ¡ustica hacia la roca donde estaba el hombre. 
+
+Caine no se moviÃ³. No usÃ³ un Ancla de flujo visible. Simplemente golpeÃ³ el suelo con su bastÃ³n.
+
+La Resonancia fue tan pura que Leo no la sintiÃ³ en sus oÃ­dos, sino en su ADN. Fue como si el universo entero se sincronizara por un nanosegundo. 
+
+El monstruo se detuvo en seco. Sus cientos de patas dejaron de moverse. Sus ojos bioluminiscentes se apagaron uno tras otro. Leo vio, horrorizado y fascinado, cÃ³mo la anatomÃ­a de la bestia empezaba a rebelarse contra sÃ­ misma. Los tendones de flujo se desenroscaron. El caparazÃ³n de quitina se volviÃ³ blando como la cera. El Rey del Pantano no muriÃ³ por una explosiÃ³n; muriÃ³ porque Caine le recordÃ³ a su cuerpo que era solo un cÃºmulo de cÃ©lulas sin propÃ³sito.
+
+En menos de un minuto, el Clase A se derrumbÃ³ sobre el lodo, convertido en una montaÃ±a de abono orgÃ¡nico sobre la que ya empezaban a brotar flores blancas. Flores de rastro.
+
+Caine se girÃ³. MirÃ³ hacia arriba, hacia la Cresta donde Leo y Elena estaban. No hizo ningÃºn gesto, pero Leo sintiÃ³ que aquellos ojos, incluso a esa distancia, le estaban midiendo, juzgando si la Copia serÃ­a digna de portar el futuro.
+
+Luego, el hombre se fundiÃ³ con la niebla de esporas y desapareciÃ³.
+
+---
+
+Esa noche, Leo y Elena hablaron durante horas.
+
+Estaban sentados en la cámara de mapas, la mesa cubierta de documentos y rutas. Los cristales de Flujo habían bajado a su resplandor nocturno, creando sombras largas en las paredes.
+
+—Caine desapareció hace seis meses —dijo Elena—. Envió un mensaje diciendo que había encontrado algo importante. Una estructura dejada por los Primordiales. Una forma de comunicarse.
+
+—¿Por qué querría comunicarse con ellos?
+
+—Porque Caine creía que los Primordiales no son enemigos. Son... jardineros. Literalmente. —Elena desplegó un mapa antiguo, cubierto de notas en una letra que Leo reconoció como la de su abuelo—. Este mundo no es natural. Fue cultivado. Los Titanes, las Esferas, incluso nosotros... todo fue plantado aquí por algo más grande. Los Primordiales son los cuidadores.
+
+—Pero nos ignoran. Nos llaman hierba.
+
+—Porque eso es lo que somos para ellos. Maleza en su jardín. —Elena le miró—. Pero Caine pensaba que podíamos ser algo más. Que si lográbamos comunicarnos, podríamos demostrar que merecemos existir. Que no somos solo... parásitos.
+
+—¿Y tú qué crees?
+
+Elena tardó en responder.
+
+—Creo que Caine era el hombre más inteligente que he conocido. Y si él creía que era posible, entonces quizás lo sea. —Exhaló—. Pero también creo que hay cosas que no podemos controlar. Los Primordiales podrían decidir que no valemos la pena. Que es más fácil arrancarnos.
+
+—Entonces ¿por qué buscarlos?
+
+—Porque la alternativa es esperar. Y esperar es morir lentamente. —Elena enrolló el mapa—. Voy a entrenar durante las próximas semanas. A recuperarte. Y cuando estés listo, irás a buscar a Caine.
+
+No era una pregunta.
+
+—Lo sé —dijo Leo—. Es lo que he querido desde que llegué aquí.
+
+—Bien. —Elena se levantó—. Entonces descansa. Mañana empezamos con lo básico. Las tres disciplinas. Los costes. Las limitaciones. —Hizo una pausa en la puerta—. Y Leo... no vuelvas a hacer lo que hiciste en la batalla. No sin mi permiso.
+
+—¿Salvar tu vida?
+
+—Casi morir haciéndolo. —Elena le miró por encima del hombro—. La próxima vez que quieras sacrificarte por mí, pregúntame primero. Puede que tenga una mejor idea.
+
+Y se fue, dejándole solo con los mapas, las notas de su abuelo, y la certeza de que su camino apenas comenzaba.
+
+Leo se quedó mirando el mapa durante mucho tiempo.
+
+Las Montañas de Hueso. La terminal de los Primordiales. Caine.
+
+Y más allá, preguntas que nadie había respondido en siglos.
+
+¿Qué eran los Primordiales realmente? ¿Por qué habían plantado a los Titanes? ¿Por qué habían dejado las Esferas?
+
+¿Y por qué, de todos los humanos en este mundo, su Esfera había elegido mantenerle vivo?
+
+No tenía respuestas. Solo tenía un camino.
+
+Y estaba listo para tomarlo.
+
+**[FIN DEL CAPÍTULO 39]**
+
+
+<div style="page-break-after: always;"></div>
+\newpage
+
+# CAPÍTULO 40: EPÍLOGO
+
+*Cuatro semanas después*
+
+El golpe le llegó antes de que pudiera reaccionar.
+
+Leo se encontró en el suelo, con la espalda contra la tierra apisonada del campo de entrenamiento, viendo estrellas que no tenían nada que ver con el cielo nocturno. El sabor metálico de la sangre llenó su boca.
+
+—Otra vez —dijo Vera, sin una gota de simpatía en su voz.
+
+Leo escupió sangre y se incorporó con dificultad. Su cuerpo protestaba. Llevaban tres horas en esto, y Vera no había reducido la intensidad ni un segundo.
+
+—Estás pensando demasiado —continuó Vera, paseando a su alrededor como un depredador evaluando a su presa—. La Resonancia no es un pensamiento. Es un sentido. No piensas en ver, simplemente ves. No piensas en oír, simplemente oyes. La Resonancia es igual. Deja de intentarlo. Simplemente... percibe.
+
+—Lo estoy intentando —jadeó Leo.
+
+—Ese es el problema. —Vera se detuvo frente a él—. Cierra los ojos.
+
+Leo obedeció.
+
+—Ahora, no intentes sentir mi firma de Flujo. Solo... existe. Respira. Deja que el mundo te llegue.
+
+Leo respiró. Una vez. Dos veces. Trató de vaciar su mente, de dejar de forzar la técnica. De simplemente...
+
+Y entonces lo sintió.
+
+No era como ver ni como oír. Era más parecido a sentir el calor del sol en la piel, pero en una dimensión diferente. Vera estaba frente a él —podía sentir su presencia como una llama cálida— pero también había algo más. Tres presencias pequeñas a su izquierda. Observándoles.
+
+Abrió los ojos.
+
+Tres niños del Refugio estaban sentados en una roca cercana, mirando el entrenamiento con los ojos muy abiertos. Se habían acercado tan silenciosamente que no los había oído, pero los había *sentido*.
+
+—Progreso —dijo Vera, y por primera vez, había algo parecido a la aprobación en su tono—. Pequeño, pero progreso.
+
+Leo sintió el coste inmediatamente. Una punzada detrás de los ojos, el inicio de una migraña que sabía que empeoraría en las próximas horas. Cada sesión de Resonancia le dejaba con dolores de cabeza brutales.
+
+—Los niños te han estado siguiendo toda la semana —observó Vera—. Les fascinas.
+
+Leo miró hacia los pequeños espectadores. Uno de ellos, una niña de quizás siete años con el pelo corto y una cicatriz en la frente, le saludó con la mano.
+
+—¿Por qué? —preguntó Leo.
+
+—Porque eres nuevo. Y porque eres el nieto de Caine. —Vera empezó a recoger el equipo de entrenamiento—. Caine es una leyenda aquí. El hombre que desafió a la Fundación. El que encuentra lo que nadie más puede encontrar. Y tú tienes su sangre.
+
+Leo no sabía qué decir a eso. Caine era su abuelo, pero apenas lo conocía. Solo fragmentos. Recuerdos. Notas en mapas.
+
+—Descansa —dijo Vera—. Mañana trabajamos el Ancla bajo presión. Y créeme, va a ser peor que hoy.
+
+Leo se quedó en el campo de entrenamiento mientras Vera se alejaba. Los niños seguían observándole.
+
+Después de un momento de duda, caminó hacia ellos.
+
+—Hola —dijo.
+
+La niña de la cicatriz fue la primera en hablar.
+
+—¿Es verdad que luchaste contra la Reina Negra?
+
+Leo se sentó en una roca frente a ellos.
+
+—Sí.
+
+—¿Y ganaste?
+
+—Elena ganó. Yo solo... ayudé.
+
+El niño más pequeño, un chico de ojos grandes y nariz pecosa, intervino:
+
+—Mi hermana dice que casi te moriste. Que usaste tanto Flujo que tu corazón dejó de latir.
+
+Leo no sabía si eso era literalmente cierto, pero recordaba la oscuridad, el frío, la sensación de vaciarse por dentro.
+
+—Fue... peligroso —admitió.
+
+—¿Por qué lo hiciste? —preguntó la niña—. ¿Por qué arriesgaste tu vida?
+
+Era una buena pregunta. Leo la pensó antes de responder.
+
+—Porque algunas cosas valen el riesgo. Algunas personas valen el riesgo.
+
+Los niños le miraron con esa intensidad que solo los niños tienen, procesando sus palabras con una seriedad que los adultos perdían con los años.
+
+—Mi padre murió luchando contra la Reina —dijo la niña, su voz plana, factual—. Usó Flujo para protegernos. Demasiado Flujo.
+
+Leo sintió el peso de esas palabras.
+
+—Lo siento.
+
+—No lo sientas. —La niña se levantó—. Murió bien. Eso es lo que dice mi madre. Murió luchando por algo. —Le miró—. Tú también luchas por algo. Se nota.
+
+Y sin más, los tres niños se alejaron corriendo hacia los túneles del Refugio, sus risas mezclándose con el sonido del viento.
+
+Leo se quedó solo en el campo, pensando en padres que morían y niños que crecían demasiado rápido.
+
+---
+
+Esa noche, Leo encontró a Elena en la cámara de los mapas.
+
+El Refugio dormía. Los cristales de Flujo que iluminaban los túneles habían bajado su intensidad a un resplandor suave, imitando la noche del exterior. La mayoría de los habitantes estaban en sus cámaras, descansando para el día siguiente.
+
+Pero Elena estaba despierta, estudiando un mapa desplegado sobre la mesa central.
+
+—¿No puedes dormir? —preguntó Leo desde la entrada.
+
+Elena le miró y sonrió ligeramente.
+
+—Raramente puedo. Los efectos secundarios del Injerto. Mi cuerpo no necesita tanto sueño como antes. —Señaló una silla—. Siéntate.
+
+Leo se sentó frente a ella. El mapa entre ellos mostraba las Tierras Salvajes en su totalidad: bosques, montañas, ríos, y marcas que indicaban peligros conocidos.
+
+—Estás preparando mi ruta —observó Leo.
+
+—Kai conoce el camino, pero nunca está de más tener un respaldo. —Elena señaló una cordillera en el norte—. Aquí es donde Caine fue visto por última vez. Las Montañas de Hueso. Se llaman así porque están formadas por los esqueletos de Titanes que murieron hace eones.
+
+—¿Qué hay allí?
+
+—No lo sé con certeza. Los equipos que envié... nunca regresaron para contármelo. —Elena exhaló—. Pero Caine estaba buscando algo específico. Una estructura que los Primordiales dejaron atrás. Una forma de comunicarse con ellos.
+
+—¿Por qué querrían los Primordiales comunicarse con humanos? 
+
+—No creo que quieran. Pero Caine pensaba que podíamos... llamar su atención. Hacerles ver que existimos. Que somos algo más que... —Elena buscó la palabra correcta—. Maleza en su jardín.
+
+Leo pensó en el Titán de Apectus. En cómo los había mirado con su ojo dorado y los había llamado "hierba". Insignificantes. Prescindibles.
+
+—¿Y si no quieren escuchar?
+
+—Entonces al menos habremos intentado. —Elena le miró—. Es mejor que esperar a que nos pisen como insectos.
+
+Se quedaron en silencio un momento, el peso de las posibilidades flotando entre ellos.
+
+—Tengo miedo —admitió Leo. Era la primera vez que lo decía en voz alta—. No de morir. De... fracasar. De no encontrar a Caine. De que todo esto haya sido para nada.
+
+Elena extendió la mano sobre la mesa y tomó la suya.
+
+—El miedo es normal. El miedo es humano. Pero no dejes que te paralice. —Le apretó la mano—. Caine una vez me dijo algo que nunca olvidé. Dijo: "El fracaso solo existe si dejas de intentarlo. Mientras sigas moviéndote hacia adelante, no has perdido. Solo estás en camino."
+
+—Eso suena a algo que él diría.
+
+—Era un viejo sabio y terco. —Elena sonrió—. Como su nieto.
+
+Leo le devolvió la sonrisa.
+
+—¿Qué harás mientras estoy fuera?
+
+—Lo que siempre hago. Mantener el Refugio vivo. Entrenar a la siguiente generación. Prepararnos para lo que venga. —Su expresión se volvió seria—. La Fundación no se ha olvidado de nosotros. Están debilitados por la pérdida de Apectus, pero se recuperarán. Y cuando lo hagan, vendrán a buscar respuestas. A buscar venganza.
+
+—¿Estaréis listos?
+
+—Lo estaremos. —Elena le soltó la mano—. Pero tú también tienes que estar listo. Lo que buscas en las montañas... no es solo a Caine. Es algo más grande. Algo que podría cambiar todo.
+
+—¿Qué quieres decir?
+
+—La terminal de los Primordiales, si existe... es la primera prueba de que dejaron algo atrás intencionalmente. Que no solo nos sembraron y se olvidaron. Que hay un propósito. —Elena le miró con intensidad—. Si encuentras esa terminal, si logras activarla... podrías ser el primer humano en hablar directamente con los dioses de este mundo.
+
+El peso de esas palabras cayó sobre Leo como una montaña.
+
+—No sé si estoy listo para algo así.
+
+—Nadie lo está nunca. —Elena se levantó—. Pero eso no significa que no puedas hacerlo. Descansa. Mañana es tu último día aquí. Aprovéchalo.
+
+Se detuvo en la puerta.
+
+—Leo.
+
+—¿Sí?
+
+—Vuelve. Por favor. No me hagas esperarte otros diez años.
+
+Y se fue, dejándole solo con el mapa y el peso de un futuro incierto.
+
+---
+
+El último día comenzó con preparativos.
+
+Kai había organizado todo con la eficiencia de alguien que había hecho docenas de expediciones. En una cámara cerca de la entrada principal, había dispuesto el equipo que Leo llevaría: una mochila de cuero reforzado, raciones para dos semanas, un filtro de agua primitivo pero efectivo, vendajes y hierbas medicinales, un cuchillo de hueso con filo de obsidiana, y una lanza corta con punta de cristal.
+
+—Nada de armas de fuego —dijo Kai mientras revisaba el equipo—. Son ruidosas y la munición es imposible de reemplazar. El arco y la lanza son silenciosos y puedes fabricar más flechas si sabes cómo.
+
+Leo asintió. Había practicado con el arco durante las últimas semanas. No era bueno, pero al menos podía dar en un blanco a veinte metros.
+
+—¿Cuánto tiempo hasta las montañas?
+
+—Diez días si el clima coopera. Dos semanas si no. —Kai señaló un mapa pequeño que llevarían—. Evitaremos los territorios de Striders cuando sea posible. Hay pasos subterráneos que nos permiten cruzar las zonas más peligrosas.
+
+—¿Y cuando lleguemos?
+
+—Entonces improvisamos. —Kai le miró—. No sé qué encontraremos allí. Caine era el único que conocía esa zona realmente. Lo que sé es de segunda mano.
+
+Leo terminó de revisar su equipo. Todo estaba en orden.
+
+—Gracias —dijo—. Por acompañarme.
+
+Kai se encogió de hombros.
+
+—Elena me lo pidió. Y Caine me salvó la vida hace cinco años. Le debo una. —Hizo una pausa—. Pero no te equivoques: si ralentizas la marcha o pones en peligro la misión, te dejaré atrás. No es personal.
+
+—Entendido.
+
+Kai asintió y salió de la cámara, dejando a Leo con sus pensamientos.
+
+---
+
+La despedida fue más difícil de lo que Leo había anticipado.
+
+Vera le dio un apretón de manos firme y unas palabras que resumían todo lo que había aprendido: "No pienses. Actúa. Sobrevive."
+
+Los niños que le habían observado entrenar estaban allí, la niña de la cicatriz al frente. No dijeron nada, pero sus ojos decían todo lo que necesitaban decir.
+
+Y Elena...
+
+Elena le abrazó durante un tiempo que pareció demasiado corto y demasiado largo a la vez.
+
+—Usa el cristal si me necesitas —susurró—. No seas orgulloso. Pedir ayuda no es debilidad.
+
+—Lo haré.
+
+—Y cuando encuentres a Caine... —Elena se separó, sus ojos brillantes—. Dile que le echo de menos. Que todos le echamos de menos.
+
+—Lo haré.
+
+Leo se colgó la mochila al hombro. Kai ya estaba en la entrada, esperando con impaciencia.
+
+El amanecer pintaba el cielo de rosa y naranja. Las Tierras Salvajes se extendían ante ellos, vastas e implacables.
+
+Leo dio un último vistazo al Refugio —al Titán muerto que albergaba a doscientas personas, a los cristales de Flujo que brillaban en sus ventanas, a Elena de pie en la entrada—.
+
+Y empezó a caminar.
+
+Hacia las Montañas de Huesos. Hacia Caine. Hacia la certeza de que el Inmortal era real, y de que su búsqueda era lo único que daría sentido a lo que estaba por venir.
+
+El mundo había terminado.
+
+Y estaba empezando de nuevo.
+
+---
+
+**FIN DE EXTRAMUROS: LIBRO 1**
+
+---
+
+*La historia continúa en EXTRAMUROS: LIBRO 2 — "EL BUSCADOR"*
+
+

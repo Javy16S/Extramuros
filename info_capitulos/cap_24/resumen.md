@@ -1,0 +1,3 @@
+### Resumen - Capítulo 24: El Refugio
+
+En la seguridad relativa de su cueva oculta, el veterano Silas realiza una cirugía de campo brutal para detener la necrosis en el brazo de Leo, utilizando cauterización y una pasta de hongos abisales. Durante la recuperación, Silas revela que la "Esfera" no es un arma, sino una "Semilla de Terraformación" capaz de reescribir la realidad física, buscada por los "Jardineros" (la élite gobernante de la Cúpula) para reiniciar el mundo a su imagen. Al reconocer en Leo los ojos del hombre que descubrió la primera Semilla hace cuarenta años (el abuelo de Leo), Silas accede a guiarlo a través de "El Nido", un laberinto hidrotermal infestado de medusas, para evadir los sensores de los Segadores.

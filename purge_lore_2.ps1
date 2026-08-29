@@ -1,0 +1,27 @@
+$filePath = "c:\Users\javie\Desktop\Automatizaciones\Libros\Automatizar_Historias\Libro_Best-seller.md"
+$content = [System.IO.File]::ReadAllText($filePath, [System.Text.Encoding]::UTF8)
+
+$content = $content -replace "(?i)baliza nuclear", "faro de resonancia"
+$content = $content -replace "(?i)nuclear", "de flujo"
+$content = $content -replace "(?i)cabrestante motorizado", "cabrestante de flujo"
+$content = $content -replace "(?i)motorizado", "de flujo"
+$content = $content -replace "(?i)radios de onda corta", "cristales de eco"
+$content = $content -replace "(?i)frecuencia(s)? fantasma", "ecos de resonancia"
+$content = $content -replace "(?i)ascensores de carga", "plataformas de elevación"
+$content = $content -replace "(?i)comunicaciones", "vínculos de resonancia"
+$content = $content -replace "(?i)automatización total", "autonomía del flujo"
+$content = $content -replace "(?i)hackeando", "corrompiendo el entramado"
+$content = $content -replace "(?i)hackear", "corromper"
+$content = $content -replace "(?i)Defcon 4", "alerta roja"
+$content = $content -replace "(?i)bombas de circulación", "pulsores de trasvase"
+$content = $content -replace "(?i)química sintética", "alquimia de flujo"
+$content = $content -replace "(?i)kevlar", "tejido reforzado"
+$content = $content -replace "(?i)mira óptica", "lente de resonancia"
+$content = $content -replace "(?i)música ambiental", "armonía de flujo"
+$content = $content -replace "(?i)nivel de cortisol", "nivel de fatiga"
+$content = $content -replace "(?i)soporte vital", "sustento biológico"
+$content = $content -replace "(?i)infraestructura", "entramado"
+$content = $content -replace "(?i)escáner", "resonador"
+$content = $content -replace "(?i)logotipo", "sello"
+
+[System.IO.File]::WriteAllText($filePath, $content, [System.Text.Encoding]::UTF8)

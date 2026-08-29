@@ -1,0 +1,3 @@
+### Resumen - Capítulo 20: Infiltración
+
+Leo logra entrar en el edificio de la Subasta utilizando una mezcla de arrogancia y engaño, haciéndose pasar por un rezagado del convoy de los Segadores. Para superar el control biométrico de la Sala Principal, roba una muestra de sangre fresca de un noble drogado mediante un "accidente" calculado con su cuchillo. Una vez dentro, entre la élite criminal de Extramuros, Leo descubre una pista devastadora: un tapiz antiguo restaurado con la técnica de *Kintsugi* textil, una firma inconfundible de Elena. Esto confirma que ella está (o estuvo) allí. La subasta comienza con los Segadores custodiando la Caja Omega, mientras Leo se prepara para actuar desde las sombras.

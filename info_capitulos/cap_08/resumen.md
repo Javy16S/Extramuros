@@ -1,0 +1,3 @@
+# RESUMEN: CAPÍTULO 8
+
+Leo llega a las puertas de Puerto Raíz, un asentamiento chabolista construido dentro del esqueleto de un titán. Para entrar, debe pasar un control del Concordato. Sin documentos ni historia, improvisa una identidad: Leo Arce, superviviente de un grupo de logística. El guardia, escéptico por sus "manos de oficinista", finalmente lo deja pasar, pero no sin antes soltar un comentario clave: una chica con características similares pasó por allí hace unas semanas. Leo entra en la ciudad con la certeza de que sigue los pasos de Elena y con la urgencia de encontrar cómo sobrevivir en una economía basada en el intercambio de favores.

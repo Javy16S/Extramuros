@@ -1,0 +1,1 @@
+Continuando desde el cliffhanger del Cap. 1, Leo huye de la bestia de ojos ámbar y se refugia en una cueva-osario. Descubre la función brújula de la Pieza, tiene un flashback de Elena, y despierta el Flujo al escapar de un Rompemuros con un salto sobrehumano.

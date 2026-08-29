@@ -1,0 +1,3 @@
+### Resumen - Capítulo 31: La Caída
+
+Leo y Silas sobreviven a la caída libre desde la Torre Norte usando un gancho para desviarse hacia el Grand Mall adyacente. Leo usa su Esfera para envejecer el techo de cristal blindado, permitiéndoles atravesarlo y caer en la piscina central, llena de fluido amniótico sintético. Heridos y perseguidos por los drones de caza de Elena, se esconden en el líquido viscoso antes de forzar una puerta de mantenimiento oxidando la cerradura con entropía. Escapan hacia el sistema de alcantarillado/circulación, comprendiendo que Apectus es una incubadora gigante y que ahora están en sus entrañas, en una carrera contra Elena para llegar al "Gran Sello" en el núcleo del mundo.

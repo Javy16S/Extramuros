@@ -1,0 +1,1 @@
+Arrastrado por el río subterráneo, Leo emerge en la Zona 2, un ecosistema bioluminiscente y tóxico conocido como el Mar de Esporas. Exhausto y al borde de la hipotermia, colapsa en la orilla. Es descubierto por una entidad humanoide nativa que, en lugar de matarlo, le revela que Caine, el legendario Inmortal, lo estaba esperando.

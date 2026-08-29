@@ -1,0 +1,3 @@
+### RESUMEN: CAPÍTULO 5
+
+Leo huye de un depredador a través de un bosque de proporciones titánicas, experimentando por primera vez los efectos del "Flujo": velocidad sobrehumana y percepción aumentada, pero a costa de un hambre voraz y dolor físico intenso. Llega a un prado que las bestias del bosque temen cruzar. Allí descubre una cabaña habitada por un hombre de pelo blanco ("El Anciano"). La presencia del hombre irradia una presión aterradora. Leo, es invitado a entrar en la cabaña y, tras entrar y descubrir que desaparecía la presión aterradora del exterior, cayó colapsado por el desgaste metabólico de su propio poder, cayendo inconsciente ante la mirada analítica del desconocido.

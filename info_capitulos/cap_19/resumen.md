@@ -1,0 +1,3 @@
+### Resumen - Capítulo 19: El Objeto
+
+Leo observa el Mercado de Huesos desde la cornisa, confirmando que la "Pieza" que porta ha despertado y reacciona violentamente ante la presencia de un contenedor blindado traído por el convoy de los Segadores. Deduce que su objeto es una llave que busca su cerradura (la caja). Decidido a entrar sin ser detectado, evita la entrada principal y utiliza la resonancia de Flujo para romper los barrotes de una tubería de desagüe. Tras una travesía asquerosa por las alcantarillas, Leo emerge en el corazón del Mercado, camuflado por la suciedad y su capa, listo para infiltrarse en la Subasta y reclamar respuestas.

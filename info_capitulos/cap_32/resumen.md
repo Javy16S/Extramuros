@@ -1,0 +1,3 @@
+### Resumen - Capítulo 32: El Sistema
+
+Leo y Silas navegan por la maquinaria biológica y sofocante del subsuelo de Apectus ("Los Intestinos"). Sobreviven a un encuentro sigiloso con un nido de "Garrapatas de Flujo" explosivas y descubren un símbolo tallado por Caine, confirmando que el abuelo pasó por allí hace meses buscando el Núcleo. En la inmensa sala del "Pulmón", Leo inhala gas "Pneuma" tóxico y alucina con una batalla de la Vieja Guerra donde "Ángeles Jardineros" le ofrecen paz eterna. Silas lo salva del suicidio. Al llegar al ascensor de carga, descubren que está bajando hacia el Nivel -99 (El Gran Sello). Incapaces de detenerlo, saltan al hueco del ascensor para hacer rappel por los cables, persiguiendo a Elena hacia el núcleo del mundo.

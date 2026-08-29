@@ -1,0 +1,3 @@
+### Resumen - Capítulo 28: La Verdad
+
+Leo despierta en un apartamento de lujo en Apectus, descubriendo que la Ciudad Hueca es una metrópolis automatizada y perfecta, pero totalmente vacía. Junto a Silas, explora las calles silenciosas hasta llegar al "Nexus", la pirámide central de control. Allí, un registro holográfico del Director del Proyecto Génesis revela la verdad: Las "Esferas" no son baterías antiguas, sino huevos biológicos de los "Jardineros" (Titanes). La Fundación intentó usarlos como energía y desató la ira del planeta. Mientras Silas sugiere destruir la Esfera de Leo para evitar que nazca, los sensores detectan una segunda señal activa en la Torre Norte. No están solos.

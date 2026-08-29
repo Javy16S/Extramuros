@@ -1,0 +1,3 @@
+### Resumen - Capítulo 22: La Huida
+
+La huida comienza *in media res* con Leo corriendo por la selva bajo una lluvia torrencial, perseguido por la maquinaria pesada de los Segadores y sus *Sabuesos de Flujo* (quimeras biológicas). Leo descubre el poder real de la Esfera Líquida: entropía acelerada. Utiliza este poder para desintegrar una raíz gigante y matar a un sabueso, pero a un coste terrible: su propio brazo comienza a sufrir necrosis acelerada. Acorralado en el borde de un acantilado por el Capitán y su tanque *Rhino*, Leo escucha un eco de la voz de Elena emanando de la Esfera. Siguiendo su consejo, salta al vacío hacia un cenote profundo, sumergiéndose en la red de ríos subterráneos para escapar de la muerte inminente.

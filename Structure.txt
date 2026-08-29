@@ -1,0 +1,12 @@
+/mi_novela
+├── /contexto            (Global: Historia, Personajes Maestros, Roadmap General)
+├── /progreso.md         (Control de KPIs: Palabras escritas vs Objetivo)
+├── /capitulos           (Aquí van los borradores finales .md)
+│
+└── /info_capitulos      (La "inteligencia" de cada capítulo)
+    ├── /cap_01
+    │   ├── analisis_critico.md (La IA evalúa si el plan es bueno antes de escribir)
+    │   ├── personajes_cap.md   (Quién sale en ESTE capítulo)
+    │   ├── sucesos.md          (Escaleta detallada escena por escena)
+    │   └── tramas.md           (Estado: Activa, Fondo, Cerrada)
+    ├── /cap_02...

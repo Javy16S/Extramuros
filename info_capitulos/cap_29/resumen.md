@@ -1,0 +1,3 @@
+### Resumen - Capítulo 29: La Torre
+
+Leo y Silas salen del Nexus para encontrar que la ciudad de Apectus se ha vuelto hostil, con el cielo artificial teñido de púrpura. Son atacados por un enjambre de drones de limpieza kamikazes y androides médicos disfrazados de maniquíes. Tras abrirse paso a tiros, son inmovilizados por un francotirador en la Torre Norte que juega con ellos en lugar de matarlos. Tras una carrera desesperada, entran en la torre y suben en un ascensor que los espera. En el ático, encuentran a una joven de pelo blanco y ojos violetas sentada en un trono, acariciando una Esfera Negra. Ella revela ser Elena, o la entidad que emergió de su capullo tras su "muerte" en el Nido.

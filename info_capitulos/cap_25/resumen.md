@@ -1,0 +1,3 @@
+### Resumen - Capítulo 25: El Nido
+
+Descendiendo al abismo volcánico conocido como "El Nido", Leo y Silas se enfrentan a un ecosistema de pesadilla: una caverna titánica llena de medusas bioluminiscentes del tamaño de aeronaves que se alimentan de calor. Obligado a usar la técnica de la *Quietud* para ocultar su firma térmica y la resonancia de la Esfera, Leo cruza un puente de piedra precario. El paso es bloqueado por la "Madre del Enjambre", un leviatán biológico. Silas provoca una distracción masiva usando una bengala de magnesio y feromonas, desatando una guerra civil en el enjambre, lo que les permite saltar a un tubo de lava y deslizarse hacia las profundidades, escapando por poco de la digestión ácida.

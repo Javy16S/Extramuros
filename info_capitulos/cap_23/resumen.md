@@ -1,0 +1,3 @@
+### Resumen - Capítulo 23: La Cacería
+
+Leo sobrevive al bombardeo de cargas de profundidad navegando por el sistema de cuevas sumergidas del cenote, guiado por la corriente y el recuerdo de Elena. En la oscuridad, iluminada solo por la bioluminiscencia de medusas abisales, lucha contra la hipoxia y el avance de la necrosis en su brazo derecho, corrompido por el uso de la Esfera. Al emerger en una caverna seca y oculta, rastrea huellas humanas frescas hasta un campamento improvisado. Allí encuentra a un misterioso Veterano de la Vieja Guerra, un hombre tuerto y armado con un rifle antiguo, que no solo lo estaba esperando, sino que conoce la naturaleza de la reliquia y el peligro que corre Leo de morir consumido por ella.

@@ -1,0 +1,3 @@
+### Resumen - Capítulo 30: El Encuentro
+
+Leo y Silas confrontan a Elena en el ático. Ella ha sido transformada por una Esfera Negra (Entropía Necrótica) y revela que los "Jardineros" cultivan el planeta y los humanos son una plaga. Su plan es abrir el Gran Sello para devorar a los Titanes. Cuando exige la Esfera de Leo, Silas dispara, pero Elena detiene la bala con control gravitatorio y aplasta al veterano contra la pared. Leo usa su Esfera para crear un "Bucle Temporal" de tres segundos, rebobinando la realidad para deshacer el ataque. Con el conocimiento del futuro inmediato, Leo agarra a Silas y se lanzan a través del ventanal blindado (envejeciéndolo hasta hacerlo polvo), prefiriendo la caída libre de 300 metros a enfrentarse a la entidad que habita en Elena.
