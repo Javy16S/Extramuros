@@ -6,23 +6,23 @@ Aquí tienes el dossier profundo de personajes para tu obra.
 
 # 📂 DOSSIER DE PERSONAJES: EXTRAMUROS
 
-## 1. LEO: El Cartógrafo del Orden
-*“Si puedo medirlo, no puede dañarme.”*
+## 1. LEO: La Mente Metódica y Distante
+*“Todo tiene una explicación lógica si se recogen suficientes datos.”*
 
-### 🧠 Análisis Psicológico: El Orden como Armadura
-Leo sufre de lo que podríamos llamar un **Apego Seguro a la Estructura**. Para él, el caos no es solo desorden, es una amenaza existencial. Su obsesión con la rutina y la clasificación es un mecanismo de defensa contra el vacío de la Reserva.
-- **La Pieza (El Poliedro):** No es un objeto decorativo; es su ancla. Su peso le recuerda que la gravedad es real, que hay algo denso y "verdadero" en un mundo que empieza a sentirse bidimensional. Leo proyecta en ese objeto su necesidad de respuestas sólidas.
-- **Mecanismo de Negación:** Ante lo extraño, Leo busca la falla lógica. Si algo no encaja, asume que es un error de percepción, no una ruptura de la realidad.
+### 👤 Perfil: El Analista Frío y Observador
+Leo es, en apariencia, un joven común y corriente de 24 años que trabajaba como administrativo en la Reserva. No tiene entrenamiento militar ni habilidades sobrehumanas al inicio, pero destaca por una personalidad marcadamente distante, calculadora y reservada.
+- **Carácter:** Poco comunicativo, pragmático y analítico. Prefiere observar y evaluar las situaciones antes de intervenir. Tiende a desmenuzar los problemas en pasos lógicos, buscando patrones, causas y fallos de cálculo.
+- **La Pieza (El Poliedro):** Un objeto heredado de su abuelo Caine. Para Leo nunca ha tenido nada de místico: es simplemente un bloque oscuro y geométrico, anormalmente denso y pesado para su tamaño, que utilizaba como un simple pisapapeles en su mesa de trabajo y que acostumbra a sopesar con la mano cuando reflexiona. Ignora por completo su origen biológico titánico.
 
-### 🗣️ La Voz Interna: Racionalización de lo Imposible
-El monólogo interno de Leo es analítico, casi forense. Cuando Elena desaparece en el "Punto Ciego", su cerebro no procesa "magia" o "secuestro", procesa "desviación estadística".
-- *¿Cómo piensa?* Piensa en términos de coordenadas, ángulos y leyes físicas.
-- *Ejemplo de pensamiento:* *"Elena no se ha ido. El espacio simplemente ha dejado de informar sobre su posición. Hay una explicación óptica, un fenómeno de refracción en el lindero. Solo tengo que encontrar el ángulo correcto para que ella vuelva a aparecer."*
+### 🔍 Reacción ante la Desaparición de Elena
+Cuando Elena desaparece en el Parque del Lindero y la policía (el inspector Garrido) despacha el asunto como una simple marcha voluntaria, Leo no se deja llevar por el pánico ni por teorías esotéricas:
+- **Enfoque Racional:** Comienza a investigar por su cuenta aplicando puro método: coteja horarios, analiza planos del terreno, busca contradicciones en el último recorrido de Elena y descifra las notas que ella dejó.
+- **Motivación:** No busca una cruzada heroica; simplemente no acepta que falten piezas en una ecuación. Si alguien desaparece en un punto concreto, tiene que haber un rastro físico que explique adónde fue.
 
-### 📈 El Arco de Personaje: Del Observador al Arquitecto
-1. **Estado Inicial:** Un hombre que vive para observar el mundo desde una distancia segura. Es el espectador de su propia vida.
-2. **Punto de Quiebre:** La desaparición de Elena rompe el patrón. El "Punto Ciego" es el único lugar que su lógica no puede mapear.
-3. **Transformación:** Leo descubre que la "Pieza" no es para pesar papeles, sino para pesar realidades. Su arco es el paso de la **Aceptación Pasiva** (vivir en la Reserva) a la **Agencia Épica** (cruzar el muro). Pasa de ser alguien que teme al caos a ser alguien que cabalga la anomalía.
+### 📈 Arco de Evolución: Del Burócrata al Superviviente Pragmático
+1. **En la Reserva:** Un tipo corriente, escéptico y metódico que vive una rutina ordenada y gris.
+2. **El Cruce:** Al seguir las pistas de Elena hasta el punto ciego del Lindero y cruzar a Extramuros, sufre el violento shock biológico del nuevo entorno.
+3. **En Extramuros:** Su mente calculadora y fría se convierte en su mayor herramienta de supervivencia. Mientras otros sucumben al terror o al descontrol del Flujo, Leo aprende a medir sus recursos, analizar el comportamiento de las bestias y gestionar el coste calórico de su propio cuerpo para mantenerse con vida.
 
 ---
 
@@ -40,20 +40,19 @@ Elena había descubierto que la Reserva no es una protección, sino un **sedante
 
 ---
 
-## 3. EL ANTAGONISTA: INSPECTOR GARRIDO (El Jardinero)
-*“La paz no es la ausencia de conflicto, es la presencia de un límite bien vigilado.”*
+## 3. INSPECTOR GARRIDO: El Policía Cotidiano y Pasota
+*“Mire, chaval, la gente se larga todos los días. Firme la denuncia o váyase a casa, que se me enfría el café.”*
 
-### 👤 Perfil: El Opositor Ético
-Garrido no es un villano movido por la maldad, sino por el **Miedo Colectivo**. Es un hombre mayor, cansado, que ha visto lo que ocurre cuando la gente "mira demasiado tiempo al Lindero". Su función es mantener la entropía bajo control.
+### 👤 Perfil: El Funcionario Agotado
+Garrido no es un agente de una conspiración ni posee conocimientos secretos. Es simplemente un inspector de policía corriente, quemado por los años de rutina, papeleo y turnos interminables en la comisaría de la Reserva. 
+- **Personalidad:** Pasota, pragmático y desganado. Su principal objetivo diario es terminar su turno sin complicaciones ni líos burocráticos.
+- **Total Ignorancia de Extramuros:** No sabe absolutamente nada sobre el Velo de Desfase, los Titanes, el Flujo ni la existencia de un mundo exterior. Para él, el mundo termina en los límites administrativos de la ciudad y el Lindero es solo una valla o parque periférico donde a veces se pierden borrachos o excursionistas descuidados.
 
-### 🛡️ Motivación: El Mal Menor
-Garrido cree firmemente que el mundo "Extramuros" es un páramo de horror o una complejidad que la mente humana no puede soportar sin romperse.
-- **Su Filosofía:** *"La verdad es un veneno que el ciudadano común no puede metabolizar"*.
-- Para él, Leo es una infección. Al intentar buscar a Elena, Leo está trayendo el caos de vuelta a una sociedad que ha logrado la paz a través de la ignorancia.
-- **La Fuerza Opositora:** No es solo Garrido, es la "Oficina de Consistencia". Su trabajo es "podar" las anomalías. Si Elena es una rama que creció demasiado, Leo es una raíz que intenta levantar el pavimento.
-
-### 🎭 El Conflicto de Poder
-Garrido respeta a Leo. Lo ve como un reflejo de sí mismo antes de aceptar el sistema. Por eso, su antagonismo es trágico: intentará detener a Leo "por su propio bien", convencido de que fuera de la Reserva no hay libertad, solo la aniquilación del ser.
+### 🛡️ Dinámica con Leo: Burocracia vs. Obsesión
+Cuando Leo acude desesperado denunciando la desaparición de Elena en el "Punto Ciego", Garrido lo trata con la apatía habitual del policía veterano:
+- **Su Explicación Racional:** Para Garrido, Elena no ha sufrido ningún fenómeno extraño; simplemente ha decidido marcharse, le ha dejado o se ha ido con otro. Cree que Leo es el típico novio o amigo obsesivo que se niega a aceptar la realidad.
+- **Mecanismo de Trabajo:** Cumplir el trámite mínimo (tomar declaración, archivar el expediente tras unos días de rigor) y recomendar a Leo que "pase página" y no busque problemas.
+- **Fricción:** No persigue a Leo por maldad ni por órdenes superiores, sino por pura molestia si Leo insiste en saltarse cordones policiales, colarse en zonas restringidas o hacer ruido innecesario en la comisaría.
 
 ---
 

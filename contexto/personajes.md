@@ -13,8 +13,8 @@
 
 ## Facciones y Líderes
 
-### El Concordato (Orden)
-*   **Inspector Garrido:** Agente de campo en la Reserva. Sabe demasiado pero obedece por miedo al caos.
+### La Reserva
+*   **Inspector Garrido:** Policía veterano y pasota de la Reserva. Quemado por la rutina y el papeleo. No sabe nada de Extramuros ni del Velo; cree que las desapariciones son simples huidas voluntarias.
 *   **Comandante "Hierro":** (Antagonista Arco 2). Líder de la Vanguardia que persigue a Leo. Usuario de tipo "Resonancia" (Armadura pesada).
 
 ### Los Segadores (Caos)
