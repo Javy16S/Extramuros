@@ -26,17 +26,17 @@ Cuando Elena desaparece en el Parque del Lindero y la policía (el inspector Gar
 
 ---
 
-## 2. ELENA: La Ausencia Presente
-*“Hay más verdad en lo que falta que en lo que vemos.”*
+## 2. ELENA: La Curiosidad Intelectual
+*“Si nadie escucha las historias de los ancianos, se pierde la memoria del mundo.”*
 
-### 🕵️ ¿Quién era realmente?
-Elena no era la víctima pasiva que la policía de la Reserva sugiere. Era una **Disidente de la Percepción**. Mientras Leo medía el mundo con reglas, Elena lo sentía con los dedos. Ella era una restauradora de libros antiguos (o algo similar), alguien acostumbrada a buscar lo que el tiempo ha borrado.
+### 👤 Perfil: Extrovertida, Culta y Apasionada por la Lectura
+Elena es una mujer vivaz, sociable y con un profundo interés por la lectura y la cultura. Su pasión por los libros y la historia la convertía en alguien con una curiosidad insaciable hacia todo lo que le rodeaba.
+- **Carácter:** Extrovertida, cálida, comunicativa y atenta. En claro contraste con el carácter distante y calculador de Leo, Elena era abierta y cercana con quienes la rodeaban.
+- **Vínculo con el Abuelo Caine:** Mientras casi todo el mundo descartaba a Caine como un anciano gagá o senil tras su demencia, Elena era la única que le dedicaba tiempo y le prestaba atención de verdad. Fascinada por sus cuadernos y sus relatos, los escuchaba no por buscar una conspiración, sino por pura curiosidad intelectual y empatía humana.
 
-### 🗝️ Lo que ella sabía (y Leo no)
-Elena había descubierto que la Reserva no es una protección, sino un **sedante**.
-- Ella sabía que el "Punto Ciego" no es un error geográfico, sino una "puerta entreabierta".
-- Había empezado a dejar pistas en la rutina de Leo, sabiendo que él solo las vería cuando el orden se rompiera.
-- Elena entendía la verdadera naturaleza de la "Pieza": no es una llave que abre una puerta física, sino una brújula que apunta hacia lo que la Reserva intenta ocultar. Ella no desapareció por accidente; ella **cruzó**.
+### 🔍 Su Desaparición
+- **Curiosidad Natural:** Elena no sospechaba la magnitud de lo que había al otro lado; simplemente siguió las anotaciones y reflexiones de Caine con la curiosidad propia de una mente inquieta que investiga un misterio fascinante en el Parque del Lindero.
+- **El Detonante de Leo:** Su desaparición es el motor que descoloca la vida ordenada de Leo. Para un tipo distante y cerrado como él, Elena era su conexión emocional más significativa, lo que le obliga a salir de su pasividad para rastrear sus pasos.
 
 ---
 
@@ -56,10 +56,8 @@ Cuando Leo acude desesperado denunciando la desaparición de Elena en el "Punto 
 
 ---
 
-## 🛠️ DINÁMICA DE LA TRAMA (Psico-Narrativa)
+## 🛠️ DINÁMICA DE LA TRAMA
 
-- **El Misterio (Thriller):** Se centra en Leo tratando de usar su lógica para encontrar a Elena, enfrentándose a los protocolos de Garrido.
-- **La Transición (Giro):** Ocurre cuando Leo usa la "Pieza" por primera vez. El objeto no reacciona a la lógica, sino a la voluntad. El poliedro "pesa" más cuando Leo se acerca a la verdad, desafiando las leyes de la física.
-- **La Épica (Fantasía):** Cuando Leo finalmente entra en el Punto Ciego, descubre que la Reserva es solo una pequeña mota en un universo vasto, extraño y peligroso. La "Pieza" se despliega, revelando que es parte de una armadura o un arma de una era olvidada.
-
-**Nota para el autor:** La clave del éxito de este dossier es que Leo nunca pierda su voz analítica, incluso cuando esté frente a dragones o ciudades flotantes. Su "locura" será intentar seguir siendo un hombre de ciencia en un mundo de mitos.
+- **El Misterio Urbano (Grounded Thriller):** Comienza en la Reserva con la investigación de Leo tras la desaparición de Elena. Leo aplica su método analítico siguiendo las notas de lectura de Elena y las rutas del Parque del Lindero, chocando con la desgana burocrática del inspector Garrido.
+- **El Tránsito a Extramuros:** Al cruzar el umbral del Punto Ciego (el Velo de Desfase), Leo experimenta el violento choque fisiológico de la atmósfera hiperoxigenada y descubre que la pequeña Reserva insular no es el mundo entero.
+- **La Supervivencia Continental:** Leo debe recurrir a su frialdad y capacidad de análisis para regular el coste metabólico de su cuerpo (Flujo) y sobrevivir a la escala titánica de Extramuros mientras sigue las pistas de Elena y descubre la verdad sobre su abuelo Caine.
