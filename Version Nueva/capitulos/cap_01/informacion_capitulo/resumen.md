@@ -1,0 +1,5 @@
+﻿# Resumen - Capítulo 1: El Ángulo Muerto
+
+Leo Vanes, un joven calculador y distante de 24 años, se niega a aceptar el dictamen policial del inspector Garrido, quien ha archivado la desaparición de Elena como una simple fuga voluntaria. Para Leo, Elena —una chica culta, vital y apasionada por los libros que era su único lazo emocional tras la pérdida de sus padres y la demencia de su abuelo Caine— jamás se habría marchado sin su medicación ni sus pertenencias.
+
+Apoyándose en su mentalidad metódica, Leo analiza una cinta de seguridad obtenida de forma clandestina y descubre que Elena entró bajo la copa del Roble Centenario del Parque del Lindero y se desvaneció sin salir jamás. Tras descifrar un cuaderno donde Elena anotó anomalías de densidad atmosférica y referencias a los diarios de Caine, Leo acude de madrugada al parque portando un extraño poliedro metálico/orgánico que usaba como pisapapeles. Al aproximarse a la sombra estática del árbol, la pieza se sobrecalienta y adquiere un peso monstruoso. Al dar un paso en la oscuridad, la realidad física colapsa y Leo es arrastrado a través del Velo hacia la vegetación titánica del mundo exterior.
