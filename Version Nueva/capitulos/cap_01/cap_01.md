@@ -1,4 +1,4 @@
-﻿# CAPÍTULO 1: EL ÁNGULO MUERTO
+# CAPÍTULO 1: EL ÁNGULO MUERTO
 
 La carpeta del expediente pesaba apenas ciento cincuenta gramos. Demasiado poco para contener la desaparición de la única persona que le quedaba en el mundo.
 
@@ -50,7 +50,7 @@ El inspector firmó la esquina inferior del folio, lo metió en una carpeta gen�
 
 —Espere —repitió Leo en la soledad de su cuarto.
 
-Apartó la silla de un golpe. La inercia del cuerpo le obligó a caminar de un extremo a otro del salón. Su formación como administrativo y su tendencia natural al análisis no le permitían aceptar la respuesta estadística de Garrido. La realidad no funcionaba por probabilidades vagas, sino por leyes de causa y efecto. Si una persona de metro sesenta y cinco de estatura y cincuenta y dos kilos de masa entra en un espacio acotado a las 18:41 de la tarde, tiene que existir un vector de salida. La materia no se evapora en el aire.
+Apartó la silla de un golpe y empezó a caminar de un lado a otro del salón, sintiendo el suelo frío bajo las medias. No podía aceptar la respuesta despreocupada de Garrido. Las cosas no ocurrían por arte de magia ni la gente se desvanecía en el aire sin dejar rastro: si Elena había entrado en ese camino a las 18:41 de la tarde, tenía que haber salido por algún sitio.
 
 Se detuvo frente al escritorio. En la esquina derecha, reposando sobre una pila de hojas cuadriculadas, se encontraba el poliedro.
 
@@ -90,9 +90,9 @@ El sendero al otro lado de la copa del árbol permanecía vacío. El tramo en so
 
 El minutero continuó avanzando. Las copas de los árboles se mecían con el viento. Una pareja de ancianos pasó por el camino principal quince minutos más tarde. La luz natural fue decayendo hasta que las farolas del parque se encendieron a las 19:30. El recinto cerró sus verjas a las 22:00.
 
-Elena jamás salió de aquella sombra. Y lo más desconcertante para la mente cartesiana de Leo: ninguna otra persona, vehículo o animal entró en ese punto para forzarla a salir o llevársela.
+Elena jamás salió de aquella sombra. Y lo más desconcertante: nadie más entró en ese tramo para llevársela o forzarla a salir.
 
-—No hay salida lateral —masculló Leo para sí mismo, apoyando la Pieza sobre la mesa—. A la izquierda hay un talud de piedra vertical de doce metros. A la derecha, una valla ciega de hormigón. Solo hay dos vectores posibles, y ninguno de los dos registró movimiento.
+—No hay forma de salir por los lados —masculló Leo en voz baja, dejando la Pieza sobre la mesa—. A la izquierda está el talud de piedra vertical y a la derecha la valla alta de hormigón. Solo se puede seguir hacia adelante por el camino o dar media vuelta, y en la cámara no aparece saliendo por ninguna de las dos direcciones.
 
 Se apartó de la pantalla y se dirigió a la estantería. Tras una fila de manuales de contabilidad y cálculo estructural, extrajo el cuaderno encuadernado en tela verde que había encontrado oculto bajo el somier de la cama de Elena.
 
