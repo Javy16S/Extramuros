@@ -1,187 +1,163 @@
-# CAPÍTULO 1: EL ÁNGULO MUERTO
+﻿# CAPÍTULO 1: LA DESAPARICIÓN
 
 La carpeta del expediente pesaba apenas ciento cincuenta gramos. Demasiado poco para contener la desaparición de la única persona que le quedaba en el mundo.
 
-Leo la dejó caer sobre el escritorio. El sonido seco del cartón golpeando la madera de pino tuvo una resonancia hueca que cortó el silencio de su habitación. Eran las 03:14 de la madrugada. La única iluminación provenía del resplandor azulado del monitor y de la farola de vapor de sodio de la calle, que proyectaba franjas anaranjadas a través de las persianas venecianas. Partículas de polvo flotaban suspendidas en los conos de luz, girando en corrientes térmicas invisibles, indiferentes al derrumbe metódico de la vida de Leo.
+Leo la dejó caer sobre el escritorio. El sonido seco del cartón golpeando la madera de pino cortó el silencio de su habitación. Eran las 03:14 de la madrugada. La única iluminación provenía del resplandor azulado de la pantalla del ordenador y de la farola de la calle, que proyectaba franjas anaranjadas a través de las persianas a medio bajar. El polvo flotaba en la penumbra, ajeno a la angustia metódica que consumía a Leo.
 
-Se frotó los ojos con el dorso de la mano. Los párpados le escocían como si tuviera arena bajo la piel tras casi cincuenta horas en vela, sostenido únicamente por tazas de café aguado y esa tensión ácida que se agarra a la boca del estómago. El apartamento, habitualmente limpio y ordenado con rigor casi clínico, se había transformado en un almacén de mapas, mediciones y conjeturas.
+Se frotó los ojos con el dorso de la mano. Los párpados le escocían tras casi cincuenta horas sin dormir, alimentándose a base de café recalentado y de esa tensión sorda que se instala en el estómago y no te deja respirar hondo. El apartamento, habitualmente ordenado, se había convertido en un caos de papeles y mapas.
 
-Planos topográficos del Parque del Lindero colgaban pegados con cinta de carrocero sobre los cristales de la ventana. Libros de botánica, viejos atlas municipales y tratados de geología se acumulaban en columnas inestables junto al zócalo. En el centro de la mesa, la primera página del atestado policial mostraba un sello de tinta morada: *Causa archivada provisionalmente. Tipificación: Ausencia voluntaria.*
+Varios planos del Parque del Lindero y del término municipal colgaban pegados con cinta sobre la pared. Guías de caminos, libros de botánica y viejos atlas de la región se apilaban junto a la mesa. En el centro, la primera página del atestado policial mostraba un sello oficial de tinta morada: *Diligencia archivada provisionalmente. Motivo: Ausencia voluntaria.*
 
-—Ausencia voluntaria —murmuró Leo. Su propia voz le sonó extraña, áspera y gastada por el desuso—. Incompetentes.
+—Ausencia voluntaria —murmuró Leo con rabia contenida—. Qué fácil es quitarse el trabajo de encima.
 
-Cerró los ojos un instante. Al hacerlo, el recuerdo de la tarde anterior en la comisaría del distrito volvió a proyectarse con una nitidez irritante.
-
-***
-
-El despacho del inspector Garrido olía a tabaco frío, humedad de radiador y al ambientador barato de lavanda con el que intentaban disimular la mugre de las paredes. Un tubo fluorescente parpadeaba en el techo con un zumbido intermitente que taladraba las sienes.
-
-Garrido se había servido una taza de café de una cafetera de goteo que llevaba horas encendida en una esquina. La camisa blanca, desabrochada en el cuello, mostraba una mancha amarillenta cerca del bolsillo del pecho. Tenía los ojos pequeños, enrojecidos por la falta de descanso, y la actitud de un funcionario que lleva dos décadas viendo pasar las mismas miserias por delante de su mesa sin que ninguna logre alterarle el pulso.
-
-—A ver, muchacho... Leo, ¿verdad? —dijo Garrido, sentándose con un suspiro pesado que hizo crujir la silla giratoria—. Cuéntemelo desde el principio. Pero sin rodeos, que el turno se acaba a las ocho y todavía tengo tres partes de accidentes por rellenar.
-
-Leo se sentó al otro lado de la mesa de formica. Mantuvo la espalda recta, las manos apoyadas firmemente sobre los muslos para disimular la rigidez de sus dedos.
-
-—Elena no es el tipo de persona que se marcha sin avisar, inspector —comenzó Leo, cuidando cada palabra para que sonara calculada, despojada de histeria—. Tiene veintidós años. Es extrovertida, sociable, pero sobre todo es una persona con una curiosidad insaciable. Le apasiona la lectura, la botánica, la historia local... Se pasa horas en bibliotecas y archivos buscando documentos antiguos. No tiene deudas, no tiene enemigos, no consume nada raro y jamás ha tenido un conflicto con nadie.
-
-Garrido dio un sorbo al café, arrugó la nariz por la acidez del trago y hojeó el formulario preliminar sin especial interés.
-
-—Todos tienen una vida impecable hasta que deciden cambiar de aires, chaval. La gente joven se satura. Una discusión de pareja, la presión de los exámenes, las ganas de perderse un par de semanas... Pasa cada semana.
-
-—No hubo ninguna discusión —rebatió Leo con firmeza, apretando la mandíbula—. Y no es una rabieta. Elena es... era lo único que me quedaba. Mis padres murieron en un accidente de tráfico cuando yo tenía dieciocho años. Mi abuelo Caine... la familia lo arrinconó cuando empezó a desvariar, tachándolo de viejo loco por los cuadernos que escribía, hasta que un día desapareció del mapa. Elena fue la única persona que se sentó a escuchar a mi abuelo con respeto. La única que no lo trató como a un despojo senil. Elena era mi ancla, inspector. No tenía ningún motivo para huir de mí ni de su vida.
-
-Garrido dejó la taza sobre un montón de circulares y se recostó en el respaldo, mirándole con esa condescendencia resignada que tienen los policías veteranos.
-
-—Mire, Leo. Hemos ido a su piso. La cerradura no está forzada. No hay cristales rotos, ni muebles volcados, ni una sola gota de sangre. No hay notas de extorsión ni llamadas raras. En el registro no falta dinero en efectivo. Faltan sus botas de montaña, una cazadora vaquera y la mochila amarilla que llevaba siempre para sus libros.
-
-—Su medicación para el asma sigue en el cajón del baño —insistió Leo, inclinándose hacia delante—. Su cepillo de dientes sigue en el vaso. Su documentación y sus tarjetas de crédito no registran movimientos desde el martes por la tarde. ¿Quién se fuga voluntariamente para empezar de cero dejándose el inhalador y la cartera en casa?
-
-Garrido se encogió de hombros, un gesto mecánico y desprovisto de malicia.
-
-—Alguien que salió a dar un paseo para despejarse, se desorientó o decidió montarse en un autobús interurbano pagando en mano. La última antena de telefonía que registró su móvil fue la del repetidor norte, cerca de la estación y del Parque del Lindero. Luego el terminal se apagó. Se quedó sin batería o tiró la tarjeta. 
-
-—El Parque del Lindero no es una estación —dijo Leo, sintiendo cómo el estómago se le cerraba—. Llevo cuatro días recorriendo el perímetro. Algo le ocurrió allí dentro.
-
-—Y allí mandamos una patrulla a dar una vuelta el miércoles por la mañana —respondió Garrido con un bostezo mal disimulado, mientras echaba una ojeada al reloj de pared—. No encontraron nada. Ni huellas sospechosas ni signos de forcejeo. El protocolo no me permite movilizar a la brigada judicial ni montar batidas forestales sin un indicio claro de delito, secuestro o violencia. Si la chica aparece en un centro de salud o nos llega un aviso de otra comisaría, le llamaremos al número que ha dejado en la ficha. Mientras tanto, le aconsejo que vuelva a su casa, se tome una tila y espere. El noventa por ciento de estas ausencias se resuelven solas cuando al forastero se le acaba el dinero del bolsillo.
-
-El inspector firmó la esquina inferior del folio, lo metió en una carpeta genérica de cartón y la deslizó hacia el montón de expedientes pendientes. Para él, la jornada estaba a punto de terminar.
+Cerró los ojos y el recuerdo de la conversación en la comisaría volvió a su cabeza con una claridad dolorosa.
 
 ***
 
-—Espere —repitió Leo en la soledad de su cuarto.
+El despacho del inspector Garrido olía a tabaco frío, polvo y al ambientador barato de lavanda con el que intentaban tapar el olor a cerrado de la comisaría. En el techo, un tubo fluorescente zumbaba de manera intermitente.
 
-Apartó la silla de un golpe y empezó a caminar de un lado a otro del salón, sintiendo el suelo frío bajo las medias. No podía aceptar la respuesta despreocupada de Garrido. Las cosas no ocurrían por arte de magia ni la gente se desvanecía en el aire sin dejar rastro: si Elena había entrado en ese camino a las 18:41 de la tarde, tenía que haber salido por algún sitio.
+Garrido se había servido una taza de café negro de una cafetera de filtro que llevaba horas enchufada. Tenía la camisa desabrochada en el cuello, una mancha de grasa en el bolsillo y la cara de un hombre que lleva veinte años lidiando con denuncias rutinarias sin que ninguna logre alterarle el pulso.
 
-Se detuvo frente al escritorio. En la esquina derecha, reposando sobre una pila de hojas cuadriculadas, se encontraba el poliedro.
+—A ver, muchacho... Leo, ¿verdad? —dijo Garrido, sentándose con un suspiro que hizo rechinar la silla—. Vamos a repasar esto una vez más. Pero al grano, que se me acaba el turno y tengo que cerrar el turno antes de las ocho.
 
-La Pieza.
+Leo se sentó al otro lado de la mesa de formica, con las manos apoyadas en las rodillas para evitar que le temblaran los dedos por la tensión.
 
-Era un bloque geométrico del tamaño de un puño cerrado, de aristas limpias pero asimétricas, forjado en un material oscuro, mate, que parecía no reflejar la luz de la lámpara. La había rescatado años atrás del desván de su abuelo Caine, en una caja de madera vieja que sus tíos pretendían tirar a la basura junto con el resto de las pertenencias del anciano. A Leo no le atraía por nostalgia ni por superstición, sino por una curiosidad puramente táctil: el objeto era absurdamente denso y pesado para su volumen, pesando casi cuatro kilos a pesar de caber en la palma de una mano, y mantenía siempre una temperatura extrañamente gélida. Durante años no había sido más que un pisapapeles peculiar sobre su mesa de trabajo, un objeto sólido con el que jugaba entre los dedos mientras pensaba.
+—Elena no es de las que se marchan sin decir nada, inspector —empezó Leo, esforzándose por mantener un tono frío y objetivo—. Tiene veintidós años. Es una persona despierta, alegre y con una curiosidad tremenda por todo lo que la rodea. Le apasiona leer, la botánica, la historia de nuestra región... Se pasaba tardes enteras en bibliotecas revisando archivos antiguos. No tiene problemas de dinero, no tiene enemigos y jamás ha tenido una mala palabra con nadie.
 
-Alargó los dedos y lo levantó. El frío metálico le mordió la yema de los dedos, devolviéndole una sensación de foco y realidad.
+Garrido dio un trago al café, torció el gesto por lo amargo que estaba y pasó una hoja del informe con desgana.
 
-Con la mano izquierda sosteniendo el peso del poliedro, utilizó la derecha para pulsar la barra espaciadora del teclado. El reproductor de vídeo del monitor se reanudó.
+—Todo el mundo es un modelo de conducta hasta que un día se cansa de la rutina, chaval. La gente joven se agobia: la universidad, una relación que no va bien, ganas de empezar de cero en otra provincia... Pasa todas las semanas. Se cogen una maleta y se suben al primer autobús que sale de la ciudad.
 
-La grabación procedía de la cámara de seguridad de la entrada norte del Parque del Lindero, instalada en lo alto del poste de control de acceso. Obtener el archivo en bruto le había costado doscientos euros y una tensa conversación en la trastienda de una tienda de informática con Javi, un antiguo compañero de facultad que ahora trabajaba en el servicio municipal de mantenimiento.
+—No hubo ninguna discusión entre nosotros —rebatió Leo, apretando la mandíbula—. Y Elena no tenía ningún motivo para marcharse. Ella es... era lo único que me quedaba. Mis padres murieron en un accidente de carretera cuando yo tenía dieciocho años. Y mi abuelo Caine... cuando empezó a perder la cabeza con sus cuadernos y sus historias sobre expediciones antiguas, el resto de la familia lo aisló como a un anciano senil hasta que un día desapareció sin dejar rastro. Elena fue la única persona que se sentó a escuchar a mi abuelo con paciencia, sin tratarlo como a un loco. Ella era mi único apoyo en el mundo, inspector. No se habría ido así como así.
 
-—*Si alguien pregunta, este archivo se corrompió en el volcado semanal, Leo* —le había advertido Javi con nerviosismo—. *No te metas en líos.*
+Garrido dejó la taza sobre la mesa y le miró con esa mezcla de cansancio y condescendencia típica de los policías veteranos.
 
-Leo había visto la secuencia noventa y dos veces.
+—Mire, Leo. Hemos revisado su apartamento. La puerta estaba cerrada con llave. No hay cerraduras forzadas, ni signos de forcejeo, ni una gota de sangre. No hay notas de rescate ni llamadas extrañas. En su habitación solo faltan sus botas de montaña, una chaqueta vaquera y la mochila amarilla que usaba siempre para llevar libros.
 
-En la pantalla, el minutero digital marcaba las **18:41:02**. 
+—Su inhalador para el asma sigue en la mesilla de noche —insistió Leo, inclinándose hacia delante—. Su cepillo de dientes sigue en el baño. Su cartera con el dinero y las tarjetas está en el cajón de la entrada. ¿Quién se fuga voluntariamente a otra ciudad sin llevarse el dinero ni la medicación?
 
-Luz de atardecer otoñal. En la imagen granulada en blanco y negro se distinguía con claridad a Elena cruzando la cancela de hierro forjado del parque. Llevaba su cazadora vaquera, los pantalones oscuros de campo y la mochila amarilla a la espalda. Caminaba a paso ligero, con la mirada fija en las ramas altas, sosteniendo un pequeño cuaderno de notas en la mano izquierda.
+Garrido se encogió de hombros con resignación.
 
-18:41:30. Elena alcanzaba la bifurcación del sendero principal. En lugar de tomar el camino pavimentado hacia la zona ajardinada, torcía decididamente hacia la izquierda, internándose en la senda secundaria de tierra que conducía al sector más antiguo y descuidado del parque: la arboleda del Lindero.
+—Alguien que salió a despejarse al parque, se despistó o decidió irse sobre la marcha con lo puesto. La última señal de su teléfono la captó una antena del sector norte, cerca de las afueras y del Parque del Lindero. Después, el teléfono se apagó. Se quedó sin batería o tiró la tarjeta.
 
-18:42:05. La figura de Elena se aproximaba al Roble Centenario.
+—Llevo cuatro días buscando por el parque —dijo Leo con un nudo en la garganta—. Algo le ocurrió allí.
 
-Aquel árbol era una mole botánica descomunal, con un tronco de más de tres metros de grosor y una copa tan densa y extendida horizontalmente que proyectaba un manto de sombra impenetrable sobre el camino de grava, incluso a plena luz del sol.
+—Y una patrulla dio una vuelta por allí el miércoles por la mañana —respondió Garrido con un bostezo, mirando el reloj de la pared—. No vieron nada raro. Sin indicios claros de delito o de violencia, el protocolo no me permite movilizar patrullas de búsqueda ni montar un operativo en el bosque. Si la chica aparece en alguna estación, en un hospital o en otra ciudad, le avisaremos. Mientras tanto, váyase a casa, duerma un poco y espere a que llame. La inmensa mayoría de estas desapariciones se arreglan solas cuando se les pasa el enfado o se les acaba la comida.
 
-18:42:12. Elena entraba bajo la sombra del roble.
-
-Leo contuvo la respiración, clavando los ojos en el monitor.
-
-18:42:15.
-18:42:25.
-18:42:40.
-
-El sendero al otro lado de la copa del árbol permanecía vacío. El tramo en sombra medía escasos seis metros de longitud; a la velocidad de marcha que llevaba Elena, habría tardado cuatro segundos exactos en reaparecer en el tramo soleado posterior.
-
-El minutero continuó avanzando. Las copas de los árboles se mecían con el viento. Una pareja de ancianos pasó por el camino principal quince minutos más tarde. La luz natural fue decayendo hasta que las farolas del parque se encendieron a las 19:30. El recinto cerró sus verjas a las 22:00.
-
-Elena jamás salió de aquella sombra. Y lo más desconcertante: nadie más entró en ese tramo para llevársela o forzarla a salir.
-
-—No hay forma de salir por los lados —masculló Leo en voz baja, dejando la Pieza sobre la mesa—. A la izquierda está el talud de piedra vertical y a la derecha la valla alta de hormigón. Solo se puede seguir hacia adelante por el camino o dar media vuelta, y en la cámara no aparece saliendo por ninguna de las dos direcciones.
-
-Se apartó de la pantalla y se dirigió a la estantería. Tras una fila de manuales de contabilidad y cálculo estructural, extrajo el cuaderno encuadernado en tela verde que había encontrado oculto bajo el somier de la cama de Elena.
-
-Lo abrió bajo la lámpara flexible.
-
-Las primeras páginas contenían notas bibliográficas perfectamente ordenadas: registros forestales del siglo pasado, recortes sobre la fundación del Parque del Lindero y transcripciones de los diarios de Caine que Elena había ido recopilando pacientemente durante sus visitas al anciano.
-
-Pero las últimas anotaciones, fechadas la misma semana de su desaparición, estaban escritas con trazo rápido y febril:
-
-> *"Los patrones de los diarios de Caine no son metáforas. Las variaciones en la presión ambiental en torno al Roble del Lindero no responden a fluctuaciones meteorológicas. La densidad del aire en el sector norte cae un 0,6% cada ciclo vespertino. No es viento: es una fuga.*
-> 
-> *El abuelo tenía razón cuando hablaba de la 'porosidad del límite'. Hay una discontinuidad física en la base del árbol. Si la Pieza que conserva Leo estuviera aquí, la resonancia de masa confirmaría la apertura del umbral.*
-> 
-> *Voy a comprobarlo sobre el terreno antes de decírselo. Leo necesita datos empíricos para creer; si se lo cuento sin mediciones, pensará que he perdido el juicio como su abuelo.*
-> 
-> *Nota: Si la lectura barométrica se anula al cruzar... busca donde la sombra no proyecta luz."*
-
-Leo leyó la última línea tres veces seguidas.
-
-Miró el reloj de la pared. Las 03:38 AM.
-
-La ciudad entera dormía bajo un manto de lluvia fina. La policía de Garrido no iba a buscar respuestas en los informes archivados. Si quería encontrar a Elena, tenía que aplicar su propio método donde las reglas de la lógica parecían haberse quebrado.
-
-Se enfundó un abrigo grueso de lana oscura y botas de senderismo. Guardó el cuaderno de notas en el bolsillo interior del pecho, junto a una linterna metálica de alta potencia. Por último, cogió el poliedro negro de la mesa.
-
-Al cerrar los dedos sobre el objeto, Leo se detuvo en seco.
-
-La Pieza ya no estaba fría.
-
-El bloque mate, que durante años había conservado un tacto gélido similar al mármol en invierno, desprendía ahora un calor sutil y constante, casi como la temperatura de un cuerpo vivo. Y en el interior de su estructura sólida, imperceptible a la vista, Leo sintió una vibración brevísima, como el latido apagado de un mecanismo lejano.
-
-Se guardó el poliedro en el bolsillo lateral del abrigo y salió del apartamento, cerrando la puerta con dos vueltas de llave.
+El inspector firmó la esquina de la hoja, cerró la carpeta y la colocó en la bandeja de asuntos pendientes. Para la policía, el caso estaba zanjado.
 
 ***
 
-El trayecto hasta el Parque del Lindero le llevó veinticinco minutos a paso rápido por calles desiertas y aceras encharcadas. El aire nocturno era cortante, cargado de olor a asfalto mojado y gasóleo quemado.
+—Espere a que llame... —repitió Leo con amargura.
 
-Llegó al muro perimetral del parque por su flanco occidental, donde las raíces de un pino añoso habían reventado los cimientos de piedra, dejando una brecha entre dos barrotes de hierro forjado. Leo se deslizó por el hueco con cuidado, raspándose el hombro contra el óxido, y pisó la tierra blanda del interior del recinto.
+Se levantó de golpe y empezó a caminar de un lado a otro del salón. Su mente analítica no podía aceptar las explicaciones cómodas de Garrido. La gente no se esfumaba en el aire: si Elena había entrado en el parque a las 18:41 de la tarde, tenía que haber salido por algún sendero o haber sido vista por alguien.
 
-Encendió la linterna. El cono de luz blanca atravesó la penumbra entre los troncos desnudos. El parque estaba en silencio absoluto; solo se escuchaba el goteo constante de las ramas sobre el lecho de hojas muertas.
+Se detuvo ante la mesa. En la esquina, sirviendo de pisapapeles sobre un montón de planos, descansaba un objeto peculiar.
 
-Avanzó por el sendero de gravilla secundaria, siguiendo el mapa que tenía grabado en la memoria. Doscientos metros en línea recta. Desvío hacia el pinar norte.
+Era una pieza geométrica de color negro mate, del tamaño de una naranja pequeña pero anormalmente pesada para su volumen. La había encontrado años atrás en una caja olvidada en el desván de su abuelo Caine, después de que este desapareciera. A Leo siempre le había llamado la atención por su extraña densidad —pesaba casi cuatro kilos a pesar de caber en una mano— y por lo fría que se sentía siempre al tacto. La había conservado en su escritorio simplemente como un recuerdo familiar y como un pisapapeles sólido con el que jugaba entre los dedos cuando necesitaba concentrarse.
 
-Frente a él surgió la silueta colosal del Roble Centenario.
+Alargó la mano y la cogió. El contacto frío del metal le ayudó a centrar sus pensamientos.
 
-El árbol parecía aún más imponente en la oscuridad de la madrugada. Sus ramas retorcidas se extendían como una techumbre sobre el camino, formando una bóveda vegetal opresiva.
+Con la otra mano pulsó la tecla de reproducción en el ordenador.
 
-Leo se detuvo a ocho metros de distancia y dirigió el haz de la linterna hacia el suelo, directamente bajo la copa del roble.
+En la pantalla se reanudó la grabación de la cámara de seguridad de la entrada norte del Parque del Lindero, instalada en el poste del camino de acceso a las afueras. Conseguir el archivo le había costado doscientos euros y un favor a Javi, un antiguo compañero de estudios que trabajaba en el mantenimiento municipal.
 
-Lo que vio desafió cualquier principio básico de óptica.
+Leo había reproducido el vídeo decenas de veces.
 
-Al mover la linterna hacia los arbustos laterales, la luz proyectaba sombras que se alargaban y se desplazaban en función del ángulo del foco. Sin embargo, en el suelo que descansaba exactamente bajo el follaje del roble, la oscuridad era un bloque sólido, inmóvil e impenetrable. La luz blanca de la linterna moría al tocar el borde de aquella negrura, como si el espacio mismo absorbiera los fotones sin reflejar nada.
+El reloj en pantalla marcaba las **18:41:02** del martes.
 
-El aire a su alrededor cambió de golpe.
+En la imagen en blanco y negro se veía a Elena cruzando la verja de hierro del parque. Llevaba su cazadora vaquera, pantalones oscuros de montaña y la mochila amarilla a la espalda. Caminaba a paso ligero por el camino de tierra, con un pequeño cuaderno en la mano y la vista puesta en la zona arbolada del fondo.
 
-Al dar dos pasos hacia delante, el rumor lejano de la ciudad —el tráfico de la autopista de circunvalación, el zumbido de los transformadores eléctricos— desapareció por completo. Fue un corte acústico instantáneo y antinatural, como entrar en una cámara anecoica presurizada. El aire adquirió un olor extraño y punzante: ozono concentrado, savia hiperdensa y tierra vegetal antigua, una fragancia tan rica y saturada que le provocó un mareo repentino.
+A las 18:41:35 llegaba a la bifurcación. En lugar de seguir por la senda iluminada que llevaba hacia la zona de paseo y los bancos, tomaba el camino secundario hacia la arboleda vieja, un sector agreste y descuidado que lindaba con la ladera rocosa al final del término municipal.
 
-Leo metió la mano en el bolsillo del abrigo para sujetar la Pieza.
+A las 18:42:08 se aproximaba al viejo roble centenario que marcaba el final del sendero transitado.
 
-El poliedro ardía. 
+Aquel árbol era enorme, con un tronco de varios metros de grosor y ramas caídas que formaban un túnel cerrado de vegetación sobre el camino.
 
-El calor que emitía era seco, casi abrasador, y su masa parecía haberse multiplicado de forma exponencial. Leo tuvo que usar ambas manos para sostenerlo, sintiendo cómo los músculos de sus antebrazos se tensaban con violencia para soportar un peso que amenazaba con arrastrarle los brazos hacia el suelo.
+Elena entraba bajo la espesura del roble a las 18:42:12.
 
-—Elena... —susurró.
+Leo contuvo la respiración.
 
-El sonido de su propia voz no tuvo reverberación; el aire denso se tragó las sílabas sin devolver eco alguno.
+El tramo de sombra bajo las ramas medía apenas cinco o seis metros. Elena tendría que haber salido por el otro lado del camino en tres o cuatro segundos.
 
-Guiado por el peso brutal del objeto, Leo dio un paso firme hacia el interior de la sombra que no se movía.
+Sin embargo, el minutero siguió corriendo. 
 
-No hubo destellos eléctricos ni estruendos de fractura. Simplemente, la resistencia física del suelo desapareció bajo sus botas. La gravilla y las hojas secas se desvanecieron como una ilusión óptica y el horizonte se inclinó noventa grados en una fracción de segundo.
+Las ramas se mecían con el viento de la tarde. Un perro cruzó por el fondo diez minutos después. La luz del sol fue desapareciendo hasta que se encendieron las farolas exteriores a las siete y media. A las diez de la noche, las puertas del recinto se cerraron.
 
-Una presión descomunal le aplastó el pecho y los tímpanos, como una descompresión atmosférica violenta que le vació los pulmones de golpe. La oscuridad de la ciudad se disolvió en un vacío vertiginoso.
+Elena jamás salió por el otro extremo del camino.
 
-Leo cayó.
+—Por los laterales no se puede pasar —pensó Leo en voz alta—. A la izquierda está el terraplén de roca y a la derecha la valla metálica de la finca colindante. Solo se puede seguir hacia adelante por el camino del bosque o volver hacia la entrada. Y en la grabación no se la ve salir por ninguna parte.
 
-No fue una caída prolongada en el espacio, sino un colapso físico inmediato. El cuerpo de Leo impactó con violencia contra una maraña elástica de raíces colosales y tierra húmeda, rodando varios metros por una pendiente cubierta de musgo espeso antes de quedar tendido boca arriba.
+Se apartó de la pantalla y cogió el cuaderno de tapas verdes que había encontrado escondido en el piso de Elena, debajo del colchón.
 
-Abrió los ojos con dificultad, tosiendo con desesperación mientras intentaba recuperar el aliento.
+Lo abrió bajo la lámpara de mesa.
 
-El aire que entró en sus pulmones no era el aire viciado y seco de la ciudad. Era una atmósfera abrumadoramente densa, fría y sobrecargada de oxígeno, un aire tan puro y pesado que le abrasó las vías respiratorias en una sacudida biológica instantánea.
+Las primeras páginas eran transcripciones ordenadas de los viejos diarios de su abuelo Caine. Caine, que en su juventud había trabajado en el cuerpo de cartografía y obras públicas del país, había dejado anotaciones muy extrañas en sus últimos años: hablaba de discrepancias en las mediciones del terreno hacia el norte, de caídas bruscas en la presión barométrica en ciertos puntos del bosque y de antiguos informes topográficos que habían sido borrados de los archivos oficiales.
 
-Leo levantó la mirada entre la bruma.
+Al final del cuaderno, Elena había escrito sus propias notas antes de salir de casa:
 
-No había edificios, ni farolas, ni verjas de hierro forjado.
+> *"Las notas del abuelo Caine sobre el extremo norte del parque tienen base real. He medido la presión atmosférica junto a las raíces del roble viejo tres días seguidos: hay una bajada constante de presión que no coincide con el clima de la ciudad.*
+> 
+> *Es como si en ese punto el aire fluyera hacia un desnivel que no aparece en ningún mapa municipal.*
+> 
+> *Voy a acercarme esta tarde para tomar lecturas directas en la base del tronco antes de contárselo a Leo. Si se lo digo sin datos en la mano, creerá que me he obsesionado con las historias del abuelo.*
+> 
+> *Nota: Si algo sale mal, el punto exacto está tras la hondonada de raíces del roble norte."*
 
-A su alrededor se alzaban troncos descomunales, columnas de madera esmeralda del grosor de torres enteras, cuyas copas se perdían a cientos de metros de altura en un manto de nubes perpetuas. En el suelo, helechos con tallos gruesos como vigas se mecían con una brisa titánica. A lo lejos, el rugido gutural de una criatura invisible retumbó en la espesura, haciendo vibrar la tierra bajo su espalda.
+Leo cerró el cuaderno con el corazón acelerado.
 
-Apretando con los dedos magullados la Pieza negra, que ahora volvía a enfriarse lentamente contra su pecho, Leo comprendió la magnitud del error de Garrido y de toda la ciudad que dejaba atrás.
+Eran las 03:38 de la madrugada.
 
-Elena no había huido.
+Garrido y la policía estaban durmiendo o esperando a que el caso prescribiera en un cajón. Si quería saber qué le había ocurrido a Elena, tenía que ir a comprobarlo él mismo.
 
-Elena había cruzado al otro lado del mundo.
+Se puso un abrigo oscuro resistente al agua, botas de montaña y guardó el cuaderno en el bolsillo interior junto a una linterna potente. Por último, cogió la pesada pieza negra del abuelo que descansaba sobre la mesa.
+
+Al agarrarla, Leo se quedó completamente inmóvil.
+
+El objeto ya no estaba frío.
+
+El bloque oscuro desprendía un calor templado y perceptible, como si tuviera temperatura corporal propia. Y en su interior, con la mano bien apretada, sintió una vibración brevísima, casi como un latido apagado.
+
+Se metió el objeto en el bolsillo del abrigo y salió del apartamento en silencio.
+
+***
+
+Llegó al Parque del Lindero tras veinte minutos caminando bajo una llovizna fría que dejaba el asfalto brillante bajo las farolas.
+
+Rodeó el muro exterior hasta encontrar el tramo norte, donde las raíces de los árboles habían quebrado la base de piedra y abierto un hueco entre los barrotes. Se deslizó hacia el interior del parque, manchándose las rodillas de barro húmedo, y encendió la linterna.
+
+El parque a esas horas era un lugar completamente solitario y oscuro. Avanzó con paso firme entre los árboles deshojados, siguiendo la senda secundaria de tierra que recordaba del vídeo.
+
+Pronto divisó el perfil gigantesco del roble centenario al fondo del camino.
+
+Se acercó despacio. Al llegar a la altura del árbol, alumbró la base del tronco. Entre las raíces retorcidas que se hundían en la tierra había una hondonada profunda, un pozo natural oculto por helechos secos y maleza que no se apreciaba desde la distancia.
+
+En cuanto dio dos pasos hacia el interior de la arboleda, el ruido de los coches de la carretera lejana cesó de golpe. El aire se volvió de pronto espeso, con un olor penetrante a tierra mojada, savia concentrada y hojas húmedas que le llenó la nariz.
+
+Se llevó la mano al bolsillo.
+
+La pieza de su abuelo ardía contra la tela y pesaba como si fuera de plomo macizo. Leo tuvo que aferrarla con fuerza para que no se le cayera de las manos.
+
+—Elena... —susurró hacia la oscuridad de las ramas.
+
+Avanzó un paso más hacia la hondonada de raíces.
+
+De repente, el suelo bajo sus botas cedió sin previo aviso. La tierra y las ramas podridas se hundieron como una trampa natural y el cuerpo de Leo cayó en picado hacia el vacío.
+
+Sintió un golpe de aire brutal en el pecho y los oídos le zumbaron por un cambio repentino y violento de presión. La oscuridad del parque y las luces lejanas de la ciudad desaparecieron en un instante.
+
+Leo rodó por una pendiente interminable de barro, raíces elásticas y musgo empapado, golpeándose contra ramas gruesas hasta quedar tendido sobre la tierra húmeda.
+
+Tosiendo con fuerza, intentó incorporarse.
+
+El aire que respiraba era increíblemente puro, denso y frío, cargado de tanto oxígeno que le quemaba la garganta a cada bocanada.
+
+Alzó la cabeza entre la niebla.
+
+A su alrededor no había vallas, ni farolas, ni casas.
+
+Se encontraba en mitad de una selva monumental, rodeado de árboles descomunales cuyos troncos parecían murallas de madera viva y cuyas copas se perdían en las alturas cubiertas por la niebla. A lo lejos, entre la espesura desconocida, un rugido grave y profundo resonó en la lejanía, haciendo temblar el suelo bajo sus manos.
+
+Apretando contra su pecho la pieza del abuelo Caine, Leo comprendió la aterradora verdad que nadie en su ciudad sospechaba:
+
+Elena no había desaparecido en otra provincia. Había caído en un mundo completamente desconocido que no figuraba en ningún mapa.
