@@ -1,4 +1,4 @@
-﻿# Contexto Importante Previo - Capítulo 1
+# Contexto Importante Previo - Capítulo 1
 
 *Condiciones y pilares fundamentales que la narrativa y los personajes no pueden ignorar:*
 
@@ -14,10 +14,11 @@
    - Desapareció hace 4 días en el Parque del Lindero sin llevarse ropa, maleta ni su inhalador/medicación.
    - Siguió las notas de Caine por pura curiosidad científica y personal, sin sospechar complots cósmicos.
 
-3. **Inspector Garrido y la Reserva:**
-   - Policía veterano, quemado por la rutina y el papeleo.
-   - Pasota y pragmático: considera que las desapariciones juveniles son huidas voluntarias por hastío. Desconoce absolutamente cualquier realidad fuera de la ciudad.
+3. **Inspector Garrido y la Ciudad:**
+   - Policía veterano, quemado por la rutina y el papeleo de la comisaría local.
+   - Pasota y pragmático: considera que las desapariciones juveniles son huidas voluntarias por hastío de la vida urbana. Desconoce absolutamente cualquier realidad fuera de la ciudad.
 
-4. **Reglas Físicas y de Estilo:**
+4. **Reglas de Focalización y Estilo:**
+   - CERO METACONOCIMIENTO: En el texto jamás se usan términos como "la Reserva", "el Velo", "el Flujo" ni "Extramuros". Para Leo y Garrido el entorno es solo "la ciudad".
    - Grounded Thriller: Enfoque sensorial (frío, olor a papel viejo, café rancio, peso físico, acústica presurizada).
    - Show, Don't Tell: La anomalía se describe a través de mediciones y comportamiento lumínico/físico, no magia abstracta.

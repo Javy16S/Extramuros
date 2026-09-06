@@ -172,7 +172,7 @@ No fue una caída prolongada en el espacio, sino un colapso físico inmediato. E
 
 Abrió los ojos con dificultad, tosiendo con desesperación mientras intentaba recuperar el aliento.
 
-El aire que entró en sus pulmones no era el aire viciado y seco de la Reserva. Era una atmósfera abrumadoramente densa, fría y sobrecargada de oxígeno, un aire tan puro y pesado que le abrasó las vías respiratorias en una sacudida biológica instantánea.
+El aire que entró en sus pulmones no era el aire viciado y seco de la ciudad. Era una atmósfera abrumadoramente densa, fría y sobrecargada de oxígeno, un aire tan puro y pesado que le abrasó las vías respiratorias en una sacudida biológica instantánea.
 
 Leo levantó la mirada entre la bruma.
 
