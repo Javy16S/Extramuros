@@ -1,292 +1,271 @@
-﻿# CAPÍTULO 1: EL ÁNGULO MUERTO
+# CAPÍTULO 1: LA FRACTURA
 
-La carpeta del caso pesaba ciento cincuenta gramos. Demasiado poco para contener el peso de una vida entera.
+La carpeta del expediente pesaba apenas ciento cincuenta gramos. Demasiado poco para contener la desaparición de la única persona que le quedaba en el mundo.
 
-Leo la dejó caer sobre el escritorio. El sonido seco del cartón golpeando la madera de pino tuvo una finalidad obscena que rompió el silencio de su habitación. Eran las 03:14 de la madrugada y la única iluminación provenía del resplandor azulado del monitor y de la farola de la calle, que proyectaba sombras alargadas y anaranjadas a través de las persianas venecianas a medio bajar. El polvo flotaba en los haces de luz, girando en corrientes de convección invisibles, ajeno al desmoronamiento del mundo de Leo.
+Leo la dejó caer sobre el escritorio de contrachapado. El chasquido seco del cartón contra la madera reverberó en el apartamento con la contundencia de un disparo amortiguado. Eran las 03:18 de la madrugada. La única iluminación del cuarto nacía del resplandor cetrino del monitor y del destello intermitente de una farola municipal que se filtraba entre los listones rotos de la persiana, proyectando sobre las paredes franjas amarillas y negras como las marcas de advertencia de una zona de demolición.
 
-Se frotó los ojos con el reverso de la mano, sintiendo la piel de los párpados fina y quebradiza como papel de arroz. Llevaba cuarenta y ocho horas sin dormir, alimentándose exclusivamente de café recalentado y de esa ansiedad viscosa que se instala en el estómago y sabotea cualquier intento de digestión. El apartamento, que hace una semana era un modelo de minimalismo y orden arquitectónico, se había transformado en un búnker de papel y desesperación.
+Se frotó los párpados con el dorso de la mano. Sentía los ojos hinchados, llenos de una arenilla invisible provocada por cincuenta y dos horas de vigilia ininterrumpida. El apartamento olía a café amargo, a papel rancio y a esa humedad fría que se cuela por las rendijas de los marcos viejos en las noches de otoño. En el suelo, dispersos en torno a la pata de la mesa, reposaban planos catastrales de la periferia norte, guías de autobuses interurbanos y fotocopias borrosas de informes meteorológicos.
 
-Los planos topográficos del Parque del Lindero cubrían las ventanas, bloqueando la vista de la ciudad. Facturas sin abrir hacían de posavasos para tazas con posos de moho incipiente. Libros de geología, física teórica y viejos atlas heredados se apilaban en columnas precarias que desafiaban la gravedad, convirtiendo el suelo del salón en un laberinto de conocimiento inútil.
+En la esquina del escritorio, la primera página del atestado policial mostraba un sello ovalado de tinta violeta: *Diligencia archivada provisionalmente. Causa: Ausencia voluntaria.*
 
-Leo extendió la mano y abrió la carpeta. La primera hoja era el informe oficial.
+—Ausencia voluntaria —masculló Leo para sí mismo. Su propia voz le sonó extraña, ajena, rota por el tabaco ajeno y el silencio—. Qué maldita tomadura de pelo.
 
-—"Ausencia voluntaria" —leyó en voz alta. Su voz sonó rasposa, extraña en el silencio del cuarto. Las palabras le supieron a bilis—. Imbéciles. Cobardes.
-
-Cerró los ojos y, sin querer, la memoria le arrastró cuatro horas atrás. A la comisaría.
+Cerró los ojos, pero la oscuridad tras sus párpados solo sirvió para proyectar con mayor nitidez el rostro seboso del inspector Garrido cuatro horas atrás.
 
 ***
 
-El despacho del Inspector Garrido olía a tabaco frío y a ambientador de pino barato, una mezcla nauseabunda que se pegaba a la ropa. El fluorescente del techo parpadeaba con un zumbido eléctrico que taladraba las sienes de Leo.
+La comisaría del Distrito Siete era una ratonera de techos bajos y linóleo agrietado. Olía a sudor acumulado, a ceniceros desbordados y al ambientador industrial de pino barato con el que la brigada de limpieza intentaba camuflar el tufo a orina que subía de los calabozos del semisótano. El tubo fluorescente que colgaba sobre la mesa del inspector zumbaba con un tono agudo y constante que taladraba las sienes.
 
-—Se lo voy a explicar otra vez, señor Vanes —dijo Garrido, tamborileando los dedos sobre la mesa de formica. Tenía las uñas mordidas y una mancha de café en la camisa. Era un hombre cansado de lidiar con tragedias domésticas—. No hay indicios de criminalidad. La puerta de su apartamento no fue forzada. No hay señales de lucha. Su teléfono dio señal por última vez en una antena cerca de la estación de autobuses.
+Garrido tenía cincuenta y cinco años, una barriga prominente que tensaba los botones de su camisa amarillenta y la mirada vacía de los hombres que llevan tres décadas catalogando la miseria ajena sin que un solo caso les altere la digestión. Con parsimonia irritante, removió el azúcar en un vaso de plástico con una cuchara de plástico deformada.
 
-—Su teléfono está apagado —interrumpió Leo, apretando los puños sobre las rodillas.
+—A ver, muchacho... Leo, ¿no? —dijo Garrido sin mirarlo, pasando una página doblada por las esquinas—. Vamos a ahorrar saliva. Son las once de la noche, tengo dos atestados por robo de cobre en los muelles y no voy a perder otra hora con una fuga doméstica.
 
-—Porque se le acabó la batería. O porque tiró la tarjeta SIM. Es lo que hace la gente cuando quiere desaparecer, Leo. —Garrido suspiró y se inclinó hacia delante, adoptando un tono paternalista que a Leo le dieron ganas de vomitar—. Escucha, Elena tiene veintidós años. Es una estudiante de biología brillante, según me cuentas. A lo mejor se agobió. A lo mejor la tesis, o la relación, o la vida en general le venía grande. Pasa todos los días. La gente hace una maleta y se sube a un autobús.
+Leo mantenía las manos apoyadas sobre las rodillas, cerradas en puños tan apretados que las uñas le perforaban las palmas a través de los bolsillos del abrigo. Respiró por la nariz, buscando ese control frío y matemático con el que siempre descomponía los problemas.
 
-—No se llevó ropa —dijo Leo. Su voz era un hilo tenso, a punto de romperse—. He revisado su armario. Faltan sus vaqueros, su chaqueta y las botas que llevaba puestas. Nada más. Su cepillo de dientes sigue en el vaso. Su medicación para la alergia sigue en la mesilla. ¿Quién se escapa para empezar una vida nueva sin su inhalador, Inspector?
+—Elena no se ha fugado, inspector —articuló despacio, congelando cada sílaba—. Elena tiene veintidós años. Cursa su último año de botánica. No consume alcohol, no tiene deudas, no tiene una sola llamada fuera de horario en su factura de los últimos seis meses y compartía conmigo cada minuto de su tiempo libre. Si alguien decide rehacer su vida de la noche a la mañana, no se deja en el cuarto de baño su inhalador de salbutamol para el asma. No se deja la cartera en la cómoda con ochocientos euros en efectivo y sus documentos de identidad.
 
-Garrido se encogió de hombros, un gesto de impotencia ensayada.
+Garrido dio un sorbo al café, chasqueó la lengua con desagrado y arrojó el informe sobre la mesa.
 
-—Alguien que tiene prisa. O alguien que no planea ir muy lejos antes de volver arrepentida. —El policía cerró la carpeta con un golpe suave—. Protocolo de Búsqueda de Nivel 3. Hemos mandado su foto a las patrullas. Si aparece en un hospital o en una morgue, te llamaremos. Pero no vamos a dragar el río ni a peinar el bosque por una adulta que se ha ido por su propio pie. Vete a casa, descansa. Y espera a que ella llame.
+—La gente se harta, chaval. Lo veo cada semana. Muchachas aplicadas, universitarias de notas impecables, noviazgos idílicos que parecen de anuncio... Y un martes por la tarde se agobian por los exámenes, por la rutina o porque descubren que no quieren pasar el resto de su juventud viendo la televisión en un sofá de dos plazas. Bajan a por pan, se suben al primer autobús de línea regular que sale de la estación central y se cambian el nombre en una provincia vecina.
 
-***
+—¿Sin ropa? —la voz de Leo se tensó como una cuerda de acero a punto de romperse—. He contado sus abrigos. Faltan las botas impermeables, sus vaqueros negros y la cazadora impermeable que llevaba puesta el martes. Todo lo demás sigue en el armario. Incluso su libreta de notas de campo estaba escondida bajo la cama. No preparó una maleta. No planificó una marcha.
 
-—Espera a que ella llame —repitió Leo en el presente, lanzando el informe contra la pared opuesta. Las hojas se desparramaron por el suelo como pájaros muertos.
+—Quizá tenía prisa —respondió el policía encogiéndose de hombros con una desgana que rozaba la crueldad—. O quizá la esperaban en un coche al final de la avenida. No hay cerraduras forzadas en su casa. No hay huellas de arrastre ni cristales rotos en el descansillo. Las cámaras del paso subterráneo de la avenida norte la grabaron caminando sola a las 18:42. Con las manos en los bolsillos, sin nadie detrás. Se fue porque le dio la gana, muchacho. Y la ley no nos permite movilizar una unidad de búsqueda ni ordenar batidas en los descampados para perseguir a una ciudadana mayor de edad que decide apagar el móvil.
 
-Se levantó de la silla. Las articulaciones le crujieron. Caminó por la habitación, esquivando las pilas de libros. Necesitaba moverse. La inacción era un ácido que le corroía las venas. La policía buscaba la lógica estadística: la navaja de Ockham. La explicación más sencilla suele ser la correcta. Pero Leo era arquitecto. Su mente no funcionaba con estadísticas, sino con cargas y estructuras. Si una viga cede, no es porque "haya decidido irse". Es porque la carga superó la resistencia del material. Había una causa. Siempre había una causa física.
+—Lleva cinco días sin dar señales. ¿Y si le ocurrió algo en los caminos del borde norte?
 
-Y Elena era la estructura más sólida que conocía.
+—Una patrulla de apoyo recorrió el perímetro del parque el jueves por la mañana —zanjó Garrido, poniéndose en pie con un crujido de vértebras que sonó a queja—. No encontraron nada. Ni una prenda rasgada, ni un rastro de pisadas sospechosas. El protocolo es claro: Nivel Uno de archivo. Si ingresa en un centro hospitalario o una patrulla le pide la documentación en algún control rutinario de carreteras, el sistema cruzará los datos y te mandaremos un aviso. Hasta entonces, vuelve a casa. Duerme un poco. Y si tienes dos dedos de frente, empieza a aceptar que a veces las personas simplemente deciden que ya no te quieren en sus vidas.
 
-Su mirada se desvió hacia la cocina americana. El fregadero estaba lleno de platos sucios. En la encimera, la máquina de café seguía encendida. Junto a ella, un post-it amarillo con la letra picuda de Elena: *"Compra leche, arquitecto. Y no te olvides de comer algo que no sea pizza."*
-
-El recuerdo le golpeó en el pecho, físico y brutal.
-
-*Flashback. Hace seis meses.*
-
-*Lluvia. El sonido constante del agua golpeando el cristal. Domingo por la tarde. El apartamento olía a tierra mojada y a las tostadas quemadas que Elena intentaba raspar con un cuchillo en la cocina.*
-
-*Leo estaba sentado en el sofá, con el teléfono en la mano, escuchando el tono de "comunicando" del despacho de abogados. Llevaba dos años peleando por la herencia de sus padres, un chalet en la sierra que se caía a pedazos y que el banco quería embargar por deudas que no eran suyas.*
-
-*—No cogen el teléfono —murmuró Leo, dejando caer el móvil sobre el cojín. Sintió que le faltaba el aire. Ese temblor familiar en las manos. El ataque de pánico asomando la cabeza.*
-
-*Elena apareció en el marco de la puerta. Llevaba una camiseta vieja de Leo que le quedaba de vestido y tenía migas de pan en la comisura de los labios. Dejó el cuchillo y se acercó a él. No dijo nada. No le dijo "tranquilo" ni "todo saldrá bien". Sabía que Leo odiaba los tópicos.*
-
-*Se sentó a su lado y le cogió la mano. Entrelazó sus dedos con los de él y apretó. Fuerte. Un anclaje físico.*
-
-*—Se han ido todos, Elena —dijo él, con la voz rota, mirando al suelo—. Mis padres. El abuelo Caine. Ahora la casa. No me queda nada. Soy... soy el final de la línea. Solo papeles y deudas.*
-
-*Elena le soltó la mano y le agarró la cara, obligándole a mirarla a los ojos. Tenía los ojos oscuros, serios, con esa intensidad casi feroz que usaba cuando estudiaba sus muestras en el microscopio.*
-
-*—Mírame, Leo. —Su voz era firme—. Yo no soy un papel. Yo soy carne y hueso. Tócame.*
-
-*Le puso la mano en su pecho, sobre el corazón. Leo sintió el latido, fuerte y rítmico, a través de la tela de algodón.*
-
-*—Eres mi familia ahora. Eres mi estructura. Mientras yo esté aquí, tú no te caes. ¿Me oyes? Tú y yo somos los cimientos. El resto son solo muebles. Que se queden la casa. Nosotros construiremos otra.*
-
-*—No te vayas nunca —había susurrado él, aferrándose a ella como un náufrago.*
-
-*Elena sonrió, una de esas sonrisas medias, solo para él.*
-
-*—No tengo adónde ir, tonto. Mi sitio está donde tú estés.*
+Garrido estampó el sello morado con un golpe sordo, cerró la carpeta de cartulina y la tiró al cajón inferior.
 
 ***
 
-—Mentirosa —dijo Leo al aire viciado del apartamento.
+—Aceptar... —susurró Leo en la penumbra de su habitación, apretando la mandíbula hasta que los molares le rechinaron.
 
-La palabra flotó en el silencio, acusatoria. Si Garrido tenía razón, todo aquello había sido mentira. Si ella se había ido, Leo estaba, por primera vez en su vida, completa y absolutamente solo en el universo. Esa idea dolía más que el cansancio, más que el miedo. Era un vertiginoso terror existencial.
+Caminó hacia la ventana que daba al callejón trasero. La lluvia de medianoche había cesado, dejando el asfalto cubierto por una pátina aceitosa que reflejaba la luz amarillenta de la farola. Las explicaciones de Garrido eran una sarta de mentiras cómodas para quitarse el trabajo de encima. Nadie se marchaba por propia voluntad dejando atrás su medicación para el asma, el dinero del mes en un cajón y la ropa colgada en el armario. No tenía ningún sentido. A Elena se la habían llevado, o algo terrible le había cortado el paso.
 
-Pero Elena no mentía. Elena era incapaz de mentir sin que le temblara el ojo izquierdo. Y Elena amaba sus rutinas.
+Y para Leo, las pérdidas jamás venían solas.
 
-Leo volvió al escritorio. Su mirada buscó un anclaje y aterrizó en la esquina de la mesa, donde descansaba observando aquel objeto.
+Miró su muñeca izquierda.
 
-La Pieza, como lo llamaba él.
+Ceñida por una correa de cuero gastado, descansaba una pulsera tosca que su abuelo le había hecho a mano meses atrás. Parecía un fragmento de obsidiana o de alguna roca volcánica oscura, pulida con paciencia irregular. Lo único peculiar era su peso: para ser una pieza apenas más grande que una nuez, resultaba bastante densa, fría al tacto y de un negro mate que apenas devolvía brillo.
 
-Era un objeto del tamaño de una pelota de tenis, un poliedro irregular de un material negro, completamente mate, que parecía absorber la luz a su alrededor. Tenía aristas vivas, pero extrañamente, nunca cortaba. Lo había rescatado de una caja de zapatos vieja tras el funeral de su abuelo Caine, el "loco de la familia". Su padre había querido tirar toda aquella "chatarra de explorador senil" al contenedor, pero Leo, con doce años, se lo había guardado en el bolsillo.
+Caine se la había dado una tarde cualquiera en la cocina, mientras ajustaba la hebilla con sus dedos anchos y callosos.
 
-No por cariño. Sino por el peso.
+*«Toma, muchacho. La saqué de una veta vieja hace años, cuando trabajaba en el norte»*, le había dicho el viejo con una media sonrisa tranquila. *«Dicen que trae buena suerte a los que andan despistados. Llévala puesta y no la pierdas, que te conozco»*.
 
-Era absurdamente pesado. Daba la sensación de tener la densidad de una estrella colapsada. Y estaba frío. Siempre frío.
+A Leo le había parecido un detalle entrañable, una de esas manías de anciano aficionado a enredar con herramientas en la buhardilla. Pocos días después, Caine le había regalado a Elena un colgante con una piedra idéntica montada en un cordón fino, bromeando con que así los dos llevarían un amuleto a juego.
 
-Inconscientemente, Leo alargó la mano y lo cogió. El tacto helado le centró de inmediato. El metal chupó el calor de su palma con avidez. Leo lo giró entre los dedos, sintiendo cómo las aristas se clavaban en su piel, un dolor agudo que le ayudaba a pensar. Era real. Inmutable. Físico.
+Sus padres habían muerto cuando él apenas cumplía los dieciocho, estrellados contra el guardarraíl de una autovía durante una tormenta de nieve. Caine había sido su único ancla familiar: un hombre silencioso, de hombros anchos y una corpulencia densa, cuya piel estaba inexplicablemente limpia, lisa e intacta, sin una sola arruga profunda ni marcas de la edad. Pasaba los días encerrado en la buhardilla trazando mapas a pluma llenos de cordilleras interminables y ríos que no figuraban en ningún libro escolar. Para entretener a Leo —y más tarde a Elena—, Caine convertía aquellos dibujos en relatos de aventuras: les hablaba de valles profundos, del río de aguas oscuras y de cómo los exploradores de sus historias tenían que buscar refugio en la brecha entre los riscos de basalto antes de que cayera la noche.
 
-Con la Pieza en la mano izquierda, usó la derecha para reactivar el monitor.
+Elena había entrado en sus vidas poco después de aquella tragedia familiar, casi cinco años atrás. Había sido la única persona en el mundo capaz de sostener a Leo en sus peores momentos de derrumbe y, al mismo tiempo, sentarse junto al anciano durante horas sin mirarlo como a un enfermo. Escuchaba aquellos cuentos sobre selvas ciclópeas con una atención muda y paciente, mirando los trazos de tinta como si fueran lo más fascinante del mundo.
 
-El vídeo estaba pausado en el minuto 18:42.
+Entonces, una tarde de mayo, Caine no bajó a cenar.
 
-No era una prueba oficial. Garrido ni siquiera sabía que existía. Era la copia de seguridad de la cámara de vigilancia de la entrada norte del Parque del Lindero. Conseguirla le había costado trescientos euros y una reunión tensa en la trastienda de un locutorio con un antiguo compañero de la facultad que ahora trabajaba en mantenimiento del Ayuntamiento.
+La puerta de la buhardilla estaba abierta. Sus cuadernos más gruesos habían desaparecido, pero sus botas de diario, sus llaves y su pensión intacta permanecían en el aparador de la entrada. La policía de Garrido lo catalogó con el mismo cinismo: *Anciano con desorientación cognitiva severa. Posible caída al río o desorientación en zona rural.* Pasaron las semanas, las patrullas dejaron de buscar en las acequias y el caso quedó sepultado bajo una tonelada de expedientes olvidados.
 
-—"Es ilegal, Leo. Si me pillan, me crujen" —había dicho Javi, sudando—. "¿Para qué quieres esto?"
+Y ahora, Elena.
 
-—"Para hacer el trabajo que la policía no hace".
+Dos desapariciones idénticas en menos de medio año. Sin rastros de violencia. Sin despedidas. Sin sentido.
 
-Leo le dio al play. Había visto esta secuencia ochenta y siete veces. Podía cerrar los ojos y verla proyectada en sus párpados.
+—No voy a esperar sentado —dijo Leo en voz alta.
 
-En la pantalla, la imagen granulada y en blanco y negro mostraba la entrada del parque. 18:40 de la tarde del martes. Luz diurna. Un par de corredores. Una mujer con un carrito de bebé.
+El reloj marcaba las 03:26. Se calzó las botas de montaña, se abrochó la chaqueta de lona encerada y se guardó la copia de la denuncia y una linterna de mano en el bolsillo interior. Había quedado a las cuatro de la madrugada con Javi, un técnico del centro de control de tráfico del municipio que le había prometido, a cambio de doscientos euros bajo mano, una copia en bruto de las cámaras de seguridad del perímetro exterior de la carretera comarcal norte. Si Garrido no pensaba mirar esas grabaciones, las miraría él fotograma a fotograma.
 
-Y entonces, ella.
+Aseguró la cerradura con dos vueltas de llave y descendió por la escalera de madera del bloque, cuyos peldaños crujieron bajo su peso como costillas viejas.
 
-18:41:05. Elena entra en el encuadre. Camina rápido, con esa zancada decidida que tenía cuando llegaba tarde. Lleva su chaqueta vaquera con el parche de la NASA en el hombro y la mochila amarilla chillón. Mira el móvil. Escribe algo con el pulgar. Se detiene un segundo, mira hacia los árboles, y guarda el teléfono en el bolsillo trasero.
+Al empujar el portal de hierro forjado, la bofetada de aire gélido de la noche le despejó la mente de golpe. La calle estaba desierta. La niebla baja flotaba a ras de acera, difuminando el contorno de los cubos de basura y los vehículos aparcados en batería. El silencio solo se quebraba por el goteo constante de un canalón roto en la fachada del inmueble colindante.
 
-Leo sintió una punzada física en el estómago al verla moverse. Estaba tan viva. Tan ajena a que le quedaban segundos de existencia antes de ser considerada desaparecida.
+Leo metió la barbilla bajo el cuello del abrigo y echó a andar hacia la avenida principal.
 
-Elena cruza la verja. Saluda con un gesto de cabeza al jardinero que barre las hojas (Felipe, interrogado, coartada confirmada por GPS). Sigue el sendero de gravilla.
+Apenas había recorrido treinta metros cuando el sonido metálico de un motor pesado acelerando a sus espaldas rompió la calma del callejón.
 
-18:41:45. Llega a la bifurcación. El camino principal sigue recto hacia los columpios. Un sendero de tierra se desvía a la izquierda, hacia la zona boscosa "El Pinar", donde los árboles son más viejos y las luces nunca funcionan.
+Leo se detuvo por instinto y giró la cabeza sobre el hombro.
 
-Elena gira a la izquierda. Sin dudar.
+Una furgoneta negra, de chasis alargado y sin placas de matrícula visibles, viró desde la esquina derrapando sobre el pavimento mojado. No llevaba las luces de cruce encendidas; solo dos débiles proyectores antiniebla de tono ambarino que hendían el vapor de la calle como los ojos vidriosos de un reptil acechante.
 
-La cámara la sigue unos segundos más. La mochila amarilla es un punto de contraste gris claro en la imagen monocroma.
+El vehículo no redujo la velocidad al enfilar el estrecho pasaje. Aceleró con un rugido sordo y bronco, impropio de un furgón de carga convencional.
 
-18:42:10. Elena llega al Punto Ciego.
+El pánico le heló el estómago y le disparó una orden salvaje a las piernas: *Corre.*
 
-El Roble Centenario. Un *Quercus faginea* de trescientos años, inmenso, cuyas ramas se extienden sobre el camino como una bóveda gótica. Su copa es tan densa que crea una sombra perpetua en ese tramo del sendero, incluso a plena luz del día.
+Dio un salto hacia la acera contraria, buscando el callejón peatonal que conectaba con la plaza vieja, donde los bolardos de piedra impedirían el paso de cualquier coche. Pero antes de que sus botas tocaran el suelo empedrado, el chirrido atronador de los frenos desgarró la noche. La furgoneta atravesó el bordillo, derrapó de costado con una violencia milimétrica y le cerró el paso, estampando la chapa a escasos centímetros de su hombro.
 
-Elena entra en la sombra del roble.
+La puerta corredera lateral se abrió hacia atrás con un chasquido neumático.
 
-Leo contuvo la respiración.
+Leo retrocedió un paso, tanteando el aire en busca de un arma, una botella rota, cualquier cosa.
 
-La figura de Elena se fundió con la oscuridad de la copa del árbol.
+—¡Atrás! —gritó, sacando la linterna y enfocando el haz de luz directo hacia la abertura.
 
-18:42:15.
-18:42:30.
-18:43:00.
+De la penumbra del habitáculo descendieron dos hombres.
 
-El vídeo seguía corriendo. Las hojas de los árboles se movían con el viento. Un perro cruzó la parte inferior de la pantalla.
+No eran los delincuentes comunes de los barrios periféricos ni policías de uniforme. Vestían trajes oscuros de corte impecable, sin corbata, confeccionados con un tejido grueso y mate que no producía el menor susurro al moverse. Medían cerca de un metro noventa cada uno, con hombros anchos y una postura rígida, militar, casi biomecánica. Pero lo que heló la sangre de Leo no fue su tamaño, sino sus rostros.
 
-Pero nadie salió por el otro lado del roble.
+Bajo la luz trémula de la farola, la piel de ambos era de una palidez marmórea, tensa sobre los pómulos como el cuero seco. Sus ojos no parpadeaban. Sus pupilas, anormalmente dilatadas a pesar del reflejo directo de la linterna, parecían pozos de obsidiana que devoraban la luz sin reaccionar. No mostraban rabia, no mostraban urgencia; se movían con la frialdad aséptica de dos cirujanos entrando a un quirófano.
 
-La sombra tenía apenas cinco metros de longitud. A su paso, Elena debería haber tardado tres, quizás cuatro segundos en volver a ser visible al otro lado.
+—Leo Vanes —pronunció el de la izquierda. Su voz no tenía entonación alguna, carente de modulación emocional, profunda y metálica como si vibrara a través de una caja torácica de plomo.
 
-Leo adelantó el vídeo. Una hora. Dos horas. Cayó la noche. Se encendieron las farolas. El parque cerró sus puertas.
+—¿Quiénes son ustedes? —Leo alzó la linterna, intentando que el temblor de sus manos no delatara el pánico que le atenazaba el diafragma—. ¡La policía tiene mis datos! ¡Saben que estoy investigando...!
 
-Nadie salió de esa sombra. Y lo que era más inquietante para la mente analítica de Leo: *nadie entró tampoco para sacarla*.
+El hombre de la derecha se movió.
 
-Rebobinó. Volvió a verlo. Elena entra. La realidad parpadea. Elena no sale.
+No fue una carrera; fue una embestida implacable, rápida como un latigazo. Leo apenas tuvo tiempo de levantar los brazos antes de que la sombra se le echara encima. Intentó golpear con la linterna de aluminio, pero los dedos del desconocido se cerraron sobre su muñeca derecha como una tenaza de hierro. El crujido seco de los huesos del carpo sonó dentro de la cabeza de Leo antes de que el dolor le subiera ardiendo por todo el brazo.
 
-Golpeó la mesa con la Pieza negra. El impacto sonó como un disparo apagado.
+La linterna cayó al charco, extinguiéndose con un chisporroteo.
 
-—La materia no se destruye —masculló entre dientes—. Se transforma. O se desplaza.
+Leo intentó gritar, pero el segundo hombre se colocó a su espalda con un movimiento silencioso. Un brazo envuelto en tela balística le rodeó la garganta, cortándole el flujo sanguíneo de la carótida en un estrangulamiento limpio y profesional. Al mismo tiempo, sintió el pinchazo seco y helado de una aguja hipodérmica penetrando a través de la lona de su chaqueta, clavándose directamente en el músculo deltoide.
 
-Se levantó bruscamente, tirando la silla hacia atrás.
+El mundo perdió su consistencia. El asfalto pareció curvarse hacia arriba. Las luces de las farolas se estiraron en hilos de fuego anaranjado. Leo intentó forcejear, revolviéndose con todas las fuerzas que le quedaban, pataleando contra el chasis del vehículo, pero aquellos hombres eran como columnas de granito inamovibles.
 
-Elena no se había ido. Elena había entrado en una trampa. Quizás la esperaban para secuestrarla de alguna ingeniosa manera.
+—Sujeción completada —escuchó una voz lejana—. Sin testigos en el radio perimetral. Extracción autorizada.
 
-Caminó hacia la estantería y, apartando los manuales de "Estructuras III", sacó el cuaderno que había encontrado pegado con cinta americana bajo el somier de la cama, en el lado de Elena. No se lo había dado a la policía. Garrido habría pensado que era el diario de una loca.
-
-Lo abrió sobre la mesa, bajo el cono de luz de la lámpara. Las páginas estaban llenas de diagramas, fórmulas químicas y dibujos botánicos. Pero las últimas hojas eran diferentes. Eran frenéticas.
-
-Había un mapa del Parque del Lindero dibujado a mano. Líneas rojas conectaban el Roble Centenario con otros puntos de la ciudad: una alcantarilla romana, el sótano del Museo Arqueológico, el viejo pozo de la plaza.
-
-En el centro de la red, una palabra subrayada tres veces: **POROSIDAD**.
-
-Y debajo, una nota fechada el mismo martes de su desaparición:
-
-*"Los ciclos coinciden. La densidad atmosférica local ha variado un 0.4% en las últimas 24 horas. No es presión barométrica. Es como si el aire estuviera más... diluido. El abuelo de Leo tenía razón en sus diarios. La 'Membrana' es permeable aquí. Si acerco la Llave al epicentro, debería reaccionar. Voy a comprobarlo. No puedo decírselo a Leo aún. Me tomaría por loca. Necesito pruebas empíricas. PD: Si leo esto y no he vuelto, Leo, busca donde la sombra no se mueve."*
-
-—Busca donde la sombra no se mueve —repitió Leo.
-
-Miró el reloj. 03:45 AM.
-
-El mundo exterior dormía. La lógica dormía. Era la hora perfecta para la locura.
-
-Se puso el abrigo largo de lana. Hacía frío fuera, pero el frío que sentía Leo venía de dentro, de la médula. Guardó el cuaderno en el bolsillo interior. Cogió la linterna táctica del cajón de herramientas. Y, por último, cogió la Pieza.
-
-Al cerrando la mano sobre ella esta vez, sintió algo nuevo. Una vibración. Muy tenue, casi subliminal, como el ronroneo de un motor lejano. Y la temperatura del objeto había bajado drasticamente. Quemaba por frío.
-
-—La Llave —susurró, recordando la nota de Elena.
-
-Salió del apartamento y cerró con llave. El pasillo estaba en silencio, oliendo a lejía y a vidas estancadas. Bajó las escaleras de dos en dos, huyendo de la inacción.
-
-La calle le recibió con una bofetada de aire gélido y llovizna. La ciudad era un esqueleto de hormigón bajo la luz ámbar de las farolas de vapor de sodio. No había nadie. Solo un taxi lejano y el camión de la basura haciendo su ronda en la otra manzana.
-
-Leo caminó rápido, con las manos hundidas en los bolsillos, apretando la Pieza como si fuera un talisman. El Parque del Lindero estaba a doce manzanas, en el límite entre el casco antiguo y la zona industrial. Mientras caminaba, su mente de arquitecto intentaba racionalizar lo que iba a hacer. Iba a buscar un fallo en la realidad. Iba a buscar una grieta de su mundo físico.
-
-Llegó al perímetro del parque veinte minutos después.
-
-La valla de hierro forjado se alzaba tres metros, negra y húmeda, coronada por puntas de lanza. El parque era una isla de oscuridad en medio del mar eléctrico de la ciudad. Los árboles se mecían con el viento, susurrando secretos en un idioma de hojas secas.
-
-Leo rodeó el perímetro hasta encontrar la sección oeste, donde sabía que las raíces de un pino habían levantado el cemento y separado los barrotes. Se coló por el hueco, rasgándose la manga del abrigo, y cayó en la tierra blanda del interior.
-
-Se puso de pie y encendió la linterna. El haz de luz blanca cortó la oscuridad.
-
-El parque estaba desierto. Los columpios vacíos se mecían levemente, chirriando con un ritmo triste. Leo ignoró el miedo atávico a la oscuridad que todo humano lleva en el ADN y avanzó. Tenía una misión.
-
-—Derecha en la fuente. Izquierda en el banco —murmuró, siguiendo el mapa mental.
-
-El sendero de grava crujía bajo sus botas. El sonido era demasiado fuerte.
-
-Y entonces, lo vio.
-
-El Roble Centenario.
-
-Era gigantesco. Su tronco era tan ancho como un coche y su corteza estaba llena de nudos y cicatrices que parecían caras gritando. Sus ramas se extendían horizontalmente, cubriendo el camino como un techo.
-
-Leo se detuvo a diez metros. Apuntó con la linterna.
-
-Ahí estaba la sombra.
-
-Y Elena tenía razón.
-
-Leo movió la linterna de izquierda a derecha. El haz de luz barrió el suelo, iluminando las hojas secas, las piedras, las raíces. Las sombras de los arbustos cercanos se movieron, alargándose y acortándose según el ángulo de la luz. Geometría simple. Óptica básica.
-
-Pero la sombra bajo el roble no se movió.
-
-Permaneció estática. Un charco de oscuridad absoluta, negra como alquitrán, que ignoraba por completo la fuente de luz de Leo. Era una mancha en la realidad.
-
-El corazón de Leo empezó a martillear contra sus costillas. 120 pulsaciones. Adrenalina pura.
-
-Dio un paso adelante. Luego otro.
-
-El aire cambió.
-
-A tres metros del árbol, el sonido de la ciudad desapareció. Fue instantáneo. Como si alguien hubiera cortado el cable de audio. El zumbido de la ciudad, el viento, el tráfico lejano... todo cesó.
-
-Silencio absoluto. Un silencio denso, presurizado. Olía a ozono y a tierra antigua, a humedad de cueva cerrada hace milenios.
-
-Leo sacó la Pieza de su bolsillo.
-
-El cambio fue físico, inmediato. El objeto ya no estaba frío. Ahora irradiaba un calor seco, febril, como si el núcleo de metal se hubiera vuelto radioactivo en cuestión de segundos. Y pesaba. Pesaba tanto que Leo tuvo que usar las dos manos para no dejarlo caer, sintiendo cómo los tendones de sus muñecas crujían bajo una densidad imposible.
-
-—Estás aquí —dijo Leo con los dientes apretados. Su voz no tuvo eco. El aire se comió el sonido, masticándolo en el silencio.
-
-Se acercó al borde de la sombra estática. El calor de la Pieza se volvió insoportable, quemándole la piel de las palmas, pero sus dedos se negaron a soltarla. Era como si la gravedad local se hubiera plegado sobre sí misma, convirtiendo el objeto en un ancla que tiraba de él hacia el centro de la tierra.
-
-Leo dio un paso adelante, dejando que el peso muerto de la Pieza guiara su cuerpo.
-
-No hubo destellos. No hubo grietas de luz ni portales brillantes abriéndose en el aire.
-
-Simplemente, la física se rindió.
-
-Leo pisó la sombra y el suelo dejó de ser suelo. Vio la gravilla, vio las hojas secas, pero su bota atravesó la materia como si fuera una proyección holográfica.
-
-La realidad se invirtió. El horizonte giró noventa grados a la izquierda y el estómago de Leo se le subió a la garganta.
-
-Sintió una presión brutal en el cráneo, una descompresión explosiva que le hizo sentir que los tímpanos le estallaban hacia fuera. El parque, la noche, la ciudad... todo se disolvió en una negrura viscosa que no era falta de luz, sino exceso de *algo más*.
-
-Cayó.
-
-No fue una caída larga. Fue un colapso instantáneo y violento.
-
-Mientras la oscuridad se lo tragaba y la presión le borraba la consciencia, su último pensamiento lógico fue una sentencia clínica:
-
-*"Fallo catastrófico de la estructura. Colapso total."*
-
-Y luego, el impacto.
+Una capucha de lona gruesa y asfixiante le cubrió la cabeza. Lo arrojaron sobre el suelo de chapa estriada del furgón. La puerta neumática se cerró con un estruendo seco y el motor rugió con violencia, aplastando a Leo contra el suelo mientras la oscuridad química del sedante le apagaba la conciencia.
 
 ***
 
-Cuando abrió los ojos, lo primero que notó fue el olor.
+El dolor fue lo primero que regresó.
 
-Era un olor rico, complejo, abrumador. Olía a oxígeno puro, a podredumbre dulce, a especias desconocidas y a sangre caliente.
+Un dolor punzante, localizado en la nuca y en las muñecas, acompañado por unas náuseas viscosas que le subían desde el fondo del estómago.
 
-Leo se incorporó, tosiendo. Estaba tumbado sobre una superficie blanda y húmeda. Musgo. Pero no era musgo normal. Cada filamento era del grosor de un dedo y brillaba con una luz cian intermitente al tacto.
+Leo abrió los ojos con dificultad. La visión tardó varios segundos en enfocarse, nublada por los restos de la droga. Lo que vio no tenía relación alguna con una comisaría municipal ni con un centro penitenciario civil.
 
-Se miró las manos. Estaban manchadas de tierra azulada. Seguía aferrando la Pieza con fuerza, sus nudillos blancos por la tensión.
+Estaba sentado en una silla de acero fundido, atornillada directamente a una losa de hormigón desnudo. Sus muñecas estaban inmovilizadas a los reposabrazos mediante grilletes mecánicos de bisagra ancha, forrados en su interior con un polímero rugoso que se clavaba en la piel cada vez que intentaba tensar los tendones. Sus tobillos estaban igualmente bloqueados a las patas de la estructura.
 
-Levantó la vista.
+La habitación era un cubo de unos cuatro metros de lado, sin ventanas, construida con bloques de hormigón armado de un gris ceniciento, húmedos y cubiertos por manchas de condensación. El aire era pesado, helado y apestaba a desinfectante fenólico y a ozono, como si cerca operara maquinaria eléctrica de alto voltaje. En el techo, una única luminaria halógena protegida por una rejilla metálica emitía un resplandor blanco, crudo y quirúrgico que no dejaba un solo rincón en sombra.
 
-El vértigo le golpeó tan fuerte que tuvo que volver a apoyar las manos en el suelo para no vomitar.
+Frente a él, a tres pasos de distancia, una mesa de acero inoxidable reflejaba la luz con un brillo cegador.
 
-Estaba en un bosque. Pero llamar a aquello "bosque" era como llamar "charco" al Océano Pacífico.
+Detrás de la mesa estaban los dos hombres de traje. Se habían quitado los abrigos, revelando camisas oscuras sin distintivos. El de la derecha, con una cicatriz horizontal que le dividía la ceja izquierda, sostenía una tablilla rígida con hojas mecanografiadas. El de la izquierda, de mandíbula cuadrada y facciones afiladas como una cuña, mantenía las manos entrelazadas a la espalda, mirándolo con esos ojos insondables que parecían registrar cada contracción involuntaria de sus pupilas.
 
-Los árboles que le rodeaban eran columnas que sostenían el cielo. Troncos de madera roja y gris que se alzaban cientos de metros hacia arriba, desapareciendo en una bruma luminosa muy por encima de su cabeza. Las hojas que caían planeando a su alrededor eran del tamaño de sábanas de cama.
+Leo tiró de los grilletes. El acero no cedió ni un milímetro; solo logró despellejarse la piel de los huesos de las muñecas.
 
-Leo se puso de pie, tambaleándose. Se sentía pequeño. Insignificante. Una hormiga en el jardín de un dios descuidado.
+—¿Dónde estoy? —graznó. La garganta le raspaba como si hubiera tragado ceniza—. ¿Qué es esto? Si esto es por el expediente de Elena...
 
-—¿Elena? —llamó. Su voz sonó pequeña, ahogada por la inmensidad del entorno.
+—Silencio —dijo el hombre de la ceja partida. No alzó la voz, pero el tono tenía una densidad física que helaba la sangre—. No estás en posición de formular preguntas, Leo Vanes. Tu retención no figura en ningún registro judicial ni administrativo. Si mueres en esta sala, tu cuerpo será desintegrado en un baño de ácido cáustico y tus cenizas serán dispersadas en el emisario submarino. Para la ciudad, serás simplemente otro joven inestable que no pudo soportar la soledad y se tiró desde el viaducto norte. ¿Queda claro el marco operativo?
 
-Un crujido a su espalda le hizo girarse.
+Leo tragó saliva, sintiendo el sudor frío resbalar por su nuca. El pánico amenazó con desbordarlo, pero el hábito adquirido de su mente analítica comenzó a procesar los datos de forma desesperada: la arquitectura no era convencional; el grosor del hormigón sugería un búnker subterráneo o una instalación de seguridad militar clandestina; el aplomo de sus captores demostraba un protocolo estandarizado. No eran criminales comunes pidiendo un rescate. Eran una estructura de poder que operaba por encima de la ley.
 
-A unos cincuenta metros, entre la maleza gigante, dos ojos ámbar se abrieron en la oscuridad. Eran grandes como platos soperos. Y estaban a tres metros del suelo.
+—No tengo dinero —dijo Leo, midiendo cada palabra para que la voz no le temblara—. No tengo propiedades. Solo soy un administrativo.
 
-La pupila vertical se contrajo al enfocar a Leo.
+El hombre de mandíbula cuadrada dio un paso al frente. Sus ojos de obsidiana se clavaron en el pecho de Leo.
 
-Un gruñido bajo, profundo, hizo vibrar el esternón de Leo.
+—Primera pregunta —dijo con esa cadencia monótona y metálica—. ¿Dónde está Caine Vanes?
 
-—Vale —susurró Leo, retrocediendo despacio, con la Pieza en la mano como única y ridícula defensa—. Definitivamente, esto no es un ángulo muerto.
+El impacto del nombre hizo que Leo se tensara contra el respaldo de metal.
 
-Bienvenido a Extramuros.
+—¿Mi abuelo? —balbuceó, desconcertado—. Mi abuelo desapareció hace seis meses. Su caso está archivado en el Distrito Siete. La policía cerró la investigación...
 
-**FIN DEL CAPÍTULO 1**
+El hombre de la ceja partida no pestañeó. Anotó un trazo seco en su tablilla sin levantar la vista.
 
+—El sujeto confirma la interrupción del contacto —dictaminó con una frialdad que congeló a Leo.
+
+Leo forcejeó contra los grilletes, desesperado ante la falta de respuesta:
+
+—¡Oiga! ¡Le estoy diciendo la verdad! ¡Mi abuelo estaba perdiendo la cabeza, apenas recordaba lo que comía y se pasaba las tardes dibujando mapas infantiles en libretas viejas! ¿Qué tiene que ver él con todo esto?
+
+Ninguno de los dos hombres respondió. Para ellos, sus gritos eran un ruido de fondo irrelevante.
+
+El de la ceja partida pasó una hoja de su tablilla con un chasquido seco.
+
+—Segunda pregunta. ¿Dónde se oculta Haimara?
+
+Leo pestañeó, aturdido. La palabra resonó en el cubo de hormigón como un eco extraño, áspero y completamente ajeno.
+
+—¿Haimara? —repitió Leo, frunciendo el ceño—. ¿Quién demonios es Haimara? No conozco a nadie con ese nombre. Jamás he oído esa palabra en mi vida.
+
+El hombre de mandíbula cuadrada metió la mano en el bolsillo interior de su chaqueta y arrojó una fotografía sobre la mesa de acero.
+
+En la imagen, en blanco y negro y tomada desde un ángulo elevado con teleobjetivo, se veía a Elena saliendo del portal del edificio con una bolsa de la compra y su cazadora oscura.
+
+—Desde que iniciamos la investigación tenemos constancia de que compartís demasiado tiempo bajo el mismo techo —respondió el hombre—. Demasiado como para que no sepas adónde ha ido.
+
+Un frío glacial se derramó desde el estómago de Leo hasta la punta de sus dedos.
+
+—¿Elena? —la voz de Leo tembló en un hilo incrédulo—. Su nombre es Elena. Elena Kalev. Estudia botánica en la facultad, no tiene nada que ver con lo que sea que estén buscando...
+
+—Elena es un nombre falso —lo cortó el de la ceja partida con una sequedad implacable—. ¿Adónde fue?
+
+—¡No lo sé! —gritó Leo, forcejeando contra el acero de los grilletes—. ¡Se marchó hace cinco días sin avisar! ¡Fui a la policía, puse una denuncia! ¡No sé adónde demonios ha ido!
+
+El hombre de la ceja partida no pestañeó. Ni una sombra de duda cruzó su rostro. Simplemente dejó la tablilla sobre la mesa de acero con un chasquido sordo.
+
+Luego, con movimientos pausados y precisos, abrió el maletín metálico que descansaba en el suelo, junto a la pata de la mesa. El interior estaba forrado de espuma densa y albergaba un juego de herramientas quirúrgicas y un par de electrodos con pinzas de cobre conectadas a un transformador portátil.
+
+—El sujeto no coopera —dictaminó el de la ceja partida, colocándose unos guantes de goma negra—. No disponemos de margen temporal para esperar a que colabore. Procederemos con extracción forzosa. Estimulación neuromuscular directa hasta que los recuerdos comiencen a ordenarse.
+
+El hombre de mandíbula cuadrada se acercó a la silla. Apoyó una mano enguantada sobre el hombro de Leo. Su agarre fue como una prensa hidráulica, inmovilizándole el torso contra el respaldo de hierro con una fuerza que le crujió las clavículas.
+
+—Última oportunidad, Leo Vanes —dijo, inclinándose hacia él hasta que Leo pudo oler en su aliento un aroma metálico, sintético, como a lubricante de armas—. Dónde están los cuadernos de tu abuelo. Adónde fue ella.
+
+El pánico bloqueó la garganta de Leo. No había respuestas lógicas, no había explicaciones posibles; solo dos hombres dispuestos a despedazarlo en un sótano sin ventanas.
+
+El otro agente levantó los dos electrodos de cobre. El zumbido del transformador eléctrico se elevó en un chirrido agudo que erizó el vello de los brazos de Leo. La punta de los bornes comenzó a despedir diminutos arcos azulados, a escasos centímetros de sus muslos.
+
+Acorralado contra el respaldo de hierro, con el terror quemándole las entrañas y la certeza física de que iban a destrozarlo allí mismo, la mente de Leo se aferró a lo único que le quedaba: escapar. Deseó con una furia desesperada, ciega y absoluta no estar en aquella sala de hormigón.
+
+En ese segundo de asfixia, el único recuerdo que le vino a la cabeza fue un dibujo de tinta china en la buhardilla de Caine: aquella hendidura entre dos riscos negros que su abuelo le señalaba de niño, diciéndole que era el único escondite donde nadie podría encontrarlo.
+
+*¡Sácame de aquí!*, aulló en el fondo de sus pensamientos, apretando los párpados hasta ver chispas. *¡Adonde sea, pero sácame de aquí!*
+
+Y entonces, la muñeca izquierda de Leo ardió.
+
+Fue un dolor atroz, como si le hubieran ceñido un hierro al rojo vivo directamente sobre el pulso.
+
+La tosca pulsera que Caine le había colocado meses atrás comenzó a vibrar con un crujido sordo. La piedra oscura despertó: las ranuras microscópicas del material se abrieron y un resplandor esmeralda, denso y fosforescente, estalló inundando la habitación de golpe.
+
+—¿Qué demonios...? —el hombre que sostenía los electrodos retrocedió medio paso. Por primera vez, en sus ojos vidriosos asomó un espanto animal.
+
+La temperatura en la sala cayó de golpe. La bombilla halógena parpadeó, emitió un chasquido agudo y reventó en una lluvia de esquirlas de cristal sobre la mesa.
+
+—¡Lleva una pieza viva! —gritó el hombre de mandíbula cuadrada, soltando a Leo y metiendo la mano bajo la chaqueta para desenfundar—. ¡Está sintonizada! ¡Mátalo! ¡Mátalo ya!
+
+Demasiado tarde.
+
+El brillo verde de la pulsera mutó en una llamarada blanca incandescente que devoró la oscuridad del sótano. El aire alrededor del cuerpo de Leo se plegó sobre sí mismo con un crujido seco, un vacío gravitatorio que succionó el oxígeno de la habitación y dobló los grilletes de acero de la silla como si estuvieran hechos de plomo blando.
+
+Un zumbido atronador, una frecuencia sónica que desgarró los tímpanos de los dos agentes haciéndoles sangrar por la nariz, llenó el espacio. El tiempo pareció dilatarse en una fracción de segundo infinita: Leo vio el cañón del arma del agente apuntándole a la cabeza, vio la bala salir de la recámara envuelta en un cono de pólvora congelado en el aire...
+
+Y entonces, el tejido de la realidad se fracturó.
+
+Un pulso de choque cinético desintegró la silla de hierro. La luz blanca se condensó en un punto ciego que se tragó a Leo por completo. La habitación quedó vacía, envuelta en humo acre, con dos hombres arrojados contra las paredes de hormigón y una mancha de azufre y ceniza fría en el suelo donde un segundo antes había estado un prisionero.
+
+***
+
+El impacto fue demoledor.
+
+Leo no cayó sobre hormigón ni sobre adoquines. Se estrelló de espaldas contra una alfombra húmeda, blanda y elástica compuesta por capas infinitas de hojas podridas y materia orgánica en descomposición. El golpe le expulsó todo el aire de los pulmones con un estertor agónico.
+
+Rodó sobre sí mismo, tosiendo con violencia, tratando de incorporar el torso mientras las náuseas le desgarraban el estómago.
+
+Su mano izquierda ardía con un dolor abrasador.
+
+Se miró la muñeca. La pulsera de su abuelo ya no existía. En su lugar, sobre la piel enrojecida y viva por una quemadura circular perfecta, solo quedaban astillas negras y quebradizas que se deshacían en ceniza al menor contacto con el viento. La pieza se había consumido por completo en el salto, dejando solo una herida humeante.
+
+Leo se quedó inmóvil, apoyado sobre las rodillas y las palmas de las manos, tratando de comprender dónde estaba.
+
+Lo primero que lo golpeó fue el aire.
+
+Inspiró por la boca en un jadeo instintivo y sintió como si hubiera tragado una bocanada de vapor hirviendo cargada de ceniza viva. Sus pulmones ardieron al instante. El aire era denso, sofocante, cargado de una pureza de oxígeno tan salvaje que cada inhalación le provocaba un dolor punzante en las sienes. El corazón le retumbaba en las costillas a un ritmo frenético, desbocado, bombeando una sangre que parecía arderle en las venas.
+
+Tosió una flema oscura, manchando la tierra.
+
+—¿Dónde...? —articuló con un hilo de voz que se ahogó en la nada.
+
+Alzó la cabeza despacio. Y el mundo que conocía —la ciudad, las calles de asfalto, las comisarías y la rutina gris de los días— se extinguió para siempre en su mente.
+
+Estaba arrodillado al pie de un árbol colosal.
+
+El tronco que se alzaba a su derecha era tan monstruoso que ni cincuenta hombres cogidos de los brazos alcanzarían a rodearlo. Su corteza, agrietada por hendiduras profundas como barrancos de piedra, ascendía recta, implacable, perdiéndose en un dosel de follaje esmeralda que flotaba a cientos de metros de altura, tan denso que ocultaba por completo el cielo. La luz solar apenas se filtraba a través de las ramas altas en jirones verdosos y húmedos, creando una penumbra solemne, interminable.
+
+A sus pies, las hojas de un simple helecho eran más largas y anchas que lanzas de guerra. Una hilera de hongos que brotaban de la tierra podrida desprendían un fulgor violáceo, con sombreros bajo cuya sombra podría haberse cobijado una patrulla entera de hombres hombro con hombro.
+
+El silencio que lo rodeaba no era paz; era la quietud sofocante de un ecosistema en el que todo, desde la hoja más pequeña hasta la sombra más lejana, estaba diseñado para cazar o ser devorado.
+
+A lo lejos, a través de la bruma esmeralda que cubría la base de los titanes de madera, resonó un crujido sordo. No fue el quiebro de una rama seca: fue el sonido profundo de toneladas de peso aplastando la maleza, seguido por una vibración tectónica que Leo sintió subir a través de la tierra húmeda directamente hasta sus rodillas.
+
+Se llevó la mano al pecho, sintiendo el vacío en el bolsillo donde antes guardaba sus llaves de casa. Miró las cenizas de la pulsera esparcidas entre el musgo colosal.
+
+Recordó los trazos de tinta de Caine. La brecha entre los riscos de basalto. El refugio del mapa.
+
+Leo estaba vivo.
+Estaba solo.
+Y acababa de caer en el mundo que creía inventado.

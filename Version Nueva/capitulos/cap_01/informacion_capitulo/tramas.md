@@ -1,6 +1,5 @@
-﻿# Tramas - Capítulo 1
+﻿# Tramas del Capítulo 1: La Fractura
 
-*   **[ACTIVA] La desaparición de Elena:** Leo busca reconstruir sus últimos pasos tras 4 días de silencio y archivo policial.
-*   **[ACTIVA] La confrontación institucional con Garrido:** El choque entre el método meticuloso de Leo y la apatía burocrática del sistema.
-*   **[ACTIVA] El enigma del Roble Centenario (Punto Ciego):** Una anomalía óptica y espacial donde la luz y la sombra se comportan de forma físicamente imposible.
-*   **[FONDO] El legado de Caine y la Pieza:** La naturaleza latente del poliedro que Leo conserva como pisapapeles y los misteriosos diarios del anciano.
+*   **Trama Principal (La Búsqueda de Elena):** Pasa de una investigación urbana atascada por la burocracia policial a un secuestro de Estado y un posterior salto dimensional a Extramuros. Se introduce el misterio del nombre "Kaelen".
+*   **Trama Secundaria (El Enigma de Caine):** La desaparición de Caine deja de ser un caso de demencia senil para revelarse como una fuga o reclutamiento de alto secreto vinculado a los agentes encubiertos.
+*   **Trama de Poder (La Reliquia de Omega):** Se demuestra la capacidad de la pulsera forjada por Caine para resonar con la voluntad/deseo del portador y abrir una brecha espacial directa hacia Extramuros, sacrificándose tras un solo uso.

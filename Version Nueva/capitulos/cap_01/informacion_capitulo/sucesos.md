@@ -1,8 +1,10 @@
-﻿# Sucesos Principales - Capítulo 1
+# Sucesos del Capítulo 1: La Fractura
 
-1. **La carpeta del caso:** Leo en su apartamento de madrugada, revisando el atestado policial que califica la desaparición de Elena como 'Ausencia voluntaria'.
-2. **Flashback en la comisaría:** Conversación inicial con el Inspector Garrido. Leo explica cómo es Elena (culta, curiosa, atenta con el abuelo Caine y su único apoyo tras morir sus padres). Garrido despacha la denuncia por falta de indicios delictivos.
-3. **El análisis del vídeo de seguridad:** Leo examina la cinta de la entrada norte del Parque del Lindero (18:41). Elena entra bajo el roble viejo al final del camino y no reaparece al otro lado.
-4. **El cuaderno de notas de Elena:** Leo descubre las anotaciones de Elena basadas en los antiguos diarios del abuelo Caine sobre desniveles y bajadas de presión en el límite norte del parque.
-5. **Infiltración nocturna:** Leo acude al parque de madrugada con la linterna y la pesada pieza del abuelo, que se calienta en su mano.
-6. **La caída:** Al adentrarse en la hondonada de raíces del roble, el terreno cede y Leo cae al vacío, sufriendo una descompresión y aterrizando en una inmensa selva de árboles titánicos desconocida por la civilización.
+1. **La carpeta archivada:** Leo repasa a altas horas de la madrugada el atestado del inspector Garrido que archiva la desaparición de Elena como marcha voluntaria.
+2. **El doble luto:** Reflexión sobre la muerte de sus padres seis años atrás y la desaparición previa de Caine seis meses antes, cuyo caso fue ignorado por las autoridades.
+3. **El asalto nocturno:** Leo sale a la calle para obtener grabaciones de tráfico y es emboscado por una furgoneta sin matrícula. Operativos de traje oscuro lo reducen con brutalidad técnica y una inyección sedante.
+4. **La cámara de interrogatorio:** Leo despierta inmovilizado en una celda de hormigón. Dos agentes le exigen secamente información sobre Caine y sobre "Haimara", mostrándole una foto de vigilancia de Elena.
+5. **Frialdad sin respuestas:** Los interrogadores descartan las protestas de Leo, evitan darle explicaciones y afirman que Elena usaba una identidad falsa.
+6. **La tortura inminente:** Los agentes conectan electrodos para forzar la confesión sobre el paradero de ella y los cuadernos de Caine.
+7. **El salto:** El terror y el deseo ciego de huir hacia el refugio de los mapas de Caine activan la pulsera de piedra. Pulso lumínico, vacío cinético y fractura del espacio.
+8. **La llegada:** La pulsera se desintegra en ceniza dejando una quemadura circular en la muñeca de Leo. Aterrizaje en el fango al pie de un árbol colosal en una atmósfera hiperoxigenada.

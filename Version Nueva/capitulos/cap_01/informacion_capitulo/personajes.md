@@ -1,7 +1,7 @@
-﻿# Personajes - Capítulo 1
+﻿# Personajes del Capítulo 1: La Fractura
 
-*   **Leo Vanes (24):** Protagonista. Ex-administrativo analítico, frío y calculador. Desesperado por encontrar a Elena mediante lógica forense tras el fracaso policial.
-*   **Inspector Garrido:** Inspector de policía de la comisaría local. Pasota, cansado de la burocracia, desestima el caso tratándolo como una fuga voluntaria rutinaria.
-*   **Elena Kalev (22):** (En recuerdos, notas y grabaciones). Joven vivaz, culta y apasionada por los libros. El único vínculo emocional vivo de Leo.
-*   **Caine Vanes:** (Mención). Abuelo de Leo, considerado loco senil por la familia. Sus antiguos cuadernos fueron leídos por Elena antes de desaparecer.
-*   **Javi:** (Mención). Antiguo compañero de facultad de Leo, empleado en mantenimiento del Ayuntamiento, quien le facilitó clandestinamente la cinta de seguridad.
+*   **Leo Vanes (24 años):** Protagonista. Analítico, reservado y desbordado por el dolor y la obsesión metódica. Portador de la pulsera forjada por su abuelo.
+*   **Inspector Garrido:** Policía veterano y pasota de la comisaría local. Despacha el caso de Elena como "marcha voluntaria".
+*   **Caine Vanes ("El Inmortal"):** (Mencionado / Recuerdo). Abuelo de Leo. Para Leo, un anciano con demencia que dibujaba mapas y contaba fábulas; en realidad, leyenda viva superviviente a un Omega.
+*   **Elena / Kaelen:** (Mencionada / En el recuerdo de Leo). Joven vivaz, culta y botánica que desapareció sin dejar pistas.
+*   **Los Hombres de Traje (Agentes de Sombras):** Operativos de contrainteligencia de élite. Trajes reforzados oscuros, frialdad quirúrgica, interrogadores sin piedad.

@@ -1,210 +1,255 @@
-﻿# CAPÍTULO 2: LA CUEVA DE LOS HUESOS
+# CAPÍTULO 2: LA CUEVA DE LOS HUESOS
 
-Leo corrió.
+La vibración no se extinguió; cambió de frecuencia.
 
-No fue una decisión consciente. Sus piernas arrancaron antes de que su cerebro terminara de procesar que los ojos ámbar a cincuenta metros le pertenecían a algo vivo. Algo grande. Algo que estaba despertando.
+Leo permanecía arrodillado en el fango, con las manos hundidas en la turba podrida y la mirada clavada en los restos de ceniza negra que aún humeaban sobre la carne viva de su muñeca izquierda. El aire denso, casi sólido por la sobrecarga de oxígeno, le entraba en la tráquea como un vapor aceitoso que obligaba a su corazón a bombear a un ritmo salvaje, desbocado, martilleándole las sienes con una cadencia febril.
 
-La Pieza ardía en su mano, pero eso era lo de menos. El suelo temblaba bajo sus botas con cada pisada del depredador que había abandonado su paciencia de observador.
+A cincuenta metros de distancia, oculta tras el dosel de helechos monumentales que emergían de la bruma esmeralda, la masa que había quebrado la madera continuaba en movimiento.
 
-*CRUNCH. CRUNCH. CRUNCH.*
+*Thump... thump... thump.*
 
-El sonido era cada vez más cercano. El aire olía a carne podrida y a ozono quemado, un hedor que le revolvió el estómago a Leo mientras corría esquivando helechos que le arañaban la cara con bordes de sílice. Tropezaba con raíces que parecían tuberías industriales, pero no podía permitirse caer. Si caía, moría.
+El sonido no era el correteo asustadizo de un animal corriente. Era una pisada sorda, rítmica y pesada que transmitía a través del fango un temblor tectónico, haciendo oscilar los tallos leñosos a su alrededor. Con cada impacto, gotas de condensación del tamaño de ciruelas se desprendían de las hojas altas, estrellándose contra los hombros de Leo con la fuerza de proyectiles de agua helada.
 
-Las ramas le golpeaban la cara. Los hongos gigantes explotaban en nubes de esporas cuando los rozaba. Corría mal, sin técnica, solo con el impulso del miedo puro.
+Se obligó a ponerse en pie. Las piernas le temblaban, no solo por el impacto de la caída desde el vacío, sino por la agresión biológica de aquel aire primitivo. El deltoides izquierdo le palpitaba con una punzada sorda allí donde la aguja del sedante militar le había perforado el músculo horas atrás, en el callejón de la ciudad que ahora parecía pertenecer a otra vida. Se palpó el bolsillo interior de la chaqueta: la linterna de aluminio seguía intacta, fría contra sus costillas magulladas, junto al papel doblado de la denuncia sellada por el inspector Garrido. En el bolsillo del pantalón, una pequeña bolsa hermética con una barrita de avena prensada y un puñado de almendras tostadas crujió contra su muslo.
 
-Un rugido a su espalda. No fue un rugido de león. Ni de oso. Fue un chirrido metálico, vibrante, que le hizo doler los dientes. La cosa estaba cerca. Demasiado cerca.
+Eso era todo lo que conservaba de la civilización.
 
-Leo vio una grieta en el terreno. Una formación de rocas negras que rompía el patrón de la vegetación. Se alzaban como dientes podridos saliendo de la tierra.
+Leo alzó la cabeza y escudriñó la penumbra verde. Entre los troncos de los árboles colosales, cuyas cortezas se alzaban rectas como murallas de basalto perdiéndose a cientos de metros en una techumbre de follaje impenetrable, distinguió un quiebro en la topografía.
 
-Roca. La roca es segura. La roca es dura.
+A unos trescientos metros al este, elevándose por encima del sotobosque como los colmillos rotos de un gigante enterrado, asomaba una formación de riscos negros. Bloques de roca oscura, angulosos y fracturados, que contrastaban con la vegetación asfixiante de la llanura de lodo.
 
-Leo viró hacia la izquierda. Vio una fisura a ras de suelo. Triangular. Estrecha.
+El recuerdo de la buhardilla de Caine le estalló en el pecho con una lucidez quirúrgica.
 
-Se tiró al suelo. Se arrastró. El barro se le metió en la boca. Escupió. Empujó con los codos, con las rodillas. Se raspó la espalda contra la piedra superior. Entró.
+Aquellos riscos no eran una casualidad geológica. Eran el punto de referencia que su abuelo había dibujado una y otra vez con tinta china en el centro de sus cuadernos de hojas amarillentas: *la brecha entre las piedras negras*. Caine solía apoyar su dedo calloso sobre aquel trazo rugoso mientras Leo observaba las láminas, repitiéndole con esa media sonrisa imperturbable: *«Si alguna vez te encuentras perdido donde los árboles no dejan ver las estrellas, muchacho, busca el espinazo de piedra. Ahí la madera no puede estrangular la tierra y la roca no se pudre»*.
 
-Se quedó quieto, boca abajo, en la oscuridad.
+Leo tragó saliva, notando la garganta raspada por el aire sobreoxigenado. Tenía una dirección. Pero entre él y los riscos se interponía la vaguada de helechos gigantescos de donde provenía el sonido de la madera quebrada.
 
-Esperó.
+Y el sonido se estaba acercando.
 
-Fuera, el sonido de pisadas se detuvo. Silencio. Solo el zumbido de los insectos lejanos. Luego, una respiración. *Fhhhhhh. Fhhhhhh.* Aire entrando y saliendo de unos pulmones enormes. O de unos espiráculos.
+Un crujido monumental desgarró la calma del bosque. Un helecho arborescente de diez metros de altura, con un tronco tan grueso como el torso de un hombre, se dobló hacia adelante con un quejido elástico antes de partirse por la base con un estampido seco.
 
-Leo se tapó la boca con las dos manos. Trató de no respirar. Su corazón golpeaba contra sus costillas como un pájaro atrapado. *Bum-bum. Bum-bum.*
+Leo se pegó de espaldas a los contrafuertes leñosos del titán junto al que se encontraba. El tronco era tan inmenso que su arco apenas se curvaba; a su espalda tenía una pared de madera viva de más de tres palmos de corteza acanalada.
 
-Un golpe. La roca sobre su cabeza vibró. La cosa había golpeado la piedra. Probando. Buscando.
+Apartó con lentitud una fronda húmeda y miró.
 
-Otro golpe. Más fuerte. Polvo cayó sobre el pelo de Leo.
+De entre el vapor esmeralda surgió la bestia.
 
-Luego, un gruñido bajo. De frustración. Y pasos. *CRUNCH... CRUNCH... crunch...* Se alejaban.
+A Leo se le heló la sangre en las venas. Su mente, educada en la catalogación funcional y el orden metódico del mundo civilizado, intentó en vano encajar a la criatura en alguna familia taxonómica conocida. Aquello no era un oso, ni un reptil, ni ninguna variante de depredador registrada en los manuales de biología del Archipiélago.
 
-Leo soltó el aire que tenía en los pulmones. Se dio la vuelta, quedando boca arriba en el suelo de la cueva. Estaba temblando. Sus manos sacudían incontrolables.
-Se las miró en la oscuridad. Apenas podía verlas. Sacó la linterna del cinturón. Clic. El haz de luz blanca cortó la negrura.
+Era un cuadrúpedo bajo, ancho y macizo, de casi ocho metros de longitud, con un centro de gravedad pegado al suelo que denotaba una potencia muscular aterradora. Su lomo y sus flancos estaban blindados por placas superpuestas de queratina oscura y rugosa, de un negro mineral idéntico a la escoria volcánica, unidas entre sí por pliegues membranosos de un tono ocre grisáceo que se dilataban y contraían a cada paso. A lo largo de la línea inferior del costillar, justo bajo el borde de las corazas, una hilera de espiráculos ovales se abrían en un movimiento espasmódico, expulsando chorros de vapor supercaliente que silbaban en la humedad del ambiente con un hedor fétido a carroña vieja, bilis concentrada y ácido.
 
-Leo apuntó al techo. Roca gris. Húmeda. Apuntó al suelo. Tierra seca. Apuntó al fondo de la cueva.
+Las cuatro extremidades de la bestia eran columnas cortas rematadas en pezuñas triples, planas y anchas, equipadas con espolones de hueso curvos que se clavaban en la turba blanda, abriendo surcos profundos en el barro sin perder tracción.
 
-Ahogó un grito. La linterna iluminó una pared blanca. No. No era una pared. Eran costillas.
+Pero lo más espantoso era su cabeza.
 
-Leo se levantó despacio, con la linterna en alto. Caminó hacia el fondo. Estaba en un cementerio.
+El cráneo formaba una cuña ósea continua, desprovista de orejas visibles, fusionada directamente con las placas cervicales en una estructura diseñada para embestir y demoler cualquier obstáculo. En los laterales del rostro, resguardadas bajo gruesos rebordes córneos, dos órbitas profundas albergaban globos oculares pálidos, de un blanco lechoso y vidrioso, cubiertos por una membrana nictitante que parpadeaba de forma irregular. No parecían ver los detalles; parecían rastrear diferencias térmicas y movimientos de masa en la oscuridad perpetua del sotobosque.
 
-Había huesos por todas partes. Pero la escala... la escala estaba mal. Vio un fémur apoyado contra la pared que Leo no habría podido abarcar ni con los brazos extendidos. Vio vértebras esparcidas por el suelo del tamaño de ruedas de camión.
+Y su boca no tenía labios ni colmillos aislados: terminaba en un pico de queratina maciza, curvado hacia abajo, con los bordes aserrados como una sierra de corte industrial, capaz de cizallar vigas de madera con un solo golpe mandibular.
 
-Leo se arrodilló junto a una vértebra. La tocó con los dedos. Calcificada. Porosa. Estimó su edad por la erosión: cincuenta años mínimo. Quizás cien.
+La criatura se detuvo en medio de la vaguada. Levantó el morro triangular, olfateando la corriente estática del sotobosque.
 
-Miró la distribución de los huesos. No estaban esparcidos al azar. Había un patrón. Los fémures apilados a la izquierda. Las costillas a la derecha. Alguien... o algo... los había organizado. Esto no era el basurero de un depredador. Era un almacén. O un santuario.
+*Fsssshhh...*
 
-¿Qué clase de criatura tenía este tamaño? ¿Y qué clase de criatura *comía* a algo de este tamaño y dejaba los restos aquí ordenados?
+Los espiráculos de sus flancos se abrieron al unísono, liberando una nube de vapor pestilente que disolvió la niebla a su alrededor.
 
-Leo se dejó caer contra la pared de roca, jadeando. La oscuridad de la cueva le recordó a otra oscuridad. El sótano del museo donde Elena guardaba sus muestras. Olor a formol y a libros viejos. Ella siempre trabajaba de noche, cuando el edificio cerraba.
+Leo contuvo el aliento, pegando los hombros contra la corteza rugosa hasta sentir cómo las aristas de madera le perforaban la lona de la chaqueta.
 
-*"¿Por qué te gusta tanto la oscuridad?"*, le había preguntado una vez, viéndola trabajar con una lámpara de luz negra.
+El monstruo bajó el cráneo hacia el fango. Sus pezuñas delanteras arañaron la turba. Luego, de manera lenta, deliberada y mecánica, su cuello blindado giró hacia la izquierda.
 
-*"Porque en la oscuridad, las cosas que brillan se ven mejor"*, había respondido ella, sosteniendo un frasco con cultivos fluorescentes. *"La luz del sol esconde secretos, Leo. La oscuridad los revela."*
+Las cuencas lechosas se detuvieron exactamente en la dirección de Leo.
 
-Leo abrió los ojos. El bosque exterior brillaba con luz de neón biológico que se filtraba por la entrada. Como los cultivos de Elena. Como si este mundo estuviera diseñado bajo sus reglas, no las de él.
+Había captado la anomalía. El aire de aquel bosque ancestral transportaba humedad vegetal y resinas milenarias; la presencia de Leo era una afrenta olfativa violenta: el hedor acre a carne carbonizada de su muñeca quemada, el aroma sintético del impermeabilizante de su ropa y la emanación salina de un sudor cargado de terror animal.
 
-—Tenías razón —susurró—. Aquí las cosas brillan.
+La bestia emitió una vibración sorda. No fue un rugido; fue un zumbido infrasónico que nació en las cavidades cavernosas de su tórax y subió por el pico aserrado, haciendo vibrar el agua estancada a los pies de Leo y provocando un espasmo incontrolable en su diafragma.
 
-Se llevó la mano al bolsillo de la chaqueta. Buscaba tabaco, aunque lo había dejado hacía dos años. Sus dedos tocaron algo frío y duro. Metal. La Pieza. El pisapapeles.
+El animal dio un paso al frente. Y luego, sin aviso previo, aceleró.
 
-Lo sacó. En la penumbra, el objeto parecía absorber la poca luz que había. Era negro, mate, pesado. Leo lo sostuvo en la palma de la mano. Le pesaba. Siempre le había pesado, pero ahora parecía tirar de su mano hacia abajo con una gravedad propia.
+La velocidad de aquella mole fue una contradicción física que paralizó a Leo durante una fracción de segundo. Ocho metros de coraza y hueso no debían moverse con esa violencia explosiva. La bestia se propulsó contra el fango, excavando zanjas en la turba con sus espolones y barriendo los helechos de tres metros a su paso como si fueran briznas de hierba seca.
 
-—¿Qué eres? —susurró.
+—¡Corre! —el aullido en la mente de Leo rompió el bloqueo de sus articulaciones.
 
-Y entonces, vibró. No fue mucho. Un temblor. *Bzzzt.*
+Se despegó del tronco y se lanzó hacia adelante en un sprint ciego hacia los riscos negros.
 
-Leo casi lo soltó del susto. Se quedó mirando el objeto. ¿Había sido su imaginación? ¿El temblor de sus propias manos?
+El avance era una pesadilla biomecánica. Cada zancada exigía una fuerza descomunal: las botas de montaña se hundían hasta media espinilla en la alfombra de materia vegetal descompuesta, que tiraba de sus tobillos con la viscosidad de una ciénaga fría. El aire hiperoxigenado le quemaba la laringe a cada bocanada, llenándole los bronquios de un fuego químico que le provocaba punzadas agudas en el pecho.
 
-*Bzzzt. Bzzzt.*
+A su espalda, la persecución sonaba como un alud de piedra cayendo por una ladera.
 
-No. Vibraba. Dos pulsos cortos.
+*¡CRUNCH! ¡CRUNCH! ¡CRUNCH!*
 
-Leo frunció el ceño. Sujetó la pieza con fuerza. Esperó.
+El monstruo no buscaba senderos abiertos. Su cuña craneal embestía directamente los troncos jóvenes, partiéndolos con el sonido seco de maderas de medio metro de diámetro astillándose en el aire. El suelo temblaba bajo los pies de Leo con tal fuerza que varias veces estuvo a punto de perder el equilibrio sobre las raíces musgosas.
 
-*Bzzzt. Bzzzt.* Pausa. *Bzzzt. Bzzzt.*
+Leo zigzagueó desesperadamente, aprovechando los inmensos contrafuertes de los árboles centenarios para romper la línea de carga de la criatura. Al rodear la base de un titán esmeralda, escuchó el impacto atronador de la bestia estrellándose de refilón contra la madera: toneladas de peso golpeando la corteza blindada con un chirrido de queratina que desprendió una lluvia de musgo y astillas del tamaño de ramas sobre su cabeza.
 
-Era rítmico. Mecánico.
+Pero el animal no perdió la inercia. Sus pezuñas traseras derraparon en el lodo, corrigió la trayectoria con un coletazo que segó un banco entero de hongos violáceos y volvió a enfilarlo a menos de quince metros de distancia.
 
-Leo giró la mano, moviendo el objeto en el aire. Cuando apuntaba hacia la pared del fondo, la vibración paraba. *Silencio.* Lo giró hacia la izquierda. *Silencio.*
+Leo podía oler el aliento fétido que expulsaban sus espiráculos: un tufo caliente a carroña que le provocó una arcada mientras corría con el cuello estirado hacia adelante.
 
-Lo giró hacia la derecha. Hacia la entrada.
+Delante de él, el terreno comenzó a ascender hacia los riscos, pero una trampa natural le cerró el paso.
 
-*BZZZT. BZZZT.*
+El lecho del bosque se fracturaba en una hondonada profunda, una sima abierta por el colapso de un entramado de raíces fósiles que dejaba al descubierto una grieta de casi cinco metros de anchura, llena en su fondo por una maraña de espinos leñosos rígidos como alambres de púas y agua estancada de color brea.
 
-Más fuerte. La vibración le subió por la muñeca hasta el codo.
+No había forma de rodearla a tiempo. Si frenaba, el pico aserrado de la bestia lo partiría por la mitad; si caía en el fondo, quedaría empalado en las ramas fósiles.
 
-Leo se puso de pie. Caminó hacia la entrada, con el brazo extendido como si sostuviera una varita de zahorí. La vibración se intensificó.
-Se detuvo en la boca de la cueva. Miró hacia afuera. El bosque brillaba, indiferente.
+A su espalda, el resoplido caliente del animal estaba a menos de tres pasos. Leo escuchó el chasquido metálico de las mandíbulas cerrándose en el vacío, rozando el faldón de su chaqueta de lona con un desgarro seco.
 
-Movió la Pieza en un arco de 180 grados frente al horizonte.
-Norte: Nada.
-Oeste: Nada.
-Sur: Nada.
-Este...
+La muerte estaba a centímetros de su nuca.
 
-*BZZZZZZZT.*
+Y en ese segundo de asfixia absoluta, donde cualquier cálculo racional resultaba inútil, el organismo de Leo colapsó en un modo de concentración total.
 
-La pieza casi se le escapa de la mano. Vibraba con furia. Continuo. Urgente.
+Todo el ruido exterior pareció desvanecerse de golpe. Sus sentidos se agudizaron en un extremo salvaje y la percepción del tiempo cambió de forma drástica para él, dilatándose hasta que cada gota de condensación suspendida en la bruma pareció flotar inmóvil. Su cerebro comenzó a procesar el entorno a una velocidad inhumana, registrando la distancia, la inclinación de las rocas y el abismo de espinos con una nitidez milimétrica instantánea.
 
-Señalaba al Este. Hacia el interior del bosque. Hacia lo más denso de la selva.
+En su pecho, las pulsaciones se multiplicaron en un régimen frenético. El riego sanguíneo se disparó en un torrente masivo, inundando sus extremidades de un flujo continuo de sangre fresca, saturada por el oxígeno salvaje de la atmósfera exterior. Sus músculos respondieron a una velocidad desorbitada, cargados de una potencia explosiva que desafiaba cualquier límite civil que hubiera conocido.
 
-Leo bajó la mano. La vibración cesó en cuanto el objeto dejó de apuntar al destino. Miró la Pieza. Luego miró el bosque oscuro.
+Sus cuádriceps se contrajeron con una violencia sobrehumana.
 
-—Una brújula —murmuró—. Eres una maldita llave.
+Leo saltó.
 
-Alguien le estaba llamando. O algo. La Pieza quería volver a casa. O quería llevarle a él a algún sitio.
-¿Elena? ¿Podría estar Elena al final de esa señal?
+El impulso no tuvo nada que ver con la capacidad física que jamás hubiera demostrado en su vida civil. Fue una detonación muscular pura: sus botas se despegaron del fango catapultándolo hacia adelante en una parábola inverosímil, cruzando los cinco metros de vacío por encima de los espinos negros mientras el aire silbaba en sus oídos.
 
-Era una idea estúpida. Una esperanza de desesperado. Pero en este mundo de bioluminiscencia y huesos gigantes, la lógica de la Tierra ya no aplicaba. Si la Pieza era de aquí, y Elena la había estudiado...
+Por debajo de él, el pico de la criatura se cerró de nuevo con un chasquido sordo que hizo vibrar el aire, mordiendo únicamente el barro del borde que Leo acababa de abandonar.
 
-*Click.*
+Leo se estrelló contra la ladera rocosa del otro lado.
 
-El sonido vino de su derecha. Cerca. Muy cerca. Fuera de la cueva. Leo se agazapó. Guardó la Pieza en el bolsillo.
+El impacto fue devastador. Cayó de costado, rodando sobre una pendiente de pedregal y gravilla de basalto afilada que le desgarró los pantalones y le despellejó las palmas de las manos. La inercia lo arrastró varios metros hacia arriba, golpeándole las costillas contra las lajas de piedra hasta frenar su carrera contra un zócalo rocoso.
 
-*Click-click-sseeesss.*
+Tosió una bocanada de aire teñida de sabor metálico a sangre.
 
-Era un sonido rápido. Articulado. Como pinzas chocando. Asomó la cabeza con cuidado, milímetro a milímetro. La vio.
+Al otro lado de la grieta, la bestia derrapó con sus cuatro patas clavadas en el lodo, frenando su peso al borde mismo del abismo. Sus espiráculos expulsaron chorros continuos de vapor furioso mientras sus pezuñas araban la tierra con frustración homicida. El animal miró la sima, miró la altura de los riscos y comprendió que su tonelaje no le permitiría cruzar la fractura sin despeñarse contra los espinos del fondo.
 
-Estaba a cinco metros de la entrada. Era negra. Brillante. Tenía seis patas. Antenas largas que tanteaban el aire frenéticamente. Era una hormiga. Una hormiga común. Salvo por el hecho de que era del tamaño de un lobo.
+Emitió un chasquido gutural con su pico córneo y golpeó el suelo dos veces con la cabeza, levantando terrones de turba.
 
-Leo dejó de respirar. La hormiga se movía con movimientos espasmódicos, nerviosos. Sus antenas se agitaron. Se giraron hacia la cueva. Hacia él. Le había olido.
+Leo no esperó a ver si encontraba un camino para descender. Apoyándose en las manos ensangrentadas, trepó por la pendiente de basalto con la urgencia del que sabe que el tiempo prestado se agota.
 
-La hormiga avanzó. Hizo chasquear sus mandíbulas. Eran como tenazas hidráulicas. Podían cortarle un brazo sin esfuerzo.
+A treinta metros de altura sobre la base del bosque, empotrada en la pared de roca negra, la brecha de los dibujos de Caine se hizo realidad ante sus ojos.
 
-Leo retrocedió hacia la oscuridad. Buscó un arma. Tanteó el suelo. Sus dedos se cerraron en torno a un hueso. Parecía un fémur de algún animal mediano. Pesaba como el plomo. Fosibilizado. O muy denso. Lo agarró con las dos manos, como un bate de béisbol.
+Era una fractura tectónica angosta, de sección triangular, de apenas cincuenta centímetros de anchura en su base, que se hundía en diagonal hacia las entrañas del macizo de piedra. Los bordes de la roca estaban gastados por la erosión del agua y el viento antiguo, ofreciendo un pasadizo tan estrecho que ningún animal de gran envergadura podría penetrar en él.
 
-—Ven —pensó. El miedo se estaba convirtiendo en otra cosa. En enfado. En esa rabia fría que le daba cuando los números no cuadraban—. Ven y verás.
+Leo se deslizó hacia el interior de espaldas, empujando con los talones y encogiendo los hombros para que la piedra fría no le desgarrara más la ropa.
 
-La hormiga llegó al a entrada. Metió la cabeza. Sus ojos multifacetados brillaron al reflejar la luz del bosque. Chilló. Un sonido agudo. *KREEEE.*
+El aire dentro de la fisura cambió de inmediato: la humedad vegetal del bosque quedó atrás, sustituida por una corriente fría, seca y salobre que olía a cal viva, a salitre fósil y a un polvo mineral tan antiguo que parecía inalterado desde el principio de los tiempos.
 
-Leo tensó los músculos, preparado para golpear. Pero la hormiga no atacó. Se detuvo en seco. Sus antenas vibraron violentamente. Y dio un paso atrás. Luego otro. Parecía... asustada.
+Se arrastró cuatro metros hacia la penumbra hasta que la roca se abrió a sus espaldas, permitiéndole girar sobre sí mismo y ponerse en cuclillas.
 
-Se dio la vuelta y echó a correr. Desapareció en la maleza en un segundo.
+Afuera, en el borde de la sima, el sonido de los pasos pesados de la bestia comenzó a perderse lentamente hacia la espesura esmeralda, acompañado por el chasquido distante de ramas quebradas. El monstruo había vuelto a internarse en su territorio de caza.
 
-Leo bajó el hueso. ¿Qué? ¿Por qué huía? Él no daba miedo. Él era la presa.
+Leo dejó caer la frente contra el suelo rocoso.
 
-Entonces, el suelo tembló.
+Durante varios minutos no pudo hacer otra cosa que respirar. Cada inhalación le desgarraba la tráquea con una sensación de quemazón química, mientras el corazón le retumbaba en las costillas con la violencia de un péndulo descontrolado. Las palmas de sus manos estaban cubiertas de una mezcla de fango negro, polvo de piedra y sangre fresca que brotaba de los cortes de la gravilla.
 
-*BOOM.*
+Esperó a que el pulso descendiera lo suficiente como para que sus dedos respondieran. Con movimientos entorpecidos por el dolor muscular, metió la mano bajo la solapa de su chaqueta y sacó la linterna cilíndrica de aluminio.
 
-Polvo cayó del techo de la cueva.
+Pulsó el botón trasero.
 
-*BOOM.*
+Un haz de luz blanca y limpia rasgó la negrura absoluta del recinto.
 
-Leo entendió. La hormiga no huía de él. Huía de lo que venía detrás.
+Leo alzó la linterna, esperando encontrar una cámara kárstica común, un simple ensanchamiento ciego de la fisura basáltica.
 
-El *CRUNCH* había vuelto. Y estaba aquí. Justo encima de la cueva.
+Lo que la luz descubrió le paralizó el aliento en la garganta.
 
-Una garra negra, del tamaño de una guadaña, golpeó el borde de la entrada. La roca estalló. La bestia estaba intentando entrar. El agujero era demasiado pequeño, pero la bestia era fuerte. Muy fuerte.
+No estaba dentro de una cueva natural.
 
-Leo retrocedió hasta chocar con la pared del fondo. Estaba atrapado. Ratonera. Había entrado en su propia tumba.
+Estaba en el interior de un osario titánico de proporciones catedralicias.
 
-La garra volvió a golpear. Un bloque de piedra cayó al suelo, rodando hasta los pies de Leo. La entrada se hizo medio metro más ancha. Pudo ver algo. Un ojo. Un ojo amarillo, reptiliano, vertical, mirándole a través de la brecha.
+La bóveda subterránea se extendía hacia la oscuridad a lo largo de decenas de metros, pero sus paredes y su techo no estaban compuestos únicamente de roca madre: estaban sostenidos por los restos petrificados de un esqueleto colosal, fosilizado e integrado en la geología misma del promontorio.
 
-La bestia rugió. El sonido fue una onda de choque física que le golpeó el pecho. Leo sintió pánico. Pánico puro, animal.
+A la izquierda de Leo, elevándose desde el lecho de sedimentos blanquecinos hasta rozar el techo a más de diez metros de altura, una hilera de costillas fosilizadas formaba una galería arqueada que recordaba a los arbotantes de una iglesia en ruinas. Cada arco óseo tenía más de un metro de grosor, con una superficie estriada por surcos profundos donde antaño debieron anclarse tendones del calibre de cabos de amarre naval. En el centro de la caverna, sobresaliendo del suelo como un monolito tallado, descansaba una vértebra tan masiva que tres hombres tendidos a lo largo apenas cubrirían su diámetro.
 
-Pero entonces, pasó algo.
+El suelo bajo sus botas crujió con un chasquido suave, quebrado. Leo bajó la linterna hacia sus pies: no caminaba sobre tierra ni sobre piedra, sino sobre una capa de tres dedos de polvo de calcio y esquirlas de hueso trituradas por siglos de sequedad.
 
-Sintió hambre. No hambre normal. Hambre dolorosa. Su estómago se contrajo violentamente, como si tuviera un calambre. Y con el dolor, vino el calor. Un fuego líquido empezó a subirle por la columna vertebral. Le quemaba.
+El hedor a cal inerte y materia mineralizada explicaba por qué la bestia exterior no se había acercado a los riscos: para un depredador que cazaba por el rastro térmico y la carne fresca, aquel cementerio fósil era un vacío biológico absoluto, un desierto sin presas ni humedad.
 
-Sus músculos se tensaron. Su visión se aclaró. Podía ver las partículas de polvo flotando en el aire. Podía ver las grietas en la garra del monstruo.
+Leo avanzó paso a paso, proyectando el haz de luz entre las costillas colosales.
 
-*Sal*, le dijo su cuerpo. *Muévete.*
+La escala de los restos desafiaba cualquier principio anatómico que conociera. Aquello no era una ballena encallada ni ningún animal que hubiera nadado en los mares conocidos. Era el cadáver de un leviatán terrestre, una criatura de una era anterior a la memoria humana cuya existencia reducía a la civilización entera a una mota de polvo insignificante.
 
-Leo miró hacia arriba. Había un agujero en el techo de la cueva, al fondo. Una chimenea natural, tapada por raíces. Estaba a cuatro metros de altura. Inalcanzable.
+Caminó unos veinte metros hacia el fondo, donde la galería descendía en una suave pendiente hacia una fisura secundaria en la roca.
 
-—No —dijo Leo. Su voz sonó extraña, profunda.
+Y entonces, el cono de luz rebotó contra algo que no era blanco ni gris.
 
-Tiró el hueso. Corrió tres pasos hacia la pared. Y saltó.
+Un destello de color.
 
-No fue un salto normal. Sintió cómo sus piernas explotaban con fuerza. Como muelles liberados. Voló hacia arriba. Sus manos agarraron las raíces del techo. Se sostuvo.
+Leo se detuvo en seco. Parpadeó, temiendo que la sobreoxigenación estuviera provocándole alucinaciones ópticas, y dio dos pasos rápidos hacia adelante, enfocando la base de una costilla semienterrada en la caliza.
 
-Miró hacia abajo. Había saltado cuatro metros en vertical.
+Enganchado en una espina ósea que sobresalía del arco fosilizado había un trozo de tela sintética.
 
-Leo se miró las manos, aferradas a la raíz. Temblaban. No de miedo. De algo parecido a la electricidad estática recorriendo sus tendones. Su cuerpo había hecho algo que su cerebro no había autorizado. Se sentía como si hubiera tocado un cable de alta tensión pelado.
+Se arrodilló junto al fragmento y lo descolgó con dedos temblorosos.
 
-*Qué. Coño. Ha. Sido. Eso.*
+Era un jirón de tela antidesgarro, de un tono amarillo mostaza brillante, con un remate de ribete reflectante gris en uno de sus bordes. El tejido estaba manchado de barro seco, exactamente el mismo lodo arcilloso que cubría los pantalones de Leo.
 
-La bestia metió la cabeza en la cueva. Las mandíbulas se cerraron en el aire, donde Leo había estado hace un segundo.
+Era nailon ripstop de alta densidad. El tejido de la mochila de montaña de Elena.
 
-Leo no miró más. Tiró de sus brazos. Se izó por el agujero. Tierra, insectos, piedras le cayeron en la cara. Escaló. Frenético. Salió a la superficie.
+Leo apretó la tela contra su palma cerrada, sintiendo la textura artificial y áspera del polímero. Un nudo denso y ardiente se le formó en la garganta.
 
-Estaba en una cornisa, encima de la entrada. Abajo, la bestia seguía destrozando la cueva, furiosa.
+*Estuvo aquí.*
 
-Leo se puso de pie. Le temblaban las piernas. Le ardía el pecho como si hubiera tragado brasas. Tenía un hambre que le hacía doler la cabeza, un vacío en el estómago que le gritaba.
+No era una hipótesis. No era una deducción abstracta basada en atestados archivados ni en sospechas. Elena había cruzado este mismo bosque. Había escapado de la misma fauna, había encontrado la misma fisura entre los riscos y se había refugiado exactamente bajo estas costillas de piedra.
 
-Pero estaba vivo. Y tenía una dirección.
+Alzó la linterna hacia la pared de basalto situada justo al lado de la espina fósil.
 
-Sacó la Pieza un segundo.
-Este.
-Vibró contra su palma.
+La luz recortó una marca sobre la piedra.
 
-Leo corrió hacia el Este.
+Alguien había utilizado una lasca de pedernal para arañar la superficie clara de la caliza, arrancando la pátina oscura de la roca en trazos geométricos, seguros y firmes. Era una flecha que apuntaba directamente hacia el túnel descendente que se abría en el fondo de la galería.
 
-Corrió hasta que el hambre se volvió un dolor sordo y constante en el estómago. Hasta que las piernas le pesaron como plomo. Hasta que la adrenalina se quemó y dejó solo cenizas de terror.
+Y debajo de la flecha, grabada con la misma caligrafía picuda, metódica e inconfundible con la que rellenaba sus cuadernos de campo de la universidad, figuraba una sola letra:
 
-Se detuvo un instante junto a un árbol cuyo tronco sangraba savia fosforescente. Apoyó la frente contra la corteza fría.
+**E.**
 
-Elena estaba en algún lugar de este mundo. Y él acababa de descubrir que podía saltar cuatro metros.
+Leo apoyó las yemas de sus dedos ensangrentados sobre los surcos de la piedra. El polvo de cal desprendido por el grabado aún estaba suelto sobre el reborde inferior; la inscripción no tenía más de tres o cuatro días de antigüedad.
 
-Eso no eran buenas noticias. Eran las únicas noticias.
+Cerró los ojos, apoyando la frente contra la pared helada.
 
-Guardó la Pieza. Y siguió caminando.
+El recuerdo de Elena lo inundó con una fuerza física demoledora, no como una idea abstracta, sino a través de los sentidos que habían compartido la misma casa durante cuatro años y medio. Recordó el olor a jabón de cedro y a hojas secas que siempre impregnaba su pelo; el sonido rítmico de sus dedos pasando las páginas de sus atlas botánicos en la mesa del salón mientras él trabajaba con planos hasta la madrugada; la forma en que ella le quitaba el lápiz de la mano cuando lo veía al borde del colapso, obligándole a beber una taza de infusión caliente sin pronunciar un solo reproche.
+
+Y recordó una conversación, una noche de tormenta eléctrica en la que los rayos azotaban las ventanas del apartamento y Leo miraba el cristal con la inquietud nerviosa de quien teme que las estructuras no resistan.
+
+Elena lo había mirado desde el sofá, serena, con esa fijeza en los ojos oscuros que él siempre había atribuido a su carácter reservado:
+
+*«La piedra no se queja del agua, Leo. Solo aguanta hasta que la corriente pasa. Cuando todo se derrumbe a tu alrededor, no intentes sostener el techo con las manos; busca el hueco que la piedra deja para ti. Siempre hay un hueco si no pierdes la calma»*.
+
+Leo abrió los ojos en la penumbra del osario.
+
+Miró la letra **E**. Miró la flecha orientada hacia las profundidades.
+
+Ella no estaba huyendo a ciegas. Conocía este refugio. Sabía que los riscos de basalto eran el único paso firme a través de la selva baja. Y había dejado esa marca sabiendo que, si Caine —o alguien que conociera los mapas del viejo— cruzaba la brecha, sabría descifrar el camino.
+
+Y fue entonces cuando el cuerpo de Leo cobró la deuda.
+
+El colapso no fue progresivo; cayó sobre él con la violencia de un hacha de hielo partiéndole la columna vertebral.
+
+Leo cayó de rodillas sobre las esquirlas de cal con un gemido desgarrado.
+
+El estómago se le contrajo en un espasmo tan atroz que sintió como si sus vísceras se hubieran retorcido sobre sí mismas, devorándose desde adentro. Un frío polar, súbito y despiadado, se derramó desde la base del cráneo hasta las puntas de los dedos, haciendo que sus extremidades comenzaran a sacudirse en temblores espasmódicos e incontrolables. Sus dientes castañeteaban con chasquidos tan violentos que temió partirse un molar; los músculos de los muslos, los gemelos y la espalda se endurecieron en calambres pétreos que le arrancaron un grito ahogado contra el polvo blanco.
+
+Intentó inspirar, pero los pulmones apenas se expandían.
+
+No era agotamiento normal. Era un hambre celular espantosa, una inanición química absoluta, como si el chispazo de potencia que le había permitido saltar cinco metros sobre la sima hubiera consumido hasta la última molécula de glucógeno y grasa disponible en sus tejidos en cuestión de segundos. Su organismo, sometido a un sobreesfuerzo demencial bajo una atmósfera abrasadora, había quemado todas sus reservas internas para salvar la vida y ahora comenzaba a canibalizar su propia masa muscular.
+
+*Comida...*, la orden en su cabeza era un aullido de supervivencia animal. *Mete algo dentro o te apagas.*
+
+Con las manos sacudiéndose como si sufriera una convulsión epiléptica, Leo se revolvió sobre el costado. Tanteó el bolsillo del pantalón con dedos torpes que apenas sentían la tela y tiró de la bolsa hermética de plástico hasta romperla.
+
+La barrita de avena prensada estaba partida en trozos desiguales, empapada de sudor frío.
+
+Se metió el primer pedazo en la boca. La pasta seca le raspó el paladar como lija, pero la masticó con una desesperación salvaje, tragando sin apenas lubricar con saliva, obligando a su esófago a tragar la masa de carbohidratos. Luego volcó el resto de la bolsa sobre su boca abierta: los trozos de avena, las almendras tostadas y las migas saladas. Masticó las cáscaras duras hasta que las encías le sangraron, tragando todo en un frenesí agónico.
+
+Se quedó tumbado de costado sobre el lecho de calcio, con los ojos apretados y el puño cerrado contra el vientre, esperando.
+
+Pasaron cinco minutos. Luego diez.
+
+Lentamente, como el rescoldo de un brasero al que se arroja un puñado de paja seca, el calor comenzó a filtrarse de nuevo por sus venas. Los espasmos musculares más violentos remitieron, dejando a cambio un dolor sordo y generalizado en cada fibra de su cuerpo, como si hubiera recibido una paliza con varas de fresno. El temblor en sus mandíbulas se detuvo, aunque un escalofrío residual continuaba recorriéndole la nuca.
+
+La ración de emergencia apenas había contenido el abismo: era una tregua precaria contra un metabolismo que acababa de descubrir un apetito voraz y destructivo.
+
+Leo se incorporó despacio, apoyando la espalda contra la base de una de las costillas ciclópeas.
+
+Se miró la muñeca izquierda. La quemadura circular del brazalete seguía viva, pero la piel alrededor del borde no estaba infectada; palpitaba con un calor denso y febril, como si el impacto del salto hubiera dejado una corriente residual bajo su carne.
+
+Con los dientes y la mano derecha, rasgó una tira limpia del dobladillo de su camiseta de algodón y se vendó la quemadura con tres vueltas apretadas, fijando el nudo con un tirón seco que le hizo ver chispas de dolor.
+
+Luego se puso en pie.
+
+El aire dentro de la caverna era gélido, pero su mente estaba más fría que la piedra.
+
+Las dudas habían muerto en el fango de la selva exterior. No había marcha atrás. Las calles de la ciudad, los expedientes archivados de Garrido y los agentes de traje oscuro en el búnker pertenecían a un mundo lejano que ya no podía alcanzarlo.
+
+Leo enfocó el haz de luz de la linterna hacia la galería descendente que señalaba la flecha de Elena, ajustó el cuello de su chaqueta de lona encerada y comenzó a bajar hacia las entrañas de la tierra, siguiendo el único rastro que le impedía rendirse a la muerte.

@@ -1,63 +1,56 @@
-Como novelista y psicólogo, entiendo que un personaje no es solo una lista de rasgos, sino una herida abierta que intenta cerrarse. En **EXTRAMUROS**, la tensión reside en la fricción entre la rigidez de la estructura (la Reserva) y la expansión del espíritu (el viaje de Leo).
-
-Aquí tienes el dossier profundo de personajes para tu obra.
+﻿# 📂 DOSSIER DE PERSONAJES: EXTRAMUROS
 
 ---
 
-# 📂 DOSSIER DE PERSONAJES: EXTRAMUROS
-
-## 1. LEO: La Mente Metódica y Distante
+## 1. LEO: El Analista Heredero
 *“Todo tiene una explicación lógica si se recogen suficientes datos.”*
 
-### 👤 Perfil: El Analista Frío y Observador
-Leo es, en apariencia, un joven común y corriente de 24 años que trabajaba como administrativo en la Reserva. No tiene entrenamiento militar ni habilidades sobrehumanas al inicio, pero destaca por una personalidad marcadamente distante, calculadora y reservada.
-- **Carácter:** Poco comunicativo, pragmático y analítico. Prefiere observar y evaluar las situaciones antes de intervenir. Tiende a desmenuzar los problemas en pasos lógicos, buscando patrones, causas y fallos de cálculo.
-- **La Pieza (El Poliedro):** Un objeto heredado de su abuelo Caine. Para Leo nunca ha tenido nada de místico: es simplemente un bloque oscuro y geométrico, anormalmente denso y pesado para su tamaño, que utilizaba como un simple pisapapeles en su mesa de trabajo y que acostumbra a sopesar con la mano cuando reflexiona. Ignora por completo su origen biológico titánico.
-
-### 🔍 Reacción ante la Desaparición de Elena
-Cuando Elena desaparece en el Parque del Lindero y la policía (el inspector Garrido) despacha el asunto como una simple marcha voluntaria, Leo no se deja llevar por el pánico ni por teorías esotéricas:
-- **Enfoque Racional:** Comienza a investigar por su cuenta aplicando puro método: coteja horarios, analiza planos del terreno, busca contradicciones en el último recorrido de Elena y descifra las notas que ella dejó.
-- **Motivación:** No busca una cruzada heroica; simplemente no acepta que falten piezas en una ecuación. Si alguien desaparece en un punto concreto, tiene que haber un rastro físico que explique adónde fue.
-
-### 📈 Arco de Evolución: Del Burócrata al Superviviente Pragmático
-1. **En la Reserva:** Un tipo corriente, escéptico y metódico que vive una rutina ordenada y gris.
-2. **El Cruce:** Al seguir las pistas de Elena hasta el punto ciego del Lindero y cruzar a Extramuros, sufre el violento shock biológico del nuevo entorno.
-3. **En Extramuros:** Su mente calculadora y fría se convierte en su mayor herramienta de supervivencia. Mientras otros sucumben al terror o al descontrol del Flujo, Leo aprende a medir sus recursos, analizar el comportamiento de las bestias y gestionar el coste calórico de su propio cuerpo para mantenerse con vida.
+### 👤 Perfil: La Mente Metódica y el Cuerpo Latente
+Leo es un joven de 24 años que trabajaba como administrativo en la ciudad. Tras perder a sus padres a los 18 en un accidente de tráfico, se transformó en una persona reservada, pragmática y analítica.
+- **Herencia Genética:** Como nieto directo de Caine ("El Inmortal"), porta en su ADN predisposiciones biológicas latentes que le permiten tolerar la atmósfera de Extramuros y le otorgan potencial para desarrollarse hasta la **Clase B o A** si aprende a gestionar el Flujo.
+- **Cuatro Años y Medio con Elena:** Elena entró en su vida a los 19 años, convirtiéndose en el ancla que le devolvió las ganas de vivir y compartiendo cuatro años y medio de convivencia ininterrumpida.
+- **El Legado de las Historias:** Creció escuchando los cuentos y viendo los mapas de Caine. Tras la desaparición del abuelo, Elena le narraba nuevas historias por las noches asegurando que eran invenciones en homenaje a Caine, cuando en realidad eran sus propias memorias reales de Extramuros.
+- **El Clic en el Búnker:** Durante el interrogatorio, al escuchar el nombre de *Haimara* y las descripciones geográficas, Leo une las historias de Caine con los relatos de Elena y comprende que ambos le estaban enseñando la realidad del mundo.
+- **La Pulsera del Omega:** La reliquia forjada por Caine reacciona a su desesperación y a las coordenadas memorizadas, teletransportándolo a Extramuros y pulverizándose en el salto.
 
 ---
 
-## 2. ELENA: La Curiosidad Intelectual
-*“Si nadie escucha las historias de los ancianos, se pierde la memoria del mundo.”*
+## 2. ELENA (Haimara): La Sangre de la Aurora
+*“A veces, la única forma de proteger a quien amas es alejarte antes de que el fuego lo alcance.”*
 
-### 👤 Perfil: Extrovertida, Culta y Apasionada por la Lectura
-Elena es una mujer vivaz, sociable y con un profundo interés por la lectura y la cultura. Su pasión por los libros y la historia la convertía en alguien con una curiosidad insaciable hacia todo lo que le rodeaba.
-- **Carácter:** Extrovertida, cálida, comunicativa y atenta. En claro contraste con el carácter distante y calculador de Leo, Elena era abierta y cercana con quienes la rodeaban.
-- **Vínculo con el Abuelo Caine:** Mientras casi todo el mundo descartaba a Caine como un anciano gagá o senil tras su demencia, Elena era la única que le dedicaba tiempo y le prestaba atención de verdad. Fascinada por sus cuadernos y sus relatos, los escuchaba no por buscar una conspiración, sino por pura curiosidad intelectual y empatía humana.
-
-### 🔍 Su Desaparición
-- **Curiosidad Natural:** Elena no sospechaba la magnitud de lo que había al otro lado; simplemente siguió las anotaciones y reflexiones de Caine con la curiosidad propia de una mente inquieta que investiga un misterio fascinante en el Parque del Lindero.
-- **El Detonante de Leo:** Su desaparición es el motor que descoloca la vida ordenada de Leo. Para un tipo distante y cerrado como él, Elena era su conexión emocional más significativa, lo que le obliga a salir de su pasividad para rastrear sus pasos.
-
----
-
-## 3. INSPECTOR GARRIDO: El Policía Cotidiano y Pasota
-*“Mire, chaval, la gente se larga todos los días. Firme la denuncia o váyase a casa, que se me enfría el café.”*
-
-### 👤 Perfil: El Funcionario Agotado
-Garrido no es un agente de una conspiración ni posee conocimientos secretos. Es simplemente un inspector de policía corriente, quemado por los años de rutina, papeleo y turnos interminables en la comisaría de la Reserva. 
-- **Personalidad:** Pasota, pragmático y desganado. Su principal objetivo diario es terminar su turno sin complicaciones ni líos burocráticos.
-- **Total Ignorancia de Extramuros:** No sabe absolutamente nada sobre el Velo de Desfase, los Titanes, el Flujo ni la existencia de un mundo exterior. Para él, el mundo termina en los límites administrativos de la ciudad y el Lindero es solo una valla o parque periférico donde a veces se pierden borrachos o excursionistas descuidados.
-
-### 🛡️ Dinámica con Leo: Burocracia vs. Obsesión
-Cuando Leo acude desesperado denunciando la desaparición de Elena en el "Punto Ciego", Garrido lo trata con la apatía habitual del policía veterano:
-- **Su Explicación Racional:** Para Garrido, Elena no ha sufrido ningún fenómeno extraño; simplemente ha decidido marcharse, le ha dejado o se ha ido con otro. Cree que Leo es el típico novio o amigo obsesivo que se niega a aceptar la realidad.
-- **Mecanismo de Trabajo:** Cumplir el trámite mínimo (tomar declaración, archivar el expediente tras unos días de rigor) y recomendar a Leo que "pase página" y no busque problemas.
-- **Fricción:** No persigue a Leo por maldad ni por órdenes superiores, sino por pura molestia si Leo insiste en saltarse cordones policiales, colarse en zonas restringidas o hacer ruido innecesario en la comisaría.
+### 👤 Perfil: La Chica Común y la Anomalía Irrepetible
+- **Origen Real:** Nacida en una colonia aislada de desertores en Extramuros bajo el nombre de **Haimara** (*Haima* = sangre; *Mara* = aurora).
+- **La Sangre Única:** Mutación genética extraordinaria con sangre **carmesí profundo e irisaciones doradas/ámbar**, capaz de catalizar el Flujo de forma latente con potencial para habilidades biológicas especiales.
+- **Fuga al Archipiélago:** Tras la purga de su colonia por la delación de un traidor, huyó al Archipiélago, adoptó la identidad de "Elena" y conoció a Leo a los 19 años de este.
+- **Cuatro Años y Medio de Relación y Reconocimiento con Caine:** 
+  - Caine detectó su procedencia por su cadencia pulmonar adaptada y la química de su sangre.
+  - Elena descubrió quién era Caine por los mapas exactos de su buhardilla y por su condición física anómala: un hombre mayor sin una sola arruga ni cicatriz, cuyas heridas sanaban al instante.
+  - Sellaron un pacto de silencio para proteger a Leo. Tras la marcha de Caine, Elena continuó narrándole a Leo relatos de Extramuros camuflados de "fábulas inventadas".
+- **La Fuga:** Al notar que el cerco del gobierno continuaba activo tras la marcha de Caine, desapareció en secreto para no exponer a Leo. Porta el **collar de Omega**.
 
 ---
 
-## 🛠️ DINÁMICA DE LA TRAMA
+## 3. CAINE ("El Inmortal"): La Leyenda de Clase S
+*“Si no miras al monstruo a los ojos, no aprenderás nunca cómo respira.”*
 
-- **El Misterio Urbano (Grounded Thriller):** Comienza en la Reserva con la investigación de Leo tras la desaparición de Elena. Leo aplica su método analítico siguiendo las notas de lectura de Elena y las rutas del Parque del Lindero, chocando con la desgana burocrática del inspector Garrido.
-- **El Tránsito a Extramuros:** Al cruzar el umbral del Punto Ciego (el Velo de Desfase), Leo experimenta el violento choque fisiológico de la atmósfera hiperoxigenada y descubre que la pequeña Reserva insular no es el mundo entero.
-- **La Supervivencia Continental:** Leo debe recurrir a su frialdad y capacidad de análisis para regular el coste metabólico de su cuerpo (Flujo) y sobrevivir a la escala titánica de Extramuros mientras sigue las pistas de Elena y descubre la verdad sobre su abuelo Caine.
+### 👤 Perfil: El Mentor Oculto
+- **Anomalía Humana:** Uno de los pocos humanos del Archipiélago que toleró Extramuros, alcanzando la **Clase S**.
+- **Regeneración de Caudal:** Su cuerpo reconstruye cualquier daño celular en milisegundos. Por ello no tiene cicatrices, marcas de combate ni arrugas de vejez.
+- **Superviviente a un Omega:** Único humano registrado que sobrevivió al encuentro con un Clase Omega. Forjó la pulsera de Leo y el collar de Elena con materia de la criatura.
+- **El Sacrificio:** Convivió más de cuatro años con Elena y Leo. Se entregó al gobierno volviendo al servicio activo en Extramuros para frenar a los agentes que cercaban la casa y proteger a ambos muchachos.
+
+---
+
+## 4. LOS SEGADORES: La Estirpe Ancestral (Superior a Clase S)
+*“El mundo pertenece a quienes no necesitan pedir permiso para respirar.”*
+Estirpe humana cerrada que lleva milenios viviendo y mutando genéticamente en Extramuros. **Todos sus miembros sobrepasan la Clase S**. Mística idéntica al *Gen'ei Ryodan* de HxH: pocos miembros, terror absoluto y habilidades biológicas extremas.
+
+---
+
+## 5. INSPECTOR GARRIDO: El Policía Civil
+Inspector agotado del Distrito Siete. Cree que las desapariciones son meras huidas voluntarias por hastío rutinario. Cero metaconocimiento.
+
+---
+
+## 6. LOS HOMBRES DE TRAJE (Fuerzas Especiales de las Sombras)
+Agentes quirúrgicos de contrainteligencia. Trajes reforzados, pupilas insensibles y métodos de coerción física extrema.

@@ -1,6 +1,6 @@
-﻿# Tramas - Capítulo 2
+# Tramas - Capítulo 2
 
-*   **[ACTIVA] Supervivencia en el bosque titánico:** Leo debe escapar del primer depredador y comprender las leyes físicas básicas de este nuevo entorno.
-*   **[ACTIVA] El rastro de Elena:** Confirmación de que Elena sobrevivió a la caída y avanzó hacia el interior de la selva.
-*   **[ACTIVA] La anomalía metabólica:** Primera manifestación del desgaste calórico extremo que exige el sobreesfuerzo físico en este aire.
-*   **[FONDO] El osario ancestral:** Restos de criaturas colosales que revelan la antigüedad y ferocidad del continente.
+*   **[ACTIVA] Supervivencia en la biosfera titánica:** Leo experimenta el impacto biológico de la atmósfera hiperoxigenada y la letalidad de los depredadores del sotobosque.
+*   **[ACTIVA] El rastro irrefutable de Elena:** Confirmación material mediante el jirón de la mochila y la inscripción grabada en piedra de que Elena sobrevivió y continúa avanzando hacia el interior.
+*   **[ACTIVA] El coste biológico del Flujo:** Primera manifestación física del gasto calórico extremo y la amenaza de autofagia muscular tras un sobreesfuerzo de supervivencia.
+*   **[FONDO] Los mapas de Caine como realidad cartográfica:** Confirmación interna para Leo de que su abuelo estuvo en este territorio y cartografió sus refugios.

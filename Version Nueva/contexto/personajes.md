@@ -1,23 +1,15 @@
-# PERSONAJES
+﻿# PERSONAJES: EXTRAMUROS
 
 ## Principales
 
-*   **Leo (24):** Ex-administrativo. Analista táctico. Usuario de Flujo en desarrollo ("Despierto")(En cuanto llega a los Extramuros). Tiene "La Pieza": cree que es un pisapapeles de su abuelo Caine, pero en realidad es **Trozo de un Dios (Omega)**, un trozo biológico ultra-denso.
-*   **Elena:** Joven extrovertida, culta y apasionada por la lectura. Era la única que escuchaba con atención y empatía las historias y cuadernos del abuelo Caine. Su curiosidad natural la llevó a investigar las notas del anciano y a desaparecer en el Punto Ciego del Parque del Lindero.
-*   **Mason (El Maestro):** Mentor peligroso en la Zona 1. Pragmático, autoridad absoluta. No es amable. Enseña a sobrevivir al coste que sea.
-*   **Silas (El Veterano del Abismo):** Mentor temporal en la Zona Profunda. Cínico, brutal y lleno de cicatrices. Superviviente de la Vieja Guerra. Odia al **"Cónclave"** (la élite científica y militar del Concordato que conoce la verdad). Usa tecnología antigua (rifle cinético) y conoce la biología del Nido mejor que nadie. Conoció a Caine hace 40 años.
-*   **Caine (El Abuelo / El Inmortal):** (Presencia Fantasma). Para Leo, un anciano roto por la demencia. Para Extramuros, "Caine el Inmortal", el único superviviente de la Expedición Fallida contra un Omega. **Sigue vivo** en las Tierras Huecas, pero la mayoría cree que murió hace décadas. El Concordato lo busca en secreto.
+*   **Leo (24):** Administrativo metódico y analítico. Nieto de Caine, hereda predisposiciones genéticas que le permiten tolerar la atmósfera de Extramuros y le otorgan potencial para ascender a la **Clase B o A** mediante el Flujo. Convivió cuatro años y medio con Elena tras la muerte de sus padres. Creció con las fábulas de Caine y los relatos que Elena le narraba en la penumbra. Su pulsera de Omega lo transporta a Extramuros en el búnker.
+*   **Elena / Haimara (22):** Nacida en Extramuros en una colonia aislada de desertores. Su nombre nativo es **Haimara** por su **sangre carmesí con reflejos dorados/ámbar**, portadora de una mutación genética con potencial para habilidades especiales. Convivió cuatro años y medio con Leo y compartió una complicidad tácita con Caine. Tras la partida de Caine, le narraba a Leo "cuentos inventados" que en realidad eran memorias reales de su mundo. Porta el **collar de Omega**.
+*   **Caine ("El Inmortal"):** Abuelo de Leo. Leyenda humana de **Clase S** y único superviviente registrado a un Clase Omega. Por su **Regeneración de Caudal**, carece por completo de cicatrices o marcas de vejez. Convivió más de cuatro años con Elena y forjó la pulsera y el collar. Se entregó al gobierno para salvar a los muchachos tras interceptar a los agentes.
+*   **Mason (El Maestro):** Mentor pragmático en la Zona 1 de Extramuros. Enseña a Leo a regular el gasto metabólico del Flujo y a no morir por autofagia.
 
-## Facciones y Líderes
+## Facciones y Amenazas
 
-### La Reserva
-*   **Inspector Garrido:** Policía veterano y pasota de la Reserva. Quemado por la rutina y el papeleo. No sabe nada de Extramuros ni del Velo; cree que las desapariciones son simples huidas voluntarias.
-*   **Comandante "Hierro":** (Antagonista Arco 2). Líder de la Vanguardia que persigue a Leo. Usuario de tipo "Resonancia" (Armadura pesada).
-
-### Los Segadores (Caos)
-*   **"El Coleccionista":** (Antagonista/Aliado Arco 3). Miembro de los Segadores que busca Reliquias. Personalidad volátil. Rango: Desastre.
-*   **La Líder (Nombre desconocido):** Figura en las sombras. Se dice que ha estado en la Zona 4.
-
-## Criaturas Notables
-*   **Rompieroncas (Clase C/B):** Bestia recurrente que persigue a Leo. Obsesionada con su rastro de Flujo.
-*   **El Silencio (Clase Ø):** Entidad mencionada en leyendas. Cuando aparece, el sonido muere.
+*   **Los Segadores (La Estirpe Ancestral):** Estirpe milenaria cerrada donde **todos sus miembros sobrepasan la Clase S**. Equivalente al *Gen'ei Ryodan* de HxH: causan terror y operan al margen del gobierno.
+*   **Gobierno en las Sombras (Los Hombres de Traje):** Operativos de contrainteligencia de élite encargados de secuestrar a Leo y recuperar a Haimara.
+*   **Inspector Garrido:** Policía civil común y apático del Distrito Siete.
+*   **Clase Ø (Omega):** Deidades naturales inmortales que habitan en lo desconocido (el Horizonte Oscuro).

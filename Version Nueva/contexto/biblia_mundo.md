@@ -4,103 +4,111 @@ Esta es la **Biblia de Lore: Proyecto EXTRAMUROS**. Documento vivo que establece
 
 # 📑 BIBLIA DE MUNDO: EXTRAMUROS
 
-## I. EL ESCENARIO (GEOGRAFÍA Y ZONAS)
+## I. EL ESCENARIO (GEOGRAFÍA Y GEOPOLÍTICA)
 
-El mundo exterior no es un "planeta gigante" ni una "Tierra de Gigantes". Es un continente evolutivamente divergente donde la biología ha seguido un camino de gigantismo. **Leo mide 1.80m.** Si un helecho mide 20 metros, es porque es una variedad titánica, no porque Leo haya encogido.
+El planeta es colosal, de dimensiones inconmensurables que empequeñecen cualquier cartografía civil. La biosfera de la inmensa mayoría del globo responde a una escala prehistórica, hiperoxigenada y titánica.
 
-### 1.1 Mapa de Zonificación (El Círculo de la Muerte)
-*   **Zona 0 (La Reserva):** Un santuario de paz de **800 kilómetros de diámetro** protegido por el **Velo de Desfase**. El Velo no es solo una barrera visual; es una membrana de estasis que mantiene la densidad del aire, la presión y la frecuencia de Flujo en niveles pre-apocalípticos. 
-    *   **Catástrofe de Exposición:** Si el Velo cae, la humanidad desprotegida moriría casi al instante por el cambio repentino en la densidad del aire y la presión atmosférica hiper-oxigenada de Extramuros. Se estima que solo el 0.1% de la población (aquellos con un despertar de Flujo espontáneo y violento) sobreviviría. Sería un genocidio biológico involuntario.
-*   **Zona 1 (El Bosque de los Ecos):** Selva titánica periférica. El techo de hojas de los árboles esmeralda se pierde literalmente en las nubes. La visibilidad es mínima; desde el suelo, es imposible ver el mar o el horizonte lejano debido a la densidad de la flora gargantuesca.
-*   **Zona 2 (El Mar de Esporas):** Ecosistema fúngico. Visibilidad nula.
-*   **Zona 3 (Las Tierras Huecas):** Anomalías gravitatorias y geológicas.
-*   **Zona 4+ (El Horizonte Oscuro):** Hogar de las **Clases Ø (Omega)**.
+### 1.1 El Archipiélago ("El Mundo Conocido") y la Coherencia Atmosférica
+*   **La Gran Mentira:** Lo que el 99,9% de la población humana considera el planeta entero (América, Europa, África, Asia y Oceanía) es en realidad **un archipiélago acotado**, clasificado por los altos mandos como un único continente o provincia insular dentro de un mapa global gigantesco.
+*   **La Causa Geográfica de la Atmósfera Normal (21% O2):**
+    *   **Extramuros como Reactor Biológico (85% del Planeta):** Extramuros abarca la inmensa mayoría de la superficie planetaria. Es una masa continental colosal ininterrumpida que lleva millones de años produciendo oxígeno a escala masiva sin tala alguna (un régimen similar al Carbonífero terrestre a nivel global).
+    *   **El Océano Yerto (El Gran Sumidero):** El Archipiélago está enclavado en un océano abisal gigantesco, a miles de kilómetros de la costa continental. El agua marina salada y las corrientes frías actúan como un **sumidero masivo de gases**, disolviendo y diluyendo el exceso de oxígeno a lo largo de miles de leguas marinas.
+    *   **El Bolsón de Supervivencia:** La humanidad no apareció en el Archipiélago por azar: hace milenios, fue el **único refugio del planeta donde los homínidos primitivos no adaptados pudieron evitar la asfixia y la fauna de Extramuros**. Al asentarse allí, la deforestación milenaria, la agricultura y la urbanización eliminaron cualquier vestigio de megaflora, fijando la atmósfera en el 21% de oxígeno estándar.
+    *   **Barrera Meteorológica:** Un cinturón permanente de borrascas y tormentas ciclónicas (lo que los antiguos navegantes llamaban *«El Fin del Mundo»*) actúa como frontera de presión que impide el intercambio directo del aire denso continental con la cuenca insular.
+*   **Aislamiento y Censura:** La reclusión no requiere cúpulas ni magia: se mantiene mediante **control férreo de rutas marítimas y aéreas, censura militar implacable, desinformación ancestral y eliminación sistemática de disidentes** para evitar el pánico social.
 
-### 1.2 Asentamientos Extramuros: Puerto Raíz
-*   **Ubicación:** Zona 1, dentro del esqueleto de un titán muerto hace siglos (posible Clase S o superior).
-*   **Protección Pasiva:** El cadáver emite residuos químicos de muerte que las bestias evitan por instinto (cementerio de depredadores = peligro). No es seguridad activa, es repulsión biológica.
-*   **El Rol del Concordato:** Puerto Raíz existe porque el Concordato lo tolera. Mantienen un puesto de control en la entrada: no para proteger, sino para vigilar. Todo el que entra es interrogado (nombre, procedencia, propósito) y fichado. Es una "zona gris" que concentra exploradores, desertores y criminales en un lugar fácil de monitorear.
-*   **Estructura Social:** Sin moneda oficial. Todo funciona por "favores" y demostraciones de fuerza. Los niveles superiores del esqueleto (las "Vértebras") albergan a los poderosos; los inferiores (las "Costillas Bajas") a la escoria.
+### 1.2 Extramuros (Los Continentes Exteriores)
+*   **Inmensidad Inabarcable:** Es imposible dividir Extramuros en un número cerrado de biomas; la geografía del planeta es prácticamente infinita. Los ecosistemas conocidos por los exploradores y que se recorren en esta historia son solo una fracción del continente:
+    *   **Periferia Salvaje (Selvas Primigenias):** Árboles ciclópeos cuyas copas tocan las nubes y ocultan el cielo; humedad sofocante y depredadores gigantescos.
+    *   **Regiones Fúngicas (Mar de Esporas):** Biomas dominados por hongos colosales y miasmas tóxicos que descomponen el tejido pulmonar sin filtrado.
+    *   **Tierras Profundas / Tierras Huecas:** Fallas geológicas abisales, valles escarpados y radiación residual de Flujo.
+    *   **El Horizonte Oscuro:** **No es un territorio homogéneo ni exclusivo de monstruos.** Es la designación que dan los exploradores y cartógrafos a **todo lo desconocido e inexplorado**. En esas zonas ignotas habitan misterios ancestrales y se sabe de la presencia esporádica de entidades **Clase Ø (Omega)**, pero el Horizonte Oscuro representa ante todo la frontera absoluta de la cartografía humana.
+*   **La Escala (Biología Titánica):** **Leo mide 1.80m.** Si un helecho tiene el porte de una avioneta o un tronco abarca el tamaño de una manzana urbana, es fruto de millones de años de evolución sin freno en una atmósfera saturada de oxígeno, no de un encogimiento humano.
 
----
-
-## II. EVOLUCIÓN Y BIOLOGÍA
-
-### 2.1 La Diferencia Biológica
-*   **Las Bestias (Evolución):** Adaptación a una atmósfera con alta densidad de oxígeno y Flujo. Su biología es radicalmente superior.
-*   **Los Humanos (El Despertar):** La Reserva es un entorno estéril de baja presión. El cruce del Velo provoca un shock ambiental masivo (cambio de densidad del aire y presión). Solo aquellos capaces de despertar el Flujo para regular su propio metabolismo sobreviven al shock.
-
-### 2.2 Clasificación de Amenazas (Sistema C.L.A.S.E.)
-1.  **Clase D (Fauna Local):** Insectos gigantes, depredadores simples. (Armas de fuego efectivas).
-2.  **Clase C (Alpha / Rompemuros):** Fuerza bruta capaz de demoler búnkers. (Ej. El "Rompieroncas").
-3.  **Clase B (Desastre):** Habilidades sobrenaturales (invisibilidad, fuego químico). Requieren Maestros.
-4.  **Clase A (Catástrofe):** Inteligencia o control territorial. Reyes del Bosque.
-5.  **Clase S (Titán):** Parte del paisaje. Fenómenos climáticos vivos.
-6.  **Clase Ø (Omega) - Los Dioses Naturales:** Entidades que han manipulado el Flujo durante eones. No son "monstruos", son una división aparte. 
-    *   **Poder:** Capacidad de cambiar su morfología a placer, crear mutaciones instantáneas, alterar su propio ADN y el de otros seres, y repercutir el Flujo en el entorno de formas impensables. Su presencia reescribe las leyes de la biología local.
+### 1.3 Asentamientos, Colonias y Desertores
+*   **Operaciones del Gobierno:** Destacamentos encubiertos de fuerzas especiales, biólogos y recolectores de biomasa mantienen puestos avanzados para extraer recursos y experimentar.
+*   **Puerto Raíz:** Enclave erigido en el interior del esqueleto fósil de un titán Clase S muerto hace siglos. Los residuos químicos del cadáver generan una repulsión instintiva en los depredadores locales, sirviendo de defensa pasiva.
+*   **Los Desertores (Grupos Aislados):** Con el paso de las décadas, expedicionarios y científicos han desertado para vivir al margen del gobierno. **No forman una red organizada ni una facción unida.** Cada grupo de desertores es una colonia o tribu aislada e independiente, que subsiste con tecnología y medicina preservadas de hace años, desconociendo por lo general la existencia de otros asentamientos.
 
 ---
 
-## III. SISTEMA DE PODER: EL FLUJO (AXIAL FLOW)
+## II. FISIOLOGÍA, MUTACIÓN Y EL SISTEMA DE PODER ("EL FLUJO")
 
-El Flujo no es magia ni maná; es una **superextensión del "Flow State"** (estado de flujo) de la vida real. Es una versión hiper-potenciada de la capacidad humana para entrar en una zona de rendimiento máximo donde el tiempo parece dilatarse y la respuesta biológica es perfecta.
+### 2.1 La Atmósfera Continental y el Estado de Flujo
+*   **Hiperoxigenación Global de Extramuros:** **Todo el continente de Extramuros posee una atmósfera hiperoxigenada.** No existen biomas que carezcan de oxígeno de forma natural. En regiones específicas (como el Mar de Esporas o fallas geotérmicas), la particularidad no es la falta de oxígeno, sino la **presencia añadida de altas concentraciones de sustancias nocivas, esporas ácidas o toxinas** que complican la respiración humana.
+*   **¿Qué es el Estado de Flujo?:** Es el **modo de concentración total del organismo**. Al entrar en este estado:
+    *   Todos los sentidos se agudizan al extremo más absoluto.
+    *   **La percepción del tiempo cambia para el usuario:** el cerebro procesa los estímulos a una velocidad sobrehumana y el entorno parece ralentizarse, permitiendo analizar trayectorias, distancias y movimientos con precisión quirúrgica.
+    *   Todo el organismo funciona bajo una sincronía biológica distinta.
+*   **El Efecto de Extramuros sobre el Flujo (El Multiplicador Fisiológico):**
+    *   En el mundo civilizado, el estado de flujo existe dentro de los límites ordinarios del cuerpo humano.
+    *   En Extramuros, al activar esa concentración total dentro de una atmósfera hiperoxigenada, el cuerpo detona una respuesta desorbitada:
+        *   **Las pulsaciones se multiplican.**
+        *   **El riego y bombeo sanguíneo se disparan de forma masiva.**
+        *   **Los músculos se encuentran hiperoxigenados y en un flujo constante de sangre fresca**, permitiendo contracciones, aceleraciones y reflejos a velocidades desorbitadas.
+*   **Multiplicadores Variables y Coste Metabólico:**
+    *   La intensidad del Flujo no es fija: cada individuo experimenta un **multiplicador variable** según su genética y su entrenamiento.
+    *   **Multiplicador Bajo (Bajo Potencial):** Aumenta de forma contenida la respuesta muscular y sensorial con un consumo calórico moderado (la base de supervivencia de la Clase D).
+    *   **Multiplicador Alto (Alto Potencial):** Desata una aceleración y potencia demoledoras, pero exige un consumo calórico atroz de las reservas internas.
+*   **Por Qué Solo Sobrevive el 1% (La Letalidad Fisiológica Real):** Para un humano ordinario del Archipiélago, el problema no es simplemente "tener hambre". Al entrar en Flujo en Extramuros se desencadenan fallos orgánicos mortales e inmediatos:
+    *   **Rotura Vascular y Paro Cardíaco:** Al dispararse la presión sanguínea y las pulsaciones a más de 220 lpm, las arterias y capilares civiles no resisten, produciendo ictus, hemorragia alveolar o fibrilación ventricular en los primeros minutos.
+    *   **Rabdomiólisis Masiva:** La violencia de la contracción muscular desgarra las fibras a nivel microscópico; la mioglobina resultante inunda el torrente sanguíneo y colapsa los riñones en horas.
+    *   **Bloqueo Digestivo por Isquemia:** Bajo estrés extremo, el sistema nervioso simpático corta por completo el riego al estómago e intestinos para irrigar músculos y cerebro; un civil no adaptado **no puede absorber nutrientes ni digerir alimento**, por lo que tener comida encima no evita la muerte celular.
+    *   **La Clave de Leo:** Leo sobrevive porque porta la **genética de Clase S de Caine** (paredes vasculares con elasticidad superior, densidad mitocondrial anómala y rápida recuperación gástrica). El alimento solo funciona porque su organismo no se desintegró por dentro durante el esfuerzo.
 
-### 3.1 Naturaleza del Flujo
-*   **Definición:** El acceso consciente a los limitadores biológicos que el cerebro impone para proteger el cuerpo de la autodestrucción. En Extramuros, la atmósfera hiper-oxigenada actúa como combustible para que este estado se convierta en una herramienta de supervivencia extrema.
-*   **Gestión Metabólica:** El Flujo es la gestión del metabolismo energético. No es energía externa, son **calorías y voluntad**.
+### 2.2 La Jerarquía C.L.A.S.E. Humana
+*   **Clase D:** Supervivientes de base con multiplicador bajo y controlado.
+*   **Clase C, B, A:** Combatientes y exploradores con multiplicadores elevados, logrados mediante entrenamiento riguroso, mutaciones parciales y control metabólico.
+*   **Clase S (La Frontera Sobrehumana):** Un Clase S no es solo alguien con un multiplicador más alto. **Posee mutaciones y capacidades biológicas especiales únicas**. En el caso de Caine, su **Regeneración de Caudal**: su cuerpo restaura cualquier tejido dañado en milisegundos, por lo que carece por completo de cicatrices o marcas de vejez.
 
----
-
-## IV. FACCIONES
-
-### 4.1 El Concordato (El Orden)
-*   La élite que gobierna las Reservas desde la sombra. Viven en **Arcas** (ciudades blindadas).
-*   **Filosofía:** La humanidad es ganado que debe ser protegido y gestionado.
-*   **Símbolo:** Engranaje dorado sobre fondo negro.
-*   **Fuerza Militar:** **Las Vanguardias**. Divisiones de Canalizadores organizados y equipados con tecnología punta.
-
-### 4.2 Los Segadores (El Caos/Libertad)
-*   Grupo de élite anarquista. Solo los más fuertes sobreviven.
-*   **Filosofía:** El mundo pertenece a quien puede tomarlo. Buscan la "Verdad Final" del Horizonte.
-*   **Reputación:** Criminales para el Concordato, leyendas para los exploradores libres.
-
----
-
-## V. LOS PROTAGONISTAS Y EL LEGADO
-
-### 5.1 Caine ("El Inmortal" / "El Abuelo")
-*   **Identidad:** Para Leo, es Caine, su abuelo, un hombre brillante que "perdió la cabeza" tras la tragedia familiar. En Extramuros, es la leyenda trágica: **Caine, el Inmortal** (Aunque casi todo el mundo le llama solo "El Inmortal").
-*   **La Expedición Fallida:** No fue una batalla de igual a igual, fue un intento de contención que terminó en ejecución. Caine y su grupo de Clase S (los más poderosos registrados) se enfrentaron al único Clase Omega conocido en los registros. 
-*   **La Incomprensión del Poder:** Caine no sobrevivió por ser más fuerte que el Omega. Ningún humano lo es. Sobrevivió únicamente gracias a su **"Regeneración de Caudal"**: su capacidad inhumana de reconstruirse mientras era aniquilado sistemáticamente le permitió ser el único en poder huir del radio de acción del Omega.
-*   **Efecto Ambiental (Pasiva): "La Primavera del Inmortal".** Su control del Flujo es tan vital y denso que, cuando no lo reprime, la vida florece a su alrededor. En zonas muertas o tóxicas (Zona 2), deja huellas de pasto y flores. Es lo opuesto a la corrupción de Extramuros.
-*   **Estilo de Combate:** No esquiva. No bloquea. Avanza. Su regeneración es tan absurda que los ataques enemigos parecen atravesarle como si fuera un fantasma, pero en realidad está siendo destruido y reconstruido en milisegundos. Esto aterra a los enemigos más que cualquier arma. Cuando debe atacar, lo hace con una fuerza brutal y precisa, capaz de desmantelar a un Clase S de rango bajo en segundos.
-*   **La Pieza:** Lo único que lograron arrancarle al Titán Omega antes de huir. Es materia biológica de un Dios. Por eso pesa tanto (densidad muscular extrema) y absorbe luz. Caine la guardó como recordatorio de que "se les puede hacer sangrar". Además, es un objeto tan valioso que permite crear objetos con propiedades desconocidas (Usarse de llave para llegar a los Extramuros).
-*   **El Mito de su Muerte:** La mayoría en Extramuros cree que El Inmortal murió hace décadas (o que nunca existió). Los que hablan de él lo hacen como leyenda de taberna: "un loco que desafió a un dios y pagó el precio".
-*   **La Verdad Oculta:** El Concordato tiene indicios clasificados de que Caine sigue vivo. Operaciones secretas de búsqueda (Código "Inmortal") rastrean señales de actividad en zonas remotas. Última confirmación: 3 años atrás. Presunto refugio: Las Tierras Huecas.
-
-### 5.2 La Buscadora (Elena Kalev)
-*   **Motivación:** No fue secuestrada. Cruzó voluntariamente. Su "empatía" le permitió ver lógica en los desvaríos de los cuadernos de Caine. Elena entró en la sombra buscando respuestas, no por error.
-*   **Estado:** Desaparecida / Cruzando el umbral.
-
-### 5.3 El Legado Maldito
-*   **El Padre de Leo:** Murió junto con su mujer en un accidente común de automóvil.
-*   **Leo:** Heredó la "Pieza" (Carne de Dios) creyendo que es un pisapapeles frío. No sabe que porta la prueba de que lo imposible puede morir.
+### 2.3 Clasificación de Bestias
+1.  **Clase D:** Fauna local, insectos gigantes, depredadores rápidos.
+2.  **Clase C (Rompemuros):** Depredadores acorazados de fuerza masiva.
+3.  **Clase B (Desastre):** Criaturas con adaptaciones bioquímicas (ácidos, camuflaje, fuego biológico).
+4.  **Clase A (Catástrofe):** Depredadores alfa territoriales capaces de arrasar destacamentos enteros.
+5.  **Clase S (Titán):** Organismos de escala geográfica cuyo desplazamiento altera el clima local.
+6.  **Clase Ø (Omega) - Deidades Naturales:** Entidades que dominan el Flujo a nivel celular y ecológico. Inmortales, capaces de reescribir la biología circundante.
 
 ---
 
-## VI. NOTA DE ESTILO Y ESCRITURA (LEYES INMUTABLES)
+## III. FACCIONES Y LA ESTIRPE ANCESTRAL
 
-1.  **PROHIBICIÓN DE ESCALA HUMANA:** JAMÁS comparar bestias o flora con objetos manufacturados humanos ("tamaño de un edificio", "como un autobús").
-    *   *Incorrecto:* "Un hongo del tamaño de una casa."
-    *   *Correcto:* "Un hongo bajo cuya sombra podrían acampar veinte hombres." / "Un hongo que rivalizaba con los robles ancianos."
-    *   **Razón:** En este mundo, lo manufacturado es alienígena. La naturaleza es la norma.
+### 3.1 El Gobierno en las Sombras
+Oligarquía no pública del Archipiélago que monopoliza las expediciones a Extramuros. Dispone de unidades de élite (hombres de traje oscuro reforzado) que operan con frialdad quirúrgica para silenciar cualquier filtración.
 
-2.  **TONO:** Técnico, visceral, biológico. Leo analiza, no siente "la magia". Se mantiene siempre como un *Grounded Thriller*.
+### 3.2 Los Segadores: La Estirpe Ancestral (Superior a Clase S)
+*   Una estirpe humana cerrada que lleva viviendo siglos —quizá milenios— en Extramuros de forma ininterrumpida.
+*   Toda su genética ha mutado y evolucionado a lo largo de incontables generaciones en ese entorno hostil.
+*   **Nivel de Amenaza:** **Todos y cada uno de los miembros de la estirpe sobrepasan la Clase S**. No son Omegas (los Omegas son deidades naturales gigantescas), pero superan a cualquier humano Clase S convencional.
+*   **Mística (Estilo Gen'ei Ryodan de HxH):** Grupo muy reducido en número, causan terror absoluto y estragos allá donde aparecen, y se rigen por sus propios códigos de casta ancestral, en conflicto abierto contra el gobierno.
 
-3.  **PROHIBICIÓN TECNOLÓGICA (LEY ANTI-CIENCIA FICCIÓN):** Está terminantemente prohibido el uso de tecnología moderna o futurista que rompa la estética de "Biología y Metalurgia Antigua".
-    *   **Términos Prohibidos:** Drones, CPUs, microchips, plasma, láser, uranio, nuclear, orbital, cibernética, nanobots, pantallas táctiles, hologramas, robots.
-    *   **Sustitutos:** 
-        *   *Drones* -> Insectos rastreadores / Coleópteros de enlace / Mensajeros de ala rápida.
-        *   *Cibernética/Exoesqueletos* -> Injertos de órgano de titán / Armaduras de quitina reforzada / Tensado de tendones de bestia.
-        *   *Armas de Energía* -> Lanzadores químicos (bilis, ácidos) / Proyectores de flujo cinético / Ballestas de torsión extrema.
-        *   *IA/Sistemas* -> Registros por alquimia biológica / Memoria de colmena.
+---
+
+## IV. GENÉTICA DE LOS PROTAGONISTAS Y EL LEGADO DE HISTORIAS
+
+### 4.1 Caine ("El Inmortal")
+*   Abuelo de Leo. Leyenda humana de **Clase S**, único superviviente registrado a un Clase Omega gracias a su descomunal **Regeneración de Caudal**. Al reconstruirse a nivel celular en milisegundos, su cuerpo está completamente limpio de cicatrices, quemaduras o marcas de vejez.
+*   En su huida arrancó un fragmento de tejido vivo de la deidad Omega y forjó dos reliquias: una **pulsera para Leo** y un **collar para Elena/Haimara**.
+*   **El Vínculo con Elena:** Caine convivió con Elena durante más de cuatro años. Detectó su origen por la cadencia pulmonar adaptada y la química de su sangre mutada. Elena descubrió quién era él por los mapas exactos de la buhardilla y por ver que sus heridas domésticas sanaban al instante sin dejar rastro. Ambos sellaron un pacto de silencio protector en torno a Leo.
+*   **El Pacto de Sacrificio:** Al interceptar a los agentes del gobierno que rastreaban a Elena cerca de la casa, Caine aceptó volver al servicio activo en Extramuros a cambio de que no tocaran a los chicos.
+
+### 4.2 Elena / Haimara: La Sangre Única
+*   Nacida en un asentamiento aislado de desertores en Extramuros.
+*   Su verdadero nombre nativo es **Haimara** (*Haima* = sangre; *Mara* = aurora/destello de luz).
+*   **La Mutación Extraordinaria:** Sangre con un matiz **carmesí profundo e irisaciones doradas/ámbar**, capaz de catalizar el Flujo de forma latente con potencial para habilidades especiales.
+*   **Cuatro Años y Medio con Leo:** Conoció a Leo a los 19 años de este, reconstruyendo su vida tras la muerte de sus padres. Tras la partida de Caine, Elena continuó narrándole a Leo historias de Extramuros disfrazadas de "cuentos inventados", transmitiéndole el conocimiento práctico del continente.
+*   Al notar el asedio del gobierno tras la marcha de Caine, huyó para no condenar a Leo a muerte. Porta el collar de Omega.
+
+### 4.3 Leo: La Herencia Latente y el Clic de las Dos Voces
+*   Joven de 24 años, administrativo, de pensamiento analítico y metódico.
+*   **Herencia Genética:** Como nieto directo de Caine, porta en su ADN predisposiciones biológicas que le impiden colapsar de inmediato ante el aire de Extramuros y le otorgan potencial para desarrollarse hasta la **Clase B o A**.
+*   **La Doble Revelación:** En la sala de interrogatorio del búnker, al escuchar el nombre de *Haimara* y las preguntas sobre Caine, Leo une los mapas de su abuelo con las historias nocturnas de Elena y comprende que ambos le habían entregado la guía completa para sobrevivir.
+*   Ante la tortura inminente, la pulsera de Omega se activa y lo teletransporta a Extramuros, destruyéndose en el salto.
+
+---
+
+## V. LEYES INMUTABLES DE ESTILO
+
+1.  **FOCALIZACIÓN ESTRICTA (LEY 6):** Cero metaconocimiento. El lector solo experimenta lo que Leo ve y razona. No se usan conceptos como "Clase S", "Extramuros" o "Haimara" hasta que aparecen diegéticamente en la trama.
+2.  **ESCALA TITÁNICA:** Prohibidas las comparaciones industriales ("árbol como un rascacielos"). Solo referencias orgánicas y humanas.
+3.  **COSTE FÍSICO INMEDIATO:** El Flujo acelera el cuerpo según el multiplicador; cada acción sobrehumana deja hambre atroz, temblores y deshidratación violenta.
