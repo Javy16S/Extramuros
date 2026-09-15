@@ -1,4 +1,4 @@
-﻿# 📂 DOSSIER DE PERSONAJES: EXTRAMUROS
+# 📂 DOSSIER DE PERSONAJES: EXTRAMUROS
 
 ---
 
@@ -43,14 +43,31 @@ Leo es un joven de 24 años que trabajaba como administrativo en la ciudad. Tras
 
 ## 4. LOS SEGADORES: La Estirpe Ancestral (Superior a Clase S)
 *“El mundo pertenece a quienes no necesitan pedir permiso para respirar.”*
-Estirpe humana cerrada que lleva milenios viviendo y mutando genéticamente en Extramuros. **Todos sus miembros sobrepasan la Clase S**. Mística idéntica al *Gen'ei Ryodan* de HxH: pocos miembros, terror absoluto y habilidades biológicas extremas.
+Estirpe humana cerrada que lleva milenios viviendo y mutando genéticamente en Extramuros. **Todos sus miembros sobrepasan la Clase S**. Mística idéntica al *Gen'ei Ryodan* de HxH: pocos miembros, terror absoluto y habilidades biológicas extremas. *(Nota: Son una estirpe de Clase S, pero no la única manifestación de Clase S del mundo).*
 
 ---
 
-## 5. INSPECTOR GARRIDO: El Policía Civil
+## 5. MASON («El Maestro»): El Ermitaño del Pozo Muerto
+*“Aquí fuera, la compasión es solo una forma lenta de suicidio.”*
+
+### 👤 Perfil: El Veterano de Clase A (Nivel Cercano a Clase S)
+- **Pasado:** Antiguo explorador y cazador legendario que rompió lazos con las colonias del gobierno tras presenciar las purgas internas. Vive en reclusión absoluta en la Zona Periférica.
+- **Personalidad:** Pragmático, despiadado, severo y sin un gramo de condescendencia. No cuida a Leo por cariño; lo somete a pruebas brutales para comprobar si tiene la madera para no morir en las primeras veinticuatro horas.
+- **Técnica Personal Única: «El Pozo Muerto» (*Dead Sump*):**
+  - Habilidad creada por él tras décadas de soledad y comprensión de la Quietud.
+  - No es una habilidad común de los Clase A: es una distorsión territorial pasiva/activa.
+  - Proyecta un campo de Quietud forzada que ralentiza el flujo neuromuscular y metabólico de cualquier ser vivo que entre en su rango.
+  - A mayor radio de efecto, menor intensidad:
+    - *En combate cuerpo a cuerpo (2-5 m):* Los rivales se mueven como atrapados en gelatina o plomo derretido (se ven a sí mismos a cámara lenta), mientras Mason se mueve con agilidad normal y ejecuta con frialdad quirúrgica.
+    - *En el claro de su cabaña (100-200 m, 24/7):* Efecto sutil pero continuo de letargo, apatía y pesadez que ahuyenta a los depredadores titánicos, quienes temen instintivamente esa "zona muerta". Por ello su cabaña no tiene empalizadas.
+- **Rol Narrativo:** El forjador de Leo. Enseña a Leo a regular su Flujo gota a gota y a dominar la Quietud como única vía de supervivencia.
+
+---
+
+## 6. INSPECTOR GARRIDO: El Policía Civil
 Inspector agotado del Distrito Siete. Cree que las desapariciones son meras huidas voluntarias por hastío rutinario. Cero metaconocimiento.
 
 ---
 
-## 6. LOS HOMBRES DE TRAJE (Fuerzas Especiales de las Sombras)
+## 7. LOS HOMBRES DE TRAJE (Fuerzas Especiales de las Sombras)
 Agentes quirúrgicos de contrainteligencia. Trajes reforzados, pupilas insensibles y métodos de coerción física extrema.

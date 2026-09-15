@@ -34,36 +34,34 @@ El planeta es colosal, de dimensiones inconmensurables que empequeñecen cualqui
 
 ## II. FISIOLOGÍA, MUTACIÓN Y EL SISTEMA DE PODER ("EL FLUJO")
 
+Para un desglose técnico exhaustivo de técnicas, fórmulas y combate, consultar `contexto/sistema_poder.md`.
+
 ### 2.1 La Atmósfera Continental y el Estado de Flujo
-*   **Hiperoxigenación Global de Extramuros:** **Todo el continente de Extramuros posee una atmósfera hiperoxigenada.** No existen biomas que carezcan de oxígeno de forma natural. En regiones específicas (como el Mar de Esporas o fallas geotérmicas), la particularidad no es la falta de oxígeno, sino la **presencia añadida de altas concentraciones de sustancias nocivas, esporas ácidas o toxinas** que complican la respiración humana.
-*   **¿Qué es el Estado de Flujo?:** Es el **modo de concentración total del organismo**. Al entrar en este estado:
-    *   Todos los sentidos se agudizan al extremo más absoluto.
-    *   **La percepción del tiempo cambia para el usuario:** el cerebro procesa los estímulos a una velocidad sobrehumana y el entorno parece ralentizarse, permitiendo analizar trayectorias, distancias y movimientos con precisión quirúrgica.
-    *   Todo el organismo funciona bajo una sincronía biológica distinta.
-*   **El Efecto de Extramuros sobre el Flujo (El Multiplicador Fisiológico):**
-    *   En el mundo civilizado, el estado de flujo existe dentro de los límites ordinarios del cuerpo humano.
-    *   En Extramuros, al activar esa concentración total dentro de una atmósfera hiperoxigenada, el cuerpo detona una respuesta desorbitada:
-        *   **Las pulsaciones se multiplican.**
-        *   **El riego y bombeo sanguíneo se disparan de forma masiva.**
-        *   **Los músculos se encuentran hiperoxigenados y en un flujo constante de sangre fresca**, permitiendo contracciones, aceleraciones y reflejos a velocidades desorbitadas.
-*   **Multiplicadores Variables y Coste Metabólico:**
-    *   La intensidad del Flujo no es fija: cada individuo experimenta un **multiplicador variable** según su genética y su entrenamiento.
-    *   **Multiplicador Bajo (Bajo Potencial):** Aumenta de forma contenida la respuesta muscular y sensorial con un consumo calórico moderado (la base de supervivencia de la Clase D).
-    *   **Multiplicador Alto (Alto Potencial):** Desata una aceleración y potencia demoledoras, pero exige un consumo calórico atroz de las reservas internas.
-*   **Por Qué Solo Sobrevive el 1% (La Letalidad Fisiológica Real):** Para un humano ordinario del Archipiélago, el problema no es simplemente "tener hambre". Al entrar en Flujo en Extramuros se desencadenan fallos orgánicos mortales e inmediatos:
-    *   **Rotura Vascular y Paro Cardíaco:** Al dispararse la presión sanguínea y las pulsaciones a más de 220 lpm, las arterias y capilares civiles no resisten, produciendo ictus, hemorragia alveolar o fibrilación ventricular en los primeros minutos.
-    *   **Rabdomiólisis Masiva:** La violencia de la contracción muscular desgarra las fibras a nivel microscópico; la mioglobina resultante inunda el torrente sanguíneo y colapsa los riñones en horas.
-    *   **Bloqueo Digestivo por Isquemia:** Bajo estrés extremo, el sistema nervioso simpático corta por completo el riego al estómago e intestinos para irrigar músculos y cerebro; un civil no adaptado **no puede absorber nutrientes ni digerir alimento**, por lo que tener comida encima no evita la muerte celular.
-    *   **La Clave de Leo:** Leo sobrevive porque porta la **genética de Clase S de Caine** (paredes vasculares con elasticidad superior, densidad mitocondrial anómala y rápida recuperación gástrica). El alimento solo funciona porque su organismo no se desintegró por dentro durante el esfuerzo.
+*   **Hiperoxigenación Global de Extramuros:** Todo el continente de Extramuros posee una atmósfera hiperoxigenada. En regiones específicas (como el Mar de Esporas), la particularidad no es la falta de oxígeno, sino la presencia añadida de toxinas o miasmas que complican la respiración.
+*   **¿Qué es el Flujo?:** Es la resonancia forzada del sistema neuromuscular y circulatorio humano al entrar en concentración total bajo la atmósfera de Extramuros.
+    *   **Polo Activo: El Caudal (Ignición):** Riego masivo, contracciones violentas, dilatación temporal subjetiva (reflejos sobrehumanos) y refuerzo cinético de impacto. Estatus de "faro biológico" que atrae depredadores.
+    *   **Polo Pasivo: La Quietud (Supresión):** Reducción de pulso a 2-3 lpm, enfriamiento dérmico, borrado de presencia térmica/olfativa y ecorrecepción sísmica a través del suelo.
+*   **Potencial vs. Poder Real:**
+    *   **El Recipiente (Potencial):** Elasticidad vascular innata y grosor de los conductos nerviosos. Un potencial bajo puede ensancharse mediante entrenamiento extremo, microdesgarros y cicatrización forzada.
+    *   **Tasa de Caudal Efectivo (El Calibre / Poder Real):** La cantidad de energía biológica y cinética que el cuerpo libera por segundo. Un Clase D no puede causar la destrucción de un Clase S porque su calibre de salida es minúsculo.
+    *   **Unidad Diegética de Medida: Unidades de Caudal (UC) / Caballos de Flujo (CF):** Escala científica militar para medir el impulso de Flujo:
+        *   Humano civil basal: 1 a 5 UC.
+        *   Clase D (Superhumano base): 50 a 200 UC.
+        *   Clase C (Rompemuros): 500 a 2.000 UC (capaces de quebrar quitinas titánicas y hueso compactado).
+        *   Clase B (Fuerzas Especiales): 5.000 a 25.000 UC.
+        *   Clase A (Comandantes / Maestros): 50.000 a 200.000 UC.
+        *   Clase S (Calamidades / Anomalías Despertadas): Superior a 500.000 UC.
+*   **Por Qué Solo Sobrevive el 1% (La Letalidad Fisiológica Real):** Rotura vascular masiva, fibrilación cardíaca a >220 lpm, rabdomiólisis e isquemia gástrica aguda. Leo sobrevive por la genética heredada de Caine (vasos elásticos y rápida recuperación gástrica).
 
 ### 2.2 La Jerarquía C.L.A.S.E. Humana
-*   **Clase D:** Supervivientes de base con multiplicador bajo y controlado.
-*   **Clase C, B, A:** Combatientes y exploradores con multiplicadores elevados, logrados mediante entrenamiento riguroso, mutaciones parciales y control metabólico.
-*   **Clase S (La Frontera Sobrehumana):** Un Clase S no es solo alguien con un multiplicador más alto. **Posee mutaciones y capacidades biológicas especiales únicas**. En el caso de Caine, su **Regeneración de Caudal**: su cuerpo restaura cualquier tejido dañado en milisegundos, por lo que carece por completo de cicatrices o marcas de vejez.
+*   **Clase D:** Superhumanos de base con multiplicador de salida contenido. Ráfagas cortas.
+*   **Clase C, B, A:** Combatientes con recipientes ensanchados y zonificación precisa.
+*   **Mason («El Maestro» - Clase A / Casi Clase S en técnica):** Desarrolló una técnica personal única e irrepetible: **«El Pozo Muerto»**. Proyecta un campo de Quietud activa que ralentiza el flujo neuromuscular de todo ser dentro de su radio (a mayor rango, menor intensidad). Alrededor de su cabaña el efecto es sutil pero permanente 24/7, ahuyentando a las bestias por letargo instintivo.
+*   **Clase S (La Frontera Sobrehumana / El Despertar):** No es una facción; es un nivel de amenaza. Su Flujo interactúa con principios físicos del entorno (ondas electromagnéticas, control inercial, regeneración celular).
 
 ### 2.3 Clasificación de Bestias
 1.  **Clase D:** Fauna local, insectos gigantes, depredadores rápidos.
-2.  **Clase C (Rompemuros):** Depredadores acorazados de fuerza masiva.
+2.  **Clase C (Rompemuros):** Depredadores acorazados capaces de quebrar blindajes pesados.
 3.  **Clase B (Desastre):** Criaturas con adaptaciones bioquímicas (ácidos, camuflaje, fuego biológico).
 4.  **Clase A (Catástrofe):** Depredadores alfa territoriales capaces de arrasar destacamentos enteros.
 5.  **Clase S (Titán):** Organismos de escala geográfica cuyo desplazamiento altera el clima local.
@@ -71,16 +69,13 @@ El planeta es colosal, de dimensiones inconmensurables que empequeñecen cualqui
 
 ---
 
-## III. FACCIONES Y LA ESTIRPE ANCESTRAL
+## III. FACCIONES Y DISTRIBUCIÓN DE CLASE S
 
-### 3.1 El Gobierno en las Sombras
-Oligarquía no pública del Archipiélago que monopoliza las expediciones a Extramuros. Dispone de unidades de élite (hombres de traje oscuro reforzado) que operan con frialdad quirúrgica para silenciar cualquier filtración.
-
-### 3.2 Los Segadores: La Estirpe Ancestral (Superior a Clase S)
-*   Una estirpe humana cerrada que lleva viviendo siglos —quizá milenios— en Extramuros de forma ininterrumpida.
-*   Toda su genética ha mutado y evolucionado a lo largo de incontables generaciones en ese entorno hostil.
-*   **Nivel de Amenaza:** **Todos y cada uno de los miembros de la estirpe sobrepasan la Clase S**. No son Omegas (los Omegas son deidades naturales gigantescas), pero superan a cualquier humano Clase S convencional.
-*   **Mística (Estilo Gen'ei Ryodan de HxH):** Grupo muy reducido en número, causan terror absoluto y estragos allá donde aparecen, y se rigen por sus propios códigos de casta ancestral, en conflicto abierto contra el gobierno.
+Es vital distinguir que **Clase S es una categoría de poder, no un grupo político**:
+*   **Los Segadores:** Estirpe ancestral humana que lleva generaciones viviendo en Extramuros. Todos sus miembros son de Clase S (o superiores a la media de Clase S). Actúan en grupos reducidos causando estragos absolutos (mística *Gen'ei Ryodan*).
+*   **El Gobierno en las Sombras:** La oligarquía clandestina del Archipiélago que monopoliza las expediciones a Extramuros. Posee sus propios ejecutores y soldados modificados de Clase S.
+*   **Caine («El Inmortal»):** Clase S legendario e independiente. Posee la mutación de *Regeneración Celular de Caudal* instantánea.
+*   **Bestias Clase S:** Titanes colosales como el espécimen cuyo esqueleto fosilizado alberga a **Puerto Raíz**.
 
 ---
 
