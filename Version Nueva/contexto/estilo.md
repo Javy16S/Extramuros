@@ -50,18 +50,20 @@ Quedan estrictamente vetados los siguientes patrones automáticos de redacción:
 Restringidas a un máximo de **1 aparición por cada 4.000 palabras** (o eliminadas):
 *   *ciclópeo, catedralicio, visceral, atávico, descomunal, milimétrico, desorbitado, de plomo, al rojo vivo, heló la sangre, nudo ardiente en la garganta, masa de pesadilla, abismal, demencial, a una velocidad que desafiaba.*
 
-### 2. Bancos de Reemplazo Léxico
+### 2. Prohibición de Cultismos Pedantes y Términos Médicos de Autopsia
+*   **Prohibidos:** *légamo, esfacelo, penumbra glauca, resolana, diaforesis, isquemia, rigidez de fascias, orográfico, estólido, coruscante.*
+*   **Regla de Oro:** Si una palabra exige recurrir al diccionario a un lector común, **no se usa**. La precisión es buscar la palabra física más clara, directa y visual, jamás la más pedante.
 
-*   **Geología, Texturas y Materiales:**
-    Basalto poroso, esquistos fracturados, caliza disgregada, sílice, lajas de pizarra, légamo estancado, turba ácida, corteza acanalada, lignina quebradiza, esfacelo vegetal, vetas de cuarzo, nódulos salinos, aristas vivas, pátina de humedad, costra calcárea.
+### 3. Bancos de Reemplazo: Vocabulario Físico y Tangible
+
+*   **Materiales, Terreno y Vegetación:**
+    Lodo negro, turba podrida, cieno espeso, tierra empapada, corteza rugosa, madera astillada, lajas de piedra, gravilla suelta, raíces leñosas, polvo seco, charcos de brea, hojarasca húmeda.
 *   **Dinámica, Mecánica y Fuerza Física:**
-    Cizallar, flectar, pandear, bascular, desportillar, astillar, vencer la trona, ceder por fatiga, desmochar, seccionar, proyectar por inercia, traquetear, encajar, claudicar.
-*   **Fisiología, Fatiga y Sistema Nervioso:**
-    Isquemia periférica, espasmo muscular, ardor láctico, saliva pastosa y amarga, quemazón retroesternal, rigidez de fascias, entumecimiento distal, rictus mandibular, hipoxia leve, latido timpánico, temblor fino en falanges, sabor ferroso.
+    Cizallar, quebrar, astillar, rajar, ceder por fatiga, doblar, proyectar por inercia, trabarse, encajar, derrapar, patinar, sacudir.
+*   **Sensaciones Físicas y Fatiga Real:**
+    Dedos entumecidos, calambre en los gemelos, falta de aire, saliva pastosa, sabor a sangre o a cobre, sudor frío pegado a la ropa, temblor en las manos, mandíbulas agarrotadas, pecho cerrado, pesadez en las piernas.
 *   **Acústica y Propagación del Sonido:**
-    Chasquido seco, restallido elástico, rechinar de placas, siseo estridente, crepitación discontinua, traqueteo bronco, soplido presurizado, bufido asmático, vibración de baja frecuencia, chasquido de quiebre.
-*   **Luz, Densidad y Atmósfera:**
-    Penumbra glauca, luz cenital tamizada, resolana parduzca, bruma lechosa de esporas, calima húmeda, estancamiento térmico, difracción en gotas de condensación, ocre mortecino, sombra proyectada sin horizonte.
+    Chasquido seco, crujido sordo, siseo continuo, traqueteo metálico, bufido caliente, vibración profunda, golpe sordo, silencio espeso, niebla tibia, luz tamizada por las hojas.
 
 ---
 

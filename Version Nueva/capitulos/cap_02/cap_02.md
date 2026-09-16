@@ -1,6 +1,6 @@
 # CAPÍTULO 2: LA CUEVA DE LOS HUESOS
 
-El zumbido del aire bajó de golpe a una vibración seca y constante que sacudía el légamo bajo sus rodillas.
+El zumbido del aire bajó de golpe a una vibración seca y constante que sacudía el lodo negro bajo sus rodillas.
 
 Leo hundió los dedos en la turba descompuesta. Apretó los ojos contra el destello residual del salto. La muñeca izquierda le supuraba un calor espeso: donde antes descansaba la pulsera de eslabones forjada por Caine, la piel viva mostraba un cerco de ceniza negra que desprendía un hilo de humo con olor a pelo quemado y a ozono.
 
@@ -30,7 +30,7 @@ A setenta metros de distancia, oculta tras una cortina de helechos arborescentes
 
 Leo se incorporó a trompicones, mordiéndose el labio inferior para ahogar el quejido. El deltoides izquierdo le palpitaba con el dolor sordo de la aguja con la que los hombres de traje oscuro lo habían sedado en el callejón, apenas unas horas atrás. La adrenalina fría barrió el entumecimiento de un plumazo.
 
-Escudriñó la espesura a través de la calima glauca.
+Escudriñó la espesura a través de la bruma espesa.
 
 Hacia el este, donde la llanura de turba ascendía en una suave pendiente rocosa, asomaba un espinazo de riscos oscuros. Eran bloques de basalto anguloso, fracturados por fallas antiguas, que emergían por encima del sotobosque como una hilera de colmillos negros. En mitad de aquella muralla de piedra desprovista de hojas se abría una hendidura estrecha, un quiebro vertical en la roca.
 
@@ -66,7 +66,7 @@ El chorro de vapor disolvió la bruma a su alrededor en un radio de tres metros.
 
 Las dos cuencas blanquecinas convergieron sobre el contrafuerte de madera donde Leo permanecía agazapado.
 
-Había captado la anomalía química. El entorno olía a resina vegetal, tierra empapada y légamo en fermentación; la figura de Leo desprendía señales extrañas para ese hábitat: el olor a piel carbonizada de su muñeca izquierda, los polímeros sintéticos de su ropa impermeable y el sudor salino destilado por la tensión del momento.
+Había captado la anomalía química. El entorno olía a resina vegetal, tierra empapada y lodo podrido; la figura de Leo desprendía señales extrañas para ese hábitat: el olor a piel carbonizada de su muñeca izquierda, los polímeros sintéticos de su ropa impermeable y el sudor salino destilado por la tensión del momento.
 
 La bestia emitió una vibración sorda. Fue un zumbido de frecuencia tan baja que el agua estancada a los pies de Leo comenzó a temblar en ondas diminutas y su diafragma se contrajo en un espasmo incontrolable.
 

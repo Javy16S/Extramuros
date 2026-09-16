@@ -49,22 +49,24 @@ Quedan terminantemente prohibidas las siguientes fórmulas y tics estructurales:
 Las siguientes palabras han sido sobreutilizadas y pierden su efecto. **Máximo 1 aparición por cada 4.000 palabras** (o preferiblemente cero):
 *   *ciclópeo, catedralicio, visceral, atávico, descomunal, milimétrico, desorbitado, al rojo vivo, de plomo, heló la sangre, nudo ardiente en la garganta, masa de pesadilla, abismal, demencial, a una velocidad que desafiaba.*
 
-### 2. Bancos de Reemplazo y Precisión Léxica
+### 2. Prohibición de Cultismos Pedantes y Términos Médicos de Autopsia
+*   **El Error:** Reemplazar clichés por arcaísmos rebuscados o vocabulario de informe forense que arruinan la inmersión del lector:
+    *   ❌ *légamo, esfacelo, penumbra glauca, resolana, diaforesis, isquemia, rigidez de fascias, orográfico, estólido, coruscante.*
+*   **La Regla de Oro:** Si una palabra exige recurrir al diccionario a un lector común, **no se usa**. La precisión narrativa no es pedantería académica; es elegir el detalle físico más directo, claro y contundente.
 
-#### A. Materiales, Texturas y Geología
-*   *En vez de "roca negra" o "barro":* Basalto poroso, esquistos fracturados, caliza disgregada, sílice, lajas de pizarra, légamo estancado, turba ácida, corteza acanalada, lignina quebradiza, esfacelo vegetal, vetas de cuarzo, nódulos salinos, aristas vivas, pátina de humedad, costra calcárea.
+### 3. Bancos de Reemplazo: Vocabulario Físico, Directo y Tangible
 
-#### B. Mecánica, Dinámica y Fuerza Física
-*   *En vez de "destruyó", "golpeó fuerte" o "rompió":* Cizallar, flectar, pandear, bascular, desportillar, astillar, vencer la trona, ceder por fatiga, desmochar, seccionar, proyectar por inercia, traquetear, encajar, claudicar.
+#### A. Materiales, Terreno y Vegetación
+*   *En vez de palabras raras como "légamo" o "esfacelo", o la repetición constante de "fango":* Lodo negro, turba podrida, cieno espeso, tierra empapada, corteza rugosa, madera astillada, lajas de piedra, gravilla suelta, raíces leñosas, polvo seco, charcos de brea, hojarasca húmeda.
 
-#### C. Fisiología, Fatiga y Respuesta Neuromuscular
-*   *En vez de "sentía dolor", "cansancio" o "hambre atroz":* Isquemia periférica, espasmo muscular, ardor láctico, saliva pastosa y amarga, quemazón retroesternal, rigidez de fascias, entumecimiento distal, rictus mandibular, hipoxia leve, latido timpánico, temblor fino en falanges, sabor ferroso.
+#### B. Mecánica, Movimiento y Fuerza
+*   *En vez de verbos genéricos o abstractos:* Cizallar, quebrar, astillar, rajar, ceder por fatiga, doblar, proyectar por inercia, trabarse, encajar, derrapar, patinar, sacudir.
 
-#### D. Acústica y Propagación del Sonido
-*   *En vez de "un rugido", "un ruido sordo" o "un crujido":* Chasquido seco, restallido elástico, rechinar de placas, siseo estridente, crepitación discontinua, traqueteo bronco, soplido presurizado, bufido asmático, vibración de baja frecuencia, chasquido de quiebre.
+#### C. Sensaciones Físicas y Fatiga Real
+*   *En vez de cultismos como "isquemia" o metáforas de "fuego helado":* Dedos entumecidos, calambre en los gemelos, falta de aire, saliva pastosa, sabor a sangre o a cobre, sudor frío pegado a la ropa, temblor en las manos, mandíbulas agarrotadas, pecho cerrado, pesadez en las piernas.
 
-#### E. Atmósfera, Densidad y Luz
-*   *En vez de "bosque oscuro" o "niebla verde":* Penumbra glauca, luz cenital tamizada, resolana parduzca, bruma lechosa de esporas, calima húmeda, estancamiento térmico, difracción en gotas de condensación, ocre mortecino, sombra proyectada sin horizonte.
+#### D. Sonido y Atmósfera
+*   *En vez de "un rugido ensordecedor":* Chasquido seco, crujido sordo, siseo continuo, traqueteo metálico, bufido caliente, vibración profunda, golpe sordo, silencio espeso, niebla tibia, luz tamizada por las hojas.
 
 ---
 
