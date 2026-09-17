@@ -58,7 +58,7 @@ A Leo le había parecido un detalle entrañable, una de esas manías de anciano 
 
 Sus padres habían muerto cuando él apenas cumplía los dieciocho, estrellados contra el guardarraíl de una autovía durante una tormenta de nieve. Caine había sido su único ancla familiar: un hombre silencioso, de hombros anchos y una corpulencia densa, cuya piel estaba inexplicablemente limpia, lisa e intacta, sin una sola arruga profunda ni marcas de la edad. Pasaba los días encerrado en la buhardilla trazando mapas a pluma llenos de cordilleras interminables y ríos que no figuraban en ningún libro escolar. Para entretener a Leo —y más tarde a Elena—, Caine convertía aquellos dibujos en relatos de aventuras: les hablaba de valles profundos, del río de aguas oscuras y de cómo los exploradores de sus historias tenían que buscar refugio en la brecha entre los riscos de basalto antes de que cayera la noche.
 
-Elena había entrado en sus vidas poco después de aquella tragedia familiar, casi cinco años atrás. Había sido la única persona en el mundo capaz de sostener a Leo en sus peores momentos de derrumbe y, al mismo tiempo, sentarse junto al anciano durante horas sin mirarlo como a un enfermo. Escuchaba aquellos cuentos sobre selvas ciclópeas con una atención muda y paciente, mirando los trazos de tinta como si fueran lo más fascinante del mundo.
+Elena había entrado en sus vidas poco después de aquella tragedia familiar, casi cinco años atrás. Había sido la única persona en el mundo capaz de sostener a Leo en sus peores momentos de derrumbe y, al mismo tiempo, sentarse junto al anciano durante horas sin mirarlo como a un enfermo. Escuchaba aquellos cuentos sobre bosques monumentales con una atención muda y paciente, mirando los trazos de tinta como si fueran lo más fascinante del mundo.
 
 Entonces, una tarde de mayo, Caine no bajó a cenar.
 
@@ -88,7 +88,7 @@ El vehículo no redujo la velocidad al enfilar el estrecho pasaje. Aceleró con 
 
 El pánico le heló el estómago y le disparó una orden salvaje a las piernas: *Corre.*
 
-Dio un salto hacia la acera contraria, buscando el callejón peatonal que conectaba con la plaza vieja, donde los bolardos de piedra impedirían el paso de cualquier coche. Pero antes de que sus botas tocaran el suelo empedrado, el chirrido atronador de los frenos desgarró la noche. La furgoneta atravesó el bordillo, derrapó de costado con una violencia milimétrica y le cerró el paso, estampando la chapa a escasos centímetros de su hombro.
+Dio un salto hacia la acera contraria, buscando el callejón peatonal que conectaba con la plaza vieja, donde los bolardos de piedra impedirían el paso de cualquier coche. Pero antes de que sus botas tocaran el suelo empedrado, el chirrido atronador de los frenos desgarró la noche. La furgoneta atravesó el bordillo, derrapó de costado con una violencia quirúrgica y le cerró el paso, estampando la chapa a escasos centímetros de su hombro.
 
 La puerta corredera lateral se abrió hacia atrás con un chasquido neumático.
 
@@ -98,17 +98,17 @@ Leo retrocedió un paso, tanteando el aire en busca de un arma, una botella rota
 
 De la penumbra del habitáculo descendieron dos hombres.
 
-No eran los delincuentes comunes de los barrios periféricos ni policías de uniforme. Vestían trajes oscuros de corte impecable, sin corbata, confeccionados con un tejido grueso y mate que no producía el menor susurro al moverse. Medían cerca de un metro noventa cada uno, con hombros anchos y una postura rígida, militar, casi biomecánica. Pero lo que heló la sangre de Leo no fue su tamaño, sino sus rostros.
+Vestían trajes oscuros de corte sobrio, sin corbata, de un tejido grueso y mate que amortiguaba cualquier roce. Medían cerca de un metro noventa cada uno, con hombros anchos y una postura rígida, militar, casi biomecánica. Sin embargo, la verdadera amenaza asomaba en sus rostros.
 
-Bajo la luz trémula de la farola, la piel de ambos era de una palidez marmórea, tensa sobre los pómulos como el cuero seco. Sus ojos no parpadeaban. Sus pupilas, anormalmente dilatadas a pesar del reflejo directo de la linterna, parecían pozos de obsidiana que devoraban la luz sin reaccionar. No mostraban rabia, no mostraban urgencia; se movían con la frialdad aséptica de dos cirujanos entrando a un quirófano.
+Bajo la luz trémula de la farola, la piel de ambos era de una palidez marmórea, tensa sobre los pómulos como el cuero seco. Sus ojos no parpadeaban. Sus pupilas, anormalmente dilatadas a pesar del reflejo directo de la linterna, parecían pozos de obsidiana que devoraban la luz sin reaccionar. No mostraban rabia ni urgencia; se movían con la frialdad aséptica de dos cirujanos entrando a un quirófano.
 
-—Leo Vanes —pronunció el de la izquierda. Su voz no tenía entonación alguna, carente de modulación emocional, profunda y metálica como si vibrara a través de una caja torácica de plomo.
+—Leo Vanes —pronunció el de la izquierda. Su voz carecía de entonación o modulación emocional: un timbre profundo, seco y metálico, como si resonara a través de una caja torácica de hierro fundido.
 
 —¿Quiénes son ustedes? —Leo alzó la linterna, intentando que el temblor de sus manos no delatara el pánico que le atenazaba el diafragma—. ¡La policía tiene mis datos! ¡Saben que estoy investigando...!
 
 El hombre de la derecha se movió.
 
-No fue una carrera; fue una embestida implacable, rápida como un latigazo. Leo apenas tuvo tiempo de levantar los brazos antes de que la sombra se le echara encima. Intentó golpear con la linterna de aluminio, pero los dedos del desconocido se cerraron sobre su muñeca derecha como una tenaza de hierro. El crujido seco de los huesos del carpo sonó dentro de la cabeza de Leo antes de que el dolor le subiera ardiendo por todo el brazo.
+El atacante avanzó en una embestida fulminante, con la aceleración de un resorte suelto. Leo apenas tuvo tiempo de levantar los brazos antes de que la sombra se le echara encima. Intentó golpear con la linterna de aluminio, pero los dedos del desconocido se cerraron sobre su muñeca derecha como una tenaza de hierro. El crujido seco de los huesos del carpo sonó dentro de la cabeza de Leo antes de que el dolor le subiera ardiendo por todo el brazo.
 
 La linterna cayó al charco, extinguiéndose con un chisporroteo.
 
@@ -140,9 +140,9 @@ Leo tiró de los grilletes. El acero no cedió ni un milímetro; solo logró des
 
 —¿Dónde estoy? —graznó. La garganta le raspaba como si hubiera tragado ceniza—. ¿Qué es esto? Si esto es por el expediente de Elena...
 
-—Silencio —dijo el hombre de la ceja partida. No alzó la voz, pero el tono tenía una densidad física que helaba la sangre—. No estás en posición de formular preguntas, Leo Vanes. Tu retención no figura en ningún registro judicial ni administrativo. Si mueres en esta sala, tu cuerpo será desintegrado en un baño de ácido cáustico y tus cenizas serán dispersadas en el emisario submarino. Para la ciudad, serás simplemente otro joven inestable que no pudo soportar la soledad y se tiró desde el viaducto norte. ¿Queda claro el marco operativo?
+—Silencio —dijo el hombre de la ceja partida. No alzó la voz, pero el tono tenía una dureza pétrea, desprovista de cualquier matiz humano—. No estás en posición de formular preguntas, Leo Vanes. Tu retención no figura en ningún registro judicial ni administrativo. Si mueres en esta sala, tu cuerpo será desintegrado en un baño de ácido cáustico y tus cenizas serán dispersadas en el emisario submarino. Para la ciudad, serás simplemente otro joven inestable que no pudo soportar la soledad y se tiró desde el viaducto norte. ¿Queda claro el marco operativo?
 
-Leo tragó saliva, sintiendo el sudor frío resbalar por su nuca. El pánico amenazó con desbordarlo, pero el hábito adquirido de su mente analítica comenzó a procesar los datos de forma desesperada: la arquitectura no era convencional; el grosor del hormigón sugería un búnker subterráneo o una instalación de seguridad militar clandestina; el aplomo de sus captores demostraba un protocolo estandarizado. No eran criminales comunes pidiendo un rescate. Eran una estructura de poder que operaba por encima de la ley.
+Leo tragó saliva; el sudor frío le empapaba la nuca. Su mente analítica se forzó a descomponer la escena para contener el temblor de las manos: el grosor del hormigón delataba un búnker subterráneo o un complejo militar clandestino; la calma metódica de sus captores respondía a un protocolo ensayado mil veces. Operaban como una maquinaria organizada, ajena a cualquier marco civil.
 
 —No tengo dinero —dijo Leo, midiendo cada palabra para que la voz no le temblara—. No tengo propiedades. Solo soy un administrativo.
 
@@ -196,7 +196,7 @@ El hombre de mandíbula cuadrada se acercó a la silla. Apoyó una mano enguanta
 
 —Última oportunidad, Leo Vanes —dijo, inclinándose hacia él hasta que Leo pudo oler en su aliento un aroma metálico, sintético, como a lubricante de armas—. Dónde están los cuadernos de tu abuelo. Adónde fue ella.
 
-El pánico bloqueó la garganta de Leo. No había respuestas lógicas, no había explicaciones posibles; solo dos hombres dispuestos a despedazarlo en un sótano sin ventanas.
+El aire se le atascó en la garganta. Frente a él solo aguardaban dos profesionales metódicos dispuestos a desarmarlo tendón a tendón sobre el hormigón desnudo.
 
 El otro agente levantó los dos electrodos de cobre. El zumbido del transformador eléctrico se elevó en un chirrido agudo que erizó el vello de los brazos de Leo. La punta de los bornes comenzó a despedir diminutos arcos azulados, a escasos centímetros de sus muslos.
 
@@ -208,7 +208,7 @@ En ese segundo de asfixia, el único recuerdo que le vino a la cabeza fue un dib
 
 Y entonces, la muñeca izquierda de Leo ardió.
 
-Fue un dolor atroz, como si le hubieran ceñido un hierro al rojo vivo directamente sobre el pulso.
+El dolor fue fulminante y atroz: la piedra se hundió en su carne desprendiendo un calor abrasador que le coció la piel de la muñeca en una fracción de segundo.
 
 La tosca pulsera que Caine le había colocado meses atrás comenzó a vibrar con un crujido sordo. La piedra oscura despertó: las ranuras microscópicas del material se abrieron y un resplandor esmeralda, denso y fosforescente, estalló inundando la habitación de golpe.
 
@@ -220,52 +220,10 @@ La temperatura en la sala cayó de golpe. La bombilla halógena parpadeó, emiti
 
 Demasiado tarde.
 
-El brillo verde de la pulsera mutó en una llamarada blanca incandescente que devoró la oscuridad del sótano. El aire alrededor del cuerpo de Leo se plegó sobre sí mismo con un crujido seco, un vacío gravitatorio que succionó el oxígeno de la habitación y dobló los grilletes de acero de la silla como si estuvieran hechos de plomo blando.
+El brillo verde de la pulsera mutó en una llamarada blanca incandescente que devoró la oscuridad del sótano. El aire alrededor del cuerpo de Leo se plegó sobre sí mismo con un crujido seco, un vacío gravitatorio que succionó el oxígeno de la habitación y cizalló los anclajes de acero, combando los grilletes de la silla con la facilidad de un alambre caliente.
 
 Un zumbido atronador, una frecuencia sónica que desgarró los tímpanos de los dos agentes haciéndoles sangrar por la nariz, llenó el espacio. El tiempo pareció dilatarse en una fracción de segundo infinita: Leo vio el cañón del arma del agente apuntándole a la cabeza, vio la bala salir de la recámara envuelta en un cono de pólvora congelado en el aire...
 
 Y entonces, el tejido de la realidad se fracturó.
 
 Un pulso de choque cinético desintegró la silla de hierro. La luz blanca se condensó en un punto ciego que se tragó a Leo por completo. La habitación quedó vacía, envuelta en humo acre, con dos hombres arrojados contra las paredes de hormigón y una mancha de azufre y ceniza fría en el suelo donde un segundo antes había estado un prisionero.
-
-***
-
-El impacto fue demoledor.
-
-Leo no cayó sobre hormigón ni sobre adoquines. Se estrelló de espaldas contra una alfombra húmeda, blanda y elástica compuesta por capas infinitas de hojas podridas y materia orgánica en descomposición. El golpe le expulsó todo el aire de los pulmones con un estertor agónico.
-
-Rodó sobre sí mismo, tosiendo con violencia, tratando de incorporar el torso mientras las náuseas le desgarraban el estómago.
-
-Su mano izquierda ardía con un dolor abrasador.
-
-Se miró la muñeca. La pulsera de su abuelo ya no existía. En su lugar, sobre la piel enrojecida y viva por una quemadura circular perfecta, solo quedaban astillas negras y quebradizas que se deshacían en ceniza al menor contacto con el viento. La pieza se había consumido por completo en el salto, dejando solo una herida humeante.
-
-Leo se quedó inmóvil, apoyado sobre las rodillas y las palmas de las manos, tratando de comprender dónde estaba.
-
-Lo primero que lo golpeó fue el aire.
-
-Inspiró por la boca en un jadeo instintivo y sintió como si hubiera tragado una bocanada de vapor hirviendo cargada de ceniza viva. Sus pulmones ardieron al instante. El aire era denso, sofocante, cargado de una pureza de oxígeno tan salvaje que cada inhalación le provocaba un dolor punzante en las sienes. El corazón le retumbaba en las costillas a un ritmo frenético, desbocado, bombeando una sangre que parecía arderle en las venas.
-
-Tosió una flema oscura, manchando la tierra.
-
-—¿Dónde...? —articuló con un hilo de voz que se ahogó en la nada.
-
-Alzó la cabeza despacio. Y el mundo que conocía —la ciudad, las calles de asfalto, las comisarías y la rutina gris de los días— se extinguió para siempre en su mente.
-
-Estaba arrodillado al pie de un árbol colosal.
-
-El tronco que se alzaba a su derecha era tan monstruoso que ni cincuenta hombres cogidos de los brazos alcanzarían a rodearlo. Su corteza, agrietada por hendiduras profundas como barrancos de piedra, ascendía recta, implacable, perdiéndose en un dosel de follaje esmeralda que flotaba a cientos de metros de altura, tan denso que ocultaba por completo el cielo. La luz solar apenas se filtraba a través de las ramas altas en jirones verdosos y húmedos, creando una penumbra solemne, interminable.
-
-A sus pies, las hojas de un simple helecho eran más largas y anchas que lanzas de guerra. Una hilera de hongos que brotaban de la tierra podrida desprendían un fulgor violáceo, con sombreros bajo cuya sombra podría haberse cobijado una patrulla entera de hombres hombro con hombro.
-
-El silencio que lo rodeaba no era paz; era la quietud sofocante de un ecosistema en el que todo, desde la hoja más pequeña hasta la sombra más lejana, estaba diseñado para cazar o ser devorado.
-
-A lo lejos, a través de la bruma esmeralda que cubría la base de los titanes de madera, resonó un crujido sordo. No fue el quiebro de una rama seca: fue el sonido profundo de toneladas de peso aplastando la maleza, seguido por una vibración tectónica que Leo sintió subir a través de la tierra húmeda directamente hasta sus rodillas.
-
-Se llevó la mano al pecho, sintiendo el vacío en el bolsillo donde antes guardaba sus llaves de casa. Miró las cenizas de la pulsera esparcidas entre el musgo colosal.
-
-Recordó los trazos de tinta de Caine. La brecha entre los riscos de basalto. El refugio del mapa.
-
-Leo estaba vivo.
-Estaba solo.
-Y acababa de caer en el mundo que creía inventado.
