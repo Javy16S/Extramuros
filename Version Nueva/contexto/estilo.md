@@ -88,3 +88,34 @@ Restringidas a un máximo de **1 aparición por cada 4.000 palabras** (o elimina
 *   **Micro-acciones físicas:** Intercalar movimientos corporales en lugar de adjetivar la voz del personaje (ajustarse una bota, apartar una rama, apoyar la mano en la pared).
 *   **Prohibidos los diálogos de exposición pura:** Nadie explica lo que el interlocutor ya sabe solo para que se entere el lector. Todo dato debe surgir del conflicto o de la urgencia práctica.
 *   **Subtexto y asimetría:** Las conversaciones reales tienen fricción; los personajes no responden de forma mecánica a lo que se les pregunta.
+
+---
+
+## V. PROTOCOLO DE TRANSICIÓN ENTRE CAPÍTULOS (CONTINUIDAD Y APERTURA)
+
+Queda formalizado el estándar para enlazar el final de un capítulo con el inicio del siguiente, garantizando ritmo cinematográfico y erradicando la redundancia.
+
+### 1. La Regla de Oro: Prohibición del Resumen («Previously on...»)
+*   **Terminantemente prohibido:** Comenzar un capítulo resumiendo lo acontecido en el capítulo anterior (*«Leo acababa de escapar de la bestia y ahora...»*, *«Tras caer inconsciente frente a la cabaña...»*).
+*   En una lectura continua, el lector acaba de leer ese suceso hace dos segundos; repetir la información corta el ritmo de forma innecesaria.
+
+### 2. Las Tres Modalidades Canónicas de Apertura
+
+#### Modalidad A: Continuación Inmediata (Segundo Cero)
+*   **Aplicación:** Cuando el capítulo anterior termina en un corte de acción motriz, peligro físico inminente o movimiento interrumpido (un salto en el aire, un disparo, un portazo).
+*   **Mecánica:** El nuevo capítulo arranca **en el segundo exacto posterior**. Cero pausas, cero explicaciones retrospectivas. Se describe el impacto, la caída o la consecuencia física inmediata del movimiento.
+
+#### Modalidad B: El Despertar Sensorial (Regla por Defecto tras Desmayo, Sedación o Noche)
+*   **Aplicación:** Cuando el protagonista pierde el sentido, duerme o sufre una conmoción (como ocurre al final del Capítulo 2 frente a la cabaña).
+*   **Mecánica de 4 Pasos Obligatorios:**
+    1.  *Estímulo sensorial pre-visual:* El cerebro registra primero el entorno a través del **olfato, el tacto, la temperatura o el sonido** antes de que los ojos se abran (olor a humo de grasa, tacto de una piel curtida, frío en la piedra, crepitar de brasas, sabor amargo a bilis o resina).
+    2.  *Comprobación del cuerpo (Herencia Biológica):* Se muestra de inmediato el estado físico real heredado del capítulo anterior: la tirantez de una quemadura vendada, la boca reseca por la deshidratación, los calambres residuales del Flujo.
+    3.  *Apertura visual y anclaje espacial:* El personaje abre los ojos y descubre la nueva realidad sin explicaciones previas.
+    4.  *Interrupción o amenaza inmediata:* Una voz áspera, una orden cortante o una acción manual que obliga al personaje a reaccionar en el acto.
+
+#### Modalidad C: La Elipsis Funcional (Salto Temporal de Días o Semanas)
+*   **Aplicación:** Cuando transcurre un periodo de adiestramiento, convalecencia o marcha que no requiere narración minuto a minuto (ejemplo: los días de entrenamiento con Mason en el prado).
+*   **Mecánica:**
+    *   Arranca con **una acción o un hábito físico del presente**, integrando el paso del tiempo de forma orgánica dentro de la propia acción.
+    *   ✔ *«Al sexto día, el dolor en las plantas de los pies dejó de sangrar para convertirse en una suela de callo duro. Leo afilaba la punta de la lanza con una lasca de pedernal cuando el viejo pateó la puerta.»*
+    *   ❌ *«Habían pasado seis días desde que Leo llegó a la cabaña y durante ese tiempo Mason le había enseñado muchas cosas...»*
