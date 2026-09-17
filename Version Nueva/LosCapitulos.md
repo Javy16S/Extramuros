@@ -269,6 +269,7 @@ Recordó los trazos de tinta de Caine. La brecha entre los riscos de basalto. El
 Leo estaba vivo.
 Estaba solo.
 Y acababa de caer en el mundo que creía inventado.
+
 # CAPÍTULO 2: LA CUEVA DE LOS HUESOS
 
 El suelo retumbó bajo su pecho antes de que sus ojos lograran enfocar la penumbra.
@@ -277,13 +278,13 @@ Leo tragó aire a bocanadas cortas, con la frente hundida en un colchón de turb
 
 Intentó incorporarse sobre los codos, pero el aire le entró en la tráquea como un trago de lejía fría.
 
-El oxígeno en aquel lugar no era una brisa ordinaria: tenía una densidad pesada, casi metálica, que le abrasó los bronquios desde la primera aspiración. El corazón le pegó un vuelco en el pecho y empezó a golpear contra las costillas en una carrera frenética, bombeando sangre a presión hacia las sienes hasta que la vista se le llenó de puntos brillantes.
+El aire tenía una densidad pesada, casi metálica, que le abrasó los bronquios desde la primera aspiración. El corazón le pegó un vuelco en el pecho y empezó a golpear contra las costillas en una carrera frenética, bombeando sangre a presión hacia las sienes hasta que la vista se le llenó de puntos brillantes.
 
 Apoyó las palmas en la tierra empapada y miró hacia arriba.
 
 La magnitud del bosque lo aplastó contra el fango.
 
-A escasos metros, un tronco ascendía recto hacia las alturas como una torre de piedra negra, tan ancho que cuatro camiones de carga alineados de par en par no habrían cubierto su diámetro. Sus raíces no se perdían bajo tierra: sobresalían del lecho vegetal formando crestas leñosas de tres metros de altura, cubiertas por un manto de musgo fluorescente que brillaba con una fosforescencia verdosa en la penumbra. Más arriba, a una altitud donde en la ciudad solo volaban las palomas y zumbaban los tendidos de alta tensión, las copas de los árboles se entrelazaban en una bóveda cerrada de frondas monumentales que borraba el cielo por completo, dejando pasar apenas unos haces de luz lechosa suspendidos en la bruma.
+A escasos metros, un tronco ascendía recto hacia las alturas como una torre de piedra negra, tan ancho que cuatro camiones de carga alineados de par en par no habrían cubierto su diámetro. Sus raíces sobresalían del lecho vegetal formando crestas leñosas de tres metros de altura, cubiertas por un manto de musgo fluorescente que brillaba con una fosforescencia verdosa en la penumbra. Más arriba, a una altitud donde en la ciudad solo volaban las palomas y zumbaban los tendidos de alta tensión, las copas de los árboles se entrelazaban en una bóveda cerrada de frondas monumentales que borraba el cielo por completo, dejando pasar apenas unos haces de luz lechosa suspendidos en la bruma.
 
 Una hoja de helecho caída a su lado medía más que su propio cuerpo. La condensación que goteaba desde las alturas caía en proyectiles del tamaño de puños cerrados, reventando contra el suelo de lodo con un chasquido sordo.
 
@@ -295,13 +296,11 @@ Nada más. Sin herramientas, sin calzado de repuesto, sin un cuchillo. Solo la r
 
 El fango bajo sus rodillas vibró de nuevo.
 
-*Thump... thump... thump.*
-
-El golpe fue seco, metódico y pesado. No era el rumor lejano de una tormenta, sino el impacto de una masa descomunal descargando peso sobre el terreno. Un charco de agua estancada a dos palmos de sus botas quebró en círculos perfectos que rebotaron contra las orillas de barro.
+El impacto fue seco, metódico y pesado. El temblor subió por las piernas de Leo con la fuerza de un martinete que descargaba toneladas de peso sobre el terreno a cada paso. Un charco de agua estancada a dos palmos de sus botas quebró en círculos perfectos que rebotaron contra las orillas de barro.
 
 A su izquierda, entre una maraña de tallos leñosos del grosor de vigas maestras, una rama de dos palmos de diámetro crujió antes de quebrarse con un estruendo de astillas proyectadas al aire.
 
-Leo se puso en pie de un salto, apoyando la espalda contra el contrafuerte del tronco más cercano. El deltoides izquierdo le dio una punzada punzante donde los agentes del búnker le habían clavado el sedante, pero la sacudida de adrenalina le tensó los tendones al instante.
+Leo se puso en pie de un salto, apoyando la espalda contra el contrafuerte del tronco más cercano. El deltoides izquierdo le dio una punzada aguda donde los agentes del búnker le habían clavado el sedante, pero la sacudida de adrenalina le tensó los tendones al instante.
 
 Miró a través de la niebla tibia del sotobosque.
 
@@ -317,7 +316,7 @@ Para alcanzar los riscos había que cruzar una vaguada de doscientos metros dond
 
 El follaje se abrió con un crujido elástico y la criatura apareció en el claro.
 
-A Leo se le heló el pulso.
+Leo contuvo la respiración; los músculos de la espalda se le clavaron como tablas contra la madera del tronco.
 
 Era un cuadrúpedo macizo, bajo y ancho, de casi ocho metros desde el morro hasta una cola corta rematada en callosidades óseas. Su cuerpo se movía a ras de suelo con una lentitud engañosa, pero cada una de sus patas era una columna de hueso y músculo estriado que terminaba en pezuñas triples provistas de espolones curvos, diseñados para aferrarse a la turba sin resbalar. Su lomo y sus costillares estaban protegidos por un blindaje de placas superpuestas de queratina negruzca, con la textura áspera del basalto enfriado al aire, separadas por pliegues de piel grisácea que se dilataban a cada movimiento.
 
@@ -335,7 +334,7 @@ El cuello blindado giró hacia el tronco donde Leo permanecía inmóvil.
 
 Las cuencas lechosas se clavaron en él.
 
-No había duda: lo había olido. En un ecosistema de madera mojada, savia fermentada y lodo podrido, la presencia de Leo era una señal estridente: el tejido quemado de su muñeca izquierda, el olor artificial del impermeable y el rastro salino de un sudor helado por el pánico.
+La criatura lo había olido. En un ecosistema de madera mojada, savia fermentada y lodo podrido, la presencia de Leo era una señal estridente: el tejido quemado de su muñeca izquierda, el impermeable sintético y el rastro salino de un sudor frío por el pánico.
 
 La bestia hundió las pezuñas delanteras en la turba, arqueó el lomo acorazado y emitió un zumbido gutural tan profundo que el barro a los pies de Leo tembló en ondas menudas.
 
@@ -349,11 +348,7 @@ Se lanzó hacia adelante, enfilando la cuesta hacia los riscos de piedra negra.
 
 Correr sobre aquella superficie era una pesadilla de tracción. Con cada paso, las botas se enterraban hasta media espinilla en la turba descompuesta, que tiraba de los talones con la fuerza de un lodo viscoso. El aire rico en oxígeno le entraba a presión en los pulmones, quemándole el pecho con un fuego frío que le provocaba una tos seca y dolorosa, pero sus piernas respondían con una urgencia que no admitía fatiga.
 
-A su espalda, la bestia avanzaba con el sonido de un alud de rocas.
-
-*¡CRUNCH! ¡CRUNCH! ¡CRUNCH!*
-
-El animal no esquivaba la vegetación. Su cráneo en cuña destrozaba troncos jóvenes de medio metro de grosor, partiéndolos por la base sin perder un ápice de inercia. Leo zigzagueó desesperadamente entre las raíces de los árboles más colosales, buscando ángulos muertos donde el volumen del monstruo le hiciera perder velocidad. Al bordear un contrafuerte de madera vieja, sintió el golpe sordo de la bestia rozando la corteza: toneladas de queratina chocando contra el tronco con un chirrido que desprendió una lluvia de musgo y astillas sobre su cabeza.
+A su espalda, la bestia avanzaba con el estruendo de un alud de rocas, barriendo y quebrando la vegetación a su paso. El animal no esquivaba los obstáculos: su cráneo en cuña destrozaba troncos jóvenes de medio metro de grosor, partiéndolos por la base sin perder un ápice de inercia. Leo zigzagueó desesperadamente entre las raíces de los árboles más colosales, buscando ángulos muertos donde el volumen del monstruo le hiciera perder velocidad. Al bordear un contrafuerte de madera vieja, sintió el golpe sordo de la bestia rozando la corteza: toneladas de queratina chocando contra el tronco con un chirrido que desprendió una lluvia de musgo y astillas sobre su cabeza.
 
 Pero la criatura corrigió el rumbo con un latigazo de sus cuartos traseros, trituró un banco de hongos blandos y volvió a recortar la distancia.
 
@@ -365,7 +360,7 @@ Y entonces, el suelo se interrumpió.
 
 Una sima profunda, oculta tras una cortina de ramas caídas, cortaba el ascenso de lado a lado. Tenía unos cinco metros de anchura de un borde al otro, y su fondo se hundía en un pozo de tres metros atestado de espinos leñosos, rígidos como púas de hierro, entre charcos de agua estancada del color de la brea.
 
-No había desvío posible. A la izquierda, la grieta se abría en un pozo ciego; a la derecha, una roca lisa cerraba el paso.
+Cualquier desvío quedaba descartado. A la izquierda, la grieta se abría en un pozo ciego; a la derecha, una roca lisa cerraba el paso.
 
 Si frenaba para buscar un paso, el pico aserrado de la bestia lo partiría por el torso; si saltaba en corto, caería sobre las estacas vegetales del fondo.
 
@@ -417,9 +412,9 @@ Apretó el botón de la base.
 
 El haz de luz blanca cortó la oscuridad.
 
-Bajo la bóveda de basalto no había una cueva común: se abría un osario inmenso sostenido por el esqueleto petrificado de un animal colosal, fosilizado e integrado en la geología misma del promontorio.
+Bajo la bóveda de basalto se abría un osario inmenso sostenido por el esqueleto petrificado de un animal colosal, fosilizado e integrado en la geología misma del promontorio.
 
-La cavidad se extendía hacia el fondo a lo largo de decenas de metros, pero sus muros y su techo no estaban labrados únicamente en roca viva: estaban abrazados por la osamenta mineralizada de un ser antiguo, una criatura de dimensiones tan desmesuradas que reducía el esqueleto de una ballena a una escala menor.
+La cavidad se extendía hacia el fondo a lo largo de decenas de metros; muros y bóveda se entrelazaban con la osamenta mineralizada de un ser antiguo, una criatura tan masiva que reducía el esqueleto de una ballena a una escala menor.
 
 A su izquierda, curvándose desde el lecho del suelo hasta rozar el techo a más de diez metros de altura, una hilera de costillas fósiles formaba una galería arqueada. Cada arco óseo medía más de un metro de grosor, con una superficie estriada por surcos profundos donde antaño debieron anclarse tendones del calibre de cabos de amarre naval. En el centro de la sala, emergiendo del sedimento como un monolito tallado, descansaba un cuerpo vertebral tan masivo que cuatro hombres tumbados en cruz apenas cubrirían su diámetro.
 
@@ -429,17 +424,17 @@ El hedor a cal inerte y a minerales secos explicaba por qué la bestia exterior 
 
 Leo avanzó paso a paso entre las costillas colosales, proyectando la linterna hacia los rincones de la caverna.
 
-Y en medio de ese silencio absoluto, el peso del aislamiento le cayó encima como un bloque de plomo.
+Y en medio de ese silencio absoluto, el peso del aislamiento lo aplastó contra la roca.
 
 Estaba solo. Completamente solo.
 
 Alzó la linterna hacia las paredes, buscando desesperadamente cualquier señal en la piedra: una huella de bota en el polvo blanco, una marca de pedernal, un resto de tela, una lata de comida vacía... Nada. El lecho de polvo de hueso estaba inmaculado, inalterado desde hacía siglos, marcado únicamente por sus propios pasos torpes.
 
-No había rastro de Elena. No había notas. No había mensajes.
+Ni un rastro de Elena. Ni una marca en la piedra. Ni un mensaje.
 
-La idea de que ella hubiera llegado a este mismo punto se desmoronó bajo la evidencia del polvo inerte. La inmensidad de este mundo exterior abría un abismo insalvable: dos personas podían estar bajo el mismo dosel vegetal y permanecer separadas por cientos de leguas de fango, ciénagas y depredadores sin cruzarse jamás.
+La idea de que ella hubiera llegado a este mismo punto se desmoronó bajo la evidencia del polvo inerte. La inmensidad de este mundo exterior abría un abismo insalvable: dos personas podían estar bajo el mismo dosel vegetal y permanecer separadas por cientos de leguas de lodo, ciénagas y depredadores sin cruzarse jamás.
 
-*¿Dónde estás?*, pensó, sintiendo que la garganta se le cerraba en un nudo seco. *¿Quién eras en realidad, Elena?*
+La garganta se le cerró en un trago amargo. *¿Dónde estás? ¿Quién eras en realidad, Elena?*
 
 Las preguntas que los hombres de traje oscuro le habían escupido en la sala de interrogatorio del búnker volvieron a golpearle la cabeza: *Haimara... la llaman Haimara*.
 
@@ -463,7 +458,7 @@ El colapso le cayó encima como un hachazo frío en mitad de la espalda.
 
 Leo soltó un quejido ronco y cayó de rodillas sobre las esquirlas de cal, doblándose en dos sobre su vientre.
 
-El estómago se le cerró en un calambre tan violento que sintió como si las vísceras se le retorcieran sobre sí mismas. Un frío seco le brotó de la base del cráneo y se derramó por sus venas, haciendo que sus brazos y piernas comenzaran a sacudirse en temblores espasmódicos e incontrolables. Sus dientes castañeteaban con chasquidos tan duros que temió partirse un molar; los músculos de los muslos, los gemelos y la zona lumbar se endurecieron como piedras, atenazados por nudos musculares que le cortaron el aliento.
+El estómago se le cerró en un calambre violento que le retorció las vísceras como una tenaza. Un frío seco le brotó de la base del cráneo y se derramó por sus venas, haciendo que sus brazos y piernas comenzaran a sacudirse en temblores espasmódicos e incontrolables. Sus dientes castañeteaban con chasquidos tan duros que temió partirse un molar; los músculos de los muslos, los gemelos y la zona lumbar se endurecieron como piedras, atenazados por nudos musculares que le cortaron el aliento.
 
 Intentó tomar aire, pero el diafragma apenas respondía. La vista se le nubló en una estática gris: el cerebro, vaciado de glucosa tras la aceleración del salto, amenazaba con apagarse de golpe.
 
@@ -481,7 +476,7 @@ Pasaron cinco minutos en la penumbra. Luego diez.
 
 Lentamente, como el calor de una brasa que empieza a revivir bajo un puñado de astillas secas, un rescoldo de temperatura comenzó a circular de nuevo por sus arterias. Los calambres abdominales más violentos aflojaron su presa, dejando a cambio un dolor sordo y generalizado en cada articulación, como si le hubieran molido el cuerpo a palos. El temblor en las mandíbulas remitió, aunque una debilidad pesada y fría le mantenía los párpados pegados.
 
-El aporte de hidratos frenó la caída en picado, pero era una tregua mínima contra un motor que acababa de descubrir un consumo desorbitado.
+El aporte de hidratos frenó la caída en picado, pero ofrecía una tregua mínima contra un consumo metabólico voraz y desmedido.
 
 Leo encendió la linterna y se incorporó despacio.
 
@@ -507,7 +502,7 @@ Entre la maraña asfixiante de la selva se abría un claro despejado, de unos do
 
 Una cabaña.
 
-Una construcción baja, tosca, levantada con tablones gruesos de madera curtida y techada con planchas de corteza superpuestas. Carecía por completo de vallas defensivas a su alrededor. No había empalizadas de troncos afilados, ni fosos con estacas, ni torretas de vigilancia, ni ninguna de las protecciones que el sentido común exigiría en un territorio poblado por depredadores gigantescos. La cabaña descansaba en mitad del prado, solitaria, abierta y vulnerable... con la puerta de entrada descolgada de par en par.
+Una construcción baja, tosca, levantada con tablones gruesos de madera curtida y techada con planchas de corteza superpuestas. Carecía de vallas defensivas. Ninguna empalizada de troncos, foso de estacas o torreta de vigilancia resguardaba el perímetro frente a los depredadores de la espesura. La cabaña descansaba en mitad del prado, solitaria y expuesta, con la puerta de entrada abierta de par en par.
 
 Leo dio un paso hacia el claro.
 
@@ -517,21 +512,21 @@ El aire permaneció inmóvil, pero cambió de textura.
 
 El rumor lejano de las ramas mecidas por el viento en la linde del bosque se apagó de golpe, amortiguado bajo un manto de silencio espeso. Pero lo verdaderamente inquietante ocurrió en su propio interior.
 
-Leo sintió que todo comenzaba a ralentizarse.
+El entorno y su propio cuerpo comenzaron a ralentizarse.
 
-Sus pensamientos se volvieron espesos, torpes, como si su cerebro tuviera que arrastrar cada idea a través de una balsa de alquitrán frío. El ritmo acelerado de su corazón cayó de golpe; las pulsaciones se espaciaron en una cadencia anormalmente lenta que le abrió un vacío helado en el pecho.
+Sus pensamientos se volvieron espesos, torpes, como si el cerebro tuviera que arrastrar cada idea a través de una balsa de brea fría. El ritmo acelerado de su corazón cayó en seco; las pulsaciones se espaciaron en una cadencia anormalmente lenta que le abrió un vacío helado en el pecho.
 
 *¿Qué me pasa?*, intentó formular mentalmente, pero la pregunta tardó una eternidad en hilvanarse.
 
-Una alarma instintiva le gritó que algo lo acechaba desde la espesura que acababa de dejar atrás. Quiso girar la cabeza hacia la derecha para vigilar su retaguardia, pero el cuello tardó tres segundos enteros en rotar. Los ojos le pesaban como si tuviera arena bajo los párpados. Sus músculos no respondían con la soltura de siempre; cada contracción requería un esfuerzo consciente agotador, como si estuviera caminando sumergido en agua helada hasta la cintura.
+Una alarma instintiva le avisó de que algo lo acechaba desde la espesura que acababa de dejar atrás. Quiso girar la cabeza hacia la derecha para vigilar su retaguardia, pero el cuello tardó tres segundos enteros en rotar. Los ojos le pesaban como si tuviera arena bajo los párpados. Sus músculos no respondían con la soltura habitual; cada contracción requería un esfuerzo consciente agotador, como si estuviera caminando sumergido en agua helada hasta la cintura.
 
 Un frío intenso le atenazó el pecho.
 
 *Veneno*, pensó con angustia, apretando los dientes. *Las heridas de las manos... la savia de los espinos me ha entrado en la sangre. Me estoy paralizando.*
 
-Intentó retrasar la pierna izquierda para retroceder y salir del claro, pero la bota pesaba como un bloque de granito. El suelo parecía retenerlo, absorbiendo su energía, envolviéndolo en un letargo forzado que tiraba de sus hombros hacia abajo.
+Intentó retrasar la pierna izquierda para retroceder y salir del claro, pero la bota pesaba como un bloque de granito. El suelo parecía retenerlo, drenando su energía, envolviéndolo en un letargo forzado que tiraba de sus hombros hacia abajo.
 
-Leo no comprendía lo que ocurría. Solo sentía que el prado entero era un pozo de quietud anormal donde la vida se aletargaba hasta el congelamiento.
+Leo no comprendía lo que ocurría. El claro entero parecía un sumidero donde el movimiento y la vida se aletargaban hasta casi detenerse por completo.
 
 Alzó la vista con dificultad, con la mirada empañada por un velo gris.
 
