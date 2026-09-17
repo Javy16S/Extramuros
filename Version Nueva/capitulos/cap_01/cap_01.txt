@@ -216,7 +216,7 @@ La tosca pulsera que Caine le había colocado meses atrás comenzó a vibrar con
 
 La temperatura en la sala cayó de golpe. La bombilla halógena parpadeó, emitió un chasquido agudo y reventó en una lluvia de esquirlas de cristal sobre la mesa.
 
-—¡Lleva una pieza viva! —gritó el hombre de mandíbula cuadrada, soltando a Leo y metiendo la mano bajo la chaqueta para desenfundar—. ¡Está sintonizada! ¡Mátalo! ¡Mátalo ya!
+—¡Mátalo! —gritó el hombre de mandíbula cuadrada, soltando a Leo de golpe y retrocediendo mientras metía la mano bajo la chaqueta para desenfundar—. ¡Dispara! ¡Dispara ya!
 
 Demasiado tarde.
 

@@ -22,7 +22,7 @@ El planeta es colosal, de dimensiones inconmensurables que empequeñecen cualqui
     *   **Periferia Salvaje (Selvas Primigenias):** Árboles ciclópeos cuyas copas tocan las nubes y ocultan el cielo; humedad sofocante y depredadores gigantescos.
     *   **Regiones Fúngicas (Mar de Esporas):** Biomas dominados por hongos colosales y miasmas tóxicos que descomponen el tejido pulmonar sin filtrado.
     *   **Tierras Profundas / Tierras Huecas:** Fallas geológicas abisales, valles escarpados y radiación residual de Flujo.
-    *   **El Horizonte Oscuro:** **No es un territorio homogéneo ni exclusivo de monstruos.** Es la designación que dan los exploradores y cartógrafos a **todo lo desconocido e inexplorado**. En esas zonas ignotas habitan misterios ancestrales y se sabe de la presencia esporádica de entidades **Clase Ø (Omega)**, pero el Horizonte Oscuro representa ante todo la frontera absoluta de la cartografía humana.
+    *   **El Horizonte Oscuro:** **No es un territorio homogéneo ni exclusivo de monstruos.** Es la designación que dan los exploradores y cartógrafos a **todo lo desconocido e inexplorado**. Representa la frontera absoluta de la cartografía humana, más allá de donde cualquier expedición haya regresado con vida.
 *   **La Escala (Biología Titánica):** **Leo mide 1.80m.** Si un helecho tiene el porte de una avioneta o un tronco abarca el tamaño de una manzana urbana, es fruto de millones de años de evolución sin freno en una atmósfera saturada de oxígeno, no de un encogimiento humano.
 
 ### 1.3 Asentamientos, Colonias y Desertores
@@ -65,7 +65,8 @@ Para un desglose técnico exhaustivo de técnicas, fórmulas y combate, consulta
 3.  **Clase B (Desastre):** Criaturas con adaptaciones bioquímicas (ácidos, camuflaje, fuego biológico).
 4.  **Clase A (Catástrofe):** Depredadores alfa territoriales capaces de arrasar destacamentos enteros.
 5.  **Clase S (Titán):** Organismos de escala geográfica cuyo desplazamiento altera el clima local.
-6.  **Clase Ø (Omega) - Deidades Naturales:** Entidades que dominan el Flujo a nivel celular y ecológico. Inmortales, capaces de reescribir la biología circundante.
+6.  **Clase Ø (Omega) - El Destructor (Entidad Única Registrada):** No constituye una especie ni una categoría censada con múltiples ejemplares conocidos. Es la designación otorgada al **único ser cataclísmico registrado en toda la historia de la humanidad**: una calamidad biológica absoluta que borró del mapa expediciones enteras y que desafía todas las leyes del Flujo y la escala militar humana. Para la ciencia y los analistas del gobierno, **el Clase Omega es un ente único, singular y destructivo**.
+    *   *Nota canónica (Futuros libros):* La humanidad actual ignora si existen más seres de esta magnitud en las profundidades inexploradas del planeta. Solo si en futuras eras la humanidad y el dominio del Flujo evolucionan hasta disputar combates a esa escala, se podrá plantear el descubrimiento de otras entidades similares; en la narrativa presente, se concibe y teme como un ser único e irrepetible.
 
 ---
 
@@ -82,8 +83,8 @@ Es vital distinguir que **Clase S es una categoría de poder, no un grupo polít
 ## IV. GENÉTICA DE LOS PROTAGONISTAS Y EL LEGADO DE HISTORIAS
 
 ### 4.1 Caine ("El Inmortal")
-*   Abuelo de Leo. Leyenda humana de **Clase S**, único superviviente registrado a un Clase Omega gracias a su descomunal **Regeneración de Caudal**. Al reconstruirse a nivel celular en milisegundos, su cuerpo está completamente limpio de cicatrices, quemaduras o marcas de vejez.
-*   En su huida arrancó un fragmento de tejido vivo de la deidad Omega y forjó dos reliquias: una **pulsera para Leo** y un **collar para Elena/Haimara**.
+*   Abuelo de Leo. Leyenda humana de **Clase S**, único superviviente registrado al encuentro con el Clase Omega gracias a su descomunal **Regeneración de Caudal**. Al reconstruirse a nivel celular en milisegundos, su cuerpo está completamente limpio de cicatrices, quemaduras o marcas de vejez.
+*   En su huida arrancó un fragmento de tejido fosilizado de la entidad y forjó en absoluto secreto dos reliquias antes de retirarse: una **pulsera para Leo** y un **collar para Elena/Haimara**. Ninguna facción militar ni científica conoce la existencia de estas piezas ni lo que Caine hizo con ellas; para el gobierno, Caine simplemente desertó tras el desastre del Omega.
 *   **El Vínculo con Elena:** Caine convivió con Elena durante más de cuatro años. Detectó su origen por la cadencia pulmonar adaptada y la química de su sangre mutada. Elena descubrió quién era él por los mapas exactos de la buhardilla y por ver que sus heridas domésticas sanaban al instante sin dejar rastro. Ambos sellaron un pacto de silencio protector en torno a Leo.
 *   **El Pacto de Sacrificio:** Al interceptar a los agentes del gobierno que rastreaban a Elena cerca de la casa, Caine aceptó volver al servicio activo en Extramuros a cambio de que no tocaran a los chicos.
 

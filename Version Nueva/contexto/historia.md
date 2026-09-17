@@ -1,4 +1,4 @@
-﻿# SINOPSIS Y ESTRUCTURA HISTÓRICA: EXTRAMUROS
+# SINOPSIS Y ESTRUCTURA HISTÓRICA: EXTRAMUROS
 
 **Título:** EXTRAMUROS  
 **Género:** Grounded Thriller de Conspiración / Fantasía Épica Biológica y Supervivencia  
@@ -25,7 +25,7 @@ La humanidad civil vive en un archipiélago continental creyendo que abarca la t
 4. **La Transmisión de Cuentos (El Legado Cruzado):**
    Para preparar a Leo ante cualquier imprevisto sin aterrorizarlo, Caine le contaba sus expediciones como si fueran fábulas fantásticas y dibujaba mapas detallados. Cuando Caine se sacrificó —entregándose al gobierno para volver al servicio activo tras interceptar a los agentes que cercaban la casa—, Leo quedó deshecho. Elena tomó el relevo: se sentaba junto a Leo por las noches y le narraba **"nuevas historias que decía haberse inventado en recuerdo del abuelo"**, cuando en realidad eran sus propias memorias reales de Extramuros.
 5. **Las Reliquias del Omega:**
-   Con tejido mineralizado arrancado a una deidad Clase Omega, Caine forjó una **pulsera para Leo** y un **collar para Elena/Haimara** antes de partir: anclas emocionales y llaves de emergencia biológica.
+   Con tejido mineralizado arrancado al **único ser Clase Omega registrado en la historia**, Caine forjó en secreto absoluto una **pulsera para Leo** y un **collar para Elena/Haimara** antes de partir: anclas emocionales y llaves de emergencia biológica cuyo origen e ignición eran totalmente desconocidos para el gobierno.
 6. **La Desaparición de Elena:**
    Elena detectó que el cerco del gobierno continuaba activo tras la marcha de Caine. Sabiendo que permanecer junto a Leo lo sentenciaría a muerte, desapareció en secreto para investigar el paradero de Caine y alejar a los agentes de Leo.
 7. **El Secuestro y el Clic de las Dos Voces:**

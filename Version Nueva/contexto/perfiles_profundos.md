@@ -36,7 +36,7 @@ Leo es un joven de 24 años que trabajaba como administrativo en la ciudad. Tras
 ### 👤 Perfil: El Mentor Oculto
 - **Anomalía Humana:** Uno de los pocos humanos del Archipiélago que toleró Extramuros, alcanzando la **Clase S**.
 - **Regeneración de Caudal:** Su cuerpo reconstruye cualquier daño celular en milisegundos. Por ello no tiene cicatrices, marcas de combate ni arrugas de vejez.
-- **Superviviente a un Omega:** Único humano registrado que sobrevivió al encuentro con un Clase Omega. Forjó la pulsera de Leo y el collar de Elena con materia de la criatura.
+- **Superviviente al Clase Omega:** Único humano registrado en la historia que sobrevivió al encuentro con el cataclísmico ser calificado como Clase Omega. Forjó en secreto absoluto la pulsera de Leo y el collar de Elena con materia de la criatura antes de retirarse.
 - **El Sacrificio:** Convivió más de cuatro años con Elena y Leo. Se entregó al gobierno volviendo al servicio activo en Extramuros para frenar a los agentes que cercaban la casa y proteger a ambos muchachos.
 
 ---
