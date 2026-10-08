@@ -85,7 +85,7 @@ Agentes quirúrgicos de contrainteligencia. Trajes reforzados, pupilas insensibl
 - **La Renuncia a la Alegría:** Horrorizado por su negligencia, enterró su nombre infantil y se autobautizó **Manakusi / Makusi** (*Mana-Kusi* = «el que ya no sonríe»), convirtiendo su apodo en una lápida y un recordatorio diario de su error.
 - **Personalidad y Dinámica:** Frío, crónicamente negativo y obsesionado con la prevención técnica. En el Bastión Móvil es quien revisa tres veces la presión de los émbolos, raciona el agua y anticipa emboscadas.
 - **El Protector Oculto:** Su aparente amargura esconde una entrega absoluta. Hipervigila a su compañera porque ve en ella al niño optimista que él solía ser; su juramento silencioso es impedir a toda costa que Extramuros le robe a ella la sonrisa como se la robó a él.
-- **Flujo (Clase C):** Caudal de esfuerzo muscular y mecánico sostenido (resistencia en brazos y espalda para sostener cargas pesadas y reparaciones bajo presión), pero sin el pico de descarga explosivo de Leo.
+- **Flujo (Clase C con Potencial Bloqueado):** Caudal de esfuerzo muscular y mecánico sostenido (resistencia en brazos y espalda para sostener cargas pesadas y reparaciones bajo presión). En realidad posee un potencial biológico mucho más alto, pero se encuentra completamente bloqueado a nivel psicológico. Al basarse el Flujo en el estado de *Flow* (concentración pura, entrega sin miedo y alineación interna), el hecho de que Makusi viva reprimiendo su verdadera personalidad bajo una armadura de culpa, autocastigo e hipervigilancia rígida le impide soltarse y acceder a su verdadero poder. Ni él mismo lo sospecha: asume con resignación que simplemente nació con una potencia modesta.
 
 ---
 
