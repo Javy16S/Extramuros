@@ -31,6 +31,7 @@
   * Pánico masivo. Un oficial de Contención grita aterrado: *«¡SON LOS SEGADORES! ¡DESATAD TODO EL FLUJO QUE TENGÁIS!»*.
   * Choque apoteósico: el Cuerpo de Contención entra en *Caudal* extremo contra los dos Segadores.
   * Leo observa a los dos atacantes sobre una costilla fósil: uno destruye la ciudadela con violencia colosal; el otro permanece inmóvil escaneando a los fugitivos a una velocidad ocular inhumana (movimiento de pupilas tan frenético que el iris se vuelve un borrón vibrante), buscando a Elena entre la multitud.
+  * Durante una fracción de segundo, la mirada del Segador rastreador se cruza con la de Leo: el terror le dispara el Flujo involuntariamente, el mundo se ralentiza a cámara lenta bajo una presión asfixiante que parece juzgar su vida. Al ser descartado y romperse el contacto, el Flujo se corta de golpe, dejándolo a doscientas pulsaciones y con la certeza visceral de que solo puede huir.
 * **Capítulo 8: La Fuga en el Bastión Móvil.**
   * Leo corre hacia los vehículos militares abandonados en el caos. Sube a un Bastión Móvil con las compuertas abiertas.
   * Una multitud de civiles se hacina en la bodega trasera; un chico y una chica de su edad ocupan los asientos de copiloto en la cabina delantera.

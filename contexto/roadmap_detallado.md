@@ -55,7 +55,8 @@
   2. *El grito de pánico militar:* Un comandante de Contención pierde la compostura y brama: *«¡SON LOS SEGADORES! ¡DESATAD TODO EL FLUJO QUE TENGÁIS!»*.
   3. *El choque sangriento:* Las tropas de élite del gobierno cargan en *Caudal* extremo, pero son pulverizadas.
   4. *Las dos figuras en la costilla:* Leo se gira y ve a los dos Segadores sobre el arco fósil superior: uno demuele todo con violencia colosal; el otro permanece inmóvil barriendo a la multitud que huye con un movimiento ocular frenético e inhumano (su iris no se distingue por la velocidad a la que escanea y descarta rostros buscando a Elena).
-  5. *La caída del mito:* Leo ve con sus propios ojos que el Gobierno todopoderoso es impotente ante los verdaderos monstruos de Extramuros.
+  5. *El microinstante del juicio biológico:* Durante una fracción de segundo, la mirada del Segador rastreador se clava directamente en Leo. El pánico animal le dispara a Leo el Flujo por puro reflejo involuntario: el mundo parece detenerse a cámara lenta, los escombros flotan y una presión asfixiante le devora el pecho, como si esa mirada estuviera juzgando si merece vivir o morir. Al instante siguiente, el ojo del Segador lo descarta y salta a otro civil; el Flujo se corta de golpe, dejando a Leo con una taquicardia desorbitada, sudor frío y la certeza biológica absoluta de que su único papel allí es huir.
+  6. *La caída del mito:* Leo ve con sus propios ojos que el Gobierno todopoderoso es impotente ante los verdaderos monstruos de Extramuros.
 
 ---
 
