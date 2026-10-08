@@ -70,7 +70,7 @@ Dos desapariciones idénticas en menos de medio año. Sin rastros de violencia. 
 
 —No voy a esperar sentado —dijo Leo en voz alta.
 
-El reloj marcaba las 03:26. Se calzó las botas de montaña, se abrochó la chaqueta de lona encerada y se guardó la copia de la denuncia y una linterna de mano en el bolsillo interior. Había quedado a las cuatro de la madrugada con Javi, un técnico del centro de control de tráfico del municipio que le había prometido, a cambio de doscientos euros bajo mano, una copia en bruto de las cámaras de seguridad del perímetro exterior de la carretera comarcal norte. Si Garrido no pensaba mirar esas grabaciones, las miraría él fotograma a fotograma.
+El reloj marcaba las 03:26. Se calzó las botas de montaña, se abrochó la chaqueta de lona encerada y se guardó la copia de la denuncia y una linterna de mano con correa de muñeca en el bolsillo interior. Había quedado a las cuatro de la madrugada con Javi, un técnico del centro de control de tráfico del municipio que le había prometido, a cambio de doscientos euros bajo mano, una copia en bruto de las cámaras de seguridad del perímetro exterior de la carretera comarcal norte. Si Garrido no pensaba mirar esas grabaciones, las miraría él fotograma a fotograma.
 
 Aseguró la cerradura con dos vueltas de llave y descendió por la escalera de madera del bloque, cuyos peldaños crujieron bajo su peso como costillas viejas.
 
@@ -94,7 +94,7 @@ La puerta corredera lateral se abrió hacia atrás con un chasquido neumático.
 
 Leo retrocedió un paso, tanteando el aire en busca de un arma, una botella rota, cualquier cosa.
 
-—¡Atrás! —gritó, sacando la linterna y enfocando el haz de luz directo hacia la abertura.
+—¡Atrás! —gritó, sacando la linterna por la correa de muñeca y enfocando el haz de luz directo hacia la abertura.
 
 De la penumbra del habitáculo descendieron dos hombres.
 
@@ -110,7 +110,7 @@ El hombre de la derecha se movió.
 
 El atacante avanzó en una embestida fulminante, con la aceleración de un resorte suelto. Leo apenas tuvo tiempo de levantar los brazos antes de que la sombra se le echara encima. Intentó golpear con la linterna de aluminio, pero los dedos del desconocido se cerraron sobre su muñeca derecha como una tenaza de hierro. El crujido seco de los huesos del carpo sonó dentro de la cabeza de Leo antes de que el dolor le subiera ardiendo por todo el brazo.
 
-La linterna cayó al charco, extinguiéndose con un chisporroteo.
+La linterna cayó al charco y el haz se apagó. La correa tiró de su muñeca y la dejó colgando junto a la manga.
 
 Leo intentó gritar, pero el segundo hombre se colocó a su espalda con un movimiento silencioso. Un brazo envuelto en tela balística le rodeó la garganta, cortándole el flujo sanguíneo de la carótida en un estrangulamiento limpio y profesional. Al mismo tiempo, sintió el pinchazo seco y helado de una aguja hipodérmica penetrando a través de la lona de su chaqueta, clavándose directamente en el músculo deltoide.
 

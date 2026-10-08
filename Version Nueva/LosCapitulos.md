@@ -70,7 +70,7 @@ Dos desapariciones idénticas en menos de medio año. Sin rastros de violencia. 
 
 —No voy a esperar sentado —dijo Leo en voz alta.
 
-El reloj marcaba las 03:26. Se calzó las botas de montaña, se abrochó la chaqueta de lona encerada y se guardó la copia de la denuncia y una linterna de mano en el bolsillo interior. Había quedado a las cuatro de la madrugada con Javi, un técnico del centro de control de tráfico del municipio que le había prometido, a cambio de doscientos euros bajo mano, una copia en bruto de las cámaras de seguridad del perímetro exterior de la carretera comarcal norte. Si Garrido no pensaba mirar esas grabaciones, las miraría él fotograma a fotograma.
+El reloj marcaba las 03:26. Se calzó las botas de montaña, se abrochó la chaqueta de lona encerada y se guardó la copia de la denuncia y una linterna de mano con correa de muñeca en el bolsillo interior. Había quedado a las cuatro de la madrugada con Javi, un técnico del centro de control de tráfico del municipio que le había prometido, a cambio de doscientos euros bajo mano, una copia en bruto de las cámaras de seguridad del perímetro exterior de la carretera comarcal norte. Si Garrido no pensaba mirar esas grabaciones, las miraría él fotograma a fotograma.
 
 Aseguró la cerradura con dos vueltas de llave y descendió por la escalera de madera del bloque, cuyos peldaños crujieron bajo su peso como costillas viejas.
 
@@ -94,7 +94,7 @@ La puerta corredera lateral se abrió hacia atrás con un chasquido neumático.
 
 Leo retrocedió un paso, tanteando el aire en busca de un arma, una botella rota, cualquier cosa.
 
-—¡Atrás! —gritó, sacando la linterna y enfocando el haz de luz directo hacia la abertura.
+—¡Atrás! —gritó, sacando la linterna por la correa de muñeca y enfocando el haz de luz directo hacia la abertura.
 
 De la penumbra del habitáculo descendieron dos hombres.
 
@@ -110,7 +110,7 @@ El hombre de la derecha se movió.
 
 El atacante avanzó en una embestida fulminante, con la aceleración de un resorte suelto. Leo apenas tuvo tiempo de levantar los brazos antes de que la sombra se le echara encima. Intentó golpear con la linterna de aluminio, pero los dedos del desconocido se cerraron sobre su muñeca derecha como una tenaza de hierro. El crujido seco de los huesos del carpo sonó dentro de la cabeza de Leo antes de que el dolor le subiera ardiendo por todo el brazo.
 
-La linterna cayó al charco, extinguiéndose con un chisporroteo.
+La linterna cayó al charco y el haz se apagó. La correa tiró de su muñeca y la dejó colgando junto a la manga.
 
 Leo intentó gritar, pero el segundo hombre se colocó a su espalda con un movimiento silencioso. Un brazo envuelto en tela balística le rodeó la garganta, cortándole el flujo sanguíneo de la carótida en un estrangulamiento limpio y profesional. Al mismo tiempo, sintió el pinchazo seco y helado de una aguja hipodérmica penetrando a través de la lona de su chaqueta, clavándose directamente en el músculo deltoide.
 
@@ -248,7 +248,7 @@ Una hoja de helecho caída a su lado medía más que su propio cuerpo. La conden
 
 *Esto no estaba en los mapas*, pensó Leo, apretando los dientes mientras la saliva pastosa se le acumulaba en la base de la lengua. *Los mapas no tenían escala.*
 
-Se palpó la chaqueta de lona con manos entumecidas. La linterna metálica continuaba en el bolsillo interior, fría y dura contra sus costillas magulladas. En el bolsillo del pecho palpó el papel arrugado del atestado de Garrido, empapado por el sudor. Y en el bolsillo derecho del pantalón, los dedos dieron con el bulto alargado de una barrita de cereales y un puñado de almendras tostadas dentro de una bolsa hermética.
+Se palpó la chaqueta de lona con manos entumecidas. La linterna metálica colgaba de su muñeca derecha, sujeta por la correa, húmeda pero intacta. En el bolsillo del pecho palpó el papel arrugado del atestado de Garrido, empapado por el sudor. Y en el bolsillo derecho del pantalón, los dedos dieron con el bulto alargado de una barrita de cereales y un puñado de almendras tostadas dentro de una bolsa hermética.
 
 Nada más. Sin herramientas, sin calzado de repuesto, sin un cuchillo. Solo la ropa con la que había salido de su apartamento para ir a la comisaría.
 
@@ -436,7 +436,7 @@ Lentamente, como el calor de una brasa que empieza a revivir bajo un puñado de 
 
 El aporte de hidratos frenó la caída en picado, pero ofrecía una tregua mínima contra un consumo metabólico voraz y desmedido.
 
-Leo encendió la linterna y se incorporó despacio.
+Leo encendió la linterna, la guardó en el bolsillo interior y se incorporó despacio.
 
 Se miró la muñeca izquierda. La quemadura circular seguía abierta, palpitando con una pulsación profunda acompasada con su propio corazón. Con los dientes y la mano derecha, arrancó una tira del dobladillo de su camiseta de algodón, envolvió la herida con tres vueltas apretadas y aseguró el vendaje con un nudo firme, apretando los labios ante la punzada de dolor.
 

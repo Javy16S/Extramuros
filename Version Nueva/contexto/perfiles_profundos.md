@@ -15,13 +15,13 @@ Leo es un joven de 24 años que trabajaba como administrativo en la ciudad. Tras
 
 ---
 
-## 2. ELENA (Haimara): La Sangre de la Aurora
+## 2. ELENA KALEV (Haimara): La Sangre de la Aurora
 *“A veces, la única forma de proteger a quien amas es alejarte antes de que el fuego lo alcance.”*
 
 ### 👤 Perfil: La Chica Común y la Anomalía Irrepetible
 - **Origen Real:** Nacida en una colonia aislada de desertores en Extramuros bajo el nombre de **Haimara** (*Haima* = sangre; *Mara* = aurora).
 - **La Sangre Única:** Mutación genética extraordinaria con sangre **carmesí profundo e irisaciones doradas/ámbar**, capaz de catalizar el Flujo de forma latente con potencial para habilidades biológicas especiales.
-- **Fuga al Archipiélago:** Tras la purga de su colonia por la delación de un traidor, huyó al Archipiélago, adoptó la identidad de "Elena" y conoció a Leo a los 19 años de este.
+- **Fuga al Archipiélago:** Tras la purga de su colonia por la delación de un traidor, huyó al Archipiélago, adoptó la identidad de **Elena Kalev** y conoció a Leo a los 19 años de este.
 - **Cuatro Años y Medio de Relación y Reconocimiento con Caine:** 
   - Caine detectó su procedencia por su cadencia pulmonar adaptada y la química de su sangre.
   - Elena descubrió quién era Caine por los mapas exactos de su buhardilla y por su condición física anómala: un hombre mayor sin una sola arruga ni cicatriz, cuyas heridas sanaban al instante.
@@ -35,15 +35,17 @@ Leo es un joven de 24 años que trabajaba como administrativo en la ciudad. Tras
 
 ### 👤 Perfil: El Mentor Oculto
 - **Anomalía Humana:** Uno de los pocos humanos del Archipiélago que toleró Extramuros, alcanzando la **Clase S**.
-- **Regeneración de Caudal:** Su cuerpo reconstruye cualquier daño celular en milisegundos. Por ello no tiene cicatrices, marcas de combate ni arrugas de vejez.
-- **Superviviente al Clase Omega:** Único humano registrado en la historia que sobrevivió al encuentro con el cataclísmico ser calificado como Clase Omega. Forjó en secreto absoluto la pulsera de Leo y el collar de Elena con materia de la criatura antes de retirarse.
+- **Regeneración de Caudal:** Su única habilidad singular conocida. Reconstruye su propio cuerpo casi al instante, en milisegundos, con un gasto muy bajo. Mediante contacto directo puede iniciar la regeneración localizada de tejido vivo ajeno o vegetal. Mientras mantiene el contacto, la regeneración corre a costa de sus reservas. Si lo interrumpe, solo continúa si el organismo afectado puede sostenerla con su propio Flujo y sus reservas; el contacto no le concede una capacidad regenerativa nueva. Puede reconstruir por completo una extremidad amputada de una persona viva, pero exige tiempo y energía mientras se sostiene. No revive organismos muertos ni afecta a materia inerte. Esta extensión al entorno vivo justifica su designación de Clase S; su potencia ofensiva directa se mantiene en torno a la de un Clase A.
+- **Descarga muscular:** La regeneración le permite sostener un Caudal extremo reparando el daño muscular casi a medida que ocurre, lo que le da una aceleración y movilidad excepcionales. No crea energía: recorrer distancias o mantener la lucha consume sus reservas metabólicas y puede agotarlo.
+- **Lealtad y retorno al servicio:** Caine pertenece al Gobierno en las Sombras y aceptó volver al servicio activo en Extramuros para proteger a Leo y Elena. La llegada de Leo activa sus alarmas; la forma concreta en que recibe esa noticia y conserva margen para actuar sigue pendiente de diseñarse.
+- **Superviviente a la Amenaza Ø (Omega):** Único humano registrado en la historia que sobrevivió al encuentro con el ser cataclísmico. Forjó en secreto absoluto la pulsera de Leo y el collar de Elena con materia de la criatura antes de retirarse.
 - **El Sacrificio:** Convivió más de cuatro años con Elena y Leo. Se entregó al gobierno volviendo al servicio activo en Extramuros para frenar a los agentes que cercaban la casa y proteger a ambos muchachos.
 
 ---
 
-## 4. LOS SEGADORES: La Estirpe Ancestral (Superior a Clase S)
+## 4. LOS SEGADORES: La Estirpe Ancestral
 *“El mundo pertenece a quienes no necesitan pedir permiso para respirar.”*
-Estirpe humana cerrada que lleva milenios viviendo y mutando genéticamente en Extramuros. **Todos sus miembros sobrepasan la Clase S**. Mística idéntica al *Gen'ei Ryodan* de HxH: pocos miembros, terror absoluto y habilidades biológicas extremas. *(Nota: Son una estirpe de Clase S, pero no la única manifestación de Clase S del mundo).*
+Estirpe humana cerrada que lleva milenios viviendo y mutando genéticamente en Extramuros. Los informes describen a sus miembros más peligrosos como capaces de alcanzar o superar la designación S, pero la organización no está censada: no puede considerarse una cifra verificada de Clase S vivos. Pocos miembros causan terror por sus habilidades biológicas extremas.
 
 ---
 
@@ -55,11 +57,11 @@ Estirpe humana cerrada que lleva milenios viviendo y mutando genéticamente en E
 - **Personalidad:** Pragmático, despiadado, severo y sin un gramo de condescendencia. No cuida a Leo por cariño; lo somete a pruebas brutales para comprobar si tiene la madera para no morir en las primeras veinticuatro horas.
 - **Técnica Personal Única: «El Pozo Muerto» (*Dead Sump*):**
   - Habilidad creada por él tras décadas de soledad y comprensión de la Quietud.
-  - No es una habilidad común de los Clase A: es una distorsión territorial pasiva/activa.
-  - Proyecta un campo de Quietud forzada que ralentiza el flujo neuromuscular y metabólico de cualquier ser vivo que entre en su rango.
+  - Aunque las habilidades singulares son habituales desde Clase A, la distorsión territorial pasiva/activa de Mason es una expresión excepcional.
+  - Proyecta un efecto que ralentiza la actividad neuromuscular y metabólica de cualquier ser vivo que entre en su rango. El campo no es visible; los afectados sienten sus consecuencias y usuarios experimentados pueden percibir indicios.
   - A mayor radio de efecto, menor intensidad:
     - *En combate cuerpo a cuerpo (2-5 m):* Los rivales se mueven como atrapados en gelatina o plomo derretido (se ven a sí mismos a cámara lenta), mientras Mason se mueve con agilidad normal y ejecuta con frialdad quirúrgica.
-    - *En el claro de su cabaña (100-200 m, 24/7):* Efecto sutil pero continuo de letargo, apatía y pesadez que ahuyenta a los depredadores titánicos, quienes temen instintivamente esa "zona muerta". Por ello su cabaña no tiene empalizadas.
+    - *En el claro de su cabaña (100-200 m, 24/7):* Efecto tenue, especialmente en el borde del radio. Mantenerlo tiene un coste continuo, compensado por su eficiencia extraordinaria; basta para provocar apatía o pesadez en organismos sensibles y disuadir a ciertos depredadores, no para paralizarlos. Por ello su cabaña no tiene empalizadas.
 - **Rol Narrativo:** El forjador de Leo. Enseña a Leo a regular su Flujo gota a gota y a dominar la Quietud como única vía de supervivencia.
 
 ---

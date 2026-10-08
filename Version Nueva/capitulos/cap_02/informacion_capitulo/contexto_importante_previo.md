@@ -7,7 +7,7 @@
    - Quemadura circular severa en la muñeca izquierda donde la pulsera de Omega se desintegró en cenizas durante el salto.
    - Hombro izquierdo dolorido por el pinchazo de la inyección sedante administrada por los agentes del gobierno en las sombras.
    - Choque atmosférico: El aire es denso, frío y sobrecargado de oxígeno; provoca ardor en los bronquios, mareo inmediato y aceleración cardíaca fisiológica extrema.
-   - Posesiones reales: Linterna metálica de mano, copia doblada del atestado policial de Garrido (Distrito Siete), impermeable de lona, ropa civil y una pequeña ración de avena y almendras en el bolsillo. Sin teléfono, sin armas.
+   - Posesiones reales: Linterna metálica de mano sujeta a una correa de muñeca, copia doblada del atestado policial de Garrido (Distrito Siete), impermeable de lona, ropa civil y una pequeña ración de avena y almendras en el bolsillo. Sin teléfono, sin armas.
    - Cero conocimiento diegético: Desconoce dónde está, no sabe qué es Extramuros ni el Flujo. Solo sabe que su abuelo Caine conocía estos lugares por sus mapas y que los captores buscaban a una tal Haimara.
 
 2. **La Bestia / Depredador:**
@@ -15,7 +15,7 @@
    - Sin clasificaciones diegéticas (nada de 'Clase D/C'); para Leo es un monstruo acorazado de pesadilla.
 
 3. **La Soledad y Ausencia de Pistas de Elena:**
-   - Cero huellas materiales de Elena en el osario (sin telas amarillas, sin flechas ni letras grabadas). Haimara se infiltró a través del carguero *Leviatán* hacia Puerto Raíz y desconoce la llegada de Leo.
+   - Cero huellas materiales de Elena en el osario (sin telas amarillas, sin flechas ni letras grabadas). El capítulo no establece dónde está Elena, qué ruta siguió ni si sabe que Leo ha llegado.
    - Angustia y soledad absoluta: Leo experimenta el desamparo psicológico de no saber dónde está su pareja, si sigue viva o quién era en realidad.
    - Flashback sensorial: El recuerdo de una noche de apagón en el apartamento de la ciudad, el aroma a jabón de cedro y la calma de Elena al hablar de la firmeza de la piedra.
 
@@ -25,3 +25,6 @@
 5. **La Técnica de Mason («El Pozo Muerto»):**
    - El viejo ermitaño mantiene un radio pasivo activo 24/7 alrededor de su cabaña.
    - Al entrar en el prado, Leo experimenta una ralentización forzada de sus procesos neuromusculares: pensamientos densos, lentitud agónica de giro y reflejos, y pesadez plúmbea en las extremidades que lo lleva al colapso frente a la cabaña abierta.
+
+6. **Hora local:**
+   - El capítulo 1 ocurre de madrugada en el Archipiélago; el salto lleva a Leo a una de las islas exteriores, lejos en longitud geográfica. Allí puede estar anocheciendo aunque el Archipiélago siga en sus horas nocturnas. El día solar conserva el ciclo de 24 horas; no hace falta atribuir el cambio a una Luna o satélite ausente.

@@ -18,7 +18,7 @@ Una hoja de helecho caída a su lado medía más que su propio cuerpo. La conden
 
 *Esto no estaba en los mapas*, pensó Leo, apretando los dientes mientras la saliva pastosa se le acumulaba en la base de la lengua. *Los mapas no tenían escala.*
 
-Se palpó la chaqueta de lona con manos entumecidas. La linterna metálica continuaba en el bolsillo interior, fría y dura contra sus costillas magulladas. En el bolsillo del pecho palpó el papel arrugado del atestado de Garrido, empapado por el sudor. Y en el bolsillo derecho del pantalón, los dedos dieron con el bulto alargado de una barrita de cereales y un puñado de almendras tostadas dentro de una bolsa hermética.
+Se palpó la chaqueta de lona con manos entumecidas. La linterna metálica colgaba de su muñeca derecha, sujeta por la correa, húmeda pero intacta. En el bolsillo del pecho palpó el papel arrugado del atestado de Garrido, empapado por el sudor. Y en el bolsillo derecho del pantalón, los dedos dieron con el bulto alargado de una barrita de cereales y un puñado de almendras tostadas dentro de una bolsa hermética.
 
 Nada más. Sin herramientas, sin calzado de repuesto, sin un cuchillo. Solo la ropa con la que había salido de su apartamento para ir a la comisaría.
 
@@ -206,7 +206,7 @@ Lentamente, como el calor de una brasa que empieza a revivir bajo un puñado de 
 
 El aporte de hidratos frenó la caída en picado, pero ofrecía una tregua mínima contra un consumo metabólico voraz y desmedido.
 
-Leo encendió la linterna y se incorporó despacio.
+Leo encendió la linterna, la guardó en el bolsillo interior y se incorporó despacio.
 
 Se miró la muñeca izquierda. La quemadura circular seguía abierta, palpitando con una pulsación profunda acompasada con su propio corazón. Con los dientes y la mano derecha, arrancó una tira del dobladillo de su camiseta de algodón, envolvió la herida con tres vueltas apretadas y aseguró el vendaje con un nudo firme, apretando los labios ante la punzada de dolor.
 

@@ -78,7 +78,7 @@ Restringidas a un máximo de **1 aparición por cada 4.000 palabras** (o elimina
     *   *Cadencia:* Áspero, seco, sentencias breves e imperativas.
     *   *Actitud:* Habla siempre mientras sus manos trabajan (desollar, coser cuero, manipular hueso). Cero condescendencia, cero validación emocional.
     *   *Estilo:* No explica teorías: da órdenes de supervivencia crudas (*"Traga eso", "Cierra la boca o te quemas los pulmones"*).
-*   **Elena / Haimara (La Extranjera Oculta):**
+*   **Elena Kalev / Haimara (La Extranjera Oculta):**
     *   *Cadencia:* Pausada, serena, enigmática sin ser pretenciosa. Sus frases describen la realidad física con certeza inquebrantable, pero sin revelar su origen.
 *   **Inspector Garrido (El Burócrata Cínico):**
     *   *Cadencia:* Monótona, subordinadas perezosas, muletillas de ventanilla (*"Vamos a ahorrar saliva", "El protocolo es claro"*).
