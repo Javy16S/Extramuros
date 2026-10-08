@@ -104,7 +104,24 @@ Es vital distinguir que **Clase S es una designación excepcional, no una facci�
 
 ---
 
-## V. LEYES INMUTABLES DE ESTILO
+## V. MITOLOGÍA ANCESTRAL, LINGÜÍSTICA Y LA «LENGUA VIEJA»
+
+### 5.1 La Migración Primordial (La Flecha Histórica Invertida)
+* **Extramuros como Cuna Olvidada:** La presencia humana en el planeta no se originó exclusivamente en el Archipiélago. Hace milenios, tribus arcaicas de Extramuros cruzaron la barrera ciclónica huyendo de cataclismos de fauna titánica y se establecieron en las cumbres más altas del Archipiélago (los Andes de la Tierra), buscando aire puro y lejanía de las bestias.
+* **El Origen de los Mitos Andinos:** 
+  * La adoración a la *Pachamama* (la tierra viva y colosal) nació de la memoria oral distorsionada de la **biología titánica de Extramuros**.
+  * Los relatos antiguos de seres celestiales descendiendo en las mesetas (los supuestos "ovnis" del folclore) fueron en realidad **especies voladoras singulares y bioluminiscentes de Extramuros**, domesticadas o avistadas por aquellos antiguos navegantes.
+* **El Gran Borrado:** Con el paso de los siglos, el Gobierno en las Sombras recluyó a la humanidad en las ciudades del Archipiélago, censuró la geografía real y borró la historia antigua para convertir Extramuros en un mito inexistente.
+
+### 5.2 La «Lengua Vieja» y la Onomástica de Extramuros
+* **La Lengua de Resistencia:** La familia lingüística andina (quechua / aymara) es la **Lengua Vieja** de Extramuros: el idioma de la estirpe ancestral que nunca abandonó las islas exteriores y el código secreto adoptado por las colonias de desertores para no ser interceptadas por el gobierno.
+* **Coherencia Onomástica Unificada:**
+  * **Nombres del Archipiélago / Gobierno:** Funcionales, urbanos y modernos (*Leo Vanes, Elena, Caine, Mason, Inspector Garrido*).
+  * **Nombres de Frontera y Extramuros:** De raíz andina ancestral (*Haimara*, los interceptores *Wayra*, *Makusi*).
+
+---
+
+## VI. LEYES INMUTABLES DE ESTILO
 
 1.  **FOCALIZACIÓN ESTRICTA (LEY 6):** Cero metaconocimiento. El lector solo experimenta lo que Leo ve y razona. No se usan conceptos como "Clase S", "Extramuros" o "Haimara" hasta que aparecen diegéticamente en la trama.
 2.  **ESCALA TITÁNICA:** Prohibidas las comparaciones industriales ("árbol como un rascacielos"). Solo referencias orgánicas y humanas.

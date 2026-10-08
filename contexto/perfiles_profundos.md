@@ -73,3 +73,29 @@ Inspector agotado del Distrito Siete. Cree que las desapariciones son meras huid
 
 ## 7. LOS HOMBRES DE TRAJE (Fuerzas Especiales de las Sombras)
 Agentes quirúrgicos de contrainteligencia. Trajes reforzados, pupilas insensibles y métodos de coerción física extrema.
+
+---
+
+## 8. MAKUSI (Manakusi): El Guardián Herido
+*“Si asumimos que todo va a salir mal, nos prepararemos para el fallo y nadie morirá.”*
+
+### 👤 Perfil: La Frialdad como Penitencia y Escudo
+- **Origen y Nombre:** Nacido en una colonia libre de desertores. De niño era alegre y risueño, apodado por su madre **Kusi** («el dichoso / el que sonríe» en la Lengua Vieja).
+- **El Trauma de la Culpa:** Siendo adolescente, su exceso de optimismo y confianza le llevó a descuidar los protocolos de seguridad o apresurar una maniobra en territorio peligroso, provocando una catástrofe donde murieron o cayeron los suyos.
+- **La Renuncia a la Alegría:** Horrorizado por su negligencia, enterró su nombre infantil y se autobautizó **Manakusi / Makusi** (*Mana-Kusi* = «el que ya no sonríe»), convirtiendo su apodo en una lápida y un recordatorio diario de su error.
+- **Personalidad y Dinámica:** Frío, crónicamente negativo y obsesionado con la prevención técnica. En el Bastión Móvil es quien revisa tres veces la presión de los émbolos, raciona el agua y anticipa emboscadas.
+- **El Protector Oculto:** Su aparente amargura esconde una entrega absoluta. Hipervigila a su compañera porque ve en ella al niño optimista que él solía ser; su juramento silencioso es impedir a toda costa que Extramuros le robe a ella la sonrisa como se la robó a él.
+- **Flujo (Clase C):** Caudal de esfuerzo muscular y mecánico sostenido (resistencia en brazos y espalda para sostener cargas pesadas y reparaciones bajo presión), pero sin el pico de descarga explosivo de Leo.
+
+---
+
+## 9. LA COMPAÑERA DE MAKUSI: La Vitalista Salvaje (Nombre pendiente)
+*“Si me voy a morir mañana de todas formas, no pienso pasarme el día de hoy amargada.”*
+
+### 👤 Perfil: El Presente Absoluto frente a la Muerte
+- **Origen:** Nacida y criada en el sotobosque de Extramuros, compañera de andanzas de Makusi.
+- **Personalidad:** Espontánea, alegre, ruidosa y descarada. Ha normalizado el peligro letal de Extramuros hasta el punto de relativizarlo con humor mordaz. 
+- **Diferencia con Elena/Haimara:** Elena es contemplativa, serena, enigmática y de silencios pesados; ella es una fuerza de acción directa, instintiva y viva, que no le teme a ensuciarse de barro ni a desafiar a Makusi o a Leo.
+- **Dinámica con el Grupo:** Es el catalizador que rompe el pesimismo crónico de Makusi y sacude la solemnidad analítica de Leo, empujándolos a actuar cuando se encierran en cálculos sombríos.
+- **Flujo (Clase D-alta / C):** Sentidos periféricos adaptados a la lectura biológica del bosque y agilidad natural de supervivencia.
+
