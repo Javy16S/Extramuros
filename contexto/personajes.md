@@ -1,23 +1,15 @@
-# PERSONAJES
+# PERSONAJES: EXTRAMUROS
 
 ## Principales
 
-*   **Leo (24):** Ex-administrativo. Analista táctico. Usuario de Flujo en desarrollo ("Despierto")(En cuanto llega a los Extramuros). Tiene "La Pieza": cree que es un pisapapeles de su abuelo Caine, pero en realidad es **Trozo de un Dios (Omega)**, un trozo biológico ultra-denso.
-*   **Elena:** Joven extrovertida, culta y apasionada por la lectura. Era la única que escuchaba con atención y empatía las historias y cuadernos del abuelo Caine. Su curiosidad natural la llevó a investigar las notas del anciano y a desaparecer en el Punto Ciego del Parque del Lindero.
-*   **Mason (El Maestro):** Mentor peligroso en la Zona 1. Pragmático, autoridad absoluta. No es amable. Enseña a sobrevivir al coste que sea.
-*   **Silas (El Veterano del Abismo):** Mentor temporal en la Zona Profunda. Cínico, brutal y lleno de cicatrices. Superviviente de la Vieja Guerra. Odia al **"Cónclave"** (la élite científica y militar del Concordato que conoce la verdad). Usa tecnología antigua (rifle cinético) y conoce la biología del Nido mejor que nadie. Conoció a Caine hace 40 años.
-*   **Caine (El Abuelo / El Inmortal):** (Presencia Fantasma). Para Leo, un anciano roto por la demencia. Para Extramuros, "Caine el Inmortal", el único superviviente de la Expedición Fallida contra un Omega. **Sigue vivo** en las Tierras Huecas, pero la mayoría cree que murió hace décadas. El Concordato lo busca en secreto.
+*   **Leo (24):** Administrativo metódico y analítico. Nieto de Caine, hereda predisposiciones genéticas que le permiten tolerar la atmósfera de Extramuros y le otorgan potencial para ascender a la **Clase B o A** mediante el Flujo. Convivió cuatro años y medio con Elena tras la muerte de sus padres. Creció con las fábulas de Caine y los relatos que Elena le narraba en la penumbra. Su pulsera de Omega lo transporta a Extramuros en el búnker.
+*   **Elena Kalev / Haimara (22):** Nacida en Extramuros en una colonia aislada de desertores. **Elena Kalev** es su nombre en el archipiélago; **Haimara**, su nombre original en Extramuros, elegido por su **sangre carmesí con reflejos dorados/ámbar** y su mutación genética con potencial para habilidades especiales. Convivió cuatro años y medio con Leo y compartió una complicidad tácita con Caine. Tras la partida de Caine, le narraba a Leo "cuentos inventados" que en realidad eran memorias reales de su mundo. Porta el **collar de Omega**.
+*   **Caine ("El Inmortal"):** Abuelo de Leo. Leyenda humana de **Clase S**, miembro del Gobierno en las Sombras y único superviviente registrado al encuentro con la Amenaza Ø (Omega). Su única habilidad singular conocida, la **Regeneración de Caudal**, reconstruye su cuerpo casi al instante y puede iniciar, mediante contacto directo, la regeneración localizada de tejido vivo ajeno o vegetal. Mientras mantiene el contacto, la regeneración consume las reservas de Caine; si se aparta, solo continúa si el organismo afectado puede sostenerla con su propio Flujo y sus reservas, sin adquirir una capacidad regenerativa nueva. Puede reconstruir por completo una extremidad amputada de una persona viva, pero el proceso exige tiempo y energía mientras se sostiene. Al reparar sus músculos mientras los lleva a una descarga extrema, puede realizar aceleraciones extraordinarias, aunque consume sus reservas metabólicas y puede agotarse. Su potencia ofensiva directa ronda la de un Clase A; la extensión externa de la regeneración justifica su designación S. Convivió más de cuatro años con Elena y forjó en secreto la pulsera y el collar con tejido de la entidad antes de retirarse. Aceptó volver al servicio activo en Extramuros para proteger a Leo y Elena.
+*   **Mason (El Maestro):** Mentor pragmático en la Zona 1 de Extramuros. Enseña a Leo a regular el gasto metabólico del Flujo y a no morir por autofagia.
 
-## Facciones y Líderes
+## Facciones y Amenazas
 
-### La Reserva
-*   **Inspector Garrido:** Policía veterano y pasota de la Reserva. Quemado por la rutina y el papeleo. No sabe nada de Extramuros ni del Velo; cree que las desapariciones son simples huidas voluntarias.
-*   **Comandante "Hierro":** (Antagonista Arco 2). Líder de la Vanguardia que persigue a Leo. Usuario de tipo "Resonancia" (Armadura pesada).
-
-### Los Segadores (Caos)
-*   **"El Coleccionista":** (Antagonista/Aliado Arco 3). Miembro de los Segadores que busca Reliquias. Personalidad volátil. Rango: Desastre.
-*   **La Líder (Nombre desconocido):** Figura en las sombras. Se dice que ha estado en la Zona 4.
-
-## Criaturas Notables
-*   **Rompieroncas (Clase C/B):** Bestia recurrente que persigue a Leo. Obsesionada con su rastro de Flujo.
-*   **El Silencio (Clase Ø):** Entidad mencionada en leyendas. Cuando aparece, el sonido muere.
+*   **Los Segadores (La Estirpe Ancestral):** Estirpe milenaria cerrada. Los informes de inteligencia atribuyen capacidades de nivel S a sus miembros más peligrosos, pero el grupo no está censado y esas estimaciones no son datos verificados. Causan terror y operan al margen del gobierno.
+*   **Gobierno en las Sombras (Los Hombres de Traje):** Operativos de contrainteligencia de élite encargados de secuestrar a Leo y recuperar a Haimara.
+*   **Inspector Garrido:** Policía civil común y apático del Distrito Siete.
+*   **Amenaza Ø (Omega) - El Destructor:** Entidad cataclísmica única registrada en la historia humana. Considerada un ser destructor singular y supremo por encima de toda la escala conocida. (La existencia de otros semejantes en los confines inexplorados es un misterio total para la humanidad de esta era).
