@@ -26,8 +26,9 @@ El planeta comprende el Archipiélago Conocido y cuatro grandes islas exteriores
     *   **El Horizonte Oscuro:** **No es un territorio homogéneo ni exclusivo de monstruos.** Es la designación que dan los exploradores y cartógrafos a **todo lo desconocido e inexplorado**. Representa la frontera absoluta de la cartografía humana, más allá de donde cualquier expedición haya regresado con vida.
 *   **La Escala (Biología Titánica):** **Leo mide 1.80m.** Si un helecho tiene el porte de una avioneta o un tronco abarca el tamaño de una manzana urbana, es fruto de millones de años de evolución sin freno en una atmósfera saturada de oxígeno, no de un encogimiento humano.
 
-### 1.3 Asentamientos, Colonias y Desertores
+### 1.3 Asentamientos, Colonias y Logística Militar
 *   **Operaciones del Gobierno:** Destacamentos encubiertos de fuerzas especiales, biólogos y recolectores de biomasa mantienen puestos avanzados para extraer recursos y experimentar.
+*   **El Cuerpo de Contención y Logística Mecánica:** Unidad militar de élite para cacería y contención. Despliega **Bastiones Móviles** (fortalezas acorazadas de largo alcance) e interceptores ligeros **Wayra** (vehículos de alta velocidad accionados por Flujo y resistencia extrema). *(Para detalles mecánicos, física de fuerzas G y telecomunicaciones, consultar `contexto/tecnologia_y_transporte.md`)*.
 *   **Puerto Raíz:** Enclave erigido en el interior del esqueleto fósil de un titán de amenaza ecológica extrema, muerto hace siglos. Los residuos químicos del cadáver generan una repulsión instintiva en los depredadores locales, sirviendo de defensa pasiva.
 *   **Los Desertores (Grupos Aislados):** Con el paso de las décadas, expedicionarios y científicos han desertado para vivir al margen del gobierno. **No forman una red organizada ni una facción unida.** Cada grupo de desertores es una colonia o tribu aislada e independiente, que subsiste con tecnología y medicina preservadas de hace años, desconociendo por lo general la existencia de otros asentamientos.
 
