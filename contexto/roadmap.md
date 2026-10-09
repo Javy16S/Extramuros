@@ -20,29 +20,30 @@
 * **Estado inicial:** Leo amanece en la cabaña de Mason tras colapsar en el claro.
 * **Sucesos Obligatorios:**
   * *La convalecencia y el hambre atroz:* Consecuencias biológicas del salto a Extramuros; necesidad imperiosa de reponer reservas calóricas y calambres agónicos.
-  * *La lección pragmática del aire:* Mason no es un maestro benevolente; enseña la respiración contenida y la economía muscular como única forma de no morir de sobrecalentamiento o autofagia celular.
+  * *El veterano duro pero ético:* Mason no es un sádico ni mala persona; es un veterano curtido con un código propio. Se percata de que Leo es un civil sin entrenamiento del archipiélago que ha sobrevivido milagrosamente al salto; dejarlo morir iría contra su conciencia. Además, percibe en él un **potencial biológico latente excepcional** (herencia de Caine).
+  * *La instrucción justa y necesaria:* Le enseña lo imprescindible para que no muera en la selva: masticar sin derrochar, respirar conteniendo el diafragma y metabolizar el Flujo gota a gota sin sobrecalentar el corazón ni devorar sus propios músculos.
   * *El anclaje del mapa mental:* Leo une los recuerdos de los relatos de Elena y las fábulas de Caine con la geografía tangible de la Isla I.
-  * *La expulsión y la marcha:* Mason corta la estancia en seco; no alberga parásitos. Le indica la única salida civil posible en la costa sur: **Puerto Raíz**. Leo emprende la marcha en solitario por el sotobosque titánico, experimentando la escala prehistórica y el sigilo elemental hasta divisar en el horizonte el gigantesco esqueleto fósil.
+  * *La partida hacia la costa:* Mason no lo apadrina indefinidamente; le da pertrechos básicos y le señala la costa sur como único destino con presencia humana: **Puerto Raíz**. Leo emprende la marcha en solitario, experimentando la escala prehistórica y el sigilo elemental hasta divisar el gigantesco esqueleto fósil.
 
 ---
 
-### 🦴 HITO II: PUERTO RAÍZ (LA PISTA ROTA, LOS SAQUEADORES Y LA CAÍDA DEL TITÁN)
+### 🦴 HITO II: PUERTO RAÍZ (LA PISTA ROTA Y EL CATACLISMO)
 * **Entorno:** Asentamiento pesquero y comercial edificado entre las vértebras y costillas de un titán colosal en el estuario sur.
+* **Focalización Estricta (Cero Omnisciencia):** Toda la narración sigue exclusivamente la perspectiva de Leo. El lector NO sabe qué hacen Makusi y Nina en los muelles ni quiénes son hasta el instante exacto en que Leo choca con ellos en la cabina del vehículo.
 * **Sucesos Obligatorios:**
   * *La entrada y el cerco militar:* Despliegue intimidante del Cuerpo de Contención con Bastiones Móviles e interceptores Wayra. Paranoia y toque de queda latente.
-  * *La convergencia paralela:* Makusi y Nina ya se encuentran operando en los tinglados y muelles del puerto. Han seguido a la división militar para saquear piezas de alto valor en vehículos y almacenes.
   * *El cartel de Elena (Haimara):* Leo ve los carteles de búsqueda de Elena por alta traición y sustracción biológica. Adrenalina y confirmación de que ella estuvo allí, constatando que el rostro de Leo aún no figura por lentitud burocrática del búnker.
   * *La pista rota y la desesperación:* Leo rastrea los bajos fondos durante dos días. Descubre que Elena se dio a la fuga a la desesperada tras la alarma militar y borró sus huellas con frialdad. Los caminos se bifurcan de nuevo; Leo cae en el vacío y la incertidumbre.
-  * *La amenaza encubierta:* Dos miembros de los Segadores se infiltran en el enclave tras deducir la presencia de Elena por el movimiento militar.
+  * *La amenaza encubierta:* Dos miembros de los Segadores se infiltran en el enclave tras deducir la presencia de Elena por el movimiento militar (percibidos de forma sutil por la tensión extrema en el ambiente).
   * *El cataclismo (El asalto de los Segadores):* Detonaciones que cizallan las bases fósiles del esqueleto demoliendo distritos enteros. Choque sangriento entre tropas de Contención y los Segadores.
   * *El juicio biológico:* Desde una costilla, un Segador destruye mientras el otro escanea a la multitud a velocidad ocular inhumana. La mirada del rastreador se cruza un instante con la de Leo: pico involuntario de Flujo, el mundo se ralentiza y Leo experimenta un terror visceral absoluto antes de ser descartado.
-  * *El saqueo truncado y la fuga del Bastión:*
-    * Makusi y Nina están desguazando un interceptor cuando el derrumbe aplasta el hangar. Corren al Bastión Móvil listo para marcha.
-    * Nina acciona la compuerta hidráulica; una masa de civiles despavoridos se cuela en la bodega trasera.
-    * Nina desbloquea el encendido, pero Makusi no puede vencer la precarga del pedal militar en frío con su Flujo sostenido.
-    * Leo irrumpe huyendo en la cabina. Choque de voluntades al límite.
-    * Leo aplica el control de Mason, desata una descarga de *Caudal* en los cuádriceps y quiebra la resistencia del pedal.
-    * El Bastión ruge, destroza la empalizada del puerto y se pierde a toda máquina en la selva mientras la ciudadela fósil colapsa.
+  * *La irrupción espontánea en el Bastión Móvil:*
+    * Desesperado por salvar la vida, Leo corre hacia la explanada de transportes y salta al interior de un **Bastión Móvil** cuya rampa trasera está abierta y colapsada de civiles aterrados.
+    * **Encuentro imprevisto (sorpresa para Leo y el lector):** En la cabina delantera, Leo se topa de golpe con dos desconocidos de su edad en plena disputa frenética: un joven corpulento con manos de forjador y una chica delgada con el rostro manchado de grasa que intenta operar los mandos.
+    * *La parálisis mecánica:* Nina tiene el encendido activado, pero Makusi no puede vencer la precarga militar del pedal de embrague con su resistencia muscular sostenida sin destrozarse los tendones.
+    * *Diálogo al límite:* Nina le grita al recién llegado que empuje con todo lo que tenga si no quiere que el techo los sepulte; Makusi le advierte con voz ronca sobre la dureza del acero.
+    * *La ignición de Caudal:* Leo aplica el control de Mason, canaliza el Flujo hacia los cuádriceps y prensa el pedal; la transmisión militar despierta con un rugido atronador.
+    * *La fuga:* El Bastión embiste y parte la empalizada de troncos, perdiéndose a toda potencia en la selva virgen mientras Puerto Raíz se desploma tras ellos. (Los motivos del dúo —su oficio de saqueadores y cómo llegaron allí— se revelarán orgánicamente más adelante en el camino).
 
 ---
 

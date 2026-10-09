@@ -54,7 +54,7 @@ Estirpe humana cerrada que lleva milenios viviendo y mutando genéticamente en E
 
 ### 👤 Perfil: El Veterano de Clase A (Nivel Cercano a Clase S)
 - **Pasado:** Antiguo explorador y cazador legendario que rompió lazos con las colonias del gobierno tras presenciar las purgas internas. Vive en reclusión absoluta en la Zona Periférica.
-- **Personalidad:** Pragmático, despiadado, severo y sin un gramo de condescendencia. No cuida a Leo por cariño; lo somete a pruebas brutales para comprobar si tiene la madera para no morir en las primeras veinticuatro horas.
+- **Personalidad y Moral:** Áspero, severo y sin un gramo de condescendencia, pero **no es una mala persona ni un sádico**. Es un superviviente curtido por décadas de pérdidas que ha visto a demasiados novatos morir por ilusiones vanas. Tras su corteza intratable hay un código ético férreo: se da cuenta de inmediato de que Leo es un civil recién salido del archipiélago que ha sobrevivido milagrosamente al choque de Extramuros sin entrenamiento previo (la falta de callos y la ausencia de cicatrices en su cuerpo lo delatan). Dejar morir en la puerta a un chico que ha resistido semejante salto iría contra su propia conciencia. Además, como veterano de élite, sus sentidos detectan en Leo destellos de un **potencial biológico dormido y extraordinario** (herencia del linaje de Caine), lo que despierta en él un interés silencioso por no dejar que esa madera se eche a perder.
 - **Técnica Personal Única: «El Pozo Muerto» (*Dead Sump*):**
   - Habilidad creada por él tras décadas de soledad y comprensión de la Quietud.
   - Aunque las habilidades singulares son habituales desde Clase A, la distorsión territorial pasiva/activa de Mason es una expresión excepcional.
@@ -62,7 +62,7 @@ Estirpe humana cerrada que lleva milenios viviendo y mutando genéticamente en E
   - A mayor radio de efecto, menor intensidad:
     - *En combate cuerpo a cuerpo (2-5 m):* Los rivales se mueven como atrapados en gelatina o plomo derretido (se ven a sí mismos a cámara lenta), mientras Mason se mueve con agilidad normal y ejecuta con frialdad quirúrgica.
     - *En el claro de su cabaña (100-200 m, 24/7):* Efecto tenue, especialmente en el borde del radio. Mantenerlo tiene un coste continuo, compensado por su eficiencia extraordinaria; basta para provocar apatía o pesadez en organismos sensibles y disuadir a ciertos depredadores, no para paralizarlos. Por ello su cabaña no tiene empalizadas.
-- **Rol Narrativo:** El forjador de Leo. Enseña a Leo a regular su Flujo gota a gota y a dominar la Quietud como única vía de supervivencia.
+- **Rol Narrativo:** El forjador reacio de Leo. Le enseña lo justo y necesario para que no muera en la selva por su culpa, instruyéndolo en la regulación del Flujo gota a gota y el dominio de la Quietud como única vía de supervivencia.
 
 ---
 
