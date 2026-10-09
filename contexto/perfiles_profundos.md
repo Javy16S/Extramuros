@@ -89,13 +89,25 @@ Agentes quirúrgicos de contrainteligencia. Trajes reforzados, pupilas insensibl
 
 ---
 
-## 9. LA COMPAÑERA DE MAKUSI: La Vitalista Salvaje (Nombre pendiente)
-*“Si me voy a morir mañana de todas formas, no pienso pasarme el día de hoy amargada.”*
+## 9. NINA: La Chispa Vital y Saqueadora de Avanzada
+*“Si me voy a morir mañana aplastada por una bestia o por una viga del gobierno, no pienso pasarme el día de hoy con la boca cerrada.”*
 
-### 👤 Perfil: El Presente Absoluto frente a la Muerte
-- **Origen:** Nacida y criada en el sotobosque de Extramuros, compañera de andanzas de Makusi.
-- **Personalidad:** Espontánea, alegre, ruidosa y descarada. Ha normalizado el peligro letal de Extramuros hasta el punto de relativizarlo con humor mordaz. 
-- **Diferencia con Elena/Haimara:** Elena es contemplativa, serena, enigmática y de silencios pesados; ella es una fuerza de acción directa, instintiva y viva, que no le teme a ensuciarse de barro ni a desafiar a Makusi o a Leo.
-- **Dinámica con el Grupo:** Es el catalizador que rompe el pesimismo crónico de Makusi y sacude la solemnidad analítica de Leo, empujándolos a actuar cuando se encierran en cálculos sombríos.
-- **Flujo (Clase D-alta / C):** Sentidos periféricos adaptados a la lectura biológica del bosque y agilidad natural de supervivencia.
+### 👤 Perfil: Feminidad Salvaje, Desparpajo y Vida al Límite
+- **Origen y Nombre:** Nacida en las márgenes boscosas de Extramuros. Su nombre procede de la Lengua Vieja (**Nina** = «fuego, llama viva, brasa ardiente»). Desde pequeña aprendió que en un mundo donde todo es colosal, la lentitud o el desánimo te matan antes que los colmillos.
+- **Oficio y Habilidades de Campo:** Saqueadora de restos militares y pecios tecnológicos (*scavenger* de avanzada). Conoce las rutas de patrulla, las frecuencias de paso de convoyes y los puntos ciegos de las bases de Contención. Mientras que Makusi es el músculo mecánico que afloja tuercas oxidadas de media tonelada con palancas pesadas, Nina es quien se cuela por conductos estrechos, extrae núcleos de inyección, destraba cierres de seguridad y detecta qué componentes valen una fortuna en los mercados negros de las colonias libres.
+- **Apariencia y Estética (Femenina y Silvestre):**
+  - Complexión grácil, delgada, atlética y de proporciones claramente femeninas; una fisonomía basada en la agilidad y la flexibilidad antes que en la masa muscular bruta.
+  - Pelo castaño oscuro, largo pero recogido en dos trenzas ceñidas sujetas con tiras de cuero vegetal para que no le estorben al deslizarse bajo chasis o entre ramas.
+  - Ojos avellana grandes, expresivos y observadores, con una mirada vivaz que contrasta con la mirada opaca de Makusi.
+  - Viste prendas prácticas pero ajustadas a su anatomía: pantalón de lona gruesa reforzada en rodillas y caderas, corpiño de cuero curtido sobre camisa de lino resistente y guantes sin dedos. Sus manos, antebrazos y mejillas suelen llevar restos de hollín o grasa de motor mineral, un detalle que lleva con total naturalidad y coquetería silvestre.
+- **Personalidad y Psicología:**
+  - **Vitalismo desafiante:** No finge optimismo para ocultar un trauma; es genuinamente enérgica porque ha asumido con naturalidad la finitud de la vida. Para ella, Extramuros es despiadado, pero estar vivo un día más es motivo suficiente para reír, comer con ganas y buscar aventuras.
+  - **Lengua afilada y desparpajo:** No se deja intimidar por autoridades, soldados o bestias. Trata a Makusi con cariño burlón (lo llama cariñosamente gruñón, piedra o estatua) y no duda en picar a Leo sobre su porte rígido de burócrata civil.
+  - **Ignorancia del pasado de Makusi:** No conoce la tragedia infantil de Makusi ni el origen de su nombre (*Manakusi*). Solo sabe que desde que se toparon en el sotobosque, él la cuida con una cautela rayana en la paranoia; aunque a veces se queja de su sobreprotección, confía ciegamente en su lealtad.
+- **Dinámica con el Trío:**
+  - **Con Makusi:** Es el viento cálido que derrite su hielo. Cuando Makusi se paraliza en cálculos catastróficos, Nina da un salto, toma la delantera o suelta una réplica descarada que lo obliga a reaccionar.
+  - **Con Leo:** Fascinada por la mentalidad civil y metódica de Leo. Se divierte sacándolo de sus casillas y viendo cómo un oficinista del Archipiélago intenta comprender la brutalidad del mundo exterior, pero respeta de inmediato su capacidad de reacción cuando las cosas se ponen al rojo vivo.
+- **Flujo Biológico (Clase D-alta / C):**
+  - **Quietud Táctil y Sensorial:** Capacidad innata para sentir microvibraciones en metales, placas de blindaje y terreno; sabe cuándo una pieza mecánica está a punto de quebrar por fatiga o cuándo se acerca un vehículo pesado a kilómetros de distancia.
+  - **Ligero Caudal Cinético:** Breves descargas neuromusculares enfocadas en los tendones de tobillos y rodillas. No tiene la fuerza para levantar escombros, pero sus aceleraciones cortas, esquivas y trepadas son sumamente ágiles y precisas.
 
