@@ -1,58 +1,64 @@
 # 🗺️ ROADMAP MAESTRO DE LA NOVELA: EXTRAMUROS (LIBRO 1)
 
-**Estado:** Canónico y vigente. Sustituye cualquier planificación previa obsoleta.  
-**Premisa del Libro 1:** Desde la llegada brutal de Leo a Extramuros hasta el reencuentro con Elena al 75 % (~Cap 30), la verdad de su identidad, el descubrimiento de las 4 islas continentales, la irrupción de Caine y la huida clandestina hacia el Archipiélago.
+**Estado:** Canónico y vigente. Sustituye cualquier planificación previa basada en cuotas rígidas de capítulos.  
+**Principio Narrativo:** La historia se rige por **arcos dramáticos, hitos causales y sucesos obligatorios**, no por número prefijado de capítulos. La prosa, la sensorialidad y el ritmo orgánico determinan la extensión natural de cada bloque.
 
 ---
 
-## ESTRUCTURA POR ARCOS NARRATIVOS
+## 🧭 VISIÓN GLOBAL DEL LIBRO 1
 
-### 🌲 ACTO I: EL CHOQUE Y LA CABAÑA DE MASON (Capítulos 1 al 4)
-* **Capítulo 1:** El Salto a Extramuros. La atmósfera hiperoxigenada, el choque biológico agónico, el primer encuentro con fauna titánica y la marcha desesperada de Leo guiado por el instinto de supervivencia.
-* **Capítulo 2:** Colapso y Despertar. Leo despierta frente a la cabaña de Mason. El rigor áspero del veterano exiliado, la ausencia de atajos médicos y la primera comprensión física del entorno.
-* **Capítulos 3 y 4:** Convalecencia e Instrucción Básica. 
-  * Mason enseña a Leo a regular la respiración y el gasto biológico para no quemarse por dentro.
-  * La mente analítica de Leo conecta las historias de Caine y los relatos de Elena con la realidad geográfica.
-  * Mason le da la única opción de supervivencia civil: dirigirse a la costa sur, hacia **Puerto Raíz**, el único enclave humano activo de la Isla I.
+1. **El Choque y la Instrucción Básica (Zona 1 - Bosque de los Ecos):** De civil asfixiado en un mundo prehistórico a superviviente consciente. Instrucción con Mason, comprensión biológica del aire y partida forzada.
+2. **La Catástrofe de Puerto Raíz (Costa Sur - Esqueleto del Titán):** Contacto con la civilización de frontera, cerco militar del Gobierno, el rastro roto de Elena, convergencia fortuita con los saqueadores Makusi y Nina, cataclismo desatado por los Segadores y escape desesperado en el Bastión Móvil.
+3. **La Gran Travesía y Forja del Vínculo:** Conducción límite, fuerzas G, rescate de los civiles refugiados en un enclave seguro, el pacto de honor del trío y la búsqueda cruzando territorios inexplorados hacia las pistas de Elena.
+4. **Reencuentro, Revelación y Fuga Hacia el Archipiélago:** Hallazgo de Elena (Haimara), verdad de su sangre y linaje, descubrimiento de las cuatro islas continentales, aceptación de la pérdida de Caine, asalto al transporte del Gobierno y retorno clandestino a la civilización.
 
 ---
 
-### 🦴 ACTO II: LA CATÁSTROFE DE PUERTO RAÍZ (Capítulos 5 al 8)
-* **Capítulo 5: Llegada a Puerto Raíz y el Cerco Militar.**
-  * El asentamiento erigido en el esqueleto fósil de un titán colosal. Tensa calma.
-  * Despliegue de los **Bastiones Móviles** y los interceptores **Wayra** del temido **Cuerpo de Contención** del Gobierno en las Sombras.
-  * Leo descubre los carteles de búsqueda de Elena (Haimara). Leo aún no figura en los carteles debido al retraso burocrático de la orden desde el búnker del Archipiélago.
-  * Presencia cruzada en los muelles y hangares: Makusi y Nina han llegado al enclave siguiendo los convoyes militares, buscando información técnica y una oportunidad para saquear componentes de alto valor en los almacenes o pecios del gobierno.
-* **Capítulo 6: La Pista Rota y la Desesperación.**
-  * Durante dos días de tensa indagación, Leo descubre que Elena estuvo allí hace muy poco, pero que huyó a la desesperada borrando sus huellas tras darse la alarma.
-  * La pista se desvanece en versiones contradictorias: sus caminos se vuelven a bifurcar y Leo queda sumido en la incertidumbre más agónica.
-  * Paralelamente, Makusi y Nina vigilan los convoyes de Contención desde las sombras del puerto, preparando un golpe a los talleres mientras perciben la extraña tensión militar.
-  * Presencia encubierta de dos miembros de los **Segadores**, infiltrados en el enclave tras haber deducido que Elena está en el pueblo por culpa del despliegue del gobierno.
-* **Capítulo 7: La Caída del Titán (El Ataque de los Segadores).**
-  * Explosiones en cadena cizallan las bases de las vértebras fósiles para demoler los distritos ya descartados y reducir el área de búsqueda.
-  * Pánico masivo. Un oficial de Contención grita aterrado: *«¡SON LOS SEGADORES! ¡DESATAD TODO EL FLUJO QUE TENGÁIS!»*.
-  * Choque apoteósico: el Cuerpo de Contención entra en *Caudal* extremo contra los dos Segadores.
-  * Leo observa a los dos atacantes sobre una costilla fósil: uno destruye la ciudadela con violencia colosal; el otro permanece inmóvil escaneando a los fugitivos a una velocidad ocular inhumana (movimiento de pupilas tan frenético que el iris se vuelve un borrón vibrante), buscando a Elena entre la multitud.
-  * Durante una fracción de segundo, la mirada del Segador rastreador se cruza con la de Leo: el terror le dispara el Flujo involuntariamente, el mundo se ralentiza a cámara lenta bajo una presión asfixiante que parece juzgar su vida. Al ser descartado y romperse el contacto, el Flujo se corta de golpe, dejándolo a doscientas pulsaciones y con la certeza visceral de que solo puede huir.
-* **Capítulo 8: El Saqueo Interrumpido y la Fuga en el Bastión Móvil.**
-  * Leo corre hacia la explanada de transportes buscando una salida antes del colapso del puerto.
-  * En los talleres militares, Makusi y Nina estaban aprovechando el desconcierto inicial para desguazar un vehículo averiado. Al estallar el cataclismo total de los Segadores y derrumbarse los hangares, abortan el despiece y saltan a la cabina de un **Bastión Móvil** artillado cercano, abriendo la rampa trasera donde entra una marea de civiles aterrados.
-  * Nina desbloquea el encendido del Bastión en el panel, pero Makusi no tiene el caudal biomecánico explosivo para vencer el pedal de embrague militar de alta presión (su Flujo es de resistencia sostenida, no de descarga brusca).
-  * Leo irrumpe en la cabina desesperado. Diálogo al límite entre los tres: Nina le grita que pise o morirán todos aplastados. Leo descarga su Flujo en las piernas recordando el control de Mason; la mole ruge con un estruendo de acero, quiebra la empalizada y se pierde en la espesura.
+## 📌 CADENA DE SUCESOS OBLIGATORIOS POR HITOS DRAMÁTICOS
+
+### 🌲 HITO I: LA ESTANCIA CON MASON Y LA SALIDA AL MUNDO EXTERIOR
+* **Estado inicial:** Leo amanece en la cabaña de Mason tras colapsar en el claro.
+* **Sucesos Obligatorios:**
+  * *La convalecencia y el hambre atroz:* Consecuencias biológicas del salto a Extramuros; necesidad imperiosa de reponer reservas calóricas y calambres agónicos.
+  * *La lección pragmática del aire:* Mason no es un maestro benevolente; enseña la respiración contenida y la economía muscular como única forma de no morir de sobrecalentamiento o autofagia celular.
+  * *El anclaje del mapa mental:* Leo une los recuerdos de los relatos de Elena y las fábulas de Caine con la geografía tangible de la Isla I.
+  * *La expulsión y la marcha:* Mason corta la estancia en seco; no alberga parásitos. Le indica la única salida civil posible en la costa sur: **Puerto Raíz**. Leo emprende la marcha en solitario por el sotobosque titánico, experimentando la escala prehistórica y el sigilo elemental hasta divisar en el horizonte el gigantesco esqueleto fósil.
 
 ---
 
-### 🗺️ ACTO III: EL VIAJE HACIA EL SEGUNDO DESTINO Y EL NACIMIENTO DEL GRUPO (Capítulos 9 en adelante)
-* Conducción límite: Leo lucha contra las brutales fuerzas G (náuseas, visión de túnel) y la fatiga del Flujo a velocidades moderadas.
-* Primera parada segura: Leo se derrumba por el dolor de haber estado a punto de encontrar a Elena y haberla perdido de nuevo.
-* Makusi y Nina descubren su drama y sellan un pacto de honor para ayudarlo tras haberles salvado la vida y sacado del infierno de Puerto Raíz.
-* El objetivo logístico inmediato: llevar a los refugiados de la bodega trasera a un refugio seguro (segundo asentamiento/colonia) antes de reanudar la cacería de Elena y mientras el Gobierno y los Segadores los buscan por haber robado una máquina de guerra.
+### 🦴 HITO II: PUERTO RAÍZ (LA PISTA ROTA, LOS SAQUEADORES Y LA CAÍDA DEL TITÁN)
+* **Entorno:** Asentamiento pesquero y comercial edificado entre las vértebras y costillas de un titán colosal en el estuario sur.
+* **Sucesos Obligatorios:**
+  * *La entrada y el cerco militar:* Despliegue intimidante del Cuerpo de Contención con Bastiones Móviles e interceptores Wayra. Paranoia y toque de queda latente.
+  * *La convergencia paralela:* Makusi y Nina ya se encuentran operando en los tinglados y muelles del puerto. Han seguido a la división militar para saquear piezas de alto valor en vehículos y almacenes.
+  * *El cartel de Elena (Haimara):* Leo ve los carteles de búsqueda de Elena por alta traición y sustracción biológica. Adrenalina y confirmación de que ella estuvo allí, constatando que el rostro de Leo aún no figura por lentitud burocrática del búnker.
+  * *La pista rota y la desesperación:* Leo rastrea los bajos fondos durante dos días. Descubre que Elena se dio a la fuga a la desesperada tras la alarma militar y borró sus huellas con frialdad. Los caminos se bifurcan de nuevo; Leo cae en el vacío y la incertidumbre.
+  * *La amenaza encubierta:* Dos miembros de los Segadores se infiltran en el enclave tras deducir la presencia de Elena por el movimiento militar.
+  * *El cataclismo (El asalto de los Segadores):* Detonaciones que cizallan las bases fósiles del esqueleto demoliendo distritos enteros. Choque sangriento entre tropas de Contención y los Segadores.
+  * *El juicio biológico:* Desde una costilla, un Segador destruye mientras el otro escanea a la multitud a velocidad ocular inhumana. La mirada del rastreador se cruza un instante con la de Leo: pico involuntario de Flujo, el mundo se ralentiza y Leo experimenta un terror visceral absoluto antes de ser descartado.
+  * *El saqueo truncado y la fuga del Bastión:*
+    * Makusi y Nina están desguazando un interceptor cuando el derrumbe aplasta el hangar. Corren al Bastión Móvil listo para marcha.
+    * Nina acciona la compuerta hidráulica; una masa de civiles despavoridos se cuela en la bodega trasera.
+    * Nina desbloquea el encendido, pero Makusi no puede vencer la precarga del pedal militar en frío con su Flujo sostenido.
+    * Leo irrumpe huyendo en la cabina. Choque de voluntades al límite.
+    * Leo aplica el control de Mason, desata una descarga de *Caudal* en los cuádriceps y quiebra la resistencia del pedal.
+    * El Bastión ruge, destroza la empalizada del puerto y se pierde a toda máquina en la selva mientras la ciudadela fósil colapsa.
 
 ---
 
-### ⚖️ ACTO FINAL: EL REENCUENTRO Y LA FUGA (Hacia el Capítulo 30+, según `final_libro_1.md`)
-* Reencuentro con Elena (~75 % de la novela): verdad de su identidad y sangre de aurora.
-* Aceptación de la pérdida de Caine por la escala titánica de las 4 islas continentales.
-* Asalto al barco del Gobierno en las sombras para regresar al Archipiélago.
-* Irrupción imprevista de Caine en el clímax.
-* Huida hacia el Archipiélago y comienzo de la vida clandestina.
+### 🗺️ HITO III: LA TRAVESÍA, EL VÍNCULO DEL TRÍO Y EL DESTINO SEGURO
+* **Sucesos Obligatorios:**
+  * *Conducción al límite:* Leo lidia con la inercia, las brutales fuerzas G y el desgaste del Flujo.
+  * *El colapso emocional de Leo y el pacto:* Tras detenerse en un claro seguro, Leo se quiebra por haber rozado a Elena y haberla perdido otra vez. Makusi y Nina comprenden su drama y forjan un pacto de lealtad tras haberles salvado la vida.
+  * *El deber con los refugiados:* Desvío logístico obligado para dejar a los civiles de la bodega en un asentamiento libre seguro antes de reanudar la cacería de Elena.
+  * *La persecución en dos frentes:* El convoy es rastreado tanto por el Gobierno (por el robo de la máquina de guerra) como por las sombras de los Segadores.
+
+---
+
+### ⚖️ HITO IV: EL REENCUENTRO Y LA FUGA CLANDESTINA (CLÍMAX DEL LIBRO 1)
+* **Sucesos Obligatorios (Armonizados con `final_libro_1.md`):**
+  * *El reencuentro con Elena:* Se produce alrededor del 75 % del arco del libro. Verdad de su sangre de aurora, su condición de fugitiva de Extramuros y la naturaleza del mundo exterior.
+  * *La escala inalcanzable:* Leo comprende la inmensidad de las cuatro masas continentales y asume la pérdida de Caine en la inmensidad.
+  * *El plan de fuga:* Asalto o infiltración en el transporte marítimo del Gobierno para cruzar de vuelta al Archipiélago.
+  * *La aparición salvaje de Caine:* Irrupción en el clímax combatiendo con su nivel S.
+  * *El retorno clandestino:* Regreso al Archipiélago y comienzo de la resistencia oculta.

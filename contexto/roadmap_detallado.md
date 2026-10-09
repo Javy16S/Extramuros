@@ -1,75 +1,93 @@
-# 📋 ROADMAP DETALLADO: EXTRAMUROS (LIBRO 1)
+# 📋 CADENA DE SUCESOS DETALLADOS: EXTRAMUROS (LIBRO 1)
 
-**Estado:** Canónico y vigente. Armonizado con `contexto/roadmap.md`, `contexto/final_libro_1.md` y `contexto/tecnologia_y_transporte.md`.
+**Estado:** Canónico y vigente. Armonizado con `contexto/roadmap.md`, `contexto/final_libro_1.md` y `contexto/tecnologia_y_transporte.md`.  
+**Metodología:** Estructura modular basada en **Sucesos y Nodos Dramáticos Obligatorios**, no en ataduras por número de capítulos. La narración se expandirá o condensará según la necesidad estética, sensorial y de ritmo orgánico de la novela.
 
 ---
 
-## CAPÍTULO 3: EL PESO DEL AIRE Y LA LECCIÓN DE MASON
+## 🌲 BLOQUE 1: LA ENSEÑANZA DE MASON Y EL PRIMER DESPLAZAMIENTO
+
+### Nodo 1.1: El Despertar y el Gasto Biológico
 * **Ubicación:** Cabaña de Mason (Isla I - Bosque de los Ecos).
-* **Foco Narrativo:** Convalecencia, comprensión del cuerpo y choque biológico.
-* **Sucesos Clave:**
-  1. *El desgaste del Flujo:* Leo despierta con un hambre canina y calambres residuales tras el sobreesfuerzo del choque del Cap 1 y 2. Mason le impone una disciplina de hierro: comer carne dura sin quejarse y aprender a respirar sin inflamar los alvéolos.
-  2. *Sin atajos mágicos:* Mason le explica que el aire de este lugar alimenta el cuerpo como combustible puro, pero si no aprende a regular la tensión, su propio corazón reventará las arterias.
-  3. *El mapa mental:* Con la calma forzada, Leo repasa en su mente los relatos de Caine y los susurros nocturnos de Elena. Empieza a identificar árboles y distancias que antes creía fábulas.
-  4. *La sentencia de Mason:* Mason deja claro que no lo va a apadrinar. Si quiere respuestas, ropa y equipo, debe llegar a la costa sur: **Puerto Raíz**.
+* **Foco:** Convalecencia, choque sensorial del cuerpo y crudeza del mundo exterior.
+* **Sucesos Obligatorios:**
+  1. *El peaje del Flujo:* Leo experimenta las secuelas físicas del colapso (hambre insaciable, calambres en las extremidades, lengua pastosa, inflamación pulmonar por la densidad del oxígeno).
+  2. *La doctrina del veterano:* Mason no ofrece compasión ni teorías mágicas; le enseña a masticar carne dura, a respirar con el diafragma bloqueado para no sobrecalentar el tejido y la diferencia entre quemarse vivo o metabolizar el aire gota a gota.
+  3. *El ensamblaje del mapa mental:* Durante los momentos de tregua física, Leo conecta los recuerdos de los relatos nocturnos de Elena y las advertencias veladas de Caine con la realidad orográfica y vegetal que observa desde la cabaña. Comprende que nada de lo que le contaban era fantasía.
+  4. *La advertencia de Mason sobre el exterior:* Mason le advierte sobre la desproporción del mundo: la fauna no caza humanos por maldad, sino como hormigas insignificantes.
+
+### Nodo 1.2: La Partida y la Marcha Hacia la Costa Sur
+* **Ubicación:** Descenso desde el Bosque de los Ecos hacia la llanura y costa sur de Isla I.
+* **Foco:** Soledad, escala prehistórica pura y sigilo de supervivencia.
+* **Sucesos Obligatorios:**
+  1. *La expulsión sin miramientos:* Mason le entrega pertrechos mínimos (cuchillo tosco de hueso, cantimplora vegetal) y lo echa de su claro; la única salida con actividad humana en la región es la costa sur: **Puerto Raíz**.
+  2. *El choque con la escala titánica:* Leo avanza en solitario esquivando el sotobosque; árboles milenarios cuyas copas tapan el sol, insectos y carroñeros del tamaño de canes, y corrientes fluviales saturadas de minerales pesados.
+  3. *La aplicación de la Quietud:* Leo se ve forzado a aplicar la respiración y el paso silencioso aprendidos con Mason para no llamar la atención de bestias territoriales.
+  4. *La primera visión de Puerto Raíz:* Al salir a la depresión costera, Leo divisa a lo lejos el colosal esqueleto fósil de un titán varado en el estuario, cuyas costillas y vértebras cobijan los tinglados y muelles del asentamiento.
 
 ---
 
-## CAPÍTULO 4: LA MARCHA HACIA LA COSTA
-* **Ubicación:** Descenso por las faldas del bosque hacia el estuario sur de Isla I.
-* **Foco Narrativo:** Primer avance en solitario, tensión ambiental y sigilo rudimentario.
-* **Sucesos Clave:**
-  1. *El adiós áspero:* Mason echa a Leo con provisiones mínimas y un cuchillo de hueso.
-  2. *La escala prehistórica:* Leo cruza helechos del tamaño de casas y vadea corrientes de agua saturadas de minerales. Primeras pruebas de sigilo evitando depredadores territoriales.
-  3. *El horizonte del titán:* Tras días de marcha agónica, Leo divisa por fin en la costa la colosal osamenta fósil: las costillas y la columna de una bestia milenaria donde se apiñan los tejados y muelles de Puerto Raíz.
+## 🦴 BLOQUE 2: PUERTO RAÍZ (LA PISTA ROTA, LOS SAQUEADORES Y EL CATACLISMO)
+
+### Nodo 2.1: El Enclave Fósil y el Cerco Militar
+* **Ubicación:** Puerto Raíz (Calles interiores, costillar fósil y muelles).
+* **Foco:** Paranoia fronteriza, despliegue del Gobierno en las Sombras y convergencia de personajes.
+* **Sucesos Obligatorios:**
+  1. *El impacto urbano bajo el hueso:* Edificaciones rudimentarias de madera y lona colgadas de arcos óseos de diez metros de luz. Olor a salitre, brea y resina fósil.
+  2. *El despliegue de Contención:* Presencia pesada de **Bastiones Móviles** y patrullas de interceptores **Wayra**. Soldados disciplinados de pupilas dilatadas que imponen un cerco asfixiante sobre los accesos.
+  3. *El cartel de Haimara:* Leo encuentra en los tablones de aduana el cartel de captura de Elena con su nombre real de Extramuros (**Haimara**). Se confirma que estuvo allí. Leo descubre con alivio que él no aparece en los carteles debido al retraso burocrático de la orden desde el búnker del Archipiélago.
+  4. *La presencia encubierta de Makusi y Nina:* En los muelles y almacenes de desguace, Makusi y Nina operan en secreto. Han seguido a la comitiva militar para extraer componentes mecánicos caros y buscar información de bases avanzadas.
+
+### Nodo 2.2: La Búsqueda Infructuosa y la Llegada de las Sombras
+* **Ubicación:** Bajos fondos, tabernas y tinglados mecánicos de Puerto Raíz.
+* **Foco:** Frustración agónica, desesperanza y tensión latente.
+* **Sucesos Obligatorios:**
+  1. *La indagación a ciegas:* Leo intenta atar cabos preguntando con cautela a estibadores y comerciantes.
+  2. *La pista rota:* Las versiones se contradicen; un pescador afirma que la chica huyó por mar abierto, otro asegura que se internó en las ciénagas para esquivar los rastreadores militares. Elena borró sus huellas con frialdad implacable para no ser apresada. Leo queda desamparado en el vacío.
+  3. *El plan de saqueo de Makusi y Nina:* El dúo aprovecha la distracción de las patrullas para localizar un transporte militar dañado en los tinglados y preparar su desmantelamiento encubierto.
+  4. *La sombra de los Segadores:* Presencia indetectable de dos miembros de los Segadores vigilando los muelles; han deducido que la presa está en el enclave debido a la movilización masiva del Gobierno.
+
+### Nodo 2.3: La Caída del Titán y el Juicio Biológico
+* **Ubicación:** Bóveda ósea, plaza central y costillas superiores.
+* **Foco:** Cataclismo, violencia colosal y el terror del Flujo extremo.
+* **Sucesos Obligatorios:**
+  1. *El colapso de las bases:* Detonaciones consecutivas cizallan los pilares basales del fósil. Distritos enteros se derrumban en avalanchas de polvo de cal y vigas.
+  2. *El pánico del Gobierno:* El comandante militar pierde los papeles: grito de alarma reconociendo a los Segadores y orden de desatar Caudal total. Las fuerzas de Contención son aplastadas en segundos.
+  3. *Los dos Segadores en la costilla:* Uno causa la devastación estructural con violencia pura; el otro escanea a la multitud fugitiva con una velocidad ocular inhumana (movimiento frenético que emborrona el iris en busca del rostro de Elena).
+  4. *El microinstante del juicio:* La mirada del Segador rastreador se fija un segundo en Leo. El pánico animal le dispara a Leo el Flujo de golpe: el tiempo se distorsiona a cámara lenta, los escombros flotan y un peso sofocante casi le quiebra el esternón. Al ser descartado y saltar a otra víctima, el contacto se corta y Leo queda jadeando con la certeza biológica de que solo puede huir.
+
+### Nodo 2.4: El Saqueo Truncado y la Fuga del Bastión Móvil
+* **Ubicación:** Talleres mecánicos del puerto y empalizada exterior.
+* **Foco:** Adrenalina, unión del trío protagónico y desbloqueo del Caudal.
+* **Sucesos Obligatorios:**
+  1. *La interrupción del desguace:* Makusi y Nina están desarmando el interceptor cuando un bloque óseo parte el techo del taller. Abandonan las herramientas y se dirigen al único transporte blindado operativo: un **Bastión Móvil**.
+  2. *La invasión de los civiles:* Nina acciona la compuerta de la bodega trasera para asegurar la entrada; una masa despavorida de refugiados la empuja y se apiña en el interior.
+  3. *La cabina y el pedal atascado:* Nina destraba los conmutadores de ignición primaria. Makusi intenta accionar el pedal de embrague militar de alta presión, pero su Flujo es sostenido y no tiene la descarga violenta requerida para vencer la precarga en frío sin destrozarse los tendones.
+  4. *La entrada de Leo:* Leo se cuela en la cabina perseguido por el colapso del puerto.
+  5. *El diálogo al límite:* Nina le exige que pise si no quiere morir aplastado; Makusi le advierte con voz seca de la resistencia del acero.
+  6. *La ignición de Caudal:* Leo aplica la respiración de Mason, canaliza el Flujo hacia los cuádriceps y prensa el pedal; el embrague cede con un estruendo metálico y la transmisión militar despierta.
+  7. *La embestida:* El Bastión arranca a toda marcha, revienta la empalizada de troncos y huye hacia la vegetación densa mientras Puerto Raíz se desploma tras ellos.
 
 ---
 
-## CAPÍTULO 5: EL CERCO EN EL COSTILLAR
-* **Ubicación:** Puerto Raíz (Interior del esqueleto fósil).
-* **Foco Narrativo:** Atmósfera de frontera, paranoia civil y el despliegue del Cuerpo de Contención.
-* **Sucesos Clave:**
-  1. *La entrada al enclave:* Leo cruza los puestos de avanzada. Casas construidas en los huecos de las vértebras; olor a salmuera, grasa y resina fósil.
-  2. *El silencio militar:* El pueblo entero está cohibido. Dos **Bastiones Móviles** y varios **Wayra** acorazados bloquean la plaza central y el acceso a los muelles. Soldados con pupilas dilatadas y respiración mecánica custodian los almacenes.
-  3. *La revelación de la fugitiva:* Leo pregunta con cautela en un puesto de pertrechos. Los lugareños murmuran que el **Cuerpo de Contención** ha sido movilizado desde las sombras para dar caza a una mujer peligrosa.
-  4. *Los carteles de búsqueda:* Leo ve los bocetos de **Elena (Haimara)** clavados en los tablones. La adrenalina le golpea: ella estuvo aquí. A la vez, comprueba con alivio que su propia cara no figura en los carteles debido a la lentitud burocrática del búnker central del Archipiélago.
-  5. *Cruce de caminos encubierto:* En los tinglados y muelles de desguace, Makusi y Nina vigilan los convoyes militares recién llegados. Han venido siguiendo el rastro de la división de Contención para obtener información de bases avanzadas y buscar una oportunidad de saquear tecnología militar valiosa.
+## 🗺️ BLOQUE 3: LA GRAN TRAVESÍA Y EL DESTINO SEGURO
+
+### Nodo 3.1: Las Fuerzas G y el Colapso Emocional
+* **Ubicación:** Senderos de tierra y fango en la selva baja.
+* **Sucesos Obligatorios:**
+  1. *El precio de la conducción:* Leo sufre las brutales fuerzas G de una máquina titánica (visión de túnel, náuseas, agotamiento neuromuscular por sostener la velocidad).
+  2. *El quiebre de Leo:* En la primera parada segura, Leo se derrumba física y anímicamente: el dolor de haber estado tan cerca de Elena y haberla perdido otra vez.
+  3. *El pacto del trío:* Makusi y Nina descubren su historia. Aunque parcos y curtidos, sellan un pacto de honor para acompañarlo y ayudarlo tras haberlos sacado con vida del infierno del puerto.
+  4. *El deber moral con los civiles:* No pueden iniciar la cacería de Elena con una bodega llena de familias aterrorizadas. Deben desviarse para llevar a los refugiados a una colonia libre segura antes de retomar la marcha.
+  5. *La doble persecución:* El vehículo robado los convierte en blanco prioritario tanto de las patrullas del Gobierno en las Sombras como de las sombras de los Segadores.
 
 ---
 
-## CAPÍTULO 6: LA PISTA ROTA
-* **Ubicación:** Calles y tabernas de Puerto Raíz.
-* **Foco Narrativo:** Investigación cautelosa, falsa esperanza y caída en la desesperación.
-* **Sucesos Clave:**
-  1. *La cacería de información:* Durante 48 horas, esquivando las patrullas de Contención, Leo indaga en los bajos fondos sobre quién dio la alarma y qué hizo Elena.
-  2. *La ilusión y la frustración:* Leo cree estar a punto de alcanzarla, pero las pistas se contradicen: un estibador dice que Elena huyó en barca; otro jura que se internó en las marismas para despistar a los rastreadores.
-  3. *El vacío:* Elena borró sus huellas con frialdad para no ser capturada por el gobierno, y al hacerlo, condenó a Leo a la incertidumbre absoluta. Sus caminos se han vuelto a separar.
-  4. *La vigilancia del dúo:* En los tinglados mecánicos, Makusi y Nina terminan de planear el desguace encubierto de un vehículo averiado del convoy, ajenos a la tragedia de Leo pero notando la inquietud extrema de los soldados.
-  5. *Presencias invisibles:* Leo advierte una tensión anormal en el ambiente; dos figuras encubiertas vigilan los movimientos militares desde las sombras de los muelles (los Segadores han confirmado que Elena está en el pueblo por culpa del despliegue del gobierno).
-
----
-
-## CAPÍTULO 7: LA DEMOLICIÓN DEL TITÁN
-* **Ubicación:** La plaza central y las costillas superiores de Puerto Raíz.
-* **Foco Narrativo:** Cataclismo, el choque entre el Gobierno y los Segadores, y el terror del Flujo extremo.
-* **Sucesos Clave:**
-  1. *Las explosiones:* Detonaciones consecutivas revientan los pilares basales del esqueleto fósil. Los distritos ya descartados por los Segadores se desmoronan en avalanchas de polvo y hueso.
-  2. *El grito de pánico militar:* Un comandante de Contención pierde la compostura y brama: *«¡SON LOS SEGADORES! ¡DESATAD TODO EL FLUJO QUE TENGÁIS!»*.
-  3. *El choque sangriento:* Las tropas de élite del gobierno cargan en *Caudal* extremo, pero son pulverizadas.
-  4. *Las dos figuras en la costilla:* Leo se gira y ve a los dos Segadores sobre el arco fósil superior: uno demuele todo con violencia colosal; el otro permanece inmóvil barriendo a la multitud que huye con un movimiento ocular frenético e inhumano (su iris no se distingue por la velocidad a la que escanea y descarta rostros buscando a Elena).
-  5. *El microinstante del juicio biológico:* Durante una fracción de segundo, la mirada del Segador rastreador se clava directamente en Leo. El pánico animal le dispara a Leo el Flujo por puro reflejo involuntario: el mundo parece detenerse a cámara lenta, los escombros flotan y una presión asfixiante le devora el pecho, como si esa mirada estuviera juzgando si merece vivir o morir. Al instante siguiente, el ojo del Segador lo descarta y salta a otro civil; el Flujo se corta de golpe, dejando a Leo con una taquicardia desorbitada, sudor frío y la certeza biológica absoluta de que su único papel allí es huir.
-  6. *La caída del mito:* Leo ve con sus propios ojos que el Gobierno todopoderoso es impotente ante los verdaderos monstruos de Extramuros.
-
----
-
-## CAPÍTULO 8: EL SAQUEO INTERRUMPIDO Y EL BASTIÓN ROBADO
-* **Ubicación:** Explanada de transportes, talleres de Puerto Raíz y salida hacia la selva.
-* **Foco Narrativo:** Adrenalina pura, el choque fortuito del trío, el despertar del Caudal en Leo y la huida milagrosa.
-* **Sucesos Clave:**
-  1. *El saqueo truncado:* Mientras el asentamiento se viene abajo por el ataque de los Segadores, Makusi y Nina estaban en los tinglados mecánicos intentando desguazar un interceptor militar averiado. Al colapsar el techo del hangar bajo un bloque fósil, abortan la extracción y corren hacia el único vehículo blindado de gran envergadura listo para marcha: un **Bastión Móvil**.
-  2. *La masa de civiles:* Nina acciona la compuerta hidráulica trasera para permitir la subida de Makusi con sus herramientas, pero una oleada de civiles despavoridos empuja la rampa y se hacina en la bodega de carga buscando salvar la vida.
-  3. *La cabina bloqueada:* Nina salta al panel del operador y destraba los conmutadores de encendido primario. Makusi intenta pisar el pedal de transmisión y embrague militar de alta presión, pero su Flujo es de resistencia muscular sostenida y no logra vencer la resistencia de precarga en frío de la maquinaria de guerra sin desollarse los tendones.
-  4. *La irrupción de Leo:* Leo llega a la carrera esquivando derrumbes y se cuela en la cabina buscando una vía de escape.
-  5. *Diálogo al límite:* Nina le grita al verlo dudar: *«¡Tú, empuja ese pedal con todo lo que tengas o nos aplasta la bóveda!»*. Makusi le advierte con voz ronca y tajante que se necesita una descarga de Caudal inmediata o reventará los engranajes.
-  6. *La ignición de Caudal:* Con las explosiones derribando las columnas fósiles a escasos metros, Leo aprieta los dientes, aplica el control respiratorio de Mason y descarga su Flujo en los cuádriceps. Con un crujido metálico atronador, el embrague cede y los pistones rugen.
-  7. *La fuga:* El Bastión Móvil embiste y parte en dos la empalizada de troncos reforzados de Puerto Raíz, adentrándose a toda máquina en la espesura de la selva virgen mientras el enclave colapsa a sus espaldas.
+## ⚖️ BLOQUE 4: REENCUENTRO, REVELACIONES Y CLÍMAX (LIBRO 1)
+* **Sucesos Obligatorios (Alineados con `final_libro_1.md`):**
+  1. *El reencuentro con Elena:* Alrededor del 75 % del desarrollo general del libro.
+  2. *La verdad de Haimara:* Su linaje, su condición genética de sangre de aurora y la revelación de la escala insular (las cuatro islas continentales).
+  3. *La asunción de la pérdida:* Leo comprende que buscar a Caine a pie por ese continente colosal es imposible; Caine está fuera de alcance.
+  4. *El asalto al buque militar:* Plan de infiltración en el puerto marítimo del Gobierno para capturar una nave de retorno al Archipiélago.
+  5. *La intervención de Caine:* Irrupción brutal del abuelo en el clímax, mostrando el nivel S antes de permitir la huida de Leo, Elena y sus compañeros.
+  6. *El regreso clandestino:* Llegada a la civilización y comienzo de la resistencia en las sombras.
