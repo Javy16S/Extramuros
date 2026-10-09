@@ -22,27 +22,30 @@
   * El asentamiento erigido en el esqueleto fósil de un titán colosal. Tensa calma.
   * Despliegue de los **Bastiones Móviles** y los interceptores **Wayra** del temido **Cuerpo de Contención** del Gobierno en las Sombras.
   * Leo descubre los carteles de búsqueda de Elena (Haimara). Leo aún no figura en los carteles debido al retraso burocrático de la orden desde el búnker del Archipiélago.
+  * Presencia cruzada en los muelles y hangares: Makusi y Nina han llegado al enclave siguiendo los convoyes militares, buscando información técnica y una oportunidad para saquear componentes de alto valor en los almacenes o pecios del gobierno.
 * **Capítulo 6: La Pista Rota y la Desesperación.**
   * Durante dos días de tensa indagación, Leo descubre que Elena estuvo allí hace muy poco, pero que huyó a la desesperada borrando sus huellas tras darse la alarma.
   * La pista se desvanece en versiones contradictorias: sus caminos se vuelven a bifurcar y Leo queda sumido en la incertidumbre más agónica.
-  * Presencia encubierta de dos miembros de los **Segadores**, infiltrados en el enclave tras haber deducido que Elena está en el pueblo por el despliegue del gobierno.
+  * Paralelamente, Makusi y Nina vigilan los convoyes de Contención desde las sombras del puerto, preparando un golpe a los talleres mientras perciben la extraña tensión militar.
+  * Presencia encubierta de dos miembros de los **Segadores**, infiltrados en el enclave tras haber deducido que Elena está en el pueblo por culpa del despliegue del gobierno.
 * **Capítulo 7: La Caída del Titán (El Ataque de los Segadores).**
   * Explosiones en cadena cizallan las bases de las vértebras fósiles para demoler los distritos ya descartados y reducir el área de búsqueda.
   * Pánico masivo. Un oficial de Contención grita aterrado: *«¡SON LOS SEGADORES! ¡DESATAD TODO EL FLUJO QUE TENGÁIS!»*.
   * Choque apoteósico: el Cuerpo de Contención entra en *Caudal* extremo contra los dos Segadores.
   * Leo observa a los dos atacantes sobre una costilla fósil: uno destruye la ciudadela con violencia colosal; el otro permanece inmóvil escaneando a los fugitivos a una velocidad ocular inhumana (movimiento de pupilas tan frenético que el iris se vuelve un borrón vibrante), buscando a Elena entre la multitud.
   * Durante una fracción de segundo, la mirada del Segador rastreador se cruza con la de Leo: el terror le dispara el Flujo involuntariamente, el mundo se ralentiza a cámara lenta bajo una presión asfixiante que parece juzgar su vida. Al ser descartado y romperse el contacto, el Flujo se corta de golpe, dejándolo a doscientas pulsaciones y con la certeza visceral de que solo puede huir.
-* **Capítulo 8: La Fuga en el Bastión Móvil.**
-  * Leo corre hacia los vehículos militares abandonados en el caos. Sube a un Bastión Móvil con las compuertas abiertas.
-  * Una multitud de civiles se hacina en la bodega trasera; un chico y una chica de su edad ocupan los asientos de copiloto en la cabina delantera.
-  * El vehículo no arranca: el pedal de embrague requiere una fuerza mecánica sobrehumana. Ante los gritos y la muerte inminente, Leo desata un pico agónico de *Caudal*, vence la transmisión con un estruendo de acero y el Bastión Móvil ruge, rompiendo la empalizada y perdiéndose en la espesura.
+* **Capítulo 8: El Saqueo Interrumpido y la Fuga en el Bastión Móvil.**
+  * Leo corre hacia la explanada de transportes buscando una salida antes del colapso del puerto.
+  * En los talleres militares, Makusi y Nina estaban aprovechando el desconcierto inicial para desguazar un vehículo averiado. Al estallar el cataclismo total de los Segadores y derrumbarse los hangares, abortan el despiece y saltan a la cabina de un **Bastión Móvil** artillado cercano, abriendo la rampa trasera donde entra una marea de civiles aterrados.
+  * Nina desbloquea el encendido del Bastión en el panel, pero Makusi no tiene el caudal biomecánico explosivo para vencer el pedal de embrague militar de alta presión (su Flujo es de resistencia sostenida, no de descarga brusca).
+  * Leo irrumpe en la cabina desesperado. Diálogo al límite entre los tres: Nina le grita que pise o morirán todos aplastados. Leo descarga su Flujo en las piernas recordando el control de Mason; la mole ruge con un estruendo de acero, quiebra la empalizada y se pierde en la espesura.
 
 ---
 
 ### 🗺️ ACTO III: EL VIAJE HACIA EL SEGUNDO DESTINO Y EL NACIMIENTO DEL GRUPO (Capítulos 9 en adelante)
 * Conducción límite: Leo lucha contra las brutales fuerzas G (náuseas, visión de túnel) y la fatiga del Flujo a velocidades moderadas.
 * Primera parada segura: Leo se derrumba por el dolor de haber estado a punto de encontrar a Elena y haberla perdido de nuevo.
-* Los dos copilotos (que ya se conocían y estaban de paso en Puerto Raíz) descubren su drama y sellan un pacto de honor para ayudarlo tras haberles salvado la vida.
+* Makusi y Nina descubren su drama y sellan un pacto de honor para ayudarlo tras haberles salvado la vida y sacado del infierno de Puerto Raíz.
 * El objetivo logístico inmediato: llevar a los refugiados de la bodega trasera a un refugio seguro (segundo asentamiento/colonia) antes de reanudar la cacería de Elena y mientras el Gobierno y los Segadores los buscan por haber robado una máquina de guerra.
 
 ---

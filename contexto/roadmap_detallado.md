@@ -33,6 +33,7 @@
   2. *El silencio militar:* El pueblo entero está cohibido. Dos **Bastiones Móviles** y varios **Wayra** acorazados bloquean la plaza central y el acceso a los muelles. Soldados con pupilas dilatadas y respiración mecánica custodian los almacenes.
   3. *La revelación de la fugitiva:* Leo pregunta con cautela en un puesto de pertrechos. Los lugareños murmuran que el **Cuerpo de Contención** ha sido movilizado desde las sombras para dar caza a una mujer peligrosa.
   4. *Los carteles de búsqueda:* Leo ve los bocetos de **Elena (Haimara)** clavados en los tablones. La adrenalina le golpea: ella estuvo aquí. A la vez, comprueba con alivio que su propia cara no figura en los carteles debido a la lentitud burocrática del búnker central del Archipiélago.
+  5. *Cruce de caminos encubierto:* En los tinglados y muelles de desguace, Makusi y Nina vigilan los convoyes militares recién llegados. Han venido siguiendo el rastro de la división de Contención para obtener información de bases avanzadas y buscar una oportunidad de saquear tecnología militar valiosa.
 
 ---
 
@@ -43,7 +44,8 @@
   1. *La cacería de información:* Durante 48 horas, esquivando las patrullas de Contención, Leo indaga en los bajos fondos sobre quién dio la alarma y qué hizo Elena.
   2. *La ilusión y la frustración:* Leo cree estar a punto de alcanzarla, pero las pistas se contradicen: un estibador dice que Elena huyó en barca; otro jura que se internó en las marismas para despistar a los rastreadores.
   3. *El vacío:* Elena borró sus huellas con frialdad para no ser capturada por el gobierno, y al hacerlo, condenó a Leo a la incertidumbre absoluta. Sus caminos se han vuelto a separar.
-  4. *Presencias invisibles:* Leo advierte una tensión anormal en el ambiente; dos figuras encubiertas vigilan los movimientos militares desde las sombras de los muelles (los Segadores han confirmado que Elena está en el pueblo por culpa del despliegue del gobierno).
+  4. *La vigilancia del dúo:* En los tinglados mecánicos, Makusi y Nina terminan de planear el desguace encubierto de un vehículo averiado del convoy, ajenos a la tragedia de Leo pero notando la inquietud extrema de los soldados.
+  5. *Presencias invisibles:* Leo advierte una tensión anormal en el ambiente; dos figuras encubiertas vigilan los movimientos militares desde las sombras de los muelles (los Segadores han confirmado que Elena está en el pueblo por culpa del despliegue del gobierno).
 
 ---
 
@@ -60,13 +62,14 @@
 
 ---
 
-## CAPÍTULO 8: EL BASTIÓN ROBADO
-* **Ubicación:** Explanada de transportes de Puerto Raíz y salida hacia la selva.
-* **Foco Narrativo:** Adrenalina, el despertar del Caudal en Leo y la huida milagrosa.
+## CAPÍTULO 8: EL SAQUEO INTERRUMPIDO Y EL BASTIÓN ROBADO
+* **Ubicación:** Explanada de transportes, talleres de Puerto Raíz y salida hacia la selva.
+* **Foco Narrativo:** Adrenalina pura, el choque fortuito del trío, el despertar del Caudal en Leo y la huida milagrosa.
 * **Sucesos Clave:**
-  1. *La carrera desesperada:* Leo corre hacia los vehículos militares. Alcanza un Bastión Móvil abierto y cebado por las tropas.
-  2. *La cabina y los copilotos:* Una masa de civiles aterrorizados se apiña en la bodega trasera. Un chico y una chica de su edad ocupan los asientos delanteros junto a él.
-  3. *La parálisis mecánica:* Leo pisa el acelerador con todo su peso: la mole no se mueve.
-  4. *El diálogo al límite:* Los dos chicos le increpan desesperados: *«¡Tienes que meter el Flujo o nos matas a todos!»*. Leo les grita por qué no conducen ellos, y responden que su Flujo no tiene la potencia para mover un engranaje militar.
-  5. *La ignición de Caudal:* Con las explosiones pisándoles los talones y el esqueleto cayendo a pedazos, Leo aprieta los dientes, recuerda la respiración de Mason y descarga su Flujo en los músculos de las piernas. Con un chasquido atronador de acero, el embrague cede.
-  6. *La fuga:* El Bastión Móvil ruge, destroza las empalizadas del puerto y se pierde a toda máquina en la espesura de la selva exterior.
+  1. *El saqueo truncado:* Mientras el asentamiento se viene abajo por el ataque de los Segadores, Makusi y Nina estaban en los tinglados mecánicos intentando desguazar un interceptor militar averiado. Al colapsar el techo del hangar bajo un bloque fósil, abortan la extracción y corren hacia el único vehículo blindado de gran envergadura listo para marcha: un **Bastión Móvil**.
+  2. *La masa de civiles:* Nina acciona la compuerta hidráulica trasera para permitir la subida de Makusi con sus herramientas, pero una oleada de civiles despavoridos empuja la rampa y se hacina en la bodega de carga buscando salvar la vida.
+  3. *La cabina bloqueada:* Nina salta al panel del operador y destraba los conmutadores de encendido primario. Makusi intenta pisar el pedal de transmisión y embrague militar de alta presión, pero su Flujo es de resistencia muscular sostenida y no logra vencer la resistencia de precarga en frío de la maquinaria de guerra sin desollarse los tendones.
+  4. *La irrupción de Leo:* Leo llega a la carrera esquivando derrumbes y se cuela en la cabina buscando una vía de escape.
+  5. *Diálogo al límite:* Nina le grita al verlo dudar: *«¡Tú, empuja ese pedal con todo lo que tengas o nos aplasta la bóveda!»*. Makusi le advierte con voz ronca y tajante que se necesita una descarga de Caudal inmediata o reventará los engranajes.
+  6. *La ignición de Caudal:* Con las explosiones derribando las columnas fósiles a escasos metros, Leo aprieta los dientes, aplica el control respiratorio de Mason y descarga su Flujo en los cuádriceps. Con un crujido metálico atronador, el embrague cede y los pistones rugen.
+  7. *La fuga:* El Bastión Móvil embiste y parte en dos la empalizada de troncos reforzados de Puerto Raíz, adentrándose a toda máquina en la espesura de la selva virgen mientras el enclave colapsa a sus espaldas.
