@@ -122,43 +122,39 @@ El tercer golpe cizalló la jamba izquierda de la entrada. Un bloque de media to
 
 El pánico animal le cerró la garganta. Acorralado contra el hueso y la piedra, con la certeza física de que iba a ser triturado en los próximos diez segundos, algo en el interior de su cuerpo quebró su ritmo habitual.
 
-El zumbido del impacto pareció amortiguarse bajo una campana de vacío.
+El zumbido del impacto pareció amortiguarse bajo una campana de vacío, pero lo que siguió no fue silencio: fue una sobrecarga biológica absoluta.
 
-La percepción del entorno se alteró de golpe: los peñascos que caían del techo parecieron descender con una flotabilidad lenta; el vapor de los espiráculos del monstruo se expandía con la parsimonia de una nube de yeso suspendida en el aire. En el centro de su pecho, un latido seco y potente disparó un calor abrasador por sus arterias hacia las extremidades.
+Un estallido de calor furioso brotó del centro de su esternón y se ramificó hacia cada terminación nerviosa de su cuerpo como una descarga eléctrica. Sus sentidos se dilataron hasta la saturación más violenta: el haz de la linterna y la luz lechosa del techo le quemaron las retinas en una llamarada blanca insoportable que le borró las distancias; el silbido del vapor de la bestia resonó en sus tímpanos como el aullido de una sirena industrial a medio palmo de su oído, y un mareo atroz, ácido y giratorio le vació el estómago en una arcada seca.
 
-No hubo tiempo para entenderlo. Fue un acto reflejo de pura desesperación biológica.
+El cerebro no daba abasto para procesar semejante marea de estímulos. La visión de túnel se cerró en torno a sus ojos, manchada por destellos púrpuras y una estática ardiente en las sienes.
 
-Leo flexionó las piernas. Los músculos de los muslos y los gemelos se tensaron con una rigidez de acero forjado que le hizo crujir las articulaciones.
+Su sistema neuromuscular entero entró en cortocircuito.
 
-Saltó hacia la costilla fósil más cercana.
+Las mandíbulas se le encajaron con tal violencia que el chasquido de los molares le retumbó en el cráneo; los tendones de los brazos, el cuello y la espalda se tensaron en nudos rígidos, y sus piernas respondieron no con agilidad dócil, sino con una fuerza desbocada y espasmódica que él no sabía cómo calibrar.
 
-La fuerza del despegue lo catapultó tres metros en vertical con una aceleración salvaje que le vació los pulmones. Sus dedos no resbalaron: se clavaron en la piedra calcificada con una presión que le amorató las uñas, y sin detener la inercia, sus piernas se apoyaron en el arco óseo impulsándolo en un segundo salto continuo hacia la pared vertical del fondo.
+Fue un acto de pura convulsión biológica.
 
-Rebotó contra la roca lisa con la planta de la bota, ascendiendo otros tres metros en el aire mientras la gravedad parecía haber perdido el agarre sobre su peso.
+Leo no calculó una trayectoria: se impulsó a ciegas para escapar de la boca del monstruo. La detonación muscular en sus piernas lo proyectó hacia arriba con una violencia desmedida, haciéndolo estrellarse contra la primera costilla fósil. Sus dedos, rígidos por una contracción incontrolable, no agarraron la piedra; la arañaron y la aplastaron con una presión que le amorató las falanges, desgarrándole la piel. Sin control sobre la inercia, rebotó contra la roca viva en un segundo latigazo ciego que le raspó los hombros y las costillas contra la pared vertical, catapultándolo de golpe hacia la abertura del techo.
 
-Sus manos alcanzaron el borde de la sima superior.
+Sus manos golpearon el borde exterior de la sima.
 
-Tiró de su cuerpo hacia arriba con una fuerza desbocada que le desgarró las mangas de la camisa contra las lajas afiladas, sacó el torso por la abertura del techo y rodó sobre la cresta exterior del risco en el instante exacto en que la entrada baja colapsaba por completo bajo una nueva embestida de la bestia, sepultando la cueva en un trueno de polvo blanco.
+Tiró de su peso en una sacudida brutal, casi partiéndose las muñecas contra el basalto, sacó el torso y rodó de costado sobre la cresta exterior del risco en el mismo segundo en que la entrada inferior colapsaba en un estruendo de caliza pulverizada.
 
 Leo cayó sobre la cima del macizo rocoso.
 
-El viento frío de la altura le azotó la cara. La bestia había quedado atrapada al otro lado de la muralla de basalto, bramando con furia sorda entre los escombros de la entrada destruida.
+El viento frío de la altura le azotó la cara, pero no alivió el incendio que le devoraba el cráneo. La bestia había quedado bloqueada al otro lado de la pared, pero su propio cuerpo seguía fuera de control: las pulsaciones eran un zumbido ensordecedor que le empañaba la vista en ondas rojas; el suelo oscilaba bajo sus botas como la cubierta de un barco en plena galerna, y un vértigo salvaje le hacía perder el equilibrio a cada intento de incorporarse.
 
-Pero el Flujo desatado en su cuerpo no se detuvo de inmediato.
-
-La sangre continuaba bombeando a una velocidad demencial por sus venas, cargándole los músculos con una energía descontrolada que le hacía temblar las mandíbulas. Leo se puso en pie sobre el espinazo de piedra, empujado por una urgencia motriz ciega que le impedía quedarse quieto.
+No podía detenerse. El exceso de energía biológica le sacudía los músculos en temblores rígidos que le obligaban a avanzar para no reventar por dentro.
 
 Hacia el este, el terreno caía en picado.
 
-La ladera oriental de los riscos no era una pendiente suave: era un terraplén escarpado de trescientos metros de desnivel cubierto de gravilla suelta, lajas resbaladizas y cárcavas secas que descendían hacia el fondo de un valle cerrado.
+La ladera oriental de los riscos era un precipicio escarpado de trescientos metros de desnivel cubierto de gravilla suelta, lajas afiladas y cárcavas abiertas.
 
-Leo no frenó. Se arrojó por la pendiente.
+Leo se lanzó hacia abajo sin control alguno.
 
-El descenso fue una carrera al borde del despeñadero. Con las piernas aún sobrecargadas por el pulso biológico, Leo bajó derrapando sobre los talones, levantando una estela continua de piedras que rodaban por delante de sus pasos. Cuando la inclinación se volvió casi vertical, dobló las rodillas y se deslizó sobre la ladera de lado, frenando el impacto con el borde exterior de las botas y el codo derecho, dejando surcos en la gravilla mientras esquivaba afloramientos de roca madre con quiebros espasmódicos.
+El descenso fue un calvario de derrapes, tropiezos y caídas continuas. Con la vista distorsionada y los reflejos desgobernados por el mareo, era incapaz de elegir dónde plantar las botas. Bajó despedido por la pendiente, derrapando sobre los talones, perdiendo el apoyo y deslizándose de costado por la grava afilada mientras las lajas le desgarraban los pantalones y le desollaban el antebrazo. Cuando intentaba frenar, la rigidez espasmódica de sus piernas lo hacía rebotar y rodar pendiente abajo entre una lluvia de cascotes que caían con él.
 
-El terraplén dio paso a un suelo de turba empinada con raíces desnudas. Leo derrapó diez metros sobre la hojarasca húmeda, se trabó con una liana baja y rodó sobre el hombro por un talud de helechos, amortiguando la caída contra un banco de tierra blanda.
-
-Quedó boca arriba en el fondo de la hondonada.
+El pedregal dio paso a un talud de turba empinada con raíces gigantescas. Leo no pudo esquivarlas: una raíz le enganchó la bota derecha, haciéndolo girar en el aire antes de estrellarse de costado contra un banco de helechos y rodar diez metros más en una masa de barro, hojarasca y ramas secas hasta quedar tendido de bruces en el fondo de la hondonada.
 
 El Flujo se cortó de golpe.
 
