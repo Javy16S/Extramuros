@@ -53,9 +53,31 @@ Dado que no existen satélites en órbita ni cables tendidos en la selva (que la
 
 ---
 
-## 5. PROYECCIÓN DE TECNOLOGÍA AÉREA (LORE PARA LIBROS POSTERIORES)
+## 5. SISTEMAS DE NAVEGACIÓN TERRESTRE: BRÚJULAS DE RESONANCIA Y SELECTOR DE TAMBOR
+
+En Extramuros no existen satélites, radiofaros estables ni campos magnéticos planetarios fiables; las brújulas convencionales giran sin control debido a las fallas minerales y el Flujo ambiental. 
+
+Para navegar a gran velocidad y mantener la cohesión táctica, los vehículos pesados y los *Wayra* utilizan el **Sistema de Brújulas de Resonancia Lítica** (*ver contexto/materiales_y_minerales.md*):
+
+### A. La Física del Enlace
+* Cada dial es una cápsula hermética de latón y vidrio balístico rellena de aceite denso, en cuyo interior flota una aguja tallada a partir de las extremidades de un micro-gólem (*Rumi Kawsay*).
+* La aguja apunta con atracción física inmutable hacia el **Núcleo matriz (*Core*)** al que pertenece, sin importar la distancia, el clima o la profundidad bajo tierra.
+
+### B. El Mecanismo de Salpicadero: Selector de Tambor Tipo «Tragaperras»
+* Los tableros de mando de los *Bastiones Móviles* y camiones de transporte cuentan con un **carrusel cilíndrico de engranajes pesados** incrustado en el acero del salpicadero, equipado con varias brújulas calibradas a distintos destinos (ej. *Cápsula 1: Puerto Raíz*, *Cápsula 2: Convoy Nodriza Líder*, *Cápsula 3: Puesto Fronterizo*).
+* **Accionamiento por palanca:** Junto a la columna de dirección, el piloto dispone de una **palanca vertical con empuñadura esférica** inspirada en el mecanismo de una tragaperras:
+  1. El conductor tira de la palanca hacia abajo contra la resistencia de un resorte mecánico pesado.
+  2. Un trinquete cede con un chasquido metálico seco (*¡CLACK-CLANK!*) y hace rotar el tambor cilíndrico un paso adelante.
+  3. La brújula anterior desciende y la siguiente se alinea frente al visor de aumento en el cuadro de mandos, mostrando en un rótulo de bronce grabado el destino activo.
+  4. Tirar de nuevo rota al siguiente objetivo de navegación.
+* Este diseño puramente analógico es inmune al barro, a las vibraciones de 4.000 CV y a la radiación de Flujo de las bestias, permitiendo cambiar de referencia de convoy en una fracción de segundo sin apartar la mirada de la marcha.
+
+---
+
+## 6. PROYECCIÓN DE TECNOLOGÍA AÉREA (LORE PARA LIBROS POSTERIORES)
 
 * **Aviones de Alta Velocidad (Libro 2):**
   * Prototipos a reacción pesada que permitirán por primera vez sobrevolar el dosel arbóreo e internarse en las profundidades inaccesibles del **Horizonte Oscuro**, planteando el riesgo letal de cruzar el territorio y espacio aéreo de una **Amenaza Ø (Omega)** o depredadores aéreos colosales.
 * **Aeróstatos Blindados de Baja Frecuencia:**
   * Zepelines de observación estratificada recubiertos de membranas biológicas tratadas químicamente con feromonas de repulsión para no ser detectados ni atacados por la fauna alada de gran envergadura.
+
