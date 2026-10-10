@@ -45,7 +45,12 @@ Toda lámina del cuaderno debe presentarse en **formato panorámico (Aspect Rati
 1. **Detalle Craneal / Mordida:** Cráneo, pico óseo, articulación de mandíbulas o receptores sensoriales.
 2. **Mecanismo Fisiológico / Térmico:** Corte o vista en detalle del órgano singular (espiráculos de purga, glándulas de calor, circulación de Flujo).
 3. **Punto de Tracción / Huella:** Detalle de pezuña triple, espolón de anclaje, garra o almohadilla.
-4. **Comparativa de Escala:** Silueta en sombra negra de un explorador humano (1,80 m con lanza/equipo de viaje) colocada junto a la silueta a escala de la bestia con cotas métricas (ej. *8 m*).
+4. **Comparativa de Escala (Escala Matemática Estricta):** Silueta en sombra negra de un explorador humano (1,80 m con lanza/equipo de viaje) colocada junto a la silueta de la bestia/entidad.
+   * **Proporcionalidad obligatoria:**
+     * Para bestias de 7–8 m: el humano mide < 1/4 de la longitud total (caben más de 4 humanos apilados).
+     * Para entidades de 12–15 m: el humano mide < 1/6 a 1/7 de la altura total (la cabeza del humano llega únicamente a la espinilla/rodilla de la criatura; caben casi 7 humanos apilados).
+     * Para titanes de 20+ m: el humano es minúsculo, menor a 1/11 de la altura total.
+   * **Prohibición:** Prohibido que el humano aparente alcanzar la mitad, cintura o pecho de criaturas de 8 m o superiores.
 
 ---
 

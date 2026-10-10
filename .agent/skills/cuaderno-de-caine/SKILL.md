@@ -30,8 +30,13 @@ Toda lámina de criatura o sujeto debe estructurarse obligatoriamente en **forma
    * Detalle o corte transversal del órgano singular (espiráculos de purga térmica, canales vasculares, membranas).
 4. **Inset Inferior Izquierdo (Tracción / Extremidad):**
    * Detalle de agarre: pezuñas triples, espolón de tracción, garras de escalada o huella en el fango.
-5. **Inset Inferior Derecho (Escala Diegética):**
-   * Silueta en sombra negra de un explorador humano de 1,80 m con lanza de marcha comparado directamente con la silueta de la bestia con su cota métrica.
+5. **Inset Inferior Derecho (Escala Matemática Estricta):**
+   * Silueta en sombra negra de un explorador humano (1,80 m con lanza de marcha) comparado directamente con la silueta de la criatura.
+   * **Proporcionalidad estricta:**
+     * Para bestias de 7–8 m: el humano mide < 1/4 de la longitud/envergadura (caben más de 4 humanos apilados).
+     * Para entidades de 12–15 m: el humano mide < 1/6 a 1/7 de la altura total (la cabeza del humano llega a la espinilla/rodilla de la criatura; caben casi 7 humanos apilados).
+     * Para titanes de 20+ m: el humano es minúsculo (< 1/11).
+   * **Prohibido:** Que el humano aparente alcanzar la mitad, cintura o pecho de monstruos gigantes.
 6. **Anotaciones Manuscritas (En Español):**
    * Letra cursiva inclinada y sobria de Caine con flechas señalando partes del animal (*«Placas de queratina mineral»*, *«Purga de calor»*, *«Pico aserrado»*).
 

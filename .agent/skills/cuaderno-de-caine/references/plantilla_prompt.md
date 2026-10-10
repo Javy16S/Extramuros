@@ -17,7 +17,7 @@ Four detailed inset drawings:
 - Upper left: [DETALLE_CRANEO_O_MANDIBULA]
 - Upper right: [DETALLE_ORGANO_TERMICO_O_SINGULAR]
 - Lower left: [DETALLE_PEZUÑA_O_HUELLA_O_GARRA]
-- Lower right: clean scale silhouette comparing a 1.8m explorer with walking spear against the [METROS]m beast.
+- Lower right: STRICT MATHEMATICAL SILHOUETTE SCALE COMPARISON: the [METROS]m titan/beast silhouette towers massively next to a small, miniature 1.8m human explorer silhouette (the human's full height fits exactly [METROS / 1.8] times into the titan's height/length, appearing realistically small, reaching only to the ankle/lower shin).
 
 Dark, gritty, visceral naturalist art, Da Vinci codex and naturalist field journal aesthetic, no digital UI, pure traditional illustration.
 ```
