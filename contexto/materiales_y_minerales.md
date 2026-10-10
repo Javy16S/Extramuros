@@ -10,9 +10,10 @@ Documento maestro sobre los materiales singulares, aleaciones geológicas, miner
 * **Nombre común:** Gólem de brújula / Gólem mineral pequeño / Gólem de núcleo.
 * **Nombre en Lengua Vieja:** *Rumi Kawsay* («Piedra viva» / «Aquel que respira roca»).
 * **Naturaleza:** Es un **ser vivo natural de la fauna de Extramuros**, no un constructo ni una máquina fabricada. Pertenece a una rama de vida lítica endémica que habita en canteras fósiles y lechos minerales de las islas exteriores.
-* **Morfología y Anatomía de Piezas Suspendidas:**
-  * Criatura de 20 a 35 centímetros de altura.
-  * **Cero puntos de unión física:** Sus extremidades (brazos, piernas, cabeza y escamas dorsales) **no se tocan entre sí ni poseen articulaciones, cartílagos o tejido conectivo**. Son fragmentos de roca viva y andesita que **flotan en el aire** a milímetros de distancia unos de otros, manteniendo una silueta humanoide o bípeda perfecta.
+* **Morfología y Anatomía de Piezas Suspendidas (Estilo Gólem Mineral):**
+  * Criatura de 25 a 35 centímetros de altura, de complexión ancha, robusta y achaparrada.
+  * **Cero rasgos humanoides:** Carece de cuello y rostro convencional; su cabeza es un bloque de andesita encastrado directamente entre dos pesados hombros de roca, con una hendidura mineral que emite un pulso óptico.
+  * **Cero puntos de unión física:** Sus extremidades (gruesos bloques de roca que forman brazos masivos con puños de piedra, costillas curvas en jaula abierta y piernas columnares cortas) **no se tocan entre sí ni poseen articulaciones**. Son fragmentos de roca viva que **flotan en el aire** a milímetros de separación, conservando la cohesión motriz por magnetismo biológico.
 * **El Núcleo (*Core*) y el Campo de Convergencia:**
   * En el centro de gravedad del animal flota su **órgano vital primario (el Core)**: un nódulo mineral denso, palpitante y translúcido que genera un campo continuo de Flujo y electromagnetismo biológico.
   * Todas las piezas de su cuerpo convergen hacia este Core central a través de líneas de atracción invisibles. Cuando el gólem camina, gesticula o corre, las piezas flotantes se desplazan en el aire de forma coordinada siguiendo las fluctuaciones del campo del Core.
