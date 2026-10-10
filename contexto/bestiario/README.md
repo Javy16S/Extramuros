@@ -11,6 +11,7 @@ Este directorio contiene los expedientes zoológicos y ecológicos completos de 
 | **00** | **Amenaza Ø (Omega)** | *Wiñay Qallariy* / Clase Ø | Entidad Asimiladora Polimórfica (Trasciende Clases) | 12–15 m (forma bípeda) / Masa incalculable | Cuencas aisladas / Origen de las reliquias de Caine | [Ver Ficha Técnica](00_amenaza_omega/ficha_tecnica.md) |
 | **01** | **Acorazado de la Cresta** | *Q'asa Pirqa* / Clase C-D | Ariete terrestre / Depredador pesado | 8 m de longitud / 12–14 t | Capítulo 2 (*La Brecha de Basalto*) | [Ver Ficha Técnica](01_acorazado_de_la_cresta/ficha_tecnica.md) |
 | **02** | **Carroñero de Copa** | *Suyuntuy* / Clase C | Carroñero alado / Rastreador de Caudal | 7–8 m de envergadura / 500 kg | Nodo 1.2 (*Bosque de los Ecos*) | [Ver Ficha Técnica](02_carronero_de_copa/ficha_tecnica.md) |
+| **03** | **Gólem de Resonancia** | *Rumi Kawsay* / Fauna Lítica | Fauna mineral viva / Guía de navegación biológica | 25–35 cm / 5 kg | Canteras minerales / Base de las brújulas de convoy | [Ver Ficha Técnica](03_golem_resonancia_rumi_kawsay/ficha_tecnica.md) |
 
 ---
 
