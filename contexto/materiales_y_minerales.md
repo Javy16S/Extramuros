@@ -14,12 +14,17 @@ Documento maestro sobre los materiales singulares, aleaciones geológicas, miner
   * Criatura de 25 a 35 centímetros de altura, de complexión ancha, robusta y achaparrada.
   * **Cero rasgos humanoides:** Carece de cuello y rostro convencional; su cabeza es un bloque de andesita encastrado directamente entre dos pesados hombros de roca, con una hendidura mineral que emite un pulso óptico.
   * **Cero puntos de unión física:** Sus extremidades (gruesos bloques de roca que forman brazos masivos con puños de piedra, costillas curvas en jaula abierta y piernas columnares cortas) **no se tocan entre sí ni poseen articulaciones**. Son fragmentos de roca viva que **flotan en el aire** a milímetros de separación, conservando la cohesión motriz por magnetismo biológico.
-* **El Núcleo (*Core*) y el Campo de Convergencia:**
-  * En el centro de gravedad del animal flota su **órgano vital primario (el Core)**: un nódulo mineral denso, palpitante y translúcido que genera un campo continuo de Flujo y electromagnetismo biológico.
-  * Todas las piezas de su cuerpo convergen hacia este Core central a través de líneas de atracción invisibles. Cuando el gólem camina, gesticula o corre, las piezas flotantes se desplazan en el aire de forma coordinada siguiendo las fluctuaciones del campo del Core.
-  * Si el animal se asusta, contrae el campo y las piezas flotantes se cierran de golpe sobre el Core formando un nódulo liso y compacto. Si recibe un golpe, el fragmento despedido no se quiebra: es atraído de vuelta por el aire hasta su posición original.
+* **El Núcleo (*Core*) y la Red de Sub-cores en Cascada:**
+  * En el centro de gravedad del animal flota su **órgano vital primario (el Core)**: un nódulo mineral denso, palpitante y translúcido que genera la frecuencia fundamental de Flujo.
+  * **La suspensión antigravitatoria de las extremidades:** Los brazos y fragmentos exteriores no caen por gravedad ni colapsan contra el pecho gracias a una **cadena de sub-cores en cascada con estrías de polaridad adyacente**:
+    * Cada pieza de roca adyacente posee en su interior un nódulo secundario de resonancia (*sub-core*) y, en sus facetas opuestas, **micro-estrías de crecimiento mineral polarizado** (parecidas a finas marcas o runas naturales).
+    * El Core gobierna los hombros; los hombros gobiernan los brazos; los brazos suspenden los antebrazos y estos a los nudillos/garras.
+    * Se genera una **tensión dipolar elástica**: repulsión a milímetros de proximidad (actuando como cartílago invisible antichoques) y fuerte atracción de retorno frente a la gravedad y los impactos (actuando como tendón invisible).
+  * Si el animal se asusta, interrumpe la polaridad periférica y todas las piezas colapsan en seco sobre el Core (*¡CLACK!*), formando un canto rodado liso, frío e inerte.
 * **El Principio de la Brújula de Afinidad:**
-  * Cuando los humanos separan una de sus lascas periféricas a kilómetros de distancia y la suspenden en el aceite de un dial hermético, **la pieza conserva la memoria física del campo de convergencia**. La lasca pugna constantemente en el líquido por retornar a su posición relativa respecto al Core, alineándose como una aguja viva que apunta de forma inmutable hacia donde esté su núcleo matriz.
+  * Al fracturar o separar una lasca viva de la extremidad del animal, su sub-core queda desconectado de la cascada con las piezas contiguas.
+  * En ausencia de su nodo adyacente inmediato, el sub-core de la lasca entra en resonancia de búsqueda profunda y **se sintoniza directamente con la señal madre del Core central**.
+  * Al ser montada en el dial de bronce con aceite amortiguador, la pieza orienta su eje cristalográfico de forma ininterrumpida hacia el Core nodriza, sin que las tormentas o el basalto del terreno puedan desviar su puntero.
 
 ---
 
