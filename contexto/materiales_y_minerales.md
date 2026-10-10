@@ -7,11 +7,11 @@ Documento maestro sobre los materiales singulares, aleaciones geológicas, miner
 ## 1. EL GÓLEM MINERAL DE RESONANCIA (*RUMI KAWSAY* — FAUNA VIVA)
 
 ### A. Naturaleza y Biología de la Especie
-* **Nombre común:** Gólem de brújula / Gólem mineral pequeño / Gólem de núcleo.
+* **Nombre común:** Gólem de brújula / Gólem mineral de fallas / Gólem de resonancia.
 * **Nombre en Lengua Vieja:** *Rumi Kawsay* («Piedra viva» / «Aquel que respira roca»).
 * **Naturaleza:** Es un **ser vivo natural de la fauna de Extramuros**, no un constructo ni una máquina fabricada. Pertenece a una rama de vida lítica endémica que habita en canteras fósiles y lechos minerales de las islas exteriores.
 * **Morfología y Anatomía de Piezas Suspendidas (Estilo Gólem Mineral):**
-  * Criatura de 25 a 35 centímetros de altura, de complexión ancha, robusta y achaparrada.
+  * Criatura de **1,50 metros de altura erguido**, con una envergadura de hombros de 1,20 a 1,30 metros (silueta extremadamente robusta, ancha y achaparrada que llega al pecho/cuello de un ser humano de 1,80 m). Su peso ronda los 450 a 650 kg debido a la alta densidad de andesita y basalto magnetizado.
   * **Cero rasgos humanoides:** Carece de cuello y rostro convencional; su cabeza es un bloque de andesita encastrado directamente entre dos pesados hombros de roca, con una hendidura mineral que emite un pulso óptico.
   * **Cero puntos de unión física:** Sus extremidades (gruesos bloques de roca que forman brazos masivos con puños de piedra, costillas curvas en jaula abierta y piernas columnares cortas) **no se tocan entre sí ni poseen articulaciones**. Son fragmentos de roca viva que **flotan en el aire** a milímetros de separación, conservando la cohesión motriz por magnetismo biológico.
 * **El Núcleo (*Core*) y la Red de Sub-cores en Cascada:**

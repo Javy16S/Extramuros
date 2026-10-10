@@ -6,13 +6,13 @@
 
 ## 📋 FICHA TÉCNICA Y ECOLÓGICA
 
-* **Nombre común (en la frontera / convoyes):** Gólem de brújula / Gólem de resonancia / Micro-gólem mineral.
+* **Nombre común (en la frontera / convoyes):** Gólem de brújula / Gólem de resonancia / Gólem mineral de fallas.
 * **Nombre en Lengua Vieja:** *Rumi Kawsay* (del quechua: *rumi*, «piedra/roca» + *kawsay*, «vida / aliento vital»).
 * **Zona y Bioma:** Zona 1 y periferia de fallas tectónicas; grietas de andesita y canteras minerales con alta concentración de Flujo residual.
 * **Tamaño en escala humana:**
-  * **Altura erguido:** 25 a 35 centímetros.
-  * **Anchura de hombros:** 25 centímetros (silueta robusta, compacta y achaparrada).
-  * **Masa corporal:** 5 a 8 kg (densidad de andesita y magnetita).
+  * **Altura erguido:** 1,50 metros (alcanza el pecho / cuello de un adulto de 1,80 m, proporción ~83%).
+  * **Anchura de hombros:** 1,20 a 1,30 metros (complexión extraordinariamente ancha, masiva y achaparrada).
+  * **Masa corporal:** 450 a 650 kg (densidad maciza de bloques de andesita, basalto y magnetita).
 * **Nicho ecológico:** Fauna lítica endémica pasiva; filtrador de resonancia electromagnética y Flujo ambiental mineralizado.
 
 ---
