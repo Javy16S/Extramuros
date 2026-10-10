@@ -4,21 +4,23 @@ Documento maestro sobre los materiales singulares, aleaciones geológicas, miner
 
 ---
 
-## 1. EL LITOMORFO MAGNÉTICO (*RUMI KAWSAY* / GÓLEM DE RESONANCIA)
+## 1. EL GÓLEM MINERAL DE RESONANCIA (*RUMI KAWSAY* — FAUNA VIVA)
 
-### A. Naturaleza y Biología Mineral
-* **Nombre común:** Gólem de brújula / Micro-litomorfo / Núcleo de resonancia.
-* **Nombre en Lengua Vieja:** *Rumi Kawsay* («Piedra con aliento de vida»).
-* **Morfología:** Diminuto constructo viviente de 15 a 30 centímetros de altura, formado por fragmentos geométricos de andesita, magnetita y cuarzo oscuro.
-* **Mecánica corporal:** Carece de carne, sangre o articulaciones de tendón. Su cuerpo se compone de:
-  1. **El Núcleo (*Core*):** Una esfera o poliedro liso de hematita mineralizada cargada de una frecuencia pasiva de Flujo de atracción.
-  2. **Las piezas satélite:** Guijarros y lascas pulidas que flotan a milímetros de distancia o se ensamblan mediante un campo electromagnético permanente generado por el núcleo, permitiéndole caminar con torpeza, replegarse o reorganizarse si recibe un impacto.
+### A. Naturaleza y Biología de la Especie
+* **Nombre común:** Gólem de brújula / Gólem mineral pequeño / Gólem de núcleo.
+* **Nombre en Lengua Vieja:** *Rumi Kawsay* («Piedra viva» / «Aquel que respira roca»).
+* **Naturaleza:** Es un **ser vivo natural de la fauna de Extramuros**, no un constructo ni una máquina fabricada. Pertenece a una rama de vida lítica endémica que habita en canteras fósiles y lechos minerales de las islas exteriores.
+* **Morfología:** Criatura pequeña de 20 a 35 centímetros de altura. Su cuerpo está formado por extremidades de roca viva, nódulos ferrosos y escamas minerales articuladas sin carne convencional.
+* **El Núcleo (*Core*) como Órgano Vital:**
+  * En el centro de su pecho reside su **órgano vital primario (el Core)**: un nódulo mineral vivo, denso y palpitante que canaliza un Flujo electromagnético continuo.
+  * Este Core vivo mantiene unidas y articuladas las distintas piezas y extremidades de su cuerpo mediante atracción biológica constante.
+  * Si el animal es capturado o si se extraen partes vivas de sus extremidades, la atracción del Flujo entre el fragmento y su Core matriz persiste de por vida con una afinidad física indestructible.
 
 ---
 
-### B. El Principio de Orientación: Brújulas de Afinidad
+### B. El Principio de Orientación: Brújulas de Afinidad Biológica
 * En Extramuros, las brújulas magnéticas ordinarias del Archipiélago son completamente inútiles: las fallas de basalto hipermineralizado, las tormentas atmosféricas y las descargas de Flujo de la fauna hacen girar las agujas terrestres como peonzas enloquecidas.
-* **La física del enlace:** Si una lasca o aguja periférica es extraída del cuerpo del gólem y encapsulada en una ampolla de aceite denso y cristal blindado, **la aguja apunta de manera infalible y permanente hacia el Core matriz**, sin importar la distancia, las barreras orográficas ni las interferencias tectónicas.
+* **La explotación por el ser humano:** Los exploradores y convoyes capturan estos pequeños seres vivos o extraen piezas de sus extremidades. Al encapsular una lasca viva en un dial hermético con aceite estabilizador, **la aguja viva pugna y apunta sin descanso hacia el Core matriz del que fue separada**, sin importar la distancia, las barreras orográficas ni las interferencias tectónicas.
 
 ---
 

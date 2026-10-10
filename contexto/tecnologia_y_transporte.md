@@ -60,8 +60,8 @@ En Extramuros no existen satélites, radiofaros estables ni campos magnéticos p
 Para navegar a gran velocidad y mantener la cohesión táctica, los vehículos pesados y los *Wayra* utilizan el **Sistema de Brújulas de Resonancia Lítica** (*ver contexto/materiales_y_minerales.md*):
 
 ### A. La Física del Enlace
-* Cada dial es una cápsula hermética de latón y vidrio balístico rellena de aceite denso, en cuyo interior flota una aguja tallada a partir de las extremidades de un micro-gólem (*Rumi Kawsay*).
-* La aguja apunta con atracción física inmutable hacia el **Núcleo matriz (*Core*)** al que pertenece, sin importar la distancia, el clima o la profundidad bajo tierra.
+* Cada dial es una cápsula hermética de latón y vidrio balístico rellena de aceite denso, en cuyo interior flota una aguja o fragmento mineral extraído de las extremidades de un pequeño gólem vivo de la fauna de Extramuros (*Rumi Kawsay*).
+* La aguja viva apunta con atracción biológica e inmutable hacia el **Núcleo matriz (*Core*) vivo** del animal al que pertenece, sin importar la distancia, el clima o la profundidad bajo tierra.
 
 ### B. El Mecanismo de Salpicadero: Selector de Tambor Tipo «Tragaperras»
 * Los tableros de mando de los *Bastiones Móviles* y camiones de transporte cuentan con un **carrusel cilíndrico de engranajes pesados** incrustado en el acero del salpicadero, equipado con varias brújulas calibradas a distintos destinos (ej. *Cápsula 1: Puerto Raíz*, *Cápsula 2: Convoy Nodriza Líder*, *Cápsula 3: Puesto Fronterizo*).
