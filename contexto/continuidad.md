@@ -54,3 +54,28 @@ Este archivo mantiene el estado físico exacto, heridas, inventario, ubicación 
   - ¿Cómo tratará las heridas de Leo (la fractura y la quemadura)?
   - ¿Por qué el claro ejerce esa parálisis neuromuscular que Leo confunde con veneno?
   - ¿Cómo se conectará este lugar con los cuadernos y mapas de Caine?
+
+
+---
+
+## Cierre del Capítulo 3 — «El Peso de la Ladera»
+
+- **Ubicación:** En el interior de la cabaña rústica de troncos oscuros en el centro del pastizal, junto a la puerta abierta con vistas al sur y a la dorsal de basalto.
+- **Hora / Clima:** Tarde del segundo día en el exterior. Luz limpia y templada; la niebla matutina se ha disipado, revelando la panorámica de terrazas vegetales y el río cobrizo meridional.
+- **Estado físico y heridas:**
+  - Muñeca derecha: fracturada, entablillada con dos listones de roble sujetos con tres vueltas de cuerda de tripa retorcida. La articulación permanece rígida y no puede cargar peso; dolor sordo y latido continuo.
+  - Muñeca izquierda: quemadura circular profunda tratada con emplasto vegetal oscuro astringente; la carne no supura, pero los bordes tiran con escozor frío y quedan partículas de carbonilla mineral bajo la piel.
+  - Vientre y diafragma: dolorido por el golpe correctivo del anciano; control diafragmático activo aprendido (respiración nasal rítmica sin hiperventilación).
+  - Nutrición e hidratación: estómago estabilizado tras beber caldo graso de médula y triturar cecina curada; cantimplora de calabaza forrada de cuero en su poder.
+- **Ropa e inventario:**
+  - Botas de montaña de cuero con lodo seco.
+  - Pantalones de lona y chaqueta encerada con rasgaduras.
+  - Cantimplora rústica de calabaza llena de agua fresca de pizarra.
+  - Sin armas propias ni alimentos adicionales.
+- **Personajes presentes en escena:**
+  - Leo Vanes (consciente, de pie en el umbral, con la cantimplora en la mano sana).
+  - Mason (el ermitaño de la cabaña; para Leo sigue siendo «el viejo» o «el cazador», sin revelar aún su nombre).
+- **Promesas narrativas abiertas y estado del mapa:**
+  - Leo ha identificado el objetivo de su travesía: el estuario meridional donde yace el esqueleto del gran animal y atracan los barcos (Puerto Raíz), a cuatro jornadas de marcha río abajo.
+  - El viejo ha aceptado instruir a Leo a partir de la mañana siguiente en el desplazamiento silencioso y la supervivencia ante depredadores antes de permitirle partir.
+  - Vínculo pendiente de revelación entre el anciano y Caine Vanes.

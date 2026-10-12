@@ -60,3 +60,40 @@ Se actualiza obligatoriamente al cerrar cada capítulo.
 2. ¿Por qué el claro ralentiza las funciones vitales y neuromusculares de quienes entran?
 3. ¿Cómo sobrevivirá Leo a la fractura de muñeca, la quemadura infectada y el colapso sin suministros ni comida?
 4. ¿Dónde se encuentra Elena/Haimara y qué papel jugaba en este mundo?
+
+
+---
+
+## Estado al cierre del Capítulo 3 — «El Peso de la Ladera»
+
+**Lugar al cierre:** Interior de la cabaña rústica de troncos oscuros de Mason, en el claro circular frente a la dorsal de basalto, con la puerta abierta orientada hacia el curso del río meridional.
+
+**Términos nuevos y hechos que Leo conoce / ha experimentado:**
+| Término / hecho | Quién o qué se lo revela | Cita o escena |
+|---|---|---|
+| Las bestias de la ladera son llamadas «carroñeros de ladera» por el ermitaño. | El viejo de la cabaña. | Cap. 3, tras ingerir el caldo nutritivo. |
+| La atmósfera exterior tiene el doble de carga de oxígeno que la ciudad; inhalar a fondo por la boca abrasa los alvéolos y desencadena sobreconsumo metabólico que agota las reservas corporales en horas. | El viejo de la cabaña (instrucción física correctiva). | Cap. 3, tras el golpe en el plexo solar al amanecer. |
+| Técnica de respiración de supervivencia: diafragmática, bucal cerrada y tomas cortas por las fosas nasales para enfriar y dosificar el aire. | El viejo de la cabaña. | Cap. 3, adiestramiento en el suelo. |
+| El anfitrión conoce a Caine Vanes y reacciona con cólera y amargura ante su nombre: «Ese viejo loco; siempre llevaba corderos al matadero». | El viejo de la cabaña al examinar la quemadura de la pulsera. | Cap. 3, interrogatorio junto al hogar. |
+| El anfitrión conoce la verdadera identidad de Elena como «Haimara» («una cría de la selva») y advierte que la costa militarizada ha cerrado el paso. | El viejo de la cabaña. | Cap. 3, discusión acalorada. |
+| El «clic de las dos voces»: los cuentos que Elena le susurraba por las noches en el Distrito Siete («árboles donde cabe una familia», «el arroyo con olor a hierro», «el esqueleto del gran animal en la arena donde atracan los barcos grandes») eran instrucciones reales de navegación y escape hacia el litoral. | Deducción y recuerdo sensorial de Leo al observar la panorámica del valle meridional. | Cap. 3, escena de la puerta. |
+| Ubicación del objetivo: el esqueleto del gran animal y el estuario se encuentran a cuatro jornadas de marcha siguiendo el cauce del río hacia el sur. | El viejo de la cabaña. | Cap. 3, cierre del capítulo. |
+
+**NO sabe (sigue estrictamente prohibido en narración):**
+- El nombre «Mason» (el personaje nunca se lo ha dicho; para Leo es «el viejo», «el hombre» o «el cazador»).
+- Extramuros (para él sigue siendo «este bosque», «este sitio» o «aquí fuera»).
+- Flujo, Caudal o Quietud (el viejo no teoriza con él; solo le enseñó respiración y masticación lenta).
+- Pozo Muerto (solo sabe que el viejo le dijo: «El pastizal está tranquilo porque yo estoy aquí»).
+- Puerto Raíz (solo sabe que al sur está «el esqueleto del gran animal en la arena donde atracan los barcos grandes»).
+- C.L.A.S.E., Clases de bestias (D, C, B, A, S, Omega), Concordato, Vanguardias, Segadores.
+
+**Sospecha y deducciones:**
+- Elena sabía desde el principio que la perseguían y le dejó deliberadamente un mapa de escape en la memoria.
+- Su abuelo Caine y el ermitaño compartieron expediciones o conflictos graves en el pasado.
+- El ermitaño es un superviviente letal capaz de ahuyentar a las bestias con su sola presencia en el pastizal.
+
+**Preguntas abiertas que el lector se lleva:**
+1. ¿Cuál es el nombre del anciano y qué historia lo une a Caine Vanes?
+2. ¿Qué entrenamiento le exigirá el viejo antes de permitirle marchar hacia el río?
+3. ¿Cómo reaccionará la muñeca rota de Leo durante la marcha y el adiestramiento?
+4. ¿Qué es exactamente el «esqueleto del gran animal» en la costa sur donde atracan los barcos?
