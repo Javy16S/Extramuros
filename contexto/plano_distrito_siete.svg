@@ -1,0 +1,152 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1200" width="1600" height="1200" style="background:#15181c; font-family:'Courier New', monospace;">
+  <!-- DEFINICIÓN DE ESTILOS Y PATRONES -->
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#22272e" stroke-width="1"/>
+    </pattern>
+    <pattern id="industrialHatch" width="10" height="10" patternTransform="rotate(45 0 0)" patternUnits="userSpaceOnUse">
+      <line x1="0" y1="0" x2="0" y2="10" stroke="#2d333b" stroke-width="2"/>
+    </pattern>
+    <pattern id="parkPattern" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="5" cy="5" r="2" fill="#1b382b"/>
+      <circle cx="15" cy="15" r="3" fill="#162e23"/>
+    </pattern>
+  </defs>
+
+  <!-- FONDO CON REJILLA DE BITS / CATASTRAL -->
+  <rect width="1600" height="1200" fill="#121518"/>
+  <rect width="1600" height="1200" fill="url(#grid)"/>
+
+  <!-- CABECERA CARTOGRÁFICA CATASTRAL -->
+  <rect x="40" y="30" width="1520" height="60" fill="#1c2128" stroke="#444c56" stroke-width="1.5"/>
+  <text x="60" y="65" fill="#58a6ff" font-size="20" font-weight="bold">PLANO CATASTRAL Y TOPOGRÁFICO: DISTRITO SIETE (SECTOR SEPTENTRIONAL)</text>
+  <text x="60" y="82" fill="#8b949e" font-size="12">ESCALA 1:2.000 | CIUDAD DEL ARCHIPIÉLAGO | REGISTRO CIVIL Y LOGÍSTICO MUNICIPAL</text>
+  <text x="1380" y="65" fill="#f0883e" font-size="14" font-weight="bold">COTA: +4m a +52m</text>
+  <text x="1380" y="82" fill="#8b949e" font-size="12">COORD: D-07 / N-41</text>
+
+  <!-- LÍMITES Y SECTORES -->
+  
+  <!-- ZONA NORTE: ZONA DE EXCLUSIÓN Y BOSQUE COMARCAL -->
+  <rect x="80" y="110" width="1440" height="130" fill="#0d1117" stroke="#30363d" stroke-dasharray="6 4"/>
+  <text x="100" y="140" fill="#f85149" font-size="14" font-weight="bold">ZONA DE EXCLUSIÓN EXTERIOR (ACCESO CIVIL PROHIBIDO POR DECRETO MILITAR)</text>
+  <text x="100" y="160" fill="#8b949e" font-size="12">CARRETERA COMARCAL N-14 | DIRECCIÓN VERTEDERO / BOSQUES DEL NORTE</text>
+
+  <!-- VIADUCTO NORTE -->
+  <rect x="250" y="190" width="1100" height="35" fill="#2d333b" stroke="#768390" stroke-width="2"/>
+  <line x1="250" y1="207" x2="1350" y2="207" stroke="#f0883e" stroke-width="2" stroke-dasharray="10 5"/>
+  <text x="260" y="213" fill="#ffffff" font-size="12" font-weight="bold">VIADUCTO NORTE (L=220m | H=38m sobre vaguada) [Punto Oficial de Suicidios de la Policía]</text>
+  
+  <!-- BÚNKER CLANDESTINO (SUBESTACIÓN ELÉCTRICA) -->
+  <rect x="280" y="145" width="140" height="40" fill="#b62324" fill-opacity="0.2" stroke="#f85149" stroke-width="1.5"/>
+  <text x="290" y="165" fill="#f85149" font-size="10" font-weight="bold">SUBESTACIÓN ELÉCTRICA</text>
+  <text x="290" y="178" fill="#ff7b72" font-size="9">[BÚNKER INTERROGATORIO]</text>
+
+  <!-- BLOQUE E: PARQUE SEPTENTRIONAL (PARQUE DEL VIENTO NORTE) -->
+  <rect x="80" y="260" width="1440" height="220" fill="url(#parkPattern)" stroke="#238636" stroke-width="1.5"/>
+  <rect x="80" y="260" width="1440" height="220" fill="#1b382b" fill-opacity="0.3"/>
+  <text x="100" y="290" fill="#3fb950" font-size="16" font-weight="bold">PARQUE SEPTENTRIONAL («PARQUE DEL VIENTO NORTE» - 18 HECTÁREAS)</text>
+  <text x="100" y="310" fill="#7ee787" font-size="11">Cota ascendente +20m a +45m | Plátanos de sombra, acacias, senderos de tierra y estanque</text>
+  
+  <!-- ESTANQUE DEL PARQUE -->
+  <ellipse cx="800" cy="370" rx="140" ry="45" fill="#0d2d3a" stroke="#388bfd" stroke-width="1"/>
+  <text x="750" y="375" fill="#58a6ff" font-size="11">Estanque Central</text>
+
+  <!-- PASO SUBTERRÁNEO Y VÍA FÉRREA MERCANCÍAS -->
+  <!-- Terraplén Férreo -->
+  <rect x="80" y="500" width="1440" height="30" fill="#161b22" stroke="#6e7681" stroke-width="1"/>
+  <line x1="80" y1="515" x2="1520" y2="515" stroke="#8b949e" stroke-width="3" stroke-dasharray="8 4"/>
+  <text x="100" y="520" fill="#c9d1d9" font-size="10">ANTIGUO TERRAPLÉN FERROVIARIO INDUSTRIAL (LÍNEA MUELLES-INTERIOR)</text>
+
+  <!-- TÚNEL DEL PASO SUBTERRÁNEO -->
+  <rect x="680" y="490" width="160" height="50" fill="#090d10" stroke="#f0883e" stroke-width="2"/>
+  <text x="690" y="515" fill="#f0883e" font-size="11" font-weight="bold">PASO SUBTERRÁNEO</text>
+  <text x="690" y="530" fill="#ffffff" font-size="9">CÁMARA TRÁFICO CAM-07-B</text>
+
+  <!-- ARTERIA PRINCIPAL: AVENIDA NORTE (BLOQUE B) -->
+  <rect x="680" y="540" width="160" height="580" fill="#21262d" stroke="#30363d"/>
+  <!-- Línea de Tranvía central -->
+  <line x1="755" y1="540" x2="755" y2="1120" stroke="#3fb950" stroke-width="2"/>
+  <line x1="765" y1="540" x2="765" y2="1120" stroke="#3fb950" stroke-width="2"/>
+  <text x="780" y="700" fill="#8b949e" font-size="14" font-weight="bold" transform="rotate(90 780 700)">AVENIDA NORTE (DOBLE VÍA TRANVÍA L-3 - ANCHO: 24m)</text>
+
+  <!-- BLOQUE D: SECTOR ADMINISTRATIVO / POLICIAL / ADUANAS (OESTE) -->
+  <rect x="80" y="560" width="550" height="420" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
+  <text x="100" y="590" fill="#58a6ff" font-size="16" font-weight="bold">BLOQUE D: SECTOR ADMINISTRATIVO E INSTITUCIONAL</text>
+
+  <!-- COMISARÍA DEL DISTRITO SIETE -->
+  <rect x="120" y="620" width="220" height="120" fill="#1f242c" stroke="#58a6ff" stroke-width="2"/>
+  <text x="135" y="650" fill="#58a6ff" font-size="13" font-weight="bold">COMISARÍA DISTRITO 7</text>
+  <text x="135" y="670" fill="#c9d1d9" font-size="10">• Despacho Insp. Garrido (Sala 104)</text>
+  <text x="135" y="685" fill="#8b949e" font-size="10">• Archivo Nivel 1 (Abandonos)</text>
+  <text x="135" y="700" fill="#8b949e" font-size="10">• Calabozos de Hormigón</text>
+
+  <!-- NAVE DE ADUANAS (PUESTO DE TRABAJO DE LEO) -->
+  <rect x="120" y="780" width="220" height="140" fill="#1f242c" stroke="#8b949e" stroke-width="1.5"/>
+  <text x="135" y="810" fill="#f0883e" font-size="13" font-weight="bold">ALMACÉN DE ADUANAS D-7</text>
+  <text x="135" y="830" fill="#c9d1d9" font-size="10">• Puesto de Trabajo de Leo Vanes</text>
+  <text x="135" y="845" fill="#8b949e" font-size="10">• Registro de Manifiestos y Cobre</text>
+  <text x="135" y="860" fill="#8b949e" font-size="10">• Sótanos de Archivadores Verdes</text>
+
+  <!-- CENTRO DE CONTROL DE TRÁFICO (JAVI) -->
+  <rect x="380" y="620" width="210" height="90" fill="#1f242c" stroke="#d29922" stroke-width="1.5"/>
+  <text x="395" y="645" fill="#d29922" font-size="12" font-weight="bold">CONTROL DE TRÁFICO MUNICIPAL</text>
+  <text x="395" y="665" fill="#c9d1d9" font-size="10">• Puesto del técnico Javi</text>
+  <text x="395" y="680" fill="#8b949e" font-size="10">• Servidores cámaras de tráfico</text>
+
+  <!-- BLOQUE A: NÚCLEO RESIDENCIAL OBRERO (ESTE) -->
+  <rect x="880" y="560" width="640" height="420" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
+  <text x="900" y="590" fill="#58a6ff" font-size="16" font-weight="bold">BLOQUE A: NÚCLEO RESIDENCIAL OBRERO</text>
+
+  <!-- CALLE DEL SALITRE -->
+  <rect x="910" y="680" width="580" height="30" fill="#21262d" stroke="#30363d"/>
+  <text x="930" y="700" fill="#c9d1d9" font-size="11" font-weight="bold">CALLE DEL SALITRE (Ancho: 9,2m | Farolas de vapor de sodio)</text>
+
+  <!-- MANZANA Y PORTAL 14 (PISO DE LEO Y BUHARDILLA CAINE) -->
+  <rect x="920" y="620" width="200" height="50" fill="#30363d" stroke="#58a6ff" stroke-width="2"/>
+  <text x="930" y="640" fill="#58a6ff" font-size="12" font-weight="bold">PORTAL Nº 14 [HOGAR DE LEO]</text>
+  <text x="930" y="655" fill="#ffffff" font-size="10">3º B (Piso de Leo y Elena) | Buhardilla Caine</text>
+
+  <!-- PASAJE DE LOS BOLARDOS -->
+  <rect x="1140" y="615" width="25" height="120" fill="#b62324" fill-opacity="0.3" stroke="#f85149" stroke-width="2"/>
+  <text x="1175" y="660" fill="#f85149" font-size="11" font-weight="bold">PASAJE DE LOS BOLARDOS</text>
+  <text x="1175" y="675" fill="#ff7b72" font-size="9">• Bolardos de granito de 85cm</text>
+  <text x="1175" y="690" fill="#ff7b72" font-size="9">• Emboscada furgoneta captores</text>
+  <text x="1175" y="705" fill="#ff7b72" font-size="9">• Fractura de muñeca de Leo</text>
+
+  <!-- CASA DE ELENA (CALLE DE LOS VIVEROS) -->
+  <rect x="1240" y="730" width="210" height="55" fill="#282e33" stroke="#a371f7" stroke-width="1.5"/>
+  <text x="1255" y="750" fill="#a371f7" font-size="11" font-weight="bold">CALLE DE LOS VIVEROS 27</text>
+  <text x="1255" y="765" fill="#d2a8ff" font-size="9">Piso de soltera de Elena (a 380m)</text>
+
+  <!-- PARADA DEL TRANVÍA Y PLAZA DE LA GRÚA -->
+  <rect x="630" y="750" width="45" height="40" fill="#238636" fill-opacity="0.3" stroke="#3fb950" stroke-width="1.5"/>
+  <text x="540" y="775" fill="#3fb950" font-size="10" font-weight="bold">PARADA L-3</text>
+  
+  <circle cx="760" cy="850" r="30" fill="#2d333b" stroke="#768390" stroke-width="2"/>
+  <text x="735" y="855" fill="#ffffff" font-size="10">Rotonda</text>
+
+  <!-- BLOQUE C: ZONA SUR - MUELLES Y DÁRSENAS -->
+  <rect x="80" y="1020" width="1440" height="130" fill="url(#industrialHatch)" stroke="#444c56" stroke-width="1.5"/>
+  <text x="100" y="1050" fill="#8b949e" font-size="15" font-weight="bold">BLOQUE C: DÁRSENAS DE LOS MUELLES VIEJOS (ROBO DE COBRE / MERCANCÍAS MARÍTIMAS)</text>
+  <text x="100" y="1070" fill="#768390" font-size="11">Grúas de pórtico, almacenes aduaneros de chapa ondulada, vías portuarias de maniobra</text>
+
+  <!-- RUTAS CRÍTICAS DE LOS CAPÍTULOS -->
+  <!-- Ruta de Leo huida a las 03:26 -->
+  <path d="M 1020 670 L 1020 700 L 1140 700 L 1140 680" fill="none" stroke="#f85149" stroke-width="3" stroke-dasharray="6 3"/>
+  <circle cx="1140" cy="680" r="6" fill="#f85149"/>
+  <text x="1155" y="735" fill="#f85149" font-size="10" font-weight="bold">PUNTO DE CAPTURA DE LEO (03:30h)</text>
+
+  <!-- Ruta de Elena el martes 18:42 -->
+  <path d="M 1300 730 L 1300 680 L 760 680 L 760 520 L 760 480" fill="none" stroke="#a371f7" stroke-width="2.5" stroke-dasharray="5 3"/>
+  <circle cx="760" cy="515" r="5" fill="#a371f7"/>
+  <text x="520" y="480" fill="#a371f7" font-size="10" font-weight="bold">ÚLTIMO REGISTRO ELENA (18:42h)</text>
+
+  <!-- LEYENDA Y ESCALA GRÁFICA -->
+  <rect x="1200" y="870" width="300" height="90" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <text x="1215" y="890" fill="#c9d1d9" font-size="11" font-weight="bold">ESCALA GRÁFICA</text>
+  <line x1="1215" y1="910" x2="1415" y2="910" stroke="#f0883e" stroke-width="3"/>
+  <text x="1215" y="925" fill="#8b949e" font-size="9">0m</text>
+  <text x="1305" y="925" fill="#8b949e" font-size="9">100m</text>
+  <text x="1400" y="925" fill="#8b949e" font-size="9">200m</text>
+  <text x="1215" y="945" fill="#7ee787" font-size="10">■ Norte Geográfico: Arriba (↑)</text>
+</svg>

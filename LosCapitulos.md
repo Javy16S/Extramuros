@@ -1,437 +1,331 @@
 # CAPÍTULO 1: LA FRACTURA
 
-La carpeta del expediente pesaba apenas ciento cincuenta gramos. Demasiado poco para contener la desaparición de la única persona que le quedaba en el mundo.
+La carpeta del expediente pesaba apenas ciento cincuenta gramos. Demasiado poco para contener la desaparición de la persona que daba sentido a su vida.
 
-Leo la dejó caer sobre el escritorio de contrachapado. En el piso vacío, el golpe sonó como un portazo amortiguado. Eran las 03:18 de la madrugada. Cincuenta y dos horas sin dormir. La única iluminación del cuarto nacía del monitor y de una farola de la calle que se colaba entre las lamas rotas de la persiana, pintando sobre la pared franjas amarillas y negras como las marcas de una zona de demolición.
+Leo la dejó caer sobre el escritorio de contrachapado. En el piso vacío, el golpe sonó como un portazo amortiguado. Eran las 03:18 de la madrugada. Llevaba más de dos días en vela. El resplandor del cuarto nacía del monitor y de una farola que cruzaba las lamas rotas de la persiana, proyectando sobre el tabique franjas amarillas y negras como las marcas de una zona de demolición.
 
-En el suelo, junto a la pata de la mesa, reposaban planos catastrales de la periferia norte, guías de autobuses interurbanos y fotocopias de informes meteorológicos. En la esquina del escritorio, la primera página del atestado policial mostraba un sello violeta:
+En el suelo, junto a la pata de la mesa, reposaban planos catastrales del sector septentrional, guías de autobuses interurbanos y fotocopias de informes meteorológicos. En la esquina del tablero, la primera página del atestado policial mostraba un sello violeta:
 
-*Diligencia archivada provisionalmente. Causa: Ausencia voluntaria.*
+*Diligencia archivada en precario. Causa: Abandono voluntario.*
 
-—Voluntaria —dijo Leo en voz baja. La palabra le supo a burla ácida.
+—Una farsa —dijo Leo en voz baja. La palabra le supo a hiel. Silencio tenso. Ni un resquicio de duda.
 
-Cerró los ojos un instante, pero la oscuridad tras sus párpados solo sirvió para proyectar con mayor nitidez el rostro seboso del inspector Garrido cuatro horas atrás.
-
-***
-
-La comisaría del Distrito Siete era una ratonera de techos bajos y linóleo agrietado. Olía a sudor acumulado, ceniceros desbordados y al ambientador de pino con el que intentaban camuflar el tufo que subía de los calabozos. El tubo fluorescente que colgaba sobre la mesa zumbaba con un tono agudo y constante.
-
-Garrido tenía cincuenta y cinco años, una camisa amarillenta tensa sobre la barriga y la mirada vacía de quien lleva tres décadas catalogando miserias sin que nada le altere la digestión. Removió el café con una cuchara de plástico deformada.
-
-—A ver, muchacho... Leo, ¿no? —dijo Garrido sin mirarlo, pasando una página doblada por las esquinas—. Vamos a ahorrar saliva. Son las once de la noche, tengo dos atestados por robo de cobre en los muelles y no voy a perder otra hora con una fuga doméstica.
-
-Leo mantenía las manos sobre las rodillas, apretadas en puños dentro de los bolsillos del abrigo. Respiró por la nariz, buscando ese control frío y matemático con el que siempre descomponía los problemas.
-
-—Elena no se ha fugado, inspector —dijo despacio, midiendo cada sílaba—. Elena tiene veintidós años. Cursa su último año de botánica. No consume alcohol, no tiene deudas, no tiene una sola llamada fuera de horario en su factura de los últimos seis meses y compartía conmigo cada minuto de su tiempo libre. Si alguien decide rehacer su vida de la noche a la mañana, no se deja en el cuarto de baño su inhalador para el asma. No se deja la cartera en la cómoda con ochocientos euros en efectivo y sus documentos de identidad.
-
-Garrido dio un sorbo al vaso, chasqueó la lengua y dejó el informe sobre la mesa.
-
-—La gente se harta, chaval. Lo veo cada semana. Muchachas aplicadas, universitarias de notas impecables, parejas idílicas de anuncio... Y un martes por la tarde se agobian por los exámenes, por la rutina o porque descubren que no quieren pasar el resto de su juventud viendo la televisión en un sofá de dos plazas. Bajan a por pan, se suben al primer autobús de línea regular que sale de la estación central y se cambian el nombre en una provincia vecina.
-
-—¿Sin ropa? —la voz de Leo se tensó—. He contado sus abrigos. Faltan las botas impermeables, sus vaqueros negros y la cazadora oscura que llevaba puesta el martes. Todo lo demás sigue en el armario. Incluso su libreta de notas de campo estaba escondida bajo la cama. No preparó una maleta. No planificó una marcha.
-
-—Quizá tenía prisa —respondió el policía encogiéndose de hombros—. O quizá la esperaban en un coche al final de la avenida. No hay cerraduras forzadas en su casa. No hay marcas de arrastre ni cristales rotos en el descansillo. Las cámaras del paso subterráneo de la avenida norte la grabaron caminando sola a las 18:42. Con las manos en los bolsillos, sin nadie detrás. Se fue porque quiso, muchacho. Y la ley no nos permite movilizar una unidad de búsqueda ni ordenar batidas en los descampados para perseguir a una ciudadana mayor de edad que decide apagar el móvil.
-
-—Lleva cinco días sin dar señales. ¿Y si le ocurrió algo en los caminos del borde norte?
-
-—Una patrulla recorrió el perímetro del parque el jueves por la mañana —zanjó Garrido, poniéndose en pie con un crujido de vértebras—. No encontraron nada. Ni una prenda rasgada, ni pisadas sospechosas. El protocolo es claro: Nivel Uno de archivo. Si ingresa en un hospital o una patrulla le pide la documentación en algún control rutinario de carreteras, el sistema cruzará los datos y te mandaremos un aviso. Hasta entonces, vuelve a casa. Duerme un poco. Y si tienes dos dedos de frente, empieza a aceptar que a veces las personas simplemente deciden que ya no te quieren en sus vidas.
-
-Garrido estampó el sello morado con un golpe seco, cerró la carpeta de cartulina y la tiró al cajón inferior.
+Cerró los párpados un instante, pero la oscuridad interior solo sirvió para proyectar con mayor nitidez el rostro seboso del inspector Garrido cuatro horas atrás.
 
 ***
 
-—Aceptar... —susurró Leo junto a la ventana de su habitación, apretando la mandíbula.
+La comisaría del Distrito Siete era una ratonera de techos bajos y linóleo agrietado que retenía el sudor acumulado de cientos de detenidos entre ceniceros desbordados y el hedor a desinfectante industrial de pino con el que intentaban tapar el tufo procedente de los calabozos. El tubo fluorescente suspendido sobre la mesa zumbaba con un tono agudo y constante.
 
-La lluvia de medianoche había cesado, dejando el asfalto cubierto por una capa aceitosa que reflejaba la luz amarilla de la farola. Las explicaciones de Garrido eran mentiras cómodas para quitarse el trabajo de encima. Nadie se marchaba por propia voluntad dejando atrás su medicación para el asma, el dinero del mes en un cajón y la ropa colgada en el armario. A Elena se la habían llevado, o algo terrible le había cortado el paso.
+Garrido rondaba los cincuenta y cinco años, vestía una camisa amarillenta tensa sobre la barriga y mostraba la mirada vacía de quien lleva tres décadas catalogando miserias sin que nada le altere la digestión. Removió el café con una cuchara de plástico deformada.
+
+—A ver, muchacho... Leo, ¿no? —Garrido no alzó la vista; pasó una hoja doblada por los bordes—. Vamos a ahorrar saliva. Son las once de la noche, tengo dos atestados por robo de cobre en los muelles y no voy a perder otra hora con una fuga doméstica.
+
+Leo mantenía las manos sobre las rodillas, cerradas en puños dentro de los bolsillos del abrigo. Respiró por la nariz, persiguiendo el control frío y matemático con el que siempre descomponía los problemas.
+
+—Elena no se ha fugado, inspector —dijo despacio, con cada sílaba medida—. Tiene veintidós años. Cursa el último año de botánica. No consume alcohol, no tiene deudas, no registra una sola llamada fuera de horario en su factura de los últimos seis meses y compartía conmigo cada minuto de su tiempo libre. Si alguien decide rehacer su vida de la noche a la mañana, no se deja en el cuarto de baño su inhalador para el asma. Tampoco olvida la cartera en la cómoda con ochocientos euros en efectivo y sus documentos de identidad.
+
+Garrido dio un sorbo al vaso, chasqueó la lengua y soltó el legajo sobre la mesa.
+
+—La gente se harta, chaval. Lo veo cada semana. Muchachas aplicadas, universitarias de notas impecables, parejas idílicas de anuncio... Y un martes por la tarde se agobian por los exámenes, por la rutina o porque descubren que no quieren pasar el resto de su juventud frente al televisor de un sofá de dos plazas. Bajan a por pan, se suben al primer autobús de línea regular que sale de la estación central y se cambian el nombre en una provincia vecina.
+
+—¿Sin ropa? —la voz de Leo se tensó—. He contado sus abrigos. Faltan las botas impermeables, sus vaqueros negros y la cazadora oscura que llevaba puesta en aquella salida. Todo lo demás sigue en el armario. Incluso su libreta de notas de campo estaba escondida bajo la cama. No preparó una maleta. No planificó una marcha.
+
+—Tal vez tenía prisa —el policía se encogió de hombros—. O la esperaban en un coche al final del bulevar. No hay cerraduras forzadas en su casa. No hay marcas de arrastre ni cristales rotos en el descansillo. Las cámaras del paso subterráneo de la avenida norte la grabaron sola a las 18:42. Con las manos en los bolsillos, sin nadie detrás. Se marchó porque quiso, muchacho. Y la ley no nos permite movilizar una unidad de búsqueda ni ordenar batidas en los descampados para perseguir a una ciudadana mayor de edad que decide apagar el móvil.
+
+—Lleva cinco días sin dar señales. ¿Y si le ocurrió algo en los senderos forestales?
+
+—Una patrulla recorrió el perímetro del parque el jueves por la mañana —zanjó Garrido; se puso en pie con un crujido de vértebras—. No encontraron nada. Ni una prenda rasgada, ni pisadas sospechosas. El protocolo es claro: Nivel Uno de archivo. Si ingresa en un hospital o un control rutinario de carreteras le pide la documentación, el sistema cruzará los datos y te mandaremos un aviso. Hasta entonces, vuelve a casa. Duerme un poco. Y si tienes dos dedos de frente, empieza a asimilar que a veces las personas deciden sin más que ya no te quieren en sus vidas.
+
+Garrido estampó el sello morado con un golpe seco, cerró la cubierta de cartulina y la tiró al fondo de la gaveta.
+
+***
+
+—Mentira —susurró Leo junto a la ventana de su estancia, con la mandíbula apretada.
+
+La lluvia de medianoche había cesado; el asfalto brillaba bajo una película aceitosa que reflejaba el farol público. Las explicaciones de Garrido eran excusas cómodas para quitarse trabajo de encima. Nadie se marchaba por propia iniciativa y olvidaba la medicación para el asma, el dinero del mes en un mueble y la ropa colgada en el armario. A Elena se la habían llevado, o un peligro real le había cerrado el tránsito.
 
 Se miró la muñeca izquierda.
 
-La pulsera tosca seguía allí: una piedra negra, mate, del tamaño de una nuez, cosida a una correa de cuero gastado. Pesaba demasiado para su volumen, fría al tacto y densa como el plomo.
+La tosca pulsera seguía allí: una piedra negra, mate, del tamaño de una nuez, cosida a una correa de cuero gastado. Pesaba demasiado para su volumen; transmitía frío al tacto y era densa como un bloque de basalto.
 
-*«Trae suerte a los despistados»*, le había dicho su abuelo Caine mientras le ajustaba la hebilla en la cocina, meses atrás. *«No la pierdas, que te conozco.»* Pocos días después le regaló a Elena un colgante con una piedra idéntica: *«Así vais a juego»*, había bromeado el viejo.
+*«Trae suerte a los despistados»*, le había dicho su abuelo Caine al ajustar la hebilla en la cocina, meses atrás. *«No la pierdas, que te conozco.»* Pocos días después regaló a Elena un colgante con una pieza idéntica: *«Así vais a juego»*, bromeó el anciano.
 
-Seis meses más tarde, una tarde de mayo, Caine no bajó a cenar. Dejó las botas de diario, las llaves y la pensión intacta. Se llevó únicamente sus cuadernos de mapas. La policía de Garrido archivó el caso tachándolo de anciano senil ahogado en el río.
+En el mes de mayo, Caine no bajó a cenar. Dejó el calzado de diario, las llaves y la pensión intacta. Cargó con sus cuadernos de mapas y nada más. La policía de Garrido liquidó el caso con el dictamen de un hombre desorientado que cayó al río.
 
-Ahora, Elena. Se había dejado el inhalador, la cartera y la ropa.
+Ahora, Elena. Había dejado el inhalador, la cartera y la ropa.
 
-Dos personas. Dos piedras iguales. Ni una puerta forzada en dos desapariciones idénticas.
+Dos ausencias. Dos piedras gemelas. Ni una puerta forzada en dos desapariciones idénticas.
 
-Leo pasó la yema del pulgar sobre la piedra oscura y apretó los dientes.
+Leo pasó la yema del pulgar sobre la superficie oscura y apretó los dientes.
 
-—No voy a esperar sentado —dijo.
+—No me voy a quedar sentado —dijo.
 
-El reloj marcaba las 03:26. Se calzó las botas de montaña, se abrochó la chaqueta de lona encerada y se guardó la copia de la denuncia y una linterna metálica con correa de muñeca en el bolsillo interior. Había quedado a las cuatro de la madrugada con Javi, un técnico del centro de control de tráfico que le había prometido, a cambio de doscientos euros bajo mano, una copia en bruto de las cámaras de seguridad del perímetro exterior de la carretera comarcal norte. Si Garrido no pensaba mirar esas grabaciones, las miraría él fotograma a fotograma.
+El reloj marcaba las 03:26. Se calzó las botas de montaña, se abrochó la chaqueta de lona encerada y guardó el duplicado de la denuncia junto a una linterna metálica en el bolsillo interior. Había quedado a las cuatro con Javi, un técnico del centro de control de tráfico que prometió, a cambio de doscientos euros bajo mano, una copia en bruto de las cámaras del perímetro exterior de la carretera comarcal norte. Si Garrido no pensaba revisar esas grabaciones, las escrutaría él hasta dar con una pista.
 
-Aseguró la cerradura con dos vueltas de llave y descendió por la escalera de madera del bloque, cuyos peldaños crujieron bajo su peso.
+Aseguró la cerradura con dos vueltas de llave y descendió por la escalera comunitaria, cuyos peldaños crujieron bajo su paso.
 
-Al empujar el portal de hierro, el aire frío de la noche le despejó la mente de golpe. La calle estaba desierta. La niebla baja flotaba a ras de acera, difuminando los cubos de basura y los vehículos aparcados en batería.
+Al empujar el portal de hierro, el aire gélido de la noche le despejó la mente de golpe. La calle permanecía desierta. La niebla baja flotaba a ras de acera, difuminando los cubos de basura y los vehículos aparcados en batería.
 
-Leo metió la barbilla bajo el cuello del abrigo y echó a andar hacia la avenida principal.
+Leo metió el mentón bajo el cuello del abrigo y enfiló la avenida principal.
 
-Apenas había recorrido treinta metros cuando el sonido de un motor pesado acelerando a sus espaldas rompió la calma del callejón.
+Apenas recorrió treinta metros cuando el zumbido de un motor pesado rugió a su espalda y rompió la calma del callejón.
 
 Se detuvo y giró la cabeza sobre el hombro.
 
-Una furgoneta negra, de chasis alargado y sin placas de matrícula, viró desde la esquina derrapando sobre el pavimento mojado. Llevaba solo dos proyectores antiniebla amarillos que cortaban el vapor de la calle. El vehículo no redujo la marcha: aceleró con un bramido bronco y continuo.
+Una furgoneta oscura, de chasis alargado y sin placas de matrícula, viró desde la esquina; las ruedas derraparon sobre el pavimento húmedo. Llevaba dos proyectores antiniebla amarillos que cortaban el vapor de la calzada. El furgón no redujo la marcha: aceleró con un bramido bronco y continuo.
 
-El estómago se le cerró en un calambre seco. La orden fue inmediata: *Corre.*
+El estómago se le cerró en un calambre seco. La orden interior fue tajante: *Corre.*
 
-Dio un salto hacia la acera contraria, buscando el callejón peatonal donde los bolardos de piedra impedirían el paso de un coche. Pero antes de que sus botas tocaran el suelo empedrado, el chirrido de los frenos desgarró la noche. La furgoneta atravesó el bordillo, derrapó de costado con una precisión implacable y le cerró el paso, estampando la chapa a escasos centímetros de su hombro.
+Saltó hacia la acera contraria, enfilando el pasaje peatonal donde los bolardos de granito impedirían el acceso de un coche. Antes de que sus suelas tocaran el adoquín, el chirrido de los frenos desgarró la noche. El vehículo invadió el bordillo, cruzó el morro con puntería exacta y le bloqueó la salida, encajando la chapa a escasos centímetros de su hombro.
 
-La puerta corredera lateral se abrió hacia atrás con un chasquido neumático.
+La puerta corredera lateral se abrió con un chasquido neumático.
 
-Leo retrocedió un paso, buscando con la mirada un adoquín suelto, cualquier cosa.
+Leo retrocedió un paso; recorrió el suelo con la mirada, rastreando algún cascajo suelto, cualquier defensa.
 
-—¡Atrás! —gritó, sacando la linterna por la correa de muñeca y enfocando el haz directo hacia la abertura.
+—¡Atrás! —gritó; descolgó el tubo de latón por la correa y clavó el haz luminoso en la abertura.
 
-De la penumbra del habitáculo bajaron dos hombres.
+De la penumbra del habitáculo bajaron dos sujetos.
 
-Vestían trajes oscuros de corte sobrio, sin corbata, de un tejido grueso y mate que no producía roce. Medían cerca de un metro noventa cada uno, con hombros anchos y una postura recta, militar. La piel de ambos era blanca, tensa sobre los pómulos como cuero seco. Sus ojos no parpadeaban; las pupilas estaban dilatadas por completo a pesar del reflejo directo de la linterna y devoraban la luz sin contraerse. Se movían despacio, sin mirarse, como quien ha repetido la misma maniobra un centenar de veces.
+Vestían trajes oscuros de corte sobrio, sin corbata, de un tejido mate que no producía roce. Medían cerca de un metro noventa cada uno, con hombros anchos y una postura recta, marcial. La piel de ambos era blanca, tensa sobre los pómulos como cuero curtido. Sus ojos no parpadeaban; las pupilas estaban dilatadas por completo a pesar del resplandor directo y absorbían la luz sin contraerse. Avanzaron despacio, sin mirarse, con la soltura de quien ejecuta una maniobra ensayada un centenar de veces.
 
-—Leo Vanes —dijo el de la izquierda. Su voz no tenía altibajos: un timbre grave, seco y uniforme.
+—Leo Vanes —dijo el de la izquierda. Su voz no tuvo altibajos: un timbre grave, seco y uniforme.
 
-—¿Quiénes son ustedes? —Leo mantuvo la linterna en alto, apretando los dedos para ocultar el temblor de la mano—. ¡La policía tiene mis datos! ¡Saben que estoy investigando...!
+—¿Quiénes son ustedes? —Leo sostuvo el foco en alto, con las falanges trabadas para ocultar el temblor—. ¡La policía tiene mis datos! ¡Saben que estoy buscando a Elena!
 
-El hombre de la derecha se movió.
+El individuo del flanco diestro actuó.
 
-Avanzó en una arrancada fulminante. Leo apenas tuvo tiempo de levantar los brazos antes de que la sombra se le echara encima. Intentó golpear con la linterna, pero los dedos del desconocido se cerraron sobre su muñeca derecha como una prensa de hierro.
+Avanzó en una arrancada súbita. Leo apenas alzó los brazos antes de que la mole se le echara encima. Quiso golpear con el tubo de metal, pero los dedos del desconocido atraparon su muñeca derecha como una prensa mecánica.
 
-Un crujido seco resonó en el brazo de Leo. El dolor le subió ardiendo por el carpo hasta el codo; los dedos perdieron la fuerza y la linterna cayó al charco, quedando colgada de su muñeca por la correa.
+Un crujido áspero resonó en la articulación de Leo. Hueso quebrado. El dolor le subió ardiendo hasta el codo; las articulaciones perdieron tensión y la linterna cayó al charco, colgada de la mano por la presilla de cuero.
 
-Leo abrió la boca para gritar, pero el segundo hombre se colocó a su espalda. Un brazo rígido le rodeó el cuello, cortándole el aire en un bloqueo limpio. Al mismo tiempo, sintió el pinchazo helado de una aguja hipodérmica penetrando a través de la lona de su chaqueta, clavándose en el hombro izquierdo.
+Leo abrió la boca para gritar, pero el cómplice se colocó a su espalda. Una presa rígida le atenazó el pescuezo y le cortó el aire en un bloqueo limpio. Al mismo tiempo, sintió la punzada de una aguja hipodérmica que atravesó la tela encerada de su chaqueta y se hundió en el hombro izquierdo.
 
-El asfalto pareció inclinarse hacia arriba. Las luces de las farolas se estiraron en líneas difusas. Leo forcejeó con las piernas, pataleando contra el chasis del vehículo, pero aquellos hombres eran muros de piedra inmóviles.
+El asfalto pareció inclinarse. Las farolas se estiraron en estelas difusas. Leo forcejeó con las piernas; las botas golpearon el chasis del vehículo, pero aquellos captores eran muros de piedra inmóviles.
 
 —Sujeción completada —dijo una voz lejana—. Extracción autorizada.
 
-Una capucha de lona gruesa le cubrió la cabeza. Lo arrojaron sobre el suelo metálico del furgón. La puerta se cerró con un golpe seco, el motor rugió y la oscuridad del sedante le apagó la mente.
+Una capucha de lona gruesa le cubrió la cabeza. Lo arrojaron sobre el piso metálico del transporte. La compuerta se cerró con un golpe seco, el motor bramó y el efecto del narcótico le apagó la conciencia.
 
 ***
 
-El dolor fue lo primero que volvió.
+El dolor fue el primer estímulo en regresar.
 
-Una punzada continua en la nuca y en la muñeca derecha fracturada, acompañada por unas náuseas densas que le subían desde el fondo del estómago.
+Una punzada continua en la nuca y en la articulación quebrada, unida a una náusea densa que subía desde el fondo del estómago.
 
-Leo abrió los ojos. La vista tardó varios segundos en despejarse. Lo que vio no tenía nada que ver con unas dependencias policiales.
+Leo abrió los ojos. La vista tardó varios instantes en fijar las líneas del entorno. Lo que descubrió no tenía relación alguna con dependencias policiales.
 
-Estaba sentado en una silla de acero fundido, atornillada directamente a una losa de hormigón. Sus muñecas estaban inmovilizadas a los reposabrazos mediante grilletes mecánicos de bisagra ancha que se clavaban en la piel cada vez que intentaba tensar los tendones. Sus tobillos estaban igualmente trabados a las patas de metal.
+Ocupaba una silla de acero fundido, anclada con pernos a la losa de cemento. Sus muñecas estaban inmovilizadas a los reposabrazos mediante grilletes mecánicos de bisagra ancha que mordían la carne cada vez que intentaba tensar los tendones. Dos aros de hierro le aprisionaban también los tobillos contra las patas de metal. Cautiverio ciego.
 
-La habitación era un cubo de unos cuatro metros de lado, sin ventanas, construida con bloques de hormigón armado de un gris sucio, húmedos y cubiertos por manchas de cal. El aire era pesado, frío y apestaba a desinfectante y a ozono, como si cerca funcionaran transformadores de alto voltaje. En el techo, una lámpara protegida por una rejilla metálica emitía una luz blanca que no dejaba sombras.
+La estancia formaba un cubo de cuatro metros de lado, sin ventanas, alzado con bloques de hormigón armado de un gris sucio, húmedos y cubiertos por manchas de cal. El aire era pesado, frío y apestaba a desinfectante y a ozono, como si cerca funcionaran transformadores de alto voltaje. En el techo, una lámpara protegida por una rejilla metálica emitía una claridad blanca que no proyectaba sombras.
 
-Frente a él, a tres pasos de distancia, había una mesa de acero inoxidable.
+Frente a él, a tres pasos de distancia, descansaba una mesa de acero inoxidable.
 
-Detrás de la mesa estaban los dos hombres de traje. Se habían quitado los abrigos. El de la derecha, con una cicatriz que le dividía la ceja izquierda, sostenía una tablilla con hojas mecanografiadas. El de la izquierda, de mandíbula cuadrada, mantenía las manos a la espalda, mirándolo con ojos negros que registraban cada contracción de sus párpados.
+Detrás del tablero aguardaban los dos sujetos de traje. Se habían despojado de los abrigos. El individuo de la ceja izquierda marcada por una cicatriz sostenía un cartapacio con hojas mecanografiadas. Su compañero, de mandíbula cuadrada, cruzaba los brazos a la espalda, escrutándolo con ojos negros que registraban cada parpadeo.
 
-Leo tiró de los grilletes. El acero no cedió; la muñeca derecha le ardió con un dolor lacerante que le arrancó un gemido entre dientes.
+Leo tiró de las esposas. El metal no cedió; la articulación diestra le ardió con un dolor lacerante que le arrancó un gemido entre dientes.
 
 —¿Dónde estoy? —preguntó con la garganta reseca—. ¿Qué es esto? Si es por la denuncia de Elena...
 
-—Silencio —dijo el hombre de la ceja partida. No alzó la voz—. No estás en posición de hacer preguntas, Leo Vanes. Tu retención no figura en ningún registro judicial ni administrativo. Si mueres en esta sala, tu cuerpo será desintegrado en un baño de ácido y tus cenizas terminarán en el emisario submarino. Para la ciudad, serás otro joven inestable que saltó desde el viaducto norte. ¿Queda claro?
+—Silencio —dijo el sujeto de la ceja rota. No alzó la voz—. No estás en posición de hacer preguntas, Leo Vanes. Tu retención no figura en ningún registro judicial ni policial. Si mueres en esta sala, tu cuerpo será desintegrado en un baño de ácido y tus cenizas terminarán en el emisario submarino. Para la ciudad, serás otro joven inestable que saltó desde el viaducto norte. ¿Queda claro?
 
-Leo tragó saliva. El sudor frío le bajaba por la nuca. El espesor del hormigón delataba un sótano profundo o una instalación clandestina; la calma de sus captores respondía a un protocolo ensayado.
+A Leo se le secó la boca. El sudor frío le resbaló por la nuca. El grosor del muro delataba un sótano profundo o una instalación clandestina; la frialdad de sus custodios respondía a un protocolo metódico.
 
-—No tengo dinero —dijo Leo, obligándose a hablar despacio—. No tengo nada. Solo soy un administrativo.
+—No tengo dinero —dijo Leo; se obligó a hablar despacio—. No tengo nada. Solo soy un empleado civil.
 
-El hombre de mandíbula cuadrada dio un paso al frente.
+El individuo de mandíbula cuadrada dio un paso al frente.
 
-—Primera pregunta —dijo con voz monótona—. ¿Dónde está Caine Vanes?
+—Primera pregunta —dijo con tono monótono—. ¿Dónde está Caine Vanes?
 
 El nombre de su abuelo hizo que Leo se tensara contra el respaldo.
 
-—¿Mi abuelo? —respondió, desconcertado—. Desapareció hace seis meses. El caso está archivado en el Distrito Siete. La policía cerró la investigación...
+—¿Caine? —respondió, desconcertado—. Desapareció hace seis meses. El caso está cerrado en el Distrito Siete. La policía archivó la investigación...
 
-El hombre de la ceja partida anotó un trazo en su tablilla sin mirarlo.
+El custodio anotó un trazo en su registro sin mirarlo.
 
 —El sujeto confirma la interrupción del contacto.
 
 Leo forcejeó contra el metal, desesperado:
 
-—¡Le estoy diciendo la verdad! Tenía lagunas de memoria, apenas salía de casa y se pasaba las tardes dibujando mapas en cuadernos viejos. ¿Qué tiene que ver él con esto?
+—¡Le digo la verdad! Tenía lagunas de memoria, apenas salía a la calle y pasaba las tardes trazando planos en cuadernos viejos. ¿Qué tiene que ver él con esto?
 
-Ninguno de los dos hombres contestó.
+Ninguno de los dos captores contestó.
 
-El de la ceja partida pasó una hoja de la tablilla.
+El primer interrogador pasó un folio.
 
 —Segunda pregunta. ¿Dónde se oculta Haimara?
 
-Leo pestañeó, aturdido. La palabra resonó en el hormigón como un sonido áspero y ajeno.
+Leo pestañeó, aturdido. El vocablo resonó en el hormigón como un chasquido áspero y ajeno.
 
-—¿Haimara? —repitió, frunciendo el ceño—. ¿Quién es Haimara? Jamás he oído ese nombre en mi vida.
+—¿Haimara? —repitió, con el ceño fruncido—. ¿Quién es Haimara? Jamás he oído ese nombre.
 
-El hombre de mandíbula cuadrada metió la mano en el bolsillo interior y tiró una fotografía sobre la mesa de acero.
+El custodio de mandíbula cuadrada metió la mano en el forro interior y arrojó una fotografía sobre la mesa de acero.
 
-En la imagen, tomada desde un ángulo elevado con teleobjetivo, se veía a Elena saliendo del portal con una bolsa de la compra y su cazadora oscura.
+En la imagen, tomada desde un ángulo elevado con teleobjetivo, aparecía Elena al salir del portal con una bolsa de la compra y su cazadora oscura.
 
-—Tenemos constancia de que compartís demasiado tiempo bajo el mismo techo —dijo el hombre—. Demasiado para que no sepas adónde ha ido.
+—Tenemos constancia de que compartís demasiado tiempo bajo el mismo techo —dijo el captor—. Suficiente para que sepas adónde ha ido.
 
 A Leo se le durmieron los dedos de golpe. La sangre pareció retirársele de la cara.
 
 —¿Elena? —la voz le tembló—. Se llama Elena. Elena Kalev. Estudia botánica en la facultad, no tiene nada que ver con lo que buscan...
 
-—Elena es un nombre falso —cortó el de la ceja partida—. ¿Adónde fue?
+—Elena es un nombre falso —cortó el de la cicatriz—. ¿Adónde fue?
 
 —¡No lo sé! —gritó Leo contra los grilletes—. ¡Se marchó hace cinco días sin avisar! ¡Fui a la policía, puse una denuncia! ¡No sé adónde demonios ha ido!
 
-El hombre de la ceja partida dejó la tablilla sobre la mesa.
+El custodio dejó las hojas sobre la mesa.
 
-Con movimientos medidos, abrió el maletín metálico apoyado en el suelo junto a la pata de la mesa. El interior albergaba herramientas metálicas y un par de electrodos con pinzas de cobre conectados a un transformador portátil.
+Con movimientos medidos, abrió el maletín de aluminio apoyado en el suelo junto a la pata del mueble. El interior albergaba instrumental de cobre y bornes con pinzas conectados a un transformador portátil.
 
-—El sujeto no coopera —dijo, colocándose unos guantes de goma negra—. Procederemos con estimulación neuromuscular directa hasta que los recuerdos se ordenen.
+—El sujeto no coopera —dijo; se calzó unos guantes de goma negra—. Procederemos con estimulación neuromuscular directa hasta que los recuerdos se ordenen.
 
-El hombre de mandíbula cuadrada se acercó a la silla. Apoyó una mano enguantada sobre el hombro de Leo y descargó su peso, inmovilizándole el torso contra el respaldo con una fuerza que le hizo crujir las clavículas.
+El individuo de mandíbula cuadrada se acercó a la silla. Descargó la palma sobre el hombro de Leo e inmovilizó el torso contra el respaldo con una fuerza que le hizo crujir las clavículas.
 
-—Última oportunidad, Leo Vanes —dijo, inclinándose hasta que Leo notó en su aliento un olor metálico y frío—. Dónde están los cuadernos de tu abuelo. Adónde fue ella.
+—Última oportunidad, Leo Vanes —dijo; se inclinó hasta rozarle la oreja con un aliento metálico y frío—. Dónde están los cuadernos de tu abuelo. Adónde fue ella.
 
-El aire se le atascó en la garganta. Frente a él había dos hombres dispuestos a desarmarlo sobre el hormigón desnudo.
+Paredes mudas. Cero escapatoria. El aire se le atascó en la tráquea. Frente a él había dos individuos dispuestos a desarmarlo sobre el hormigón desnudo.
 
-El otro agente levantó los bornes de cobre. El transformador emitió un zumbido agudo que erizó el vello de sus brazos. La punta de los electrodos despidió pequeños arcos azulados a pocos centímetros de sus muslos.
+El otro sujeto alzó los bornes de cobre. El transformador emitió un zumbido agudo que erizó el vello de sus brazos. La punta de los electrodos despidió pequeños arcos azulados a pocos centímetros de sus muslos.
 
-Acorralado contra el hierro, con la certeza física de que iban a destrozarlo allí mismo, la mente de Leo buscó una salida con desesperación absoluta. Deseó con todas sus fuerzas no estar en aquella sala.
+Acorralado contra el hierro, viendo los destellos lamerle los pantalones y comprobando que iban a destrozarlo allí mismo, la mente de Leo persiguió una salida con desesperación absoluta. Deseó con todas sus fuerzas no estar en aquella sala.
 
-En ese segundo de asfixia, un recuerdo enterrado de la buhardilla de Caine le vino a la cabeza: su abuelo marcando con carboncillo una grieta entre riscos negros en un papel arrugado, hablándole de la piedra firme donde nadie podía alcanzar a quien supiera esconderse.
+Bajo la asfixia del encierro, un recuerdo sepultado de la buhardilla de Caine brotó en su memoria: su abuelo trazaba con carboncillo una grieta entre riscos negros en un papel arrugado, y le hablaba de la piedra firme donde nadie podía alcanzar a quien supiera esconderse.
 
-*¡Sácame de aquí!*, pensó apretando los párpados. *¡Adonde sea, pero fuera de aquí!*
+*¡Sácame de aquí!*, pensó con los párpados apretados. *¡Adonde sea, pero fuera de aquí!*
 
-La muñeca izquierda ardió.
+La muñeca izquierda ardió. Fuego vivo en el hueso.
 
-El calor fue fulminante: la piedra oscura de la pulsera se hundió en su carne desprendiendo una temperatura abrasadora que le coció la piel en un segundo.
+El calor mordió al instante: la gema oscura de la pulsera se hundió en su carne en una quemadura que le coció la piel en un parpadeo.
 
-La piedra comenzó a vibrar con un crujido sordo. Las ranuras microscópicas del material se abrieron y una luz verde, densa y fosforescente, estalló iluminando la habitación de golpe.
+El mineral comenzó a vibrar con un crujido sordo. Las fisuras microscópicas de la pieza se abrieron y una luz verde, densa y fosforescente, estalló e inundó la habitación.
 
-El hombre que sostenía los electrodos retrocedió medio paso con los ojos desorbitados por el espanto.
+El custodio que sostenía los electrodos dio un traspié con los ojos desorbitados por el espanto.
 
 La temperatura en la sala cayó de repente. La lámpara del techo parpadeó, soltó un chisporroteo agudo y reventó en esquirlas de vidrio sobre la mesa.
 
-—¡Mátalo! —gritó el hombre de mandíbula cuadrada, soltando el hombro de Leo y metiendo la mano bajo la chaqueta para desenfundar—. ¡Dispara ya!
+—¡Mátalo! —gritó el de mandíbula cuadrada; apartó la zarpa del hombro de Leo y metió la mano bajo la chaqueta para desenfundar—. ¡Dispara ya!
 
-El resplandor verde mutó en una llamarada blanca incandescente que devoró la oscuridad del sótano. El aire alrededor del cuerpo de Leo se plegó con un crujido seco, succionando el oxígeno y doblando los grilletes de acero como si fueran alambres calientes.
+El resplandor mutó en una llamarada blanca cegadora que devoró la oscuridad del sótano. El aire alrededor del torso de Leo se plegó con un chasquido seco; succionó el oxígeno y curvó los grilletes de acero como alambres calientes.
 
-Un pitido atronador le desgarró los tímpanos. La realidad pareció curvarse: Leo vio el cañón del arma apuntándole a la cabeza, vio la pólvora asomar en la recámara...
+Un silbido lacerante le desgarró los tímpanos. La realidad pareció curvarse: Leo distinguió el cañón del arma apuntado a su frente, notó la pólvora asomar en la recámara mientras el percutor iniciaba su carrera mecánica hacia el cebo de percusión.
 
-Y el espacio se cerró sobre sí mismo.
+Y el espacio se cerró sobre sí mismo. Vacío ciego.
 
-Una fuerza ciega arrancó a Leo de la silla en una detonación blanca que consumió la visión, el sonido y el peso de su cuerpo, arrojándolo al vacío absoluto.
+Una fuerza colosal arrancó a Leo de la silla en una detonación que consumió la visión, el sonido y la masa de su cuerpo, y lo arrojó al fondo de la nada.
 
 ---
 
 # CAPÍTULO 2: LA BRECHA DE BASALTO
 
-El suelo retumbó bajo su pecho antes de que sus ojos lograran enfocar la penumbra.
+El suelo retumbó bajo su pecho antes de que sus ojos enfocaran la penumbra.
 
-Leo tragó aire a bocanadas cortas, con la frente hundida en un lecho de turba caliente y ceniza ácida que desprendía volutas de vapor blanco. El dolor lo alcanzó desde dos puntos distintos. En la muñeca izquierda, la pulsera de eslabones oscuros había desaparecido en el estallido del sótano, dejando en su lugar un anillo de carbonilla incrustado en la dermis, con un olor denso a carne chamuscada y resina fundida. En la derecha, el carpo quebrado por el agente de traje latía con una rabia sorda: una inflamación rígida, caliente, que le deformaba la articulación bajo la piel amoratada.
+Leo tragó aire a golpes. Tenía la frente hundida en turba caliente y hollín que soltaba volutas de vapor blanco. El dolor le llegó de dos sitios a la vez. En la muñeca izquierda, la pulsera de eslabones oscuros había desaparecido consumida por la detonación, sustituida por un cerco de carbonilla incrustado en la carne viva que olía a tocino quemado y resina. En el brazo diestro, la fractura que le provocó el agente de traje latía en una hinchazón rígida y amoratada.
 
-Intentó apoyarse sobre las manos para incorporarse.
+Intentó levantarse.
 
-El peso de su cuerpo cayó sobre la palma derecha. Un crujido sordo le subió por el antebrazo como una descarga de agujas incandescentes. El brazo le cedió de golpe y Leo cayó de bruces contra la ceniza, soltando un quejido ahogado entre los dientes apretados.
+Cargó la masa del cuerpo sobre la base de la mano derecha por puro instinto civil. El hueso fracturado crujió por dentro. La articulación cedió en seco y Leo cayó de frente contra la ceniza, ahogando un quejido entre las mandíbulas apretadas. Se quedó inmóvil. El sudor frío le resbaló por las sienes hasta los párpados mientras la náusea del dolor bajaba de intensidad. 
 
-Se quedó quieto durante varios segundos, con la mejilla aplastada contra la turba, esperando a que la náusea del dolor remitiera. La articulación derecha estaba inservible para cargar peso. Utilizó el codo y el antebrazo izquierdo para rodar de costado y sentarse sobre los talones, sujetando con la mano ilesa la muñeca quebrada contra sus costillas.
+La extremidad lesionada no toleraba carga alguna.
 
-El aire le entró en la tráquea con una densidad áspera, saturada de oxígeno y efluvios minerales, que le provocó un espasmo de tos seca. El corazón le dio un vuelco desacompasado y empezó a golpear contra las costillas en una cadencia acelerada, bombeando oleadas de calor hacia las sienes hasta que la vista se le llenó de puntos brillantes.
+Arrastró el codo izquierdo, giró sobre la cadera y logró sentarse sobre los talones. Encajó el brazo roto contra las costillas, sujetándolo con la palma sana para inmovilizar la muñeca.
 
-Parpadeó, aclarando la visión nublada, y miró el terreno.
+El aire sabía a cobre y azufre. Entraba en los pulmones con una densidad que le cerró la garganta en un golpe de tos seca. El pulso le golpeaba en la frente. La vista se le llenó de puntos blancos. Parpadeó para aclarar los ojos y miró el terreno.
 
-Ocupaba el centro de una depresión circular de más de cincuenta metros de diámetro, una cuenca de impacto donde la vegetación baja había sido triturada por una fuerza expansiva. El promontorio en el que descansaba se elevaba dos palmos respecto al fondo de la concavidad, como el núcleo central que dejan los proyectiles de artillería al quebrar el estrato de roca. A su alrededor, la tierra humeaba en fisuras concéntricas; briznas de helechos carbonizados flotaban en el aire tibio, y los tocones periféricos más próximos aparecían astillados o doblados hacia el exterior, partidos por una onda de choque radial.
+Ocupaba el centro de una depresión circular de cincuenta pasos de ancho, una cuenca abierta a golpes de calor donde toda la maleza baja había sido desintegrada por una onda expansiva que dejó el lecho pétreo al descubierto. El promontorio sobre el que descansaba se elevaba dos palmos respecto al suelo de la hendidura, igual que el núcleo que dejan los impactos pesados de artillería al quebrar un estrato de piedra. En derredor, la costra calcinada humeaba en fisuras concéntricas; restos de helechos quemados flotaban en el aire tibio y los tocones del perímetro aparecían astillados hacia fuera por la fuerza radial del choque.
 
-Leo miró el humo que aún brotaba del anillo negro de su muñeca izquierda y luego la deformación de su carpo derecho.
+Leo examinó el vapor que aún brotaba del cerco negro de su muñeca izquierda. Luego comprobó la fractura del otro brazo. El boquete en el basalto lo había abierto él.
 
-Una sacudida de frío le cerró el estómago: *¿He provocado yo esto?*
+La conclusión resultaba absurda para un administrativo del Distrito Siete. Pasaba los días sellando permisos de aduana y foliando expedientes de transporte marítimo en un sótano municipal entre archivadores de metal verde y formularios por triplicado. La gente de su oficina no abría cráteres en la piedra viva. Sin embargo, la ceniza quemaba bajo sus rodillas y la sala de hormigón de la comisaría ya no existía.
 
-La idea chocaba de frente contra veinticuatro años de vida civil y metódica. Él era un empleado administrativo del Distrito Siete, un oficinista que timbraba permisos de aduana y archivaba legajos de transporte. Un ser humano corriente no abría cráteres en la corteza terrestre ni quebraba el espacio. Sin embargo, el cráter estaba allí, la ceniza quemaba bajo sus rodillas y la sala de hormigón armado de la comisaría había desaparecido sin dejar rastro.
+Alzó la cabeza hacia los márgenes de la cuenca. La vegetación sobrepasaba cualquier escala concebible.
 
-Alzó la cabeza hacia los bordes de la hondonada.
+Más allá de la franja calcinada, los troncos se alzaban en murallas verticales de corteza negra y áspera, de quince metros de grosor en la base, extendiendo raíces que formaban zócalos de tres alturas humanas cubiertos de musgo oscuro, con grietas profundas donde un cuerpo cabía de pie sin rozar los cantos de madera viva. Allá arriba, donde en su distrito solo cruzaban los cables del tranvía y las chimeneas de ladrillo, la fronda tejía una techumbre continua que borraba el cielo y dejaba pasar una claridad lechosa. Una sola hoja caída de helecho medía más que su estatura. Gotas densas caían desde las copas altas, golpeando el cieno en perdigonadas sordas.
 
-La vegetación que rodeaba el cráter sobrepasaba cualquier escala conocida. Más allá de la franja calcinada, los troncos se alzaban como torres cilíndricas de corteza negra y rugosa, de quince metros de grosor en la base, cuyas raíces sobresalían de la turba formando murallas leñosas de tres metros de altura cubiertas por mantos de musgo húmedo. A una altura donde en su ciudad solo volaban los vencejos y zumbaban los cables del tendido eléctrico, las copas se entrelazaban en una techumbre vegetal compacta que borraba el cielo casi por completo, filtrando apenas haces de luz lechosa y grisácea.
+*Esto no figuraba en las cartas de navegación*, pensó. Recordó los dibujos a tinta en la buhardilla de su abuelo Caine. *Los mapas no tenían escala.*
 
-Una sola hoja de helecho quebrada por la onda expansiva medía más que su propia estatura. La condensación acumulada en las frondas altas caía en gotas pesadas, densas como proyectiles de agua, que reventaban contra el barro con chasquidos sordos.
+Se palpó la ropa con los dedos zurdos, sin separar el brazo roto del vientre. La linterna metálica colgaba de la muñeca astillada por su correa de tela; cada balanceo mordía el hueso quebrado. Desenganchó la presilla y deslizó el tubo en el forro interior de la chaqueta encerada. En el pecho notó el papel doblado del atestado que Garrido le había obligado a firmar. En la faltriquera del pantalón conservaba una barrita de avena prensada y una bolsa cerrada con almendras saladas. Solo lo que llevaba puesto al entrar en la comisaría central.
 
-*Esto no venía en los mapas*, pensó Leo, tragando saliva pastosa. *Los mapas de la buhardilla no tenían escala.*
+El lodo bajo sus rodillas vibró con un golpe seco.
 
-Se palpó la ropa con la mano izquierda, manteniendo el brazo derecho doblado contra el pecho. La linterna metálica colgaba de la muñeca fracturada por su correa de tela; cada oscilación del cilindro golpeaba la inflamación del hueso. Leo desenganchó la cinta con dedos torpes y deslizó el metal frío en el bolsillo interior de su chaqueta encerada. En el bolsillo del pecho notó el papel doblado del atestado policial que Garrido le había hecho firmar. En el pantalón conservaba una barrita de avena prensada y una bolsa hermética con almendras tostadas.
+La sacudida estremeció la cresta occidental del cráter con un compás espaciado. Hizo rodar gravilla pendiente abajo. En un charco estancado a dos palmos de su bota, el agua formó ondas concéntricas contra el cieno.
 
-Nada más. Solo la ropa con la que había entrado en la comisaría central.
+Leo se puso en pie despacio. Apoyó la espalda en un tocón quemado para no perder el equilibrio. Al otro lado de la hondonada, entre la bruma que subía de la tierra, una silueta quebró la cortina de helechos.
 
-El lodo bajo sus rodillas tembló con un golpe seco.
+La mole asomó en lo alto del talud. Era un cuadrúpedo acorazado de casi ocho metros de longitud, con el vientre pegado al fango. Llevaba el cuerpo cubierto por placas superpuestas de queratina negra con la rugosidad de la lava fría, separadas por pliegues de piel cenicienta que se dilataban al respirar. Las patas eran columnas de hueso estriado rematadas en pezuñas triples con espolones curvos, clavadas en la pendiente pedregosa. Bajo los costillares, una hilera de espiráculos ovales expulsaba chorros de vapor a presión contra la niebla. El hedor llegó de golpe arrastrado por una corriente baja: carroña tibia, jugos gástricos y grasa rancia.
 
-El impacto sacudió la cresta occidental del cráter con una cadencia pesada y rítmica. La grava suelta rodó ladera abajo en pequeños regueros de polvo. Un charco de agua estancada a dos palmos de sus botas formó anillos concéntricos que rebotaron contra los bordes de fango negro.
+La cabeza formaba un solo bloque macizo con los hombros. El cráneo remataba en un pico óseo, curvado hacia el suelo y con filos laterales aserrados. Dos ojos lechosos giraron en sus cuencas bajo cejas de piedra, protegidos por una membrana traslúcida. El animal levantó el morro hacia el humo del cráter; los espiráculos del costado resoplaron y las pupilas blancuzcas bajaron hasta fijarse en el montículo central.
 
-Leo se puso en pie con un movimiento cauteloso, apoyando la espalda contra un tocón calcinado para no perder el equilibrio.
+El calor de la tierra quemada y el rastro de carne chamuscada en la muñeca de Leo habían guiado al depredador en línea recta.
 
-A través del vapor que ascendía del centro de la hondonada, sobre el borde superior opuesto a los riscos, una silueta oscura cortó la cortina de helechos destrozados.
+La bestia hundió las pezuñas delanteras en el talud. Combó el lomo acorazado, soltó un bufido cavernoso que sacudió la gravilla y se lanzó pendiente abajo. El avance quebró los troncos caídos y abrió dos zanjas de barro negro con los espolones traseros.
 
-La bestia asomó a contraluz en lo alto de la cresta.
+—¡Muévete! —se ordenó Leo.
 
-Era un cuadrúpedo acorazado de casi ocho metros de largo, ancho como dos carromatos de carga y con el vientre pegado al terreno. Su cuerpo estaba cubierto por placas superpuestas de queratina negruzca, con la rugosidad y el brillo apagado de la roca volcánica enfriada al aire, separadas por pliegues de piel cenicienta que se expandían con cada respiración. Cada pata era una columna de hueso y tendón estriado que remataba en pezuñas triples con espolones curvos, ancladas con firmeza en el talud de tierra.
+Giró sobre los talones. Echó a correr hacia la ladera contraria con el brazo derecho prensado contra las costillas para evitar que la fractura cabeceara con las zancadas. Las suelas resbalaban en la greda caliente. El aire denso le raspaba los bronquios, pero la inercia lo empujó por encima del borde este justo cuando la bestia embestía el montículo de piedra con un chasquido de maderas partidas.
 
-Bajo el borde inferior de las placas en los costillares, una hilera de espiráculos ovales se abría y cerraba en sacudidas mecánicas, expulsando chorros de vapor a presión que silbaban contra la niebla. El hedor llegó de golpe arrastrado por una corriente baja: olor a carroña tibia, jugos gástricos y grasa mineral rancia.
+No miró atrás. Se metió de lleno en la espesura.
 
-La cabeza formaba un bloque macizo con los hombros. El cráneo terminaba en un pico de hueso córneo, curvado hacia el suelo y con los bordes aserrados como una sierra de leñador. Dos ojos lechosos giraron en sus cuencas bajo cejas óseas prominentes, cubiertos por una membrana traslúcida que se abría en abanico.
+El sotobosque era una trampa de raíces leñosas y charcos de cieno que amenazaban con atrapar las botas. Leo zigzagueó entre los troncos más gruesos para estorbar el avance del animal. A su espalda, el cuadrúpedo avanzaba sin virar: arrollaba matorrales y quebraba árboles jóvenes con el pecho acorazado. Cuatrocientos pasos después, el terreno cambió de golpe.
 
-El animal levantó el morro hacia el humo del cráter.
+La turba húmeda cedió ante una rampa empinada de roca volcánica y cascajo afilado. El aire se enfrió, barrido por corrientes que bajaban de la cumbre. Sobre el bosque se erguía una muralla de basalto negro que partía la vegetación en dos y mostraba, a media ladera, una fisura angosta.
 
-Sus espiráculos bufaron al unísono con un silbido prolongado.
+La silueta encajó con un recuerdo nítido: los riscos a carboncillo del cuaderno de su abuelo Caine. Aquellos dibujos existían.
 
-*Fsssshh...*
+Aceleró la marcha cuesta arriba. Los gemelos le ardían por la pendiente y los guijarros rodaban bajo las suelas. A quince metros por detrás, el resoplido del animal cortaba la niebla; el hedor a grasa descompuesta lo envolvía y el chasquido del pico contra los leños sonaba a su espalda. La hendidura estaba a diez pasos: una fractura entre dos bloques caídos, una abertura triangular de un metro de alto encajada en la roca viva.
 
-El cráneo blindado descendió hacia el centro de la cuenca. Las pupilas blancuzcas se fijaron directamente en el promontorio.
+Leo se arrojó de cabeza hacia el hueco. Se arrastró sobre el pecho y el codo izquierdo, arañando la lona de la chaqueta contra las aristas de piedra, y metió las piernas mientras cubría la muñeca fracturada contra el esternón.
 
-El calor de la tierra quemada y el olor a carne chamuscada de la muñeca de Leo habían guiado al depredador en línea recta. La bestia hundió las pezuñas delanteras en el talud, combó el lomo acorazado y soltó un gruñido gutural tan hondo que las piedras sueltas de la ladera rodaron hacia el fondo.
+El impacto contra la entrada sacudió la pared entera. El cráneo acorazado del animal embistió el marco exterior de la grieta con un golpe sordo; una lluvia de esquirlas y polvo cayó sobre la espalda de Leo. El caparazón era demasiado ancho para entrar, pero la violencia del choque resquebrajó los bloques laterales. Leo se replegó a rastras hacia la penumbra más honda. Afuera, la bestia retrocedió sobre la grava y volvió a embestir.
 
-Y se lanzó pendiente abajo.
+El bloque superior se rajó en toda su longitud. Cayeron peñascos a dos palmos de sus botas. El pico aserrado penetró medio brazo dentro del hueco, mordiendo el aire y triturando la piedra con un chirrido agrio. Dos embestidas más y la cueva colapsaría sobre él.
 
-La mole descendió con la violencia de un alud de roca, quebrando los troncos caídos a su paso y abriendo dos zanjas de barro negro con sus espolones traseros.
+Leo extrajo la linterna con la mano izquierda y encendió el interruptor.
 
-—¡Muévete! —se ordenó Leo en un susurro áspero.
+El haz reveló una caverna ciega de veinte pasos de profundidad, dominada por una hilera de costillas fósiles petrificadas de diez codos de vano que se curvaban hacia la bóveda mineral, cubiertas por una costra seca de caliza milenaria que brillaba con un fulgor ceniciento bajo el cono de luz artificial. La pared trasera era un corte vertical de roca lisa sin salientes ni grietas practicables para trepar con las manos. La única abertura visible era una sima natural en lo alto, una tronera abierta hacia el cielo, ocho metros más arriba, inalcanzable entre paredes pulidas donde no existía hendidura para las botas.
 
-Giró sobre los talones y echó a correr hacia el lado contrario, enfilando la ladera este con el corazón golpeándole la base de la garganta. Apretó el brazo derecho doblado contra el vientre, sujetándolo con la mano izquierda para que el carpo roto no cabeceara con las sacudidas de las zancadas.
+Afuera, la fiera embistió por tercera vez.
 
-Subir el talud de tierra requirió un esfuerzo agónico. Las suelas de sus botas de cuero patinaban en la greda caliente, cediendo a cada paso; el aire denso le quemaba los bronquios en una combustión fría que le obligaba a carraspear, pero la inercia de la carrera lo empujó por encima del borde este justo cuando la bestia alcanzaba el promontorio central con un estruendo de maderas pulverizadas.
+El golpe reventó el pilar izquierdo del hueco. Un bloque de piedra rodó hacia el interior y la testuz acorazada penetró hasta las órbitas en la cueva. El pico aró el suelo pedregoso y los espiráculos soltaron chorros de vapor caliente sobre los tobillos de Leo.
 
-Leo no miró atrás. Se internó en la espesura.
+Acorralado contra el hueso fósil, sin salida y con el derrumbe sobre los hombros, su organismo quebró sus límites habituales.
 
-Avanzar por el sotobosque era una pelea constante contra el terreno. El suelo alternaba raíces leñosas del grosor de vigas maestras con charcos de cieno podrido que amenazaban con atraparle el calzado. Leo zigzagueó buscando pasos entre los troncos más gruesos, aprovechando los ángulos donde la anchura del animal le costara maniobrar. A su espalda, el avance del depredador no perdía fuerza: embestía de frente, quebrando matorrales y troncos jóvenes sin variar su trayectoria.
+El ruido del choque se apagó bajo una presión sorda en los oídos. Una llamarada de calor brotó del centro de su esternón y se ramificó hacia las extremidades con la fuerza de una descarga eléctrica. La luz de la linterna le saturó las pupilas en un blanco cegador que borró las distancias. El resoplido del animal retumbó dentro de su cabeza y una arcada seca le contrajo el estómago. Las mandíbulas se le encajaron solas, los tendones del cuello se tensaron como cuerdas y las piernas acumularon una potencia desmedida.
 
-Al cabo de cuatrocientos metros de carrera ciega, el suelo cambió de manera radical.
+Fue un acto reflejo de huida. Sin calcular apoyos, Leo saltó.
 
-La turba húmeda y los helechos terminaron en seco, cortados por una franja de terreno pedregoso que comenzó a elevarse en una rampa empinada. Eran lajas de roca volcánica y gravilla afilada que asomaban por encima de la vegetación como dientes de sierra fósiles. El aire se volvió más frío, batido por corrientes que bajaban desde las alturas de la cresta mineral.
+El empuje de los muslos lo proyectó hacia arriba en una aceleración descontrolada. Chocó de costado contra la primera costilla fósil. Los dedos de la mano izquierda se aferraron a una fisura de caliza mientras el antebrazo derecho, inmóvil contra el pecho, absorbía el choque con el hombro; el calor que le quemaba los músculos amortiguó el dolor y le permitió descargar la tracción sobre la pierna y el codo sano. Rebotó contra la piedra en otro impulso ciego que le rajó la chaqueta y lo catapultó hacia la abertura del techo.
 
-La dorsal oscura se alzaba sobre el bosque como una muralla vertical, una fractura geológica que partía la techumbre vegetal en dos. A mitad de la ladera, recortada contra la piedra negra, se abría una hendidura angosta.
+Los antebrazos golpearon el labio exterior de la sima. Izó el torso descargando el peso sobre los codos y el esternón, sacó la cabeza y rodó sobre la cresta del risco en el instante en que la entrada inferior colapsaba bajo una nube de polvo blanco.
 
-La imagen encajó en su memoria como una lasca en su ranura.
+El viento frío de la altura le dio en la cara, pero no apagó el calor que le quemaba la nuca. El animal había quedado bloqueado abajo. Su propio organismo, en cambio, seguía acelerado: el pulso era un zumbido grave que le teñía la vista de rojo, el suelo parecía moverse bajo sus botas y un vértigo agudo le hacía perder el equilibrio al asentar los pasos. El exceso de tensión muscular lo empujaba a seguir corriendo.
 
-Eran las hojas sueltas que su abuelo Caine guardaba en el cajón bajo de su escritorio en la buhardilla: trazos a carboncillo de riscos negros que Leo había visto de niño creyendo que eran ilustraciones de fábulas viejas. Caine no había inventado nada. Aquella cordillera existía.
+Hacia el este, el terreno caía en un talud pedregoso de trescientos metros cubierto de lajas quebradas. Leo se lanzó ladera abajo sin poder frenar la inercia. El descenso fue una sucesión de derrapes y tropiezos; con los reflejos alterados, resbaló sobre los talones y rodó de costado por la pedriza inestable mientras las aristas le desollaban el antebrazo izquierdo. Mantuvo la muñeca fracturada sujeta al cuello para protegerla, absorbiendo los golpes con el hombro, hasta que el pedregal dio paso a un declive de turba con raíces gruesas. No pudo esquivarlas: una raíz le trabó la bota derecha, lo volteó en el aire y lo estrelló contra un banco de helechos, rodando diez metros entre barro y ramas secas hasta quedar tendido en el fondo de la vaguada.
 
-Leo forzó el paso cuesta arriba. Los gemelos le ardían bajo la tensión constante; la gravilla suelta rodaba bajo sus suelas haciéndole derrapar sobre las rodillas. A menos de quince metros por detrás, el resoplido caliente del animal cortaba la niebla. El hedor a grasa descompuesta lo envolvía por completo; el chasquido del pico córneo triturando las ramas bajas sonaba a su misma espalda.
+El calor cesó de golpe.
 
-La hendidura en la base de la pared estaba a diez zancadas.
+El colapso sobrevino como una compuerta de hierro. La fuerza que le sostenía las extremidades se disipó en el acto, dejándole una debilidad gélida en el vientre. Leo soltó un gemido quebrado y se encogió sobre el costado. Las paredes del estómago se cerraron en un vacío brutal que le aplastó las vísceras; las yemas y los muslos le temblaban sin control, la boca quedó seca como yeso y las tripas le exigieron alimento urgente en un retortijón que le dobló el espinazo. Al mismo tiempo, la fractura de la muñeca derecha despertó en una punzada ardiente, rígida y deformada.
 
-Era una fractura baja y estrecha entre dos bloques de piedra caídos, una abertura triangular de poco más de un metro de alto y medio de ancho que se hundía en la roca viva.
+Con manos torpes por las convulsiones, tiró de la faltriquera del pantalón hasta rasgar la costura. Sacó el envoltorio, partió el precinto con los colmillos y devoró la barrita de avena en tres bocados ansiosos. Volcó las almendras saladas al fondo de la garganta y las pasó a golpes de saliva espesa, masticando apenas los frutos duros. Permaneció tendido sobre el mantillo húmedo durante un respiro largo con los párpados apretados, hasta que el calambre digestivo comenzó a ceder y el pulso se serenó.
 
-Leo se lanzó de cabeza hacia la abertura.
+Poco a poco, los espasmos remitieron y dejaron un cansancio plomizo en las articulaciones. Se incorporó sobre las rodillas. Con los dientes y los dedos hábiles rasgó una tira del dobladillo de la camiseta para vendar la quemadura del antebrazo izquierdo contra la suciedad. Después encajó la articulación diestra dañada por dentro de la chaqueta abotonada, asegurándola contra las costillas para que no se desplazara al caminar, y avanzó hacia la linde de los árboles.
 
-Se arrastró sobre el pecho y el codo izquierdo, arañando la tela de la chaqueta contra las aristas de piedra, y metió las piernas hacia el interior mientras cubría su muñeca derecha contra el esternón.
+La luz del día se extinguía tras la cresta rocosa, tiñendo el bosque de una sombra fría. Al cruzar los últimos troncos, apareció el prado.
 
-El impacto contra la entrada fue devastador.
+Entre la espesura se abría un raso despejado de doscientos metros, cubierto por un pasto corto que no cubría los tobillos. En el centro descansaba una construcción baja, levantada con tablones gruesos de madera oscura y techada con cortezas secas. Carecía de empalizadas o fosos defensivos. Se alzaba solitaria en mitad de la llanura, desguarnecida, con la puerta abierta de par en par hacia la penumbra interior.
 
-El cráneo acorazado del animal se estrelló de lleno contra el marco exterior de la grieta. El risco entero vibró bajo la sacudida: una lluvia de esquirlas de piedra y polvo seco cayó sobre la espalda de Leo con el estruendo de un cañonazo. La mole de queratina era demasiado ancha para cruzar el paso, pero la violencia de la embestida hizo crujir los bloques laterales.
+Leo dio un paso hacia el pastizal.
 
-Leo retrocedió arrastrándose sobre las rodillas y la palma izquierda hacia el fondo de la penumbra, tosiendo por el polvo en suspensión.
+En el instante en que su bota pisó la alfombra verde, una pesadez densa cayó sobre sus hombros. El rumor del viento en las copas del bosque cesó en seco. Sus pulsaciones cayeron de golpe; el corazón espació los latidos en un compás glacial y aletargado, y la cabeza se le llenó de una niebla que volvía cada pensamiento lento y torpe. Quiso girar el cuello para mirar atrás, pero la articulación tardó varios segundos en obedecer, como si avanzara sumergido en agua helada.
 
-El animal retrocedió un metro sobre la grava, soltó un silbido estridente por sus espiráculos y arremetió de nuevo.
+El cuerpo dejó de responder. Los pulmones retenían un aire espeso que no alimentaba el pecho, los músculos perdieron toda tensión y un letargo denso le enfrió la sangre a cada pisada.
 
-*¡CLANNG!*
+Intentó retroceder para salir de aquella franja, pero la bota pesaba como un sillar de granito. El claro era un pozo ciego donde todo impulso se disolvía. Alzó la vista hacia la cabaña, que distaba menos de veinte zancadas. A través del vano oscuro se distinguía una penumbra inmóvil sin lumbre, apenas quebrada por el perfil tosco de una banqueta rústica.
 
-El bloque superior de la hendidura se fracturó con una raja limpia. Varios peñascos del tamaño de adoquines se desprendieron del techo, rebotando en el suelo a dos palmos de sus botas. El pico aserrado de la criatura se introdujo medio brazo en la boca de la grieta, mordiendo el aire y triturando la roca con un chirrido de materia córnea contra piedra volcánica. La entrada cedía bajo la embestida continua; con dos golpes más, la boca de la cueva se abriría lo suficiente para que el monstruo metiera los hombros o provocara un derrumbe que lo sepultaría vivo.
+*Un esfuerzo más*, se exigió, apretando los dientes para no desmayarse. *Solo uno.*
 
-Leo sacó la linterna del bolsillo con la mano izquierda y accionó el interruptor.
+Arrastró la pierna derecha sobre el pasto. Avanzó dos tramos, tambaleándose mientras la respiración se le escapaba en un hilo superficial. A cinco pasos de la puerta, las piernas le fallaron y se desplomó de bruces contra el suelo. Se golpeó las rodillas y el pecho a dos palmos del umbral rústico. La tierra olía a tablón viejo, ceniza fría y grasa curada.
 
-El haz de luz barrió el interior.
+Intentó alzar la barbilla para mirar hacia el interior.
 
-Bajo la bóveda rocosa se abría una caverna ciega de unos veinte metros de fondo, dominada por una estructura osaria imponente: una hilera de costillas fósiles petrificadas de diez metros de altura que se curvaban hacia el techo, cubiertas por una costra milenaria de cal y sedimento seco. Un cementerio antiguo encajonado en el corazón de la montaña.
+En el fondo de la estancia, sentado junto a una mesa de trabajo cubierta de astillas y herramientas pesadas, un hombre permanecía inmóvil, observándolo con dos ojos fijos y silenciosos.
 
-La caverna carecía de salida a nivel del suelo.
-
-La pared del fondo terminaba en un corte vertical liso de roca maciza. La única interrupción en la piedra era una enorme chimenea natural en la parte superior: una sima colapsada de varios metros de ancho que se abría directamente hacia el cielo y la cresta oriental del risco, a más de ocho metros por encima de su cabeza.
-
-Desde el suelo, aquella boca superior era un pozo inalcanzable. Las paredes eran verticales y las costillas fósiles presentaban salientes lisos, redondeados por la cal, sin apoyos sencillos para manos humanas.
-
-Afuera, la bestia tomó impulso sobre la gravilla.
-
-El tercer golpe quebró la jamba izquierda de la entrada. Un bloque de media tonelada cayó hacia el interior con un estrépito sordo, y la cabeza acorazada del animal penetró hasta los ojos en la caverna, arando el suelo de sedimento con el pico y expulsando vapor a presión sobre los tobillos de Leo.
-
-El aire se le atascó en la garganta. Acorralado contra el hueso fósil y la pared, con la certeza física de que iba a ser despedazado en los siguientes diez segundos, algo en el interior de su cuerpo quebró su ritmo habitual.
-
-El estruendo del impacto pareció amortiguarse bajo una campana de vacío. En su lugar se desató una sobrecarga biológica instantánea.
-
-Una llamarada de calor seco brotó del centro de su esternón y se ramificó hacia cada terminación nerviosa de su cuerpo como una descarga continua. Sus sentidos se dilataron hasta la saturación: el haz de la linterna y la claridad lechosa del techo le quemaron las pupilas en un fogonazo blanco que borró las distancias; el silbido del vapor del animal retumbó en sus oídos como el pitido ensordecedor de una turbina a medio palmo de su cabeza, y un mareo violento, ácido y giratorio le vació el estómago en una arcada seca.
-
-El cerebro no daba abasto para procesar semejante torrente de impulsos. La visión de túnel se cerró en torno a sus ojos, manchada por destellos púrpuras y una vibración ardiente en las sienes.
-
-Su sistema neuromuscular entró en cortocircuito.
-
-Las mandíbulas se le apretaron con tal fuerza que el crujido de los molares le resonó en el cráneo; los tendones de los brazos, el cuello y la espalda se tensaron en nudos duros, y sus piernas respondieron con una potencia espasmódica e ingobernable que él no sabía cómo calibrar.
-
-Fue un acto de pura convulsión motriz.
-
-Leo no trazó una trayectoria calculada: se impulsó a ciegas para apartarse del pico del monstruo. La detonación muscular en sus muslos lo proyectó hacia arriba con una aceleración desmedida, haciéndolo chocar de costado contra la primera costilla fósil. Los dedos de la mano izquierda y los muñones de agarre de la derecha se clavaron en la piedra calcárea. La presión sobre el carpo fracturado molió los extremos del hueso en una punzada lacerante, pero el torrente que le quemaba las fibras anuló el freno del dolor.
-
-Sin control sobre la inercia, rebotó contra la roca viva en un segundo latigazo ciego que le desgarró la chaqueta y la piel del hombro, catapultándolo en línea recta hacia la abertura del techo.
-
-Sus antebrazos golpearon el labio exterior de la sima.
-
-Tiró de su peso en una sacudida brutal, descargando la tracción sobre los codos y el pecho para compensar la muñeca rota, sacó el torso y rodó de lado sobre la cresta exterior del risco en el mismo segundo en que la entrada inferior colapsaba en una nube de caliza triturada.
-
-Leo cayó sobre la cima del macizo mineral.
-
-El viento frío de la altura le azotó la cara, pero no apagó el fuego que le devoraba la nuca. El animal había quedado bloqueado al otro lado de la pared, pero su propio cuerpo seguía fuera de gobierno: las pulsaciones eran un zumbido denso que le teñía la vista de rojo; el suelo oscilaba bajo sus botas como la cubierta de una gabarra en pleno oleaje, y un vértigo agudo le hacía perder el equilibrio cada vez que intentaba afianzar los pies.
-
-No podía detenerse. El exceso de fuerza le sacudía los músculos en temblores rígidos que le obligaban a moverse para no reventar por dentro.
-
-Hacia el este, el terreno caía en una rampa empinada.
-
-La ladera oriental de los riscos era un talud escarpado de trescientos metros de desnivel cubierto de gravilla suelta, lajas afiladas y grietas abiertas.
-
-Leo se lanzó hacia abajo sin gobierno.
-
-El descenso fue un calvario de derrapes, tropiezos y caídas continuas. Con la vista distorsionada y los reflejos desfasados por el mareo, era incapaz de elegir dónde asentar las botas. Bajó despedido por la pendiente, derrapando sobre los talones, perdiendo el apoyo y deslizándose de costado por la piedra suelta mientras las aristas le rasgaban los pantalones y le desollaban el antebrazo. Para no destrozar la mano fracturada, mantuvo el puño derecho pegado al cuello, absorbiendo los impactos con el hombro y el costado izquierdo.
-
-El pedregal dio paso a una pendiente de turba con raíces monumentales. Leo no pudo esquivarlas: una raíz le trabó la bota derecha, haciéndolo girar en el aire antes de estrellarse de costado contra un banco de helechos y rodar diez metros más en una masa de barro, hojarasca y ramas secas hasta quedar tendido de bruces en el fondo de la hondonada.
-
-La sobrecarga se cortó de golpe.
-
-La desconexión fue fulminante, como una compuerta cerrada en seco. La energía que había sostenido sus músculos desapareció en una fracción de segundo, dejando a cambio un vacío metabólico que le enfrió las entrañas.
-
-Leo soltó un gemido quebrado y se dobló sobre sí mismo.
-
-El estómago se le cerró en un calambre agudo que le aplastó las tripas contra la columna vertebral. Sus extremidades comenzaron a sacudirse en temblores involuntarios; la saliva se le evaporó de la lengua, dejándole la boca seca como arena, mientras un hambre voraz, animal y punzante, le perforaba el vientre. Sus órganos reclamaban combustible de inmediato para compensar el gasto salvaje del salto y la carrera.
-
-Al mismo tiempo, con la energía extinguida, el carpo derecho despertó. El dolor del hueso fracturado volvió con el doble de intensidad, hinchado, punzante y caliente como un hierro metido en el agua.
-
-Con los dedos rígidos por los espasmos de la mano izquierda, tiró del bolsillo del pantalón hasta desgarrar la costura. Sacó la bolsa hermética, arrancó el precinto con los dientes y devoró la barrita de avena en tres bocados agónicos, masticando sin apenas tragar, raspándose el paladar con la masa prensada. Volcó las almendras tostadas y los granos de sal directamente sobre la garganta, tragando todo en un esfuerzo desesperado hasta lamer el interior del plástico.
-
-Se quedó tendido en la tierra húmeda durante diez minutos con los ojos apretados, esperando a que el aporte calórico frenara la caída libre de su temperatura corporal.
-
-Lentamente, los calambres aflojaron su mordaza, sustituidos por un dolor sordo en cada articulación y un agotamiento que le hacía pesar los párpados.
-
-Leo se incorporó a duras penas sobre las rodillas. Con los dientes y la mano izquierda, desgarró una tira del dobladillo de su camiseta de algodón y envolvió la quemadura abierta de la muñeca izquierda para protegerla de la mugre. Luego metió la mano derecha dañada dentro del pecho de su chaqueta abotonada, improvisando un soporte firme contra las costillas para que el carpo no se moviera.
-
-Avanzó tambaleándose hacia la linde de los árboles.
-
-La claridad del día comenzaba a apagarse tras la cresta rocosa, sumiendo la cuenca en una penumbra fría y azulada.
-
-Fue entonces cuando sus ojos distinguieron el prado.
-
-Entre la maraña continua de la selva se abría un claro despejado, de unos doscientos metros de diámetro, cubierto por una hierba corta y uniforme que no superaba la altura de los tobillos. En el centro de aquel círculo descansaba una construcción baja, solitaria y tosca, levantada con tablones gruesos de madera oscura y techada con cortezas secas.
-
-Carecía de empalizadas, fosos o defensas. Permanecía en mitad del claro, expuesta y silenciosa, con la puerta de entrada abierta de par en par.
-
-Leo dio un paso hacia el claro.
-
-Y en el segundo exacto en que la suela de su bota pisó la hierba corta, una alteración densa cayó sobre su organismo.
-
-El aire se espesó alrededor. El rumor de las ramas mecidas por la brisa en la linde del bosque se apagó bajo un silencio espeso. Y en ese mismo instante, su propio cuerpo se detuvo.
-
-Sus pulsaciones cayeron en seco. El corazón espació sus latidos en una cadencia anormalmente lenta; sus pensamientos se volvieron torpes, pesados, como si cada idea tuviera que abrirse paso a través de brea fría. Quiso girar la cabeza para mirar hacia la espesura a su espalda, pero el cuello tardó varios segundos enteros en rotar. Los músculos no respondían con agilidad; cada contracción exigía un esfuerzo consciente agotador, como si avanzara sumergido en agua helada hasta el pecho.
-
-Un escalofrío le recorrió la nuca.
-
-*Veneno*, pensó con angustia, apretando los dientes. *Las heridas de la roca... la savia del suelo me ha entrado en la sangre.*
-
-Intentó retroceder para salir del círculo de hierba, pero la bota pesaba como un bloque de piedra. El claro entero parecía un sumidero donde el movimiento, el pulso y la vida se ralentizaban hasta casi apagarse.
-
-Alzó la vista con dificultad a través de una niebla gris que amenazaba con cerrarle los ojos.
-
-La cabaña estaba a menos de veinte metros. A través del umbral abierto no se distinguía fuego alguno, solo una penumbra inmóvil y el perfil tosco de una banqueta de madera.
-
-*Un paso más*, se ordenó, mordiéndose el labio inferior hasta notar el sabor metálico de la sangre para no perder el sentido. *Solo uno.*
-
-Arrastró la pierna derecha sobre la hierba húmeda. La bota golpeó el suelo con un sonido seco, desprovisto de rebote. Dio dos pasos más, tambaleándose mientras el aire se le escapaba en un hilo superficial.
-
-A cinco metros de la entrada, las piernas le cedieron por completo.
-
-Leo cayó de bruces contra la hierba, golpeándose las rodillas y el pecho a escasa distancia del umbral. El suelo desprendía un olor seco a resina vieja, ceniza fría y grasa animal curada.
-
-Intentó alzar la barbilla una última vez para mirar el interior.
-
-En la penumbra del fondo, sentado junto a una mesa de trabajo cubierta de astillas y herramientas pesadas, una silueta humana permanecía inmóvil, observándolo con dos ojos de una fijeza gélida y calculadora.
-
-Leo no llegó a distinguir sus rasgos. La oscuridad le cubrió la vista y su frente golpeó el suelo, perdiendo el conocimiento por completo.
+Leo no distinguió sus facciones. La vista se le apagó por completo y su frente dio contra el mantillo.

@@ -51,7 +51,7 @@ Las siguientes palabras han sido sobreutilizadas y pierden su efecto. **Máximo 
 
 ### 2. Prohibición de Cultismos Pedantes y Términos Médicos de Autopsia
 *   **El Error:** Reemplazar clichés por arcaísmos rebuscados o vocabulario de informe forense que arruinan la inmersión del lector:
-    *   ❌ *légamo, esfacelo, penumbra glauca, resolana, diaforesis, isquemia, rigidez de fascias, orográfico, estólido, coruscante.*
+    *   ❌ *légamo, esfacelo, penumbra glauca, resolana, diaforesis, isquemia, rigidez de fascias, orográfico, estólido, coruscante, tizne.*
 *   **La Regla de Oro:** Si una palabra exige recurrir al diccionario a un lector común, **no se usa**. La precisión narrativa no es pedantería académica; es elegir el detalle físico más directo, claro y contundente.
 
 ### 3. Bancos de Reemplazo: Vocabulario Físico, Directo y Tangible

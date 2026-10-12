@@ -26,11 +26,20 @@ El Gobierno en las Sombras emplea **ingeniería pesada contemporánea llevada al
 * **Velocidad de Crucero:** 160–220 km/h sostenidos en corredores desbrozados.
 
 ### ⚡ B. Los *Wayra* (Interceptores de Vanguardia y Enlace)
-* **Etimología:** Del quechua/aymara *Wayra* («viento, vendaval veloz»).
+* **Etimología y Origen:** Del quechua/aymara *Wayra* («viento, vendaval veloz»). Su diseño y nombre derivan directamente del superdepredador de Clase B-alta **Ch'usa Wayra** («El Viento Vacío»), del cual los ingenieros del Gobierno cosechan sus órganos vitales para hacer viable el vehículo.
 * **Función:** Persecución rápida, reconocimiento de avanzadilla y transporte urgente de estafetas entre puestos de mando.
-* **Diseño:** Vehículos tácticos compactos (1 a 4 tripulantes), de perfil bajo y afilado, diseñados para abrirse paso a gran velocidad.
-* **Potencial Cinemático:** Capaces de superar los **300–400 km/h** mediante inyección forzada de sobrealimentación en línea recta.
-* **Limitación por Intensidad de Flujo:**
+* **Diseño:** Vehículos tácticos compactos (1 a 4 tripulantes), de perfil bajo y afilado, diseñados para abrirse paso a gran velocidad en la selva y desfiladeros.
+* **Potencial Cinemático:** Capaces de superar los **300–400 km/h** sostenidos mediante inyección forzada de sobrealimentación.
+* **Arquitectura Biomecánica del Interceptor (Componentes de Extramuros):**
+  1. *Refrigeración por Linfa Endotérmica:* Las turbinas de 3.000 CV operan en un circuito cerrado relleno con linfa azulada extraída del *Ch'usa Wayra*, absorbiendo el calor masivo sin expandirse ni detonar bajo atmósfera hiperoxigenada.
+  2. *Difusores de Vacío Frontal:* En el morro y bajos se montan láminas costales acústicas del *Ch'usa Wayra*. Al vibrar a alta velocidad, abren un túnel de baja presión frente al bólido que elimina la resistencia del viento y amortigua el rugido a un silbido agudo y fantasmal (*el sonido del viento vacío*).
+  3. *Tracción de Kólmor:* Ruedas macizas talladas del pie muscular del quitón *Q'ara Llip'i*, inmunes a pinchazos por obsidiana y con agarre total en mojado.
+  4. *Navegación Lítica:* Brújula de carrusel con lasca viva de *Gólic* orientada al Core del convoy o puesto de mando.
+  5. *Tirantes de Suspensión de 4G:* Tendones cervicales de *Ch'usa Wayra* integrados en los trapecios de dirección para resistir virajes extremos sin fractura de metal.
+* **Doctrina Táctica de Despliegue («El Tridente de Vanguardia»):**
+  * Los interceptores *Wayra* operan invariablemente en **escuadrones de tres vehículos**, copiando la formación de caza de la tríada de *Ch'usa Wayra*. 
+  * En persecución de convoyes o neutralización de amenazas en desfiladeros, ejecutan maniobras de cerco convergente a más de 300 km/h, utilizando sus difusores de vacío para encajonar y desestabilizar aerodinámicamente al objetivo antes del abordaje.
+* **Limitación por Intensidad de Flujo (El Piloto):**
   1. *Fuerza de sobrealimentación:* El acelerador posee fases de resistencia progresiva; para abrir la turbina al régimen máximo, el piloto debe mantener una descarga constante de *Caudal* en el pedal. Si el piloto se fatiga, el acelerador retrocede automáticamente.
   2. *Fuerza G y Biología:* Aceleraciones y virajes bruscos generan entre 2 y 4 G. Un humano ordinario sufre **visión de túnel**, pérdida de riego cerebral y colapso. Los pilotos militares de élite utilizan la contracción del *Caudal* en su tren inferior para sostener la presión arterial. Para un novato como Leo, superar los 90–100 km/h es una experiencia agónica de mareo, inercia aplastante y pánico.
   3. *Aceleración de Procesamiento:* Conducir a más de 200 km/h en terreno no asfaltado requiere una dilatación temporal subjetiva que solo un operador experimentado en estado de concentración absoluta puede mantener sin estrellarse.

@@ -56,3 +56,42 @@ El Gobierno en las Sombras y los operadores de las Vanguardias han industrializa
 ### 💎 B. Carbón de Omega (Materia Ø)
 * Sustancia fósil extremadamente fría y densa como el plomo, no sintetizable artificialmente.
 * Presenta microfisuras de refracción esmeralda. Posee propiedades de colapso gravitatorio local y curvatura de masa cuando se le inyecta una sobrecarga involuntaria de Flujo (base de la pulsera de Leo y el collar de Elena).
+
+### 🛞 C. Pie Muscular de Quitón Kólmor (*Elastómero Continuo No-Newtoniano*)
+* Extraído del pie ventral monolítico del molusco lítico acorazado *Q'ara Llip'i* (Kólmor).
+* Alfombra continua de tejido conjuntivo muscular de 15 cm de espesor sin huesos ni articulaciones. En reposo es gomosa y flexible, pero ante cizalla, filo o impacto violento sus capilares osmóticos se bloquean en milisegundos disipando el choque en toda la masa del material sin cortarse.
+* **Aplicación vehicular:**
+  * Suelas de oruga atornilladas para los *Bastiones Móviles* de 40 toneladas (eliminan el deslizamiento en pedregales y barro).
+  * Bandas de rodadura macizas impinchables para los interceptores *Wayra* a más de 300 km/h.
+  * Faldones de bajos y sellos herméticos contra grava y esporas.
+
+### ❄️ D. Biotecnología Cosechada de *Ch'usa Wayra* («El Viento Vacío»)
+* Cosechados del superdepredador de Clase B-alta *Ch'usa Wayra*.
+* **1. Dermis y Piel Tensa Aerodinámica (Fuselaje Biológico):**
+  * Piel densa, sin pelo y de textura granulada que se cura y estira sobre el bastidor interno de los interceptores *Wayra*, cosida con cordones de tendón. Reduce la fricción aerodinámica a más de 300 km/h y disipa ondas de presión sónica.
+* **2. Linfa Endotérmica (Refrigerante Supremo):**
+  * Fluido vascular biológico de absorción térmica masiva sin cambio de fase. No hierve, no genera burbujas de gas y no se descompone bajo atmósfera hiperoxigenada.
+  * *Aplicación vehicular:* Refrigerante del circuito cerrado de las turbinas de 3.000 CV de los *Wayra*, permitiendo velocidades sostenidas de 350-400 km/h sin riesgo de autoignición.
+* **3. Láminas Costales de Cavitación (Efecto Suelo):**
+  * Costillas óseas de queratina basáltica que sobresalen en los flancos de la máquina; canalizan el flujo de aire creando una depresión de vacío laminar que clava el chasis al suelo sin despegar.
+* **4. Tendón Cervical de 4G `[PENDIENTE DE ESPECIE]`:** Utilizado en trapecios y tirantes de dirección para resistir virajes extremos sin fractura por fatiga.
+
+### ⚡ E. Filamentos de Gel Conductor y Baterías Electrocíticas de *Keraunos*
+* Cosechados del depredador atmosférico de Clase A *Keraunos* (*Illapa Asiru*, «El Devorador de Rayos»).
+* **1. Gel Conductor de Plumas Tubulares (Superconductor Biológico):**
+  * Gel coloidal que rellena las plumas huecas del animal, capaz de transportar gigajulios de energía con resistencia óhmica cercana a cero y sin sobrecalentamiento.
+  * *Aplicación técnica:* Cableado de alta tensión para los sistemas de encendido de turbinas pesadas de 4.000 CV, generadores de campamentos fortificados y bobinas de choque para armas de contención.
+* **2. Órganos Electrocíticos (Baterías de Capacidad Gigajulio):**
+  * Bloques celulares que retienen y liberan densidades energéticas masivas de electricidad estática.
+  * *Aplicación vehicular:* Acumuladores de energía para los *Bastiones Móviles*, que se recargan durante las tormentas eléctricas mediante mástiles pararrayos integrados y proporcionan energía para soldadura pesada, iluminación de alta penetración y defensas perimetrales durante travesías de meses en la selva.
+* **3. Membrana Dérmica Dieléctrica:**
+  * Tejido con una constante aislante extrema que se utiliza para forrar las cabinas y blindajes de los convoyes militares, actuando como jaula de Faraday móvil inmune a rayos y descargas de fauna.
+
+### 📡 F. Biopolímeros de Sellado y Sensores de Vibración de *Tigmo*
+* Cosechados del emboscador subterráneo *Tigmo* (*T'uqu Hap'iq*, «El Emboscador de Fosa / El Lector»).
+* **1. Anillo Labial de Succión (Juntas de Estanqueidad para Bombas de Inyección):**
+  * Tejido muscular anular de la boca que posee una elasticidad resistente a hidrocarburos y aceites minerales pesados.
+  * *Aplicación vehicular:* Se cura en salmuera y se troquela para fabricar las **arandelas y juntas de compresión de las bombas de inyección** de combustible y vapor a alta presión de los *Bastiones Móviles*, garantizando sellado hermético donde las gomas comunes ceden por fatiga.
+* **2. Filamentos de la Corona (Sensores Mecánicos de Salpicadero):**
+  * Los tentáculos secos conservan reactividad elástica como transductores mecánicos pasivos (sin presencia de Flujo en tejido muerto).
+  * *Aplicación vehicular:* Suspendidos en aceite mineral dentro de cuadrantes de bronce sellados en el salpicadero de los *Wayra*, transmiten vibraciones masivas del terreno a una aguja mecánica, advirtiendo de megafauna o fallas a 25-30 m en medio de niebla espesa o tormentas de esporas.

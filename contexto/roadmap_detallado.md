@@ -76,14 +76,16 @@
 
 ## 🗺️ BLOQUE 3: LA GRAN TRAVESÍA Y EL DESTINO SEGURO
 
-### Nodo 3.1: Las Fuerzas G y el Colapso Emocional
+### Nodo 3.1: Las Fuerzas G, la Fosa de Tigmo y el Pacto del Trío
 * **Ubicación:** Senderos de tierra y fango en la selva baja.
 * **Sucesos Obligatorios:**
-  1. *El precio de la conducción:* Leo sufre las brutales fuerzas G de una máquina titánica (visión de túnel, náuseas, agotamiento neuromuscular por sostener la velocidad).
-  2. *El quiebre de Leo:* En la primera parada segura, Leo se derrumba física y anímicamente: el dolor de haber estado tan cerca de Elena y haberla perdido otra vez.
-  3. *El pacto del trío:* Makusi y Nina descubren su historia. Aunque parcos y curtidos, sellan un pacto de honor para acompañarlo y ayudarlo tras haberlos sacado con vida del infierno del puerto.
-  4. *El deber moral con los civiles:* No pueden iniciar la cacería de Elena con una bodega llena de familias aterrorizadas. Deben desviarse para llevar a los refugiados a una colonia libre segura antes de retomar la marcha.
-  5. *La doble persecución:* El vehículo robado los convierte en blanco prioritario tanto de las patrullas del Gobierno en las Sombras como de las sombras de los Segadores.
+  1. *El precio de la conducción:* Leo sufre las brutales fuerzas G de una máquina titánica de 50 toneladas (visión de túnel, náuseas, agotamiento neuromuscular por sostener la velocidad y el embrague pesado).
+  2. *El atasco en el campo de fosas:* En una senda de turba, una de las orugas pesadas del Bastión colapsa el falso techo de un campo de fosas de **Tigmo** (*T'uqu Hap'iq*). El vehículo se ladea y queda atrapado en el fango; el motor se cala con chirrido de engranajes.
+  3. *El ataque de contacto y el combate a pie:* Al descender para calzar la oruga con vigas, Makusi o Nina pisan el fondo de una fosa contigua: el Tigmo se dispara por contacto, trabando la pierna con sus anillos de dientes y tirando hacia abajo. Makusi no puede vencer el agarre con fuerza bruta; Nina y Leo aplican la lección de la Quietud y el corte a la corona sensorial externa para liberarlo. Desencallan la oruga a contrarreloj antes de que los alcancen las patrullas.
+  4. *El quiebre de Leo:* En la siguiente parada segura, Leo se derrumba física y anímicamente: el dolor de haber estado tan cerca de Elena y haberla perdido otra vez.
+  5. *El pacto del trío:* Makusi y Nina descubren su historia. Aunque parcos y curtidos, sellan un pacto de honor para acompañarlo y ayudarlo tras haberlos sacado con vida del infierno del puerto.
+  6. *El deber moral con los civiles:* No pueden iniciar la cacería de Elena con una bodega llena de familias aterrorizadas. Deben desviarse para llevar a los refugiados a una colonia libre segura antes de retomar la marcha.
+  7. *La doble persecución:* El vehículo robado los convierte en blanco prioritario tanto de las patrullas del Gobierno en las Sombras como de las sombras de los Segadores.
 
 ---
 
