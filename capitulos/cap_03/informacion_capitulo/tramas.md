@@ -5,8 +5,8 @@
 - **Subtexto:** Comprende que los cuatro años y medio de convivencia con Elena en la ciudad estaban condicionados por la certeza de ella de que sus perseguidores vendrían a buscarla.
 
 ### 2. Trama Secundaria: El Legado Oculto de Caine Vanes
-- **Avance:** El anfitrión de la cabaña conoce personalmente a Caine y reacciona con cólera y amargura ante su mención, considerándolo un imprudente que conduce a inocentes a la muerte.
-- **Misterio:** Vínculo no resuelto entre el ermitaño y Caine; Leo comprueba que su abuelo operaba en este territorio antes de su desaparición.
+- **Avance:** Ante la mención de Caine, el anfitrión reacciona con tensión muscular visible y un mutismo pétreo; rehúsa darle información a Leo sobre su abuelo, reservándose sus juicios.
+- **Misterio:** Vínculo oculto entre el ermitaño y Caine; Leo percibe que el anciano reconoció el nombre aunque se niegue a confirmarlo.
 
 ### 3. Trama de Supervivencia: Adaptación al Mundo Exterior
 - **Avance:** Leo supera el primer choque respiratorio y metabólico gracias a la instrucción implacable del anciano (respiración diafragmática nasal y asimilación lenta de nutrientes densos).

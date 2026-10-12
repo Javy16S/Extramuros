@@ -464,9 +464,7 @@ El silencio cayó sobre la cabaña como una losa de granito.
 
 El agarre del anciano no tembló, pero los tendones de su antebrazo se tensaron bajo la piel curtida. La lasca de pedernal que sostenía en el otro puño quedó inmóvil a poca distancia de la mesa. Durante tres latidos completos, solo se escuchó el goteo de la resina que caía desde una viga del techo sobre un cuenco de barro.
 
-El ermitaño soltó el brazo de Leo con un empujón seco. Giró hacia el hogar, cogió una vara de fresno y removió las brasas muertas hasta levantar una nube de ceniza blanquecina.
-
-—Caine —pronunció al fin; la palabra sonó como un escupitajo amargo—. Ese viejo loco; siempre llevaba corderos al matadero.
+El ermitaño soltó el brazo de Leo con un empujón seco. No pronunció una sola palabra. Giró hacia el hogar, cogió una vara de fresno y removió las brasas muertas hasta levantar una nube de ceniza blanquecina.
 
 
 ***
@@ -475,11 +473,11 @@ Leo se puso en pie sin apoyar la extremidad derecha.
 
 El dolor de la fractura era un clavo al rojo en la muñeca, pero la rabia le ganó la partida al miedo. Dio un paso hacia las cenizas, plantándose a dos metros del hombre.
 
-—Conoce a Caine —dijo Leo; la voz le salió firme, sostenida por la respiración corta que acababa de aprender—. Desapareció hace seis meses. Dejó los mapas y las llaves en la mesa. Los de traje gris entraron en mi casa buscándolo a él... y a Elena.
+—Ha oído ese nombre —dijo Leo; la voz le salió firme, sostenida por la respiración corta que acababa de aprender—. Caine desapareció hace seis meses. Dejó los mapas y las llaves en la mesa. Los de traje gris entraron en mi casa buscándolo a él... y a Elena.
 
-El cazador no se inmutó. Apoyó la vara de madera contra la pared de troncos y se limpió las palmas en los muslos de lona.
+El cazador no se inmutó. Apoyó la vara de madera contra la pared de troncos y se limpió las palmas en los muslos de lona sin mirarlo.
 
-—Ese pariente tuyo está donde tiene que estar —respondió con una frialdad que no dejaba resquicio—. Y si tú sigues con los aullidos de un perro flaco, no vas a durar vivo ni dos jornadas.
+—Si sigues con los aullidos de un perro flaco, no vas a durar vivo ni dos jornadas —respondió con una frialdad que no dejaba resquicio.
 
 —¡Caine no me importa ahora! —cortó Leo; la garganta le raspó por el esfuerzo—. Busco a Elena. Se la llevaron hace cinco días. Los hombres que me encerraron tenían una fotografía suya en el portal. Dijeron que su nombre era falso. La llamaban Haimara.
 

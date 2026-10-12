@@ -22,10 +22,10 @@
    - Obliga a Leo a respirar despacio por la nariz y desde el abdomen.
    - Le entrega cecina curada en sal fósil y humo de brea, ordenándole triturarla a papilla sin derrochar saliva.
 
-5. **Examen de la Herida y Reconocimiento de Caine:**
+5. **Examen de la Herida y Silencio Hermético ante Caine:**
    - El viejo examina la quemadura concéntrica y reconoce la carbonilla mineral.
    - Leo revela que la piedra pertenecía a su abuelo Caine Vanes.
-   - El anciano reacciona con tensión en los tendones y amargura: «Ese viejo loco; siempre llevaba corderos al matadero».
+   - El anciano reacciona con tensión en los tendones de su antebrazo y un silencio impenetrable; suelta el brazo de Leo de un empujón y rehúsa pronunciar una sola palabra o confirmar que conoce el nombre.
 
 6. **El Conflicto por Elena / Haimara:**
    - Leo encara al hombre: afirma que no busca a su abuelo sino a Elena, capturada por los hombres de gris que la llamaban Haimara.

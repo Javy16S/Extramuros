@@ -74,7 +74,7 @@ Se actualiza obligatoriamente al cerrar cada capítulo.
 | Las bestias de la ladera son llamadas «carroñeros de ladera» por el ermitaño. | El viejo de la cabaña. | Cap. 3, tras ingerir el caldo nutritivo. |
 | La atmósfera exterior tiene el doble de carga de oxígeno que la ciudad; inhalar a fondo por la boca abrasa los alvéolos y desencadena sobreconsumo metabólico que agota las reservas corporales en horas. | El viejo de la cabaña (instrucción física correctiva). | Cap. 3, tras el golpe en el plexo solar al amanecer. |
 | Técnica de respiración de supervivencia: diafragmática, bucal cerrada y tomas cortas por las fosas nasales para enfriar y dosificar el aire. | El viejo de la cabaña. | Cap. 3, adiestramiento en el suelo. |
-| El anfitrión conoce a Caine Vanes y reacciona con cólera y amargura ante su nombre: «Ese viejo loco; siempre llevaba corderos al matadero». | El viejo de la cabaña al examinar la quemadura de la pulsera. | Cap. 3, interrogatorio junto al hogar. |
+| El anfitrión reacciona con tensión física y silencio hermético ante el nombre de Caine Vanes, negándose a hablar sobre él o admitir que lo conoce. | El viejo de la cabaña al examinar la quemadura de la pulsera. | Cap. 3, interrogatorio junto al hogar. |
 | El anfitrión conoce la verdadera identidad de Elena como «Haimara» («una cría de la selva») y advierte que la costa militarizada ha cerrado el paso. | El viejo de la cabaña. | Cap. 3, discusión acalorada. |
 | El «clic de las dos voces»: los cuentos que Elena le susurraba por las noches en el Distrito Siete («árboles donde cabe una familia», «el arroyo con olor a hierro», «el esqueleto del gran animal en la arena donde atracan los barcos grandes») eran instrucciones reales de navegación y escape hacia el litoral. | Deducción y recuerdo sensorial de Leo al observar la panorámica del valle meridional. | Cap. 3, escena de la puerta. |
 | Ubicación del objetivo: el esqueleto del gran animal y el estuario se encuentran a cuatro jornadas de marcha siguiendo el cauce del río hacia el sur. | El viejo de la cabaña. | Cap. 3, cierre del capítulo. |
@@ -89,7 +89,7 @@ Se actualiza obligatoriamente al cerrar cada capítulo.
 
 **Sospecha y deducciones:**
 - Elena sabía desde el principio que la perseguían y le dejó deliberadamente un mapa de escape en la memoria.
-- Su abuelo Caine y el ermitaño compartieron expediciones o conflictos graves en el pasado.
+- El ermitaño reconoció el nombre de Caine por la tensión de sus músculos, aunque se negara a pronunciar una sola palabra al respecto.
 - El ermitaño es un superviviente letal capaz de ahuyentar a las bestias con su sola presencia en el pastizal.
 
 **Preguntas abiertas que el lector se lleva:**
