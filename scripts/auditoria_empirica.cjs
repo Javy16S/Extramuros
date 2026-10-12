@@ -80,6 +80,49 @@ const EXCLUIR_GERUNDIOS = new Set([
   'contrabando', 'segundo', 'mundo', 'profundo', 'rotundo', 'fecundo', 'jocundo'
 ]);
 
+// Adjetivos calificadores frecuentes (control de adjetivitis refleja / epítetos)
+const ADJETIVOS_CALIFICADORES_SET = new Set([
+  'oscuro', 'oscura', 'oscuros', 'oscuras', 'negro', 'negra', 'negros', 'negras',
+  'blanco', 'blanca', 'blancos', 'blancas', 'gris', 'grises', 'rojo', 'roja', 'rojos', 'rojas',
+  'azul', 'azules', 'verde', 'verdes', 'seco', 'seca', 'secos', 'secas',
+  'humedo', 'humeda', 'humedos', 'humedas', 'frio', 'fria', 'frios', 'frias',
+  'tibio', 'tibia', 'tibios', 'tibias', 'caliente', 'calientes', 'calido', 'calida', 'calidos', 'calidas',
+  'denso', 'densa', 'densos', 'densas', 'grueso', 'gruesa', 'gruesos', 'gruesas',
+  'fino', 'fina', 'finos', 'finas', 'ancho', 'ancha', 'anchos', 'anchas',
+  'estrecho', 'estrecha', 'estrechos', 'estrechas', 'largo', 'larga', 'largos', 'largas',
+  'corto', 'corta', 'cortos', 'cortas', 'pesado', 'pesada', 'pesados', 'pesadas',
+  'ligero', 'ligera', 'ligeros', 'ligeras', 'duro', 'dura', 'duros', 'duras',
+  'blando', 'blanda', 'blandos', 'blandas', 'agrio', 'agria', 'agrios', 'agrias',
+  'amargo', 'amarga', 'amargos', 'amargas', 'dulce', 'dulces', 'viejo', 'vieja', 'viejos', 'viejas',
+  'nuevo', 'nueva', 'nuevos', 'nuevas', 'limpio', 'limpia', 'limpios', 'limpias',
+  'sucio', 'sucia', 'sucios', 'sucias', 'puro', 'pura', 'puros', 'puras',
+  'vivo', 'viva', 'vivos', 'vivas', 'muerto', 'muerta', 'muertos', 'muertas',
+  'sordo', 'sorda', 'sordos', 'sordas', 'agudo', 'aguda', 'agudos', 'agudas',
+  'ciego', 'ciega', 'ciegos', 'ciegas', 'rancio', 'rancia', 'rancios', 'rancias',
+  'podrido', 'podrida', 'podridos', 'podridas', 'marchito', 'marchita', 'marchitos', 'marchitas',
+  'empapado', 'empapada', 'empapados', 'empapadas', 'quemado', 'quemada', 'quemados', 'quemadas',
+  'quebrado', 'quebrada', 'quebrados', 'quebradas', 'roto', 'rota', 'rotos', 'rotas',
+  'astillado', 'astillada', 'astillados', 'astilladas', 'rajado', 'rajada', 'rajados', 'rajadas',
+  'lacerado', 'lacerada', 'lacerados', 'laceradas', 'desbocado', 'desbocada', 'desbocados', 'desbocadas',
+  'inerte', 'inertes', 'vegetal', 'vegetales', 'mineral', 'minerales', 'animal', 'animales',
+  'fosil', 'fosiles', 'febril', 'febriles', 'volcanico', 'volcanica',
+  'sibilante', 'sibilantes', 'constante', 'constantes', 'punzante', 'punzantes',
+  'crujiente', 'crujientes', 'aspero', 'aspera', 'asperos', 'asperas',
+  'rustico', 'rustica', 'rusticos', 'rusticas', 'menudo', 'menuda', 'menudos', 'menudas',
+  'poblado', 'poblada', 'poblados', 'pobladas', 'cortante', 'cortantes', 'afilado', 'afilada', 'afilados', 'afiladas',
+  'tenso', 'tensa', 'tensos', 'tensas', 'rigido', 'rigida', 'rigidos', 'rigidas',
+  'viscoso', 'viscosa', 'viscosos', 'viscosas', 'lechoso', 'lechosa', 'lechosos', 'lechosas',
+  'blanquecino', 'blanquecina', 'blanquecinos', 'blanquecinas',
+  'cobrizo', 'cobriza', 'cobrizos', 'cobrizas', 'plomizo', 'plomiza', 'plomizos', 'plomizas',
+  'amarillento', 'amarillenta', 'amarillentos', 'amarillentas', 'rojizo', 'rojiza', 'rojizos', 'rojizas',
+  'salobre', 'salobres', 'astringente', 'astringentes', 'salvaje', 'salvajes',
+  'colosal', 'colosales', 'gigante', 'gigantes', 'inutil', 'inutiles',
+  'flaco', 'flaca', 'flacos', 'flacas', 'gordo', 'gorda', 'gordos', 'gordas',
+  'precario', 'precaria', 'precarios', 'precarias', 'silencioso', 'silenciosa', 'silenciosos', 'silenciosas',
+  'sigiloso', 'sigilosa', 'sigilosos', 'sigilosas', 'hermetico', 'hermetica', 'hermeticos', 'hermeticas',
+  'adusto', 'adusta', 'adustos', 'adustas', 'milenario', 'milenaria', 'milenarios', 'milenarias'
+].map(s => s.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase()));
+
 // ---------------------------------------------------------------------------
 // 2. FUNCIONES DE CÁLCULO ESTADÍSTICO
 // ---------------------------------------------------------------------------
@@ -193,8 +236,20 @@ function analizarArchivo(rutaArchivo, terminosProhibidos = []) {
     for (const h of hits) prohibidosHits.push(h);
   }
 
-  // 8. Type-Token Ratio (Diversidad léxica)
+  // 8. Adjetivos calificadores (Control de adjetivitis refleja / epítetos)
   const tokens = (textoLimpio.toLowerCase().match(/[a-zA-ZáéíóúÁÉÍÓÚñÑ]+/g) || []);
+  let countAdjetivos = 0;
+  const adjetivosHits = [];
+  for (const t of tokens) {
+    const tNorm = t.normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+    if (ADJETIVOS_CALIFICADORES_SET.has(tNorm)) {
+      countAdjetivos++;
+      adjetivosHits.push(t);
+    }
+  }
+  const adjetivosPorMil = totalPalabras > 0 ? (countAdjetivos / totalPalabras) * 1000 : 0;
+
+  // 9. Type-Token Ratio (Diversidad léxica)
   const vocabUnico = new Set(tokens);
   const ttr = tokens.length > 0 ? (vocabUnico.size / tokens.length) * 100 : 0;
 
@@ -203,6 +258,11 @@ function analizarArchivo(rutaArchivo, terminosProhibidos = []) {
     totalPalabras,
     oraciones: metricasRitmo,
     ttr: Math.round(ttr * 10) / 10,
+    adjetivos: {
+      total: countAdjetivos,
+      porMil: Math.round(adjetivosPorMil * 10) / 10,
+      ejemplos: adjetivosHits.slice(0, 10)
+    },
     similes: {
       total: similes.length,
       porMil: Math.round(similesPorMil * 10) / 10,
@@ -311,6 +371,16 @@ function imprimirInforme(datos) {
     console.log('     ✅ CERO METACONOCIMIENTO RESPETADO.');
   }
 
+  // SOBRIEDAD ADJETIVAL
+  console.log(`\n8. SOBRIEDAD ADJETIVAL (Control de modificación nominal compulsiva):`);
+  console.log(`   - Adjetivos detectados:         ${datos.adjetivos.total} (${datos.adjetivos.porMil} por 1.000 palabras) [Objetivo humano: <= 22.0 / 1.000]`);
+  if (datos.adjetivos.porMil > 22.0) {
+    console.log(`   ⚠️ ALERTA ADJETIVITIS: Densidad excesiva (${datos.adjetivos.porMil}/1000). Sustantivos asfixiados por modificación refleja.`);
+    console.log(`     Muestra: ${datos.adjetivos.ejemplos.join(', ')}...`);
+  } else {
+    console.log('   ✅ SOBRIEDAD ADJETIVAL ÓPTIMA: Los sustantivos y las acciones respiran con peso inmanente.');
+  }
+
   console.log('\n===============================================================');
   const puntuacionSalud = calcularPuntuacionSalud(datos);
   console.log(`ÍNDICE DE SALUD EMPÍRICA PROSAICA: ${puntuacionSalud} / 100`);
@@ -325,6 +395,10 @@ function calcularPuntuacionSalud(datos) {
 
   if (datos.similes.porMil > 4.0) score -= Math.round((datos.similes.porMil - 4.0) * 5);
   if (datos.gerundios.porMil > 6.0) score -= Math.round((datos.gerundios.porMil - 6.0) * 4);
+
+  if (datos.adjetivos && datos.adjetivos.porMil > 22.0) {
+    score -= Math.round((datos.adjetivos.porMil - 22.0) * 1.5);
+  }
 
   score -= (datos.falsosContrastes * 8);
   score -= (datos.colocacionesIA.total * 6);

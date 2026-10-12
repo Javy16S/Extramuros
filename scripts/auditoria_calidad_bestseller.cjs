@@ -129,6 +129,86 @@ const PATRONES_VERBOS_ESTATIVOS = [
   /\b(?:hallaba|hallaban|hallarse|encontraba|encontraban|encontrarse)\b/i
 ];
 
+// Adjetivos calificadores frecuentes de textura, color, tamaño, forma, estado y temperatura
+// (Stanford / The Bestseller Code: exceso de modificación nominal refleja)
+const ADJETIVOS_CALIFICADORES_BASE = [
+  'oscuro', 'oscura', 'oscuros', 'oscuras',
+  'negro', 'negra', 'negros', 'negras',
+  'blanco', 'blanca', 'blancos', 'blancas',
+  'gris', 'grises', 'rojo', 'roja', 'rojos', 'rojas',
+  'azul', 'azules', 'verde', 'verdes',
+  'seco', 'seca', 'secos', 'secas',
+  'humedo', 'humeda', 'humedos', 'humedas',
+  'frio', 'fria', 'frios', 'frias',
+  'tibio', 'tibia', 'tibios', 'tibias',
+  'caliente', 'calientes', 'calido', 'calida', 'calidos', 'calidas',
+  'denso', 'densa', 'densos', 'densas',
+  'grueso', 'gruesa', 'gruesos', 'gruesas',
+  'fino', 'fina', 'finos', 'finas',
+  'ancho', 'ancha', 'anchos', 'anchas',
+  'estrecho', 'estrecha', 'estrechos', 'estrechas',
+  'largo', 'larga', 'largos', 'largas',
+  'corto', 'corta', 'cortos', 'cortas',
+  'pesado', 'pesada', 'pesados', 'pesadas',
+  'ligero', 'ligera', 'ligeros', 'ligeras',
+  'duro', 'dura', 'duros', 'duras',
+  'blando', 'blanda', 'blandos', 'blandas',
+  'agrio', 'agria', 'agrios', 'agrias',
+  'amargo', 'amarga', 'amargos', 'amargas',
+  'dulce', 'dulces',
+  'viejo', 'vieja', 'viejos', 'viejas',
+  'nuevo', 'nueva', 'nuevos', 'nuevas',
+  'limpio', 'limpia', 'limpios', 'limpias',
+  'sucio', 'sucia', 'sucios', 'sucias',
+  'puro', 'pura', 'puros', 'puras',
+  'vivo', 'viva', 'vivos', 'vivas',
+  'muerto', 'muerta', 'muertos', 'muertas',
+  'sordo', 'sorda', 'sordos', 'sordas',
+  'agudo', 'aguda', 'agudos', 'agudas',
+  'ciego', 'ciega', 'ciegos', 'ciegas',
+  'rancio', 'rancia', 'rancios', 'rancias',
+  'podrido', 'podrida', 'podridos', 'podridas',
+  'marchito', 'marchita', 'marchitos', 'marchitas',
+  'empapado', 'empapada', 'empapados', 'empapadas',
+  'quemado', 'quemada', 'quemados', 'quemadas',
+  'quebrado', 'quebrada', 'quebrados', 'quebradas',
+  'roto', 'rota', 'rotos', 'rotas',
+  'astillado', 'astillada', 'astillados', 'astilladas',
+  'rajado', 'rajada', 'rajados', 'rajadas',
+  'lacerado', 'lacerada', 'lacerados', 'laceradas',
+  'desbocado', 'desbocada', 'desbocados', 'desbocadas',
+  'inerte', 'inertes',
+  'vegetal', 'vegetales', 'mineral', 'minerales', 'animal', 'animales',
+  'fosil', 'fosiles', 'febril', 'febriles', 'volcanico', 'volcanica',
+  'sibilante', 'sibilantes', 'constante', 'constantes', 'punzante', 'punzantes',
+  'crujiente', 'crujientes', 'aspero', 'aspera', 'asperos', 'asperas',
+  'rustico', 'rustica', 'rusticos', 'rusticas',
+  'menudo', 'menuda', 'menudos', 'menudas',
+  'poblado', 'poblada', 'poblados', 'pobladas',
+  'cortante', 'cortantes', 'afilado', 'afilada', 'afilados', 'afiladas',
+  'tenso', 'tensa', 'tensos', 'tensas',
+  'rigido', 'rigida', 'rigidos', 'rigidas',
+  'viscoso', 'viscosa', 'viscosos', 'viscosas',
+  'lechoso', 'lechosa', 'lechosos', 'lechosas',
+  'blanquecino', 'blanquecina', 'blanquecinos', 'blanquecinas',
+  'cobrizo', 'cobriza', 'cobrizos', 'cobrizas',
+  'plomizo', 'plomiza', 'plomizos', 'plomizas',
+  'amarillento', 'amarillenta', 'amarillentos', 'amarillentas',
+  'rojizo', 'rojiza', 'rojizos', 'rojizas',
+  'salobre', 'salobres', 'astringente', 'astringentes',
+  'salvaje', 'salvajes', 'colosal', 'colosales', 'gigante', 'gigantes',
+  'inutil', 'inutiles', 'flaco', 'flaca', 'flacos', 'flacas',
+  'gordo', 'gorda', 'gordos', 'gordas',
+  'precario', 'precaria', 'precarios', 'precarias',
+  'silencioso', 'silenciosa', 'silenciosos', 'silenciosas',
+  'sigiloso', 'sigilosa', 'sigilosos', 'sigilosas',
+  'hermetico', 'hermetica', 'hermeticos', 'hermeticas',
+  'adusto', 'adusta', 'adustos', 'adustas',
+  'milenario', 'milenaria', 'milenarios', 'milenarias'
+];
+
+const ADJETIVOS_CALIFICADORES_SET = new Set(ADJETIVOS_CALIFICADORES_BASE.map(normalizarSinTildes));
+
 // ============================================================================
 // 2. MOTOR FONÉTICO DE SILABEO RAE (DETERMINISTA)
 // ============================================================================
@@ -403,7 +483,20 @@ function auditarTexto(textoCrudo, rutaArchivo = 'texto') {
 
   const ratioAgencia = countVerbosAccion / Math.max(1, countVerbosEstativos);
 
-  // 9. Comprobación de Leyes Inmutables de Extramuros (Veto Fulminante)
+  // 9. Detección de Adjetivación Calificadora Refleja (Stanford - The Bestseller Code)
+  let countAdjetivos = 0;
+  const adjetivosDetectados = [];
+  for (let p of palabras) {
+    const pNorm = normalizarSinTildes(p.toLowerCase().replace(/[^a-záéíóúüñ]/g, ''));
+    if (ADJETIVOS_CALIFICADORES_SET.has(pNorm)) {
+      countAdjetivos++;
+      adjetivosDetectados.push(p);
+    }
+  }
+  const densidadAdjetivos = (countAdjetivos / totalPalabras) * 1000;
+  const ratioVerboAdjetivo = countVerbosAccion / Math.max(1, countAdjetivos);
+
+  // 10. Comprobación de Leyes Inmutables de Extramuros (Veto Fulminante)
   const infraccionesLey6 = [];
   for (let item of TERMINOS_LEY_6_METACONOCIMIENTO) {
     const matches = textoLimpio.match(item.regex);
@@ -445,21 +538,22 @@ function auditarTexto(textoCrudo, rutaArchivo = 'texto') {
   }
   desglosePuntuacion.sigma = { max: 15, obtenido: Number(ptsSigma.toFixed(1)) };
 
-  // Dimensión 3: Adverbios en -mente (15 pts máx)
-  let ptsMente = 15.0;
-  if (densidadMente > 1.0) {
-    const excedente = densidadMente - 1.0;
-    ptsMente = Math.max(0, 15.0 - ((excedente / 0.5) * 5.0));
+  // Dimensión 3: Adverbios en -mente (10 pts máx)
+  // En castellano narrativo, una tasa baja (<= 1.5 por 1.000 pal.) es natural y humana
+  let ptsMente = 10.0;
+  if (densidadMente > 1.5) {
+    const excedente = densidadMente - 1.5;
+    ptsMente = Math.max(0, 10.0 - ((excedente / 0.5) * 3.5));
   }
-  desglosePuntuacion.mente = { max: 15, obtenido: Number(ptsMente.toFixed(1)) };
+  desglosePuntuacion.mente = { max: 10, obtenido: Number(ptsMente.toFixed(1)) };
 
-  // Dimensión 4: Densidad de Gerundios (15 pts máx)
-  let ptsGerundios = 15.0;
+  // Dimensión 4: Densidad de Gerundios (10 pts máx)
+  let ptsGerundios = 10.0;
   if (densidadGerundios > 5.5) {
     const excedente = densidadGerundios - 5.5;
-    ptsGerundios = Math.max(0, 15.0 - (excedente * 3.0));
+    ptsGerundios = Math.max(0, 10.0 - (excedente * 2.5));
   }
-  desglosePuntuacion.gerundios = { max: 15, obtenido: Number(ptsGerundios.toFixed(1)) };
+  desglosePuntuacion.gerundios = { max: 10, obtenido: Number(ptsGerundios.toFixed(1)) };
 
   // Dimensión 5: Ecos Léxicos en W=100 (15 pts máx)
   let ptsEcos = 15.0;
@@ -468,19 +562,28 @@ function auditarTexto(textoCrudo, rutaArchivo = 'texto') {
   }
   desglosePuntuacion.ecos = { max: 15, obtenido: Number(ptsEcos.toFixed(1)) };
 
-  // Dimensión 6: Músculo y Agencia Verbal (20 pts máx)
+  // Dimensión 6: Músculo y Agencia Verbal (15 pts máx)
   let ptsAgencia = 0.0;
   if (ratioAgencia >= 2.2) {
-    ptsAgencia = 20.0;
+    ptsAgencia = 15.0;
   } else if (ratioAgencia >= 1.8) {
-    ptsAgencia = 12.0;
+    ptsAgencia = 10.0;
   } else {
     ptsAgencia = 0.0;
   }
-  desglosePuntuacion.agencia = { max: 20, obtenido: Number(ptsAgencia.toFixed(1)) };
+  desglosePuntuacion.agencia = { max: 15, obtenido: Number(ptsAgencia.toFixed(1)) };
+
+  // Dimensión 7: Sobriedad Adjetival y Equilibrio Nominal (15 pts máx)
+  // Stanford / The Bestseller Code: evitar la adjetivitis refleja (meta <= 22.0 por 1.000 palabras)
+  let ptsAdjetivos = 15.0;
+  if (densidadAdjetivos > 22.0) {
+    const excedente = densidadAdjetivos - 22.0;
+    ptsAdjetivos = Math.max(0, 15.0 - (excedente * 1.5));
+  }
+  desglosePuntuacion.adjetivos = { max: 15, obtenido: Number(ptsAdjetivos.toFixed(1)) };
 
   // Suma preliminar
-  scoreGlobal = ptsIFSZ + ptsSigma + ptsMente + ptsGerundios + ptsEcos + ptsAgencia;
+  scoreGlobal = ptsIFSZ + ptsSigma + ptsMente + ptsGerundios + ptsEcos + ptsAgencia + ptsAdjetivos;
 
   // Regla de VETO FATAL (Ley 6 o Ley 4)
   const hayVetoLey6 = infraccionesLey6.length > 0;
@@ -513,10 +616,14 @@ function auditarTexto(textoCrudo, rutaArchivo = 'texto') {
     totalEcos: ecosDetectados.length,
     ecosExcedentes,
     densidadEcos: Number(densidadEcos.toFixed(2)),
-    listaEcos: ecosDetectados.slice(0, 10), // Primeras 10 muestras
+    listaEcos: ecosDetectados,
     verbosAccion: countVerbosAccion,
     verbosEstativos: countVerbosEstativos,
     ratioAgencia: Number(ratioAgencia.toFixed(2)),
+    totalAdjetivos: countAdjetivos,
+    densidadAdjetivos: Number(densidadAdjetivos.toFixed(2)),
+    ratioVerboAdjetivo: Number(ratioVerboAdjetivo.toFixed(2)),
+    listaAdjetivos: adjetivosDetectados.slice(0, 10),
     infraccionesLey6,
     infraccionesLey4,
     hayVeto,
@@ -550,27 +657,35 @@ function formatearReporte(res) {
   out += subline + '\n';
 
   out += `  2. ECONOMÍA LÉXICA Y CONTROL SINTÁCTICO:\n`;
-  out += `     • Adverbios en -mente: ${res.totalMente} (${res.densidadMente}/1.000 pal.) [Meta: ≤ 1.0] ➔ ${res.desglosePuntuacion.mente.obtenido}/15 pts\n`;
+  out += `     • Adverbios en -mente: ${res.totalMente} (${res.densidadMente}/1.000 pal.) [Meta: ≤ 1.5] ➔ ${res.desglosePuntuacion.mente.obtenido}/10 pts\n`;
   if (res.totalMente > 0) {
     out += `       Muestras: [${res.listaMente.slice(0, 5).join(', ')}]\n`;
   }
-  out += `     • Densidad de Gerundios: ${res.totalGerundios} (${res.densidadGerundios}/1.000 pal.) [Meta: ≤ 5.5] ➔ ${res.desglosePuntuacion.gerundios.obtenido}/15 pts\n`;
+  out += `     • Densidad de Gerundios: ${res.totalGerundios} (${res.densidadGerundios}/1.000 pal.) [Meta: ≤ 5.5] ➔ ${res.desglosePuntuacion.gerundios.obtenido}/10 pts\n`;
   if (res.totalGerundios > 0) {
     out += `       Muestras: [${res.listaGerundios.slice(0, 5).join(', ')}]\n`;
   }
   out += `     • Ecos Léxicos en Ventana (W=100): ${res.totalEcos} colisiones (${res.ecosExcedentes} excedentes) ➔ ${res.desglosePuntuacion.ecos.obtenido}/15 pts\n`;
   if (res.totalEcos > 0) {
-    out += `       Colisiones críticas: ${res.listaEcos.slice(0, 3).map(e => `"${e.palabra}" (d=${e.distancia})`).join(', ')}\n`;
+    out += `       Colisiones críticas: ${res.listaEcos.slice(0, 50).map(e => `"${e.palabra}" (d=${e.distancia})`).join(', ')}\n`;
   }
   out += subline + '\n';
 
   out += `  3. MÚSCULO Y AGENCIA VERBAL (THE BESTSELLER CODE - STANFORD):\n`;
   out += `     • Verbos de Acción Directa: ${res.verbosAccion}\n`;
   out += `     • Verbos Estativos / Contemplativos: ${res.verbosEstativos}\n`;
-  out += `     • Ratio de Agencia: ${res.ratioAgencia} [Meta: ≥ 2.2] ➔ ${res.desglosePuntuacion.agencia.obtenido}/20 pts\n`;
+  out += `     • Ratio de Agencia: ${res.ratioAgencia} [Meta: ≥ 2.2] ➔ ${res.desglosePuntuacion.agencia.obtenido}/15 pts\n`;
   out += subline + '\n';
 
-  out += `  4. AUDITORÍA DE CANON Y LEYES INMUTABLES:\n`;
+  out += `  4. SOBRIEDAD ADJETIVAL Y EQUILIBRIO NOMINAL (ANTI-ADJETIVITIS):\n`;
+  out += `     • Adjetivos Calificadores Detectados: ${res.totalAdjetivos} (${res.densidadAdjetivos}/1.000 pal.) [Meta: ≤ 22.0] ➔ ${res.desglosePuntuacion.adjetivos.obtenido}/15 pts\n`;
+  out += `     • Ratio Verbo/Adjetivo: ${res.ratioVerboAdjetivo} [Ideal: dominancia verbal]\n`;
+  if (res.totalAdjetivos > 0) {
+    out += `       Muestras: [${res.listaAdjetivos.slice(0, 6).join(', ')}]\n`;
+  }
+  out += subline + '\n';
+
+  out += `  5. AUDITORÍA DE CANON Y LEYES INMUTABLES:\n`;
   if (res.infraccionesLey6.length > 0) {
     out += `     ❌ VETO FATAL - VIOLACIÓN LEY 6 (Metaconocimiento Prohibido):\n`;
     for (let inf of res.infraccionesLey6) {

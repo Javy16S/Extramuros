@@ -335,206 +335,208 @@ Leo no distinguió sus facciones. La vista se le apagó por completo y su frente
 
 El primer sentido en regresar fue el olfato.
 
-Olía a sebo rancio, a humo de resina agria y a ceniza empapada. El aire carecía de la ligereza fría propia de las calles del Distrito Siete y entraba denso, tibio y con una carga vegetal que pegaba la lengua al paladar con regusto a almidón crudo. Después llegó el oído: el raspado rítmico y áspero de una lasca de pedernal mientras retiraba grasa seca sobre una tabla de cortar, acompañado por el chasquido pausado de una brasa que moría en un rincón de piedras calcinadas.
+Olía a sebo, humo de resina y ceniza mojada. El aire carecía del frescor limpio de las calles del Distrito Siete; entraba con pesadez, cargado de un vaho de hierba que pegaba la lengua al paladar con regusto a almidón. Después llegó el oído: el roce de una lasca de pedernal contra una tabla de madera para retirar grasa, acompañado por el crujido de una brasa entre piedras calcinadas.
 
 Leo intentó mover la cabeza.
 
-Tenía la mejilla hundida contra tablones de pino basto, llenos de astillas y surcos negros por el hollín. Las vértebras del cuello protestaron con un tirón rígido. Al buscar apoyo con las palmas, el brazo derecho chocó contra una estructura dura que le inmovilizaba la muñeca: dos listones de roble, labrados a golpes de cuchillo, rodeaban el hueso fracturado sujetos con tres vueltas de cuerda de tripa retorcida. La extremidad herida resistía sin ceder; la rotura latía por dentro en una hinchazón sorda que le llegaba hasta el codo.
+Tenía la mejilla apoyada contra tablones de pino, entre astillas y surcos cubiertos de hollín. Las vértebras del cuello protestaron con un tirón. Al buscar apoyo con las palmas, la extremidad derecha chocó contra un armazón que le inmovilizaba la muñeca: dos listones de roble, labrados a golpes de cuchillo, rodeaban el hueso sujetos con tres vueltas de cuerda de tripa. La juntura lastimada no cedió; la fractura latía por dentro con una presión que le subía hasta el codo.
 
-En la articulación izquierda, la quemadura del brazalete ya no supuraba al descubierto. Alguien había untado la carne lacerada con una pasta espesa, de color musgo oscuro, que tiraba de los bordes con un escozor frío y olía a corteza podrida.
+En el antebrazo izquierdo, la quemadura del brazalete ya no supuraba al descubierto. Alguien había cubierto la lesión con un emplaste verde que tiraba de los bordes con escozor y desprendía tufo a corteza.
 
-Apretó los dientes y flexionó el vientre para sentarse.
+Apretó los dientes y flexionó el abdomen para sentarse.
 
-El esfuerzo fue una trampa. Las paredes del estómago se cerraron en un espasmo seco que le vació los pulmones; el pecho buscó una bocanada urgente por la boca abierta y la atmósfera exterior, cargada de humedad y oxígeno pesado, le arañó los bronquios como cal viva. La garganta se le cerró en una arcada agria; tosió dos veces contra el piso y escupió una flema amarillenta sobre las tablas, mientras el pulso le saltaba en las sienes con latidos desbocados.
+El esfuerzo le cobró precio. Las paredes del estómago se cerraron en un calambre que le vació el aliento; los pulmones buscaron una bocanada por la boca y la atmósfera exterior, cargada de humedad, le arañó los bronquios como cal. La garganta se le cerró en una arcada; tosió dos veces contra las tablas y escupió flema entre las rendijas, con el pulso golpeándole las sienes.
 
 El raspado de la piedra se detuvo.
 
 Leo alzó los párpados a través de las lágrimas del ahogo.
 
-La cabaña era estrecha, de unos cinco metros de fondo, levantada con troncos oscuros de un palmo de grosor unidos con barro seco. Del techo de cortezas colgaban manojos de hierbas marchitas, vejigas secas infladas y tiras de cecina dura ensartadas en mimbres. En el extremo opuesto, sentado sobre un tocón menudo junto a una chimenea de lajas sin mortero, un hombre de hombros anchos y cabello gris recortado a trasquilones limpiaba un tendón largo con la uña del pulgar.
+La choza medía unos cinco metros de fondo, levantada con troncos de un palmo de grosor calafateados con barro. Del techo de cortezas colgaban manojos de hierbas, vejigas infladas y tiras de cecina ensartadas en mimbres. En el otro extremo, sentado sobre un tocón junto a una chimenea de lajas, un hombre de hombros anchos y pelo gris recortado a trasquilones limpiaba un tendón con la uña del pulgar.
 
-Llevaba un chaleco de cuero crudo sin curtir, cosido con hebras gruesas, y pantalones de lona remendados con piel curtida. Sus brazos estaban llenos de marcas viejas: cicatrices blancas de cortes limpios y mordeduras que habían sanado hacía décadas. No aparentaba más de sesenta años, pero se movía con la rigidez económica de quien no derrocha un solo gramo de fuerza.
+Llevaba un chaleco de cuero sin curtir, cosido con hebras de cáñamo, y pantalones de lona con remiendos de pellejo. Sus brazos mostraban marcas: cicatrices de cortes y mordeduras cerradas hacía décadas. No aparentaba más de sesenta años, pero se movía con la economía precisa de quien no regala un milímetro de esfuerzo.
 
-Sus ojos, grises y hundidos bajo cejas pobladas, se clavaron en Leo sin parpadear.
+Sus ojos grises se clavaron en Leo sin parpadear.
 
-—Si vuelves a toser en ese tablón, te saco al pasto de una patada —la voz del ermitaño sonó seca, como dos piedras frotadas en el lecho de un río.
+—Si vuelves a toser en ese tablón, te saco al pasto de una patada —la advertencia sonó tajante, como dos cantos frotados en el lecho de un torrente.
 
-Leo intentó apoyar la espalda contra el tabique. La pared estaba helada.
+Leo intentó apoyar la espalda contra el tabique. La madera trasmitía la helada de la ladera.
 
-—¿Dónde... —el timbre se le quebró en un silbido ronco; tragó el regusto amargo para despejar la campanilla—. ¿Dónde estoy?
+—¿Dónde... —el habla se le quebró en un silbido; humedeció la garganta para despejar la campanilla—. ¿Dónde estoy?
 
-El hombre no contestó. Cortó el sobrante del tendón con una muesca rápida del pedernal, dejó la pieza sobre un trapo sucio y alargó la bota derecha hacia un cuenco de barro cocido que descansaba junto a las cenizas. Con un movimiento medido del talón, empujó el recipiente sobre los maderos; la escudilla patinó tres metros y se detuvo a dos palmos de las rodillas de Leo. Un par de gotas oscuras salpicaron el entarimado.
+El hombre no contestó. Silencio absoluto. Cortó el sobrante del tendón con una muesca del pedernal, dejó la pieza sobre un trapo y alargó la bota hacia un cuenco de barro cocido que reposaba junto a las brasas. Con un empujón del talón, deslizó el recipiente sobre el maderamen; la escudilla patinó tres metros y frenó a dos palmos de las rodillas de Leo. Un par de gotas oscuras salpicaron la tarima.
 
-—Traga eso —dijo el cazador; cogió una tajada de carne y empezó a masticar con lentitud metódica—. Y no lo bebas de un trago si no quieres que las tripas te lo devuelvan por la nariz.
+—Traga eso —dijo el cazador; cogió una tajada de carne y empezó a masticar con lentitud—. Y no lo bebas de golpe si no quieres que las tripas te lo devuelvan por la nariz.
 
-El hedor del caldo golpeó a Leo con la contundencia de un puño. Era una mezcla espesa de médula hervida, agua salobre y raíces astringentes.
+El olor del brebaje golpeó a Leo con la fuerza de un puñetazo. Olía a médula hervida, agua de charca y raíces amargas.
 
-El instinto civil le dictó cautela: ignoraba qué contenía aquella vasija, no conocía al individuo y la estancia apestaba a despojo animal. Sin embargo, su organismo operaba bajo otra ley. El temblor en las yemas delataba un agotamiento metabólico que no admitía debate. Acercó el cuenco a dos manos, con cuidado de que el entablillado derecho no golpeara la arcilla, y probó un primer sorbo con la punta de los labios.
+La cautela civil le pedía desconfianza: ignoraba qué contenía la vasija, no conocía al individuo y la estancia apestaba a despojo de monte. Sin embargo, el cuerpo no admitía dudas. El temblor en las yemas delataba una falta de sustento que no permitía discusión. Acercó la escudilla con las dos manos, cuidando que el entablillado derecho no chocara con el barro, y probó un sorbo con los labios.
 
-El líquido quemaba. Sabía a tierra, a hierro y a sebo silvestre, pero al resbalar por la tráquea disipó de inmediato la sequedad que le cerraba la garganta. Dio otro trago, más largo. Un calor denso se le instaló en el estómago y los espasmos de los muslos comenzaron a perder intensidad.
+El líquido quemaba. Sabía a tierra, a hierro y a grasa de caza, pero al bajar por la garganta disipó la sequedad que le cerraba el conducto. Bebió otro trago, más largo. Un calor espeso se le acomodó en el vientre y los calambres de los muslos empezaron a ceder.
 
-Cuando el fondo del plato quedó limpio, Leo apoyó la nuca contra los troncos y respiró despacio hasta serenar el pulso.
+Cuando el fondo de arcilla quedó a la vista, Leo apoyó la nuca contra la pared y respiró despacio para calmar el pulso.
 
-—Me perseguían —dijo Leo; midió cada palabra para que la corriente no le irritara la glotis—. En el risco. Había una bestia cuadrúpeda, acorazada... Rompió la roca.
+—Me perseguían —dijo Leo; midió cada sílaba para que la corriente no le raspara la campanilla—. En el risco. Había una bestia cuadrúpeda con placas en el lomo. Rompió la roca.
 
-El viejo continuó con la masticación de su bocado sin levantar la mirada del fuego.
+El viejo continuó masticando sin levantar los ojos de las brasas.
 
-—Un carroñero de ladera —dijo al cabo de unos segundos—. Tenía hambre y tú olías a carne blanda del otro lado. Si no hubiera caído el derrumbe en la boca de la cueva, ahora serías una masa seca al pie de la pedriza.
+—Un carroñero de ladera —dijo al cabo de unos segundos—. Tenía hambre y tú olías a carne tierna del otro lado de la sierra. Si no llega a caer el derrumbe en la boca de la hendidura, ahora serías una plasta al pie del canchal.
 
-Leo trabó los molares. El tono del anfitrión carecía de burla, reflejaba la constatación fría de un hecho consumado.
+Leo apretó los molares. Dolor seco. El tono del cazador carecía de burla, limitándose a constatar la realidad sin adornos.
 
-—No sé qué es este sitio —insistió Leo; señaló con la barbilla la salida abierta de par en par hacia el claro exterior—. En el prado... Cuando pisé la hierba, las piernas se me durmieron. El corazón casi se me detiene.
+—No sé qué es este sitio —insistió Leo; señaló con la barbilla hacia el claro que se abría tras el portón—. En el prado... Cuando pisé la hierba, las piernas se me durmieron. El corazón casi me revienta.
 
-El anciano escupió una fibra vegetal contra las brasas. El rescoldo soltó un chisporroteo azulado.
+El hombre escupió una fibra contra el rescoldo. La brasa soltó un chisporroteo azul.
 
-—El pastizal está tranquilo porque yo estoy aquí —respondió con aspereza—. Si cruzas ese umbral, el bosque te oirá antes de que alcances el arroyo. Y con esa muñeca partida no sirves ni para espantar tábanos.
+—El pasto está quieto porque yo estoy aquí —respondió con aspereza—. Si cruzas ese umbral, el bosque te huele antes de que alcances el arroyo. Y con esa muñeca rota no sirves ni para espantar tábanos.
 
-Se puso en pie. Medía poco más de un metro setenta y cinco, pero la envergadura de su torso y la densidad de sus tendones transmitían una solidez que empequeñecía la estancia. Avanzó tres pasos hacia el rincón, descolgó una cantimplora hecha con una calabaza forrada de cuero y la arrojó sobre las mantas de Leo.
+Se puso en pie. Medía poco más de un metro setenta y cinco, pero la anchura del torso y la tensión de los tendones transmitían una solidez que llenaba la choza. Dio tres zancadas hacia un rincón, descolgó una calabaza forrada de piel y la arrojó sobre las mantas de Leo.
 
-—Duerme —ordenó; giró hacia el vano exterior y cruzó los brazos a la espalda para contemplar la neblina del claro—. La noche aquí dura lo que tarda una fiera en oler tu miedo. Si mañana sigues vivo, ya veremos qué hacemos con ese brazo.
+—Duerme —ordenó; se volvió hacia la salida y cruzó los brazos a la espalda para mirar la bruma del exterior—. La noche aquí dura lo que tarda una fiera en rastrear tu miedo. Si mañana sigues vivo, ya veremos qué hacemos con ese hueso.
 
 
 ***
 
-La oscuridad cayó sobre el prado con un peso físico.
+La oscuridad se cerró sobre el pastizal con una pesadez asfixiante.
 
-No hubo crepúsculo pausado ni luces lejanas de farolas sobre el asfalto. El cielo entre las copas altas viró de un gris acerado a un negro denso y sin estrellas, borrado por una techumbre vegetal que ahogaba cualquier claridad celeste. Desde el fondo de la espesura, más allá de la franja del pastizal, comenzaron a brotar ruidos que Leo jamás había registrado en los manuales de la ciudad: crujidos de ramas del grosor de vigas quebradas a paso lento, un bufido húmedo que hacía vibrar el piso de la cabaña en intervalos de diez minutos y el grito agudo de algún animal despedazado en la penumbra del sotobosque.
+No hubo crepúsculo lento ni farolas sobre las aceras. El cielo entre las copas viró del gris a una negrura sin estrellas, tapada por una techumbre continua de maderas colosales que filtraba la humedad en un goteo regular y ahogaba cualquier claridad celeste. Desde la espesura, más allá de la linde del pasto, brotaron ruidos ajenos a la memoria de la ciudad: crujidos de ramas del grosor de vigas quebrando bajo un paso continuo, un bufido que hacía temblar los tablones a intervalos regulares y el chillido de alguna presa destripada entre los matorrales.
 
-Leo pasó la noche apoyado contra los maderos traseros, con las rodillas recogidas contra el pecho para defender la fractura.
+Leo pasó la noche apoyado contra los maderos del fondo, con las rodillas pegadas al torso para proteger la fractura.
 
-El sueño fue una sucesión de sobresaltos febriles. Cada vez que cerraba los ojos, el dolor de la articulación despertaba con un latido punzante que le recalentaba la frente; la boca se le resecaba y el estómago exigía alimento con retortijones secos. La calabaza de agua le salvó la garganta: el líquido sabía a musgo y a pizarra, pero calmaba el fuego que le subía por el esófago.
+El sueño llegó en sobresaltos breves. Cada vez que cerraba los párpados, el dolor de la articulación despertaba con un latido que le calentaba la frente; la boca se le resecaba y el estómago exigía comida con pinchazos agudos. La cantimplora le salvó la garganta: el líquido sabía a pizarra y a moho, pero templaba la lumbre que le subía por el esternón.
 
-Al clarear, el ambiente de la cabaña se volvió gélido.
+Con la primera claridad, el aire de la choza trajo escarcha en las junturas.
 
-Una neblina lechosa cruzaba la entrada abierta, arrastrándose a ras de hierba como vapor de hielo. El anfitrión ya vigilaba la penumbra; ocupaba la banqueta rústica junto a las cenizas apagadas, donde aguzaba la punta de una estaca de fresno con un raspador de hueso animal, con movimientos desprovistos de prisa o pausa.
+Una niebla baja cruzaba el portalón, arrastrándose a ras del pasto como humo blanco. El anfitrión ocupaba el banco de madera junto a las cenizas; repasaba la punta de una estaca de fresno con un raspador de hueso, sin apuro en el pulso.
 
 Leo intentó incorporarse.
 
-Apoyó la bota en el piso y cargó el peso sobre el muslo. El cuerpo protestó: los gemelos le temblaron por la falta de azúcar y el brazo entablillado colgó inerte, amarrado al pecho por el dobladillo de la chaqueta. Avanzó dos pasos hacia la claridad de la entrada para buscar respiro.
+Plantó la bota en las tablas y cargó el peso sobre la pierna izquierda. El cuerpo protestó: los gemelos temblaban por el ayuno y el brazo vendado colgaba inmóvil, sujeto al pecho con una tira de tela arrancada de la camisa. Dio dos pasos hacia la claridad del umbral para buscar desahogo.
 
-Abrió la boca para tomar una bocanada honda.
+Abrió la boca para llenar los pulmones a fondo.
 
-Un golpe seco le hundió el plexo solar.
+Un impacto le hundió el plexo solar.
 
-Dos nudillos nudosos como nudos de roble le clavaron el diafragma hacia arriba con fuerza brutal y seca. El aire se le escapó en un silbido sordo; el impacto le dobló las rodillas y Leo cayó de espaldas contra el banco, boqueó con la vista enturbiada por chispas rojas.
+Dos nudillos le clavaron el diafragma hacia arriba con un empuje seco. El resuello se le escapó en un silbido; el golpe le dobló las rodillas y Leo cayó de espaldas contra el tabique, parpadeando entre manchas rojizas que le nublaban la vista.
 
-El viejo no retiró la presión hasta que Leo encogió el vientre.
+El cazador no retiró la presión hasta que Leo encogió el vientre.
 
-—Te lo advertí anoche —dijo el hombre, de pie sobre él, con la estaca en el puño zurdo—. Quieres jadear como un civil gordo en una oficina con ventanas de vidrio. Haz eso dos veces más y tus alvéolos soltarán sangre antes de mediodía.
+—Te lo advertí anoche —dijo el hombre, de pie sobre él, con la estaca en el puño zurdo—. Quieres jadear como un empleado en una oficina con cristales. Haz eso dos veces más y escupirás sangre antes del mediodía.
 
-Leo se agarró el flanco con la mano ilesa, en un intento por recuperar el resuello entre espasmos.
+Leo se llevó la palma ilesa al costado para recuperar el fuelle entre espasmos.
 
-—No puedo... respirar —consiguió articular entre los dientes apretados.
+—No puedo... respirar —dijo entre los dientes.
 
-—Respiras demasiado —cortó el anciano—. Este bosque tiene el doble de carga que tu ciudad de barro. Si abres las mandíbulas y tragas a fondo, el oxígeno te abrasa los conductos. El corazón se acelera para quemarlo, los músculos se comen sus propias reservas y en tres horas estás muerto de inanición sobre un montón de helechos.
+—Respiras de más —cortó el anciano—. Este bosque carga el doble de peso que tu ciudad de chimeneas. Si abres las fauces y tragas hasta el fondo, el oxígeno te abrasa los bronquios. El corazón corre para quemarlo, los músculos gastan sus reservas y en tres horas te caes redondo sobre los helechos.
 
-El hombre se agachó. Apoyó la palma curtida sobre el abdomen de Leo, justo bajo las costillas flotantes.
+El hombre se agachó. Apoyó la palma sobre el vientre de Leo, justo debajo de las costillas.
 
-—Cierra la boca —ordenó con serenidad adusta—. Aprieta los labios. Ahora toma aire por la nariz. Sin prisa. No subas los hombros. Empuja mi mano con la tripa.
+—Cierra los labios —ordenó con aspereza—. Mantén la boca quieta. Ahora toma aliento por la nariz. Despacio. No muevas los hombros. Empuja mi mano con la tripa.
 
-Leo lo miró con rencor puro, pero el dolor en el esternón y el ahogo no admitían rebelión. Selló la comisura. Aspiró por las fosas nasales; la corriente entró fría por los conductos, seca y densa. Notó la resistencia en los pulmones.
+Leo lo miró con rencor, pero el dolor en el esternón y el ahogo no dejaban alternativa. Selló las comisuras. Aspiró por las fosas; la corriente entró fresca hacia adentro, limpia y cargada de resina. Notó la tirantez en el pecho.
 
-—Más despacio —el veterano presionó con los dedos hacia abajo—. Llena el fondo del saco. Que no suba al cuello. Suelta ahora, por la misma rendija.
+—Más lento —el veterano hundió los nudillos hacia abajo—. Llena el fondo del saco. No lo subas a la garganta. Suelta ahora, por el mismo conducto.
 
-Leo obedeció. El aliento salió en un hilo tibio y constante. Repitió el ciclo tres veces, cuatro, cinco. Poco a poco, el nudo de fuego en la tráquea empezó a aflojar; el corazón redujo el compás de sus latidos y el temblor que le sacudía los hombros perdió fuerza. La cabeza, embotada por la fiebre de la fractura, recuperó un punto de lucidez fría.
+Leo obedeció. El vaho salió en un hilo tibio. Repitió el ciclo tres veces, cuatro, cinco. Poco a poco, la quemazón en la tráquea aflojó; el corazón bajó el ritmo de sus golpes y el temblor de los hombros remitió. La cabeza, enturbiada por la fiebre de la rotura, recuperó claridad.
 
-El viejo retiró la palma y se incorporó sin cambiar la expresión de su rostro.
+El viejo apartó el contacto y se puso en pie sin alterar el gesto de la cara.
 
-—Así se camina aquí fuera —dijo; cogió una tira de carne reseca de una cuerda colgada del techo y se la tiró a los muslos—. Másticala hasta que sea papilla antes de tragar. No derroches saliva.
+—Así se camina aquí fuera —dijo; arrancó una tira de carne de la cuerda colgada del techo y se la arrojó al regazo—. Másticala hasta hacer pasta antes de tragar. No gastes saliva.
 
-Leo atrapó la porción con la mano zurda. Era dura como corteza de encina, curada en sal fósil y humo de brea. La metió entre las muelas y comenzó a triturar las fibras con paciencia; el sabor ferroso y salado le inundó la lengua, lo que provocó una salivación densa que calmó el vacío de las tripas.
+Leo recogió la tajada con el puño zurdo. La porción ofrecía la dureza de un madero curado con sal y humo. La metió entre las muelas y trituró las fibras con calma; el sabor a sangre y salmuera le empapó la lengua, provocando un jugo espeso que aplacó el vacío de las tripas.
 
-Mientras masticaba, el ermitaño le sujetó la muñeca izquierda por el antebrazo.
+Mientras masticaba, el cazador le sujetó el antebrazo izquierdo.
 
-Sus dedos, gruesos y callosos, apartaron la tela desgarrada que cubría el cerco oscuro. Examinó la quemadura circular con pupilas entrecerradas. La pasta vegetal había secado los bordes de la herida en una costra verde que impedía la supuración, pero el patrón concéntrico del impacto resultaba inconfundible: un círculo perfecto grabado en el tejido vivo, con fisuras microscópicas de carbonilla mineral incrustadas bajo la piel.
+Las yemas del cazador apartaron la tela desgarrada que tapaba el cerco de la quemadura. Examinó la lesión circular en silencio. El emplaste había secado los bordes en una costra que contenía el pus, pero el dibujo del impacto quedaba al descubierto: un anillo grabado en el tejido con fisuras de carbonilla incrustadas bajo la piel.
 
-El anciano alzó la vista y le clavó los ojos en la cara.
+El anciano alzó el mentón y le clavó los ojos en el rostro.
 
-—Esta marca no la hace el fuego común —dijo; la voz perdió su tono áspero y bajó a una gravedad dura—. Tampoco un transformador de chapa. ¿De dónde sacaste la piedra que llevabas aquí?
+—Esta señal no la deja el fuego ordinario —dijo; la voz perdió la aspereza y bajó a una gravedad profunda—. Tampoco una caldera de taller. ¿De dónde sacaste la cuenta que llevabas aquí?
 
-Leo sostuvo la mirada del anfitrión sin retirar el brazo.
+Leo aguantó la mirada sin retirar el brazo.
 
-—Era de Caine —respondió, con la mandíbula apretada sobre la cecina—. La llevaba puesta en una pulsera de cuero.
+—Era de Caine —respondió, con los dientes apretados sobre el bocado—. La llevaba sujeta a una correa de cuero. Caine Vanes.
 
-—¿Caine? —repitió el hombre, sin soltarle la articulación—. ¿Caine qué?
+El silencio cayó sobre la choza como una losa de granito.
 
-—Caine Vanes —dijo Leo.
+El agarre del hombre no tembló, pero los tendones de su muñeca se marcaron bajo el pellejo de los brazos. La lasca de pedernal que sostenía en la otra mano quedó quieta a un palmo de la mesa. Durante varios segundos, solo se oyó el goteo de la resina que caía desde una viga del techo sobre un recipiente de arcilla.
 
-El silencio cayó sobre la cabaña como una losa de granito.
+El cazador no pronunció el nombre de Caine. No hizo preguntas ni soltó exclamación alguna. Mantuvo un mutismo absoluto, hermético, con los molares trabados hasta borrar cualquier gesto.
 
-El agarre del anciano no tembló, pero los tendones de su antebrazo se tensaron bajo la piel curtida. La lasca de pedernal que sostenía en el otro puño quedó inmóvil a poca distancia de la mesa. Durante tres latidos completos, solo se escuchó el goteo de la resina que caía desde una viga del techo sobre un cuenco de barro.
-
-El ermitaño soltó el brazo de Leo con un empujón seco. No pronunció una sola palabra. Giró hacia el hogar, cogió una vara de fresno y removió las brasas muertas hasta levantar una nube de ceniza blanquecina.
+Liberó el brazo de Leo con un empujón y giró hacia el hogar. Cogió una vara de fresno y removió el rescoldo hasta levantar una nube de ceniza.
 
 
 ***
 
-Leo se puso en pie sin apoyar la extremidad derecha.
+Leo se puso en pie sin apoyar el costado derecho.
 
-El dolor de la fractura era un clavo al rojo en la muñeca, pero la rabia le ganó la partida al miedo. Dio un paso hacia las cenizas, plantándose a dos metros del hombre.
+El dolor de la muñeca ardía por dentro, pero la necesidad de respuestas pudo más que la fatiga. Avanzó dos pasos hacia el fuego, plantándose a poca distancia del hombre.
 
-—Ha oído ese nombre —dijo Leo; la voz le salió firme, sostenida por la respiración corta que acababa de aprender—. Caine desapareció hace seis meses. Dejó los mapas y las llaves en la mesa. Los de traje gris entraron en mi casa buscándolo a él... y a Elena.
+—Ha oído ese apellido —dijo Leo; la voz le salió firme, apoyada en la respiración pausada que acababa de ejercitar—. Caine desapareció hace seis meses. Dejó mapas y llaves en la mesa del cuarto. La patrulla entró en mi casa buscándolo a él... y a Elena.
 
-El cazador no se inmutó. Apoyó la vara de madera contra la pared de troncos y se limpió las palmas en los muslos de lona sin mirarlo.
+El viejo no se giró. Apoyó la vara de fresno contra la pared de troncos y se limpió las palmas en los pantalones sin mirarlo.
 
-—Si sigues con los aullidos de un perro flaco, no vas a durar vivo ni dos jornadas —respondió con una frialdad que no dejaba resquicio.
+—Si sigues ladrando como un perro flaco, no vas a durar dos amaneceres —respondió con una frialdad cortante.
 
-—¡Caine no me importa ahora! —cortó Leo; la garganta le raspó por el esfuerzo—. Busco a Elena. Se la llevaron hace cinco días. Los hombres que me encerraron tenían una fotografía suya en el portal. Dijeron que su nombre era falso. La llamaban Haimara.
+—¡Caine me da igual ahora! —cortó Leo; la garganta le raspó por el grito—. Necesito encontrar a Elena. Se la llevaron hace cinco días. Los hombres del ministerio tenían una fotografía suya en el portal. Dijeron que su identidad era falsa. La llamaban Haimara.
 
-El silencio volvió a tensar el aire entre los dos.
+El anfitrión detuvo el frote de la tela.
 
-Esta vez, el anciano no desvió la mirada. Sus ojos grises escrutaron las facciones de Leo, desde el pelo pegado por el sudor frío hasta la postura rígida con la que protegía la fractura contra las costillas. En su semblante no hubo sorpresa, sino una resignación agria, la de quien contempla a un ciego que camina hacia el borde de un precipicio.
+Esta vez se volvió despacio. Sus ojos grises barrieron la cara de Leo, desde el cabello pegado por el sudor hasta la rigidez con que pegaba el entablillado a las costillas. En su semblante no asomó sorpresa, sino una resignación amarga, la de quien mira a un ciego caminar hacia el borde de un foso.
 
-—Haimara —repitió el viejo; saboreó las sílabas con desprecio contenido—. Una cría de la selva metida en tu nido de cemento y carbón. Y tú creías que compartía tu sopa por afecto doméstico.
+—Haimara —dijo el viejo; mascó el apodo con desdén contenido—. Una cría nacida en la espesura metida en tu nido de carbón y tejas. Y tú creías que compartía tu mesa por apego casero.
 
-Leo apretó los puños. Las uñas de la mano izquierda se le clavaron en la palma hasta rozar la carne viva.
+Leo cerró el puño izquierdo. Las uñas se le clavaron en la carne hasta rozar el hueso.
 
-—No hable de ella si no la conoce.
+—No hable de ella.
 
-—La conozco mejor que tú, muchacho —zanjó el hombre; se levantó del tocón con un movimiento seco que obligó a Leo a retroceder medio paso—. Sé de qué sangre proviene. Si esa chica pisó esta tierra hace cinco días, los puestos de vigilancia de la costa ya habrán echado el cerrojo sobre cada barca del litoral. No vas a encontrarla a la carrera por el monte como un loco con un brazo inútil. Te destriparán antes de que divises el mar.
+—La conozco mejor que tú, muchacho —zanjó el hombre; se levantó del tocón con un movimiento que obligó a Leo a retroceder media cuarta—. Sé de qué estirpe viene. Si esa muchacha cruzó el límite hace cinco días, la gente de la costa ya habrá cerrado el tránsito sobre cada barca del río. No vas a encontrarla corriendo por la maleza como un insensato con el brazo quebrado. Te abrirán el vientre antes de que veas el agua grande.
 
-El viejo no esperó réplica. Cogió un hacha pequeña de filo de pedernal oscuro encajada en el quicio de la entrada, empujó la tabla con el costado y salió al pastizal sin volver la vista atrás.
+Cero réplica. El cazador cogió un hacha de mano con filo de sílex apoyada junto al quicio, empujó la tabla de la puerta y salió al pasto sin volver la cabeza.
 
-Leo se quedó solo en la penumbra de la cabaña.
+Leo quedó solo en la choza. Ningún apoyo.
 
-El silencio del interior contrastaba con el zumbido sordo del claro. Se acercó al vano despacio, con el hombro sano contra el marco de madera áspera para sostener el equilibrio.
+El zumbido del bosque entraba por la abertura del portón. Se acercó al umbral a tientas, apoyando el hombro sano en el marco de madera para guardar el equilibrio.
 
-Afuera, la niebla matinal comenzaba a levantarse.
+Afuera, la bruma empezaba a disiparse bajo el calor del mediodía.
 
-A través del vapor blanco, el paisaje se desplegaba en una escala que superaba cualquier arquitectura urbana. Al oeste, la muralla de basalto negro que había cruzado el día anterior se alzaba como una sierra de cuchillos oscuros recortada contra el cielo pálido. Hacia el sur, el terreno descendía en terrazas continuas de verde cerrado, quebradas por el cauce de un río ancho cuyas aguas arrastraban sedimentos minerales con un brillo cobrizo bajo la luz limpia; más allá de la corriente, las copas de los árboles milenarios formaban una bóveda continua de ramas colosales, cubiertas por un musgo espeso que desprendía un hedor acre a vinagre y savia fermentada.
+A través del vapor, el terreno se desplegaba en una escala que aplastaba cualquier noción aprendida entre calles y muros de piedra. Al oeste, la cresta de basalto que había cruzado el día anterior se alzaba como una sierra de dientes negros recortada contra el cielo claro. Hacia el sur, la ladera descendía en terrazas de vegetación tupida, quebradas por el curso de un río cuyas aguas arrastraban limo rojizo; más allá de la corriente, las copas de los árboles formaban una techumbre ininterrumpida de ramas colosales donde el follaje acumulado durante siglos filtraba la luz en una penumbra húmeda y continua, impregnada de un olor profundo a savia fermentada que borraba toda medida de distancia o tiempo.
 
-Leo se quedó inmóvil. El aire fresco le golpeó la frente.
+Leo no apartó la vista. Viento frío en la frente.
 
 *«Allá afuera, Leo...»*
 
-La voz de Elena le llegó nítida, no como un pensamiento abstracto, sino como un eco físico en la base del cráneo.
+La voz de Elena no regresó como una idea lejana, sino como un susurro pegado a la oreja.
 
-La vio en la penumbra del dormitorio del Distrito Siete, tres semanas atrás. La lluvia de medianoche tamborileaba contra los cristales rotos de la persiana mientras ella descansaba la mejilla sobre su pecho desnudo. Elena sostenía entre los dedos el colgante de piedra oscura que Caine le había regalado, al tiempo que acariciaba las estrías microscópicas con la yema del pulgar.
+La recordó en la penumbra del cuarto del Distrito Siete, semanas antes del asalto. La lluvia de medianoche golpeaba las rendijas de la persiana mientras ella descansaba la mejilla en su pecho. Elena sostenía entre los dedos la cuenta que Caine le había entregado, pasando la yema del pulgar por las estrías del mineral.
 
-*«En mi pueblo los árboles son tan anchos que una familia entera cabe de pie en una sola grieta de la corteza sin tocar los bordes»*, le había susurrado con una sonrisa triste, con la vista en la pared como si viera a través de los ladrillos. *«Y los arroyos huelen a hierro puro porque bajan de las minas altas. Si alguna vez te pierdes en un sitio donde el cielo no se ve, Leo, nunca intentes subir a los riscos. Tienes que seguir el agua meridional. Siempre hacia el sur, hasta donde el esqueleto del gran animal descansa en la arena. Allí es donde atracan los barcos grandes.»*
+*«En mi tierra los árboles son tan anchos que una familia entera cabe de pie en una sola hendidura del tronco sin rozar los bordes»*, le había dicho con una sonrisa cansada, mirando el tabique como si atravesara los ladrillos. *«Y los arroyos huelen a hierro porque bajan de las sierras altas. Si alguna vez te pierdes donde no alcances a ver el cielo, Leo, no trepes a los riscos. Sigue el agua del valle. Siempre hacia el sur, hasta donde el esqueleto del gran animal descansa en la orilla. Allí es donde atracan los barcos de madera.»*
 
-A Leo se le cortó la respiración.
+A Leo se le detuvo el pulso.
 
-El corazón le dio un vuelco salvaje contra el esternón. Las lágrimas de rabia y desamparo le empañaron la vista, pero no parpadeó.
+El corazón le dio una sacudida contra las costillas. Las lágrimas de rabia y desamparo le enturbiaron la mirada, pero no parpadeó.
 
-No eran cuentos inventados para dormir. No eran fábulas en homenaje a las ausencias de Caine.
+Aquellas advertencias encerraban una lógica rigurosa. Elena jamás había hablado por matar el tiempo o aliviar la espera.
 
-Durante cuatro años y medio, mientras compartían el alquiler precario, la compra de los sábados y el frío de la estufa de gas, Elena le había trazado las instrucciones exactas para cruzar este infierno verde. Sabía que su pasado la alcanzaría. Comprendía que la cacería terminaría por presentarse en el rellano de su escalera. Y le había dejado un mapa grabado en la memoria para que pudiera encontrarla cuando el mundo saltara por los aires.
+Durante cuatro años y medio, mientras pagaban el alquiler de la buhardilla, compraban harina en el mercado y esquivaban la humedad del invierno, Elena le había dictado el camino exacto a través de esta maraña de árboles. Sabía que los rastreadores darían con ella. Comprendía que la batida acabaría llamando a su puerta. Y le había dejado una ruta en la memoria para que pudiera seguir su rastro cuando todo se viniera abajo.
 
-Un crujido de botas sobre el pasto corto interrumpió el torrente de recuerdos.
+Un crujido de pisadas sobre la hierba interrumpió el recuerdo.
 
-El anfitrión regresaba del claro con un brazado de ramas secas y un leño grueso bajo la axila. Tiró la carga junto al hogar con un golpe sordo que levantó ceniza en el suelo. Se detuvo frente a Leo; examinó la rigidez de su cuello y las falanges de su extremidad zurda apretadas contra el dintel.
+El cazador regresaba del claro con un brazado de ramas y un leño bajo el brazo. Arrojó la carga junto al hogar con un golpe que levantó ceniza en el suelo. Se detuvo ante Leo; midió la postura de su cuello y los dedos de la mano izquierda apoyados en el dintel.
 
-Leo no apartó los ojos de las copas del sur.
+Leo mantuvo las pupilas fijas en el horizonte del sur.
 
-—El gran animal caído en la arena —dijo Leo con la voz rasposa pero sin temblor—. El estuario donde atracan los barcos. ¿Dónde está?
+—El gran animal caído en la orilla —dijo Leo con la voz rasposa pero sin titubear—. El sitio donde atracan las barcas. ¿Dónde queda?
 
-El anciano dejó caer los brazos a los costados. Sus pupilas grises registraron la postura del muchacho: el peso asentado sobre los dos talones, la boca cerrada con tomas cortas por las fosas nasales y la barbilla alta, sin rastro del administrativo asustado que había vomitado bilis en las tablas dos horas antes.
+El anciano dejó caer los brazos a los costados. Sus ojos grises evaluaron la planta del joven: el peso repartido en los dos talones, la boca cerrada respirando por las narinas y la barbilla alta, sin rastro del oficinista deshecho que había vomitado bilis sobre las tablas al amanecer.
 
-El cazador soltó un bufido seco por la nariz, entre la resignación y el desdén.
+El hombre soltó un resoplido seco, entre la resignación y el desprecio.
 
-—A cuatro jornadas de marcha río abajo si no te quiebras el otro brazo —dijo el hombre, dándose la vuelta hacia el fuego para avivar las brasas—. Pero si sales de este claro sin dominar el paso sigiloso, los carroñeros te olerán antes de que dejes atrás el primer vado.
+—A cuatro jornadas de marcha siguiendo el cauce si no te quiebras la otra muñeca —dijo, dándose la vuelta para atizar las brasas con una rama—. Pero si sales de este claro sin amaestrar la pisada, los carroñeros te huelen antes de que cruces el primer vado.
 
-Cogió la calabaza de agua y se la tendió a Leo con un gesto tajante.
+Le tendió la cantimplora con un ademán tajante.
 
-—Bebe —ordenó con sequedad—. Descansa lo que queda de tarde. Mañana vas a aprender a moverte sin hacer ruido. O te dejaré tirado en la espesura para que te devoren los gusanos.
+—Bebe —ordenó—. Reposa lo que queda de sol. Mañana vas a aprender a moverte sin quejarte. O te dejaré tirado en la maleza para que te limpien los cuervos.
+
+Leo recibió el recipiente con la mano izquierda y bebió sin apartar los ojos del valle.
+
+El anciano avivó el fuego con una astilla de pino y se sentó en el tocón, de espaldas a la entrada. Mientras la llama prendía en las ramillas, clavó la vista en la lumbre y trabó los dientes en silencio estricto, guardando el eco del nombre de Caine para sus adentros, donde nadie pudiera oírlo.
