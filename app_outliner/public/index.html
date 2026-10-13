@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Extramuros — Escaleta & Corcho de Escenas</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&family=Lora:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="app" class="app-layout">
+    <!-- Header Principal -->
+    <header class="app-header">
+      <div class="header-brand">
+        <div class="brand-crest">⚔️</div>
+        <div>
+          <h1 class="brand-title">EXTRAMUROS</h1>
+          <span class="brand-subtitle">Escaleta, Corcho de Escenas & Manuscrito</span>
+        </div>
+      </div>
+
+      <!-- Barra de navegación de vistas -->
+      <div class="view-toggles">
+        <button id="btn-view-corkboard" class="view-btn active" data-view="corkboard">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/></svg>
+          Corcho (Index Cards)
+        </button>
+        <button id="btn-view-timeline" class="view-btn" data-view="timeline">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="2" x2="12" y2="22"/><circle cx="12" cy="6" r="3"/><circle cx="12" cy="18" r="3"/></svg>
+          Escaleta de Sucesos
+        </button>
+        <button id="btn-view-manuscript" class="view-btn" data-view="manuscript">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg>
+          Lector de Manuscrito
+        </button>
+      </div>
+
+      <!-- Métricas globales del libro -->
+      <div class="header-metrics">
+        <div class="metric-chip">
+          <span class="metric-label">Capítulos</span>
+          <span id="metric-chapters" class="metric-val">0</span>
+        </div>
+        <div class="metric-chip">
+          <span class="metric-label">Escenas</span>
+          <span id="metric-scenes" class="metric-val">0</span>
+        </div>
+        <div class="metric-chip highlight">
+          <span class="metric-label">Palabras Totales</span>
+          <span id="metric-words" class="metric-val">0</span>
+        </div>
+      </div>
+    </header>
+
+    <!-- Contenido central con Barra Lateral + Canvas de Trabajo -->
+    <div class="main-body">
+      <!-- Sidebar / Árbol de Navegación estilo Scrivener -->
+      <aside class="sidebar">
+        <div class="sidebar-header">
+          <span class="sidebar-title">MANUSCRITO</span>
+          <button id="btn-refresh" class="icon-btn" title="Recargar datos locales">🔄</button>
+        </div>
+
+        <nav id="chapters-nav" class="nav-tree">
+          <!-- Generado dinámicamente con JS -->
+        </nav>
+
+        <!-- Filtro rápido de personajes -->
+        <div class="sidebar-section">
+          <span class="section-title">FILTRAR PERSONAJES</span>
+          <div id="character-pills" class="pills-container">
+            <!-- Píldoras dinámicas -->
+          </div>
+        </div>
+
+        <!-- Meta info de canon -->
+        <div class="sidebar-footer">
+          <div class="status-indicator">
+            <span class="status-dot live"></span>
+            <span>Sincronizado con disco local</span>
+          </div>
+        </div>
+      </aside>
+
+      <!-- Panel de Contenido Principal -->
+      <main class="content-viewport">
+        <!-- Barra de herramientas superior -->
+        <div class="viewport-toolbar">
+          <div class="active-chapter-title">
+            <span id="current-chapter-tag" class="tag-badge">CAPÍTULO SELECCIONADO</span>
+            <h2 id="current-chapter-heading">Todos los capítulos</h2>
+          </div>
+          <div class="toolbar-actions">
+            <input type="text" id="filter-search" class="search-input" placeholder="Buscar palabras clave, sucesos, citas...">
+            <button id="btn-toggle-all" class="btn-subtle">Ver Todo</button>
+          </div>
+        </div>
+
+        <!-- 1. VISTA CORCHO (CORKBOARD) -->
+        <section id="view-corkboard" class="view-container active">
+          <div id="corkboard-grid" class="corkboard-grid">
+            <!-- Tarjetas de fichas index cards inyectadas aquí -->
+          </div>
+        </section>
+
+        <!-- 2. VISTA ESCALETA DE SUCESOS (TIMELINE / OUTLINE) -->
+        <section id="view-timeline" class="view-container">
+          <div id="timeline-container" class="timeline-container">
+            <!-- Nodos de línea temporal y sucesos inyectados aquí -->
+          </div>
+        </section>
+
+        <!-- 3. VISTA MANUSCRITO / SPLIT VIEW (LECTOR COMPLETO) -->
+        <section id="view-manuscript" class="view-container">
+          <div class="manuscript-split">
+            <div class="manuscript-toc">
+              <h3>Índice del Capítulo</h3>
+              <div id="manuscript-toc-list" class="toc-list"></div>
+              
+              <div class="manuscript-metadata-box">
+                <h4>Personajes Presentes</h4>
+                <div id="manuscript-pers-list" class="mini-tag-list"></div>
+
+                <h4 style="margin-top: 14px;">Tramas y Arcos</h4>
+                <div id="manuscript-tramas-list" class="mini-tag-list"></div>
+              </div>
+            </div>
+            <article id="manuscript-reader" class="manuscript-reader">
+              <!-- Texto formateado del capítulo -->
+            </article>
+          </div>
+        </section>
+      </main>
+
+      <!-- Panel Inspector Lateral Derecho (Detalle de Tarjeta) -->
+      <aside id="inspector-panel" class="inspector-panel collapsed">
+        <div class="inspector-header">
+          <span class="inspector-title">FICHA DE ESCENA</span>
+          <button id="btn-close-inspector" class="icon-btn">✕</button>
+        </div>
+        <div class="inspector-body">
+          <div class="inspector-group">
+            <label>Título de Escena</label>
+            <h3 id="insp-title">Título</h3>
+          </div>
+          <div class="inspector-group">
+            <label>Capítulo Perteneciente</label>
+            <div id="insp-chapter" class="insp-val">Capítulo</div>
+          </div>
+          <div class="inspector-group stats-row">
+            <div>
+              <label>Palabras</label>
+              <div id="insp-words" class="insp-stat">0</div>
+            </div>
+            <div>
+              <label>Lectura Estimada</label>
+              <div id="insp-reading-time" class="insp-stat">0 min</div>
+            </div>
+          </div>
+          <div class="inspector-group">
+            <label>Sinopsis / Apertura</label>
+            <p id="insp-synopsis" class="insp-text"></p>
+          </div>
+          <div class="inspector-group">
+            <label>Texto Completo de la Escena</label>
+            <div id="insp-raw-text" class="insp-fulltext"></div>
+          </div>
+        </div>
+      </aside>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

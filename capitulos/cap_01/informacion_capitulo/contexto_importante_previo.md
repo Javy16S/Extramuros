@@ -1,4 +1,4 @@
-﻿# Contexto Importante Previo - Capítulo 1: La Fractura
+# Contexto Importante Previo - Capítulo 1: La Fractura
 
 *   **Punto de partida:** Leo Vanes (24 años), ex-administrativo metódico, arrastra el trauma de la muerte de sus padres a los 18 años y la desaparición inexplicable de su abuelo Caine meses atrás, caso que la policía archivó.
 *   **La pérdida de Elena:** Elena, su pareja y su único apoyo vital, desapareció de su piso hace una semana sin llevarse medicación, tarjetas ni ropa, salvo lo que llevaba puesto.

@@ -1,0 +1,8 @@
+{
+  "userIgnoreFilters": [
+    "__pycache__/",
+    "scripts/",
+    "app_outliner/"
+  ],
+  "newLinkFormat": "relative"
+}

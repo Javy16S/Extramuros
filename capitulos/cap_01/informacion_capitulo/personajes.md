@@ -1,4 +1,4 @@
-﻿# Personajes del Capítulo 1: La Fractura
+# Personajes del Capítulo 1: La Fractura
 
 *   **Leo Vanes (24 años):** Protagonista. Analítico, reservado y desbordado por el dolor y la obsesión metódica. Portador de la pulsera forjada por su abuelo.
 *   **Inspector Garrido:** Policía veterano y pasota de la comisaría local. Despacha el caso de Elena como "marcha voluntaria".
