@@ -77,7 +77,7 @@ Leo retrocedió un paso; recorrió el suelo con la mirada, rastreando algo con l
 
 De la penumbra de aquella puerta bajaron dos sujetos.
 
-Vestían trajes oscuros de corte formal, sin corbata, de un tejido mate. Medían cerca de un metro noventa cada uno, con hombros anchos y una postura recta, implacable. La piel de ambos era blanca, tensa sobre los pómulos. Sus ojos no parpadeaban; las pupilas estaban dilatadas por completo a pesar del resplandor directo y absorbían la luz sin contraerse. Avanzaron despacio, sin mirarse, con la soltura de quien ya había hecho esto cientos de veces.
+Iban trajeados, sin corbata, de un tejido mate. Medían cerca de un metro noventa cada uno, con hombros anchos y una postura recta, implacable. La piel de ambos era blanca, tensa sobre los pómulos. Sus ojos no parpadeaban; sus pupilas se mostraban como perlas brillantes dilatadas. Avanzaron despacio, sin mirarse, con la soltura de quien ya había hecho esto cientos de veces.
 
 —Leo Vanes —dijo el de la izquierda. Su voz era firme y uniforme.
 
@@ -99,6 +99,88 @@ Cubrieron su cabeza en una lona y lo cargaron al camión cual animal de granja.
 
 Despertó varias horas después, en un lugar que no reconocía y con un dolor que no paraba de subirle por todo el cuerpo.
 
-Tenía el trapecio hinchado y una articulación fracturada. Estaba en una sala hecha completamente de cemento. Sentado en una silla anclada al cemento, observaba el habitáculo.
+Tenía el trapecio hinchado y una articulación fracturada. Estaba en una sala hecha completamente de cemento. Sentado en una silla anclada al suelo, observaba el habitáculo con las muñecas atadas.
 
+No eran más de cuatro metros cuadrados y, frente a él, los dos hombres trajeados le esperaban en pie.
 
+El individuo de la izquierda tenía la ceja marcada por una cicatriz que le ocupaba media cara, parecía hecha por alguna bestia salvaje. El de la derecha esperaba con ambos brazos atrás de la espalda. 
+
+—¿Dónde estoy? —preguntó con la garganta reseca—. ¿Qué es esto? Si es por la denuncia de Elena...
+
+—Silencio —dijo el sujeto de la cicatriz. No alzó la voz—. No estás en posición de hacer preguntas, Leo Vanes. Has sido retenido en esta sala y nadie sabe que estás aquí. Ya sabemos de los reportes que has investigado y el esfuerzo policial como respuesta. Nadie va a buscarte. Si no cooperas, morirás aquí en sufrimiento y para cualquiera simplemente te habrás ido de la ciudad.
+
+— ¿Fuisteis vosotros? — Esbozó Leo, mientras la Rabia se apoderaba de sus emociones — ¿Qué queríais de Elena? ¿Qué queréis de mi?
+
+— He dicho silencio, si lo repito una vez más, no volverás a ver la luz — Diría el hombre de la cicatriz mientras el otro hombre aprovecharía y apoyaría ambas manos con contundencia sobre la mesa, adoptando una postura intimidante. 
+
+A Leo se le secó la boca y El sudor frío le resbaló por la nuca. El grosor del muro delataba un sótano profundo o una instalación clandestina, y por la forma de actuar quedaba claro que eran profesionales.
+
+—Primera pregunta —dijo con tono monótono—. ¿Dónde está Caine Vanes?
+
+El nombre de su abuelo hizo que Leo se tensara contra el respaldo.
+
+—¿Caine? —respondió, desconcertado—. Desapareció hace seis meses. El caso está cerrado en el Distrito Siete. La policía archivó la investigación...
+
+Apuntaría en su registro  el desconocimiento del suceso por parte de Leo, pero no diría nada, y volvería a mirarle incisivamente.
+
+—¡Le digo la verdad! Tenía lagunas de memoria, apenas salía a la calle y pasaba las tardes trazando planos en cuadernos viejos. ¿Qué tiene que ver él con esto?
+
+Ninguno de los dos captores contestó.
+
+El hombre que llevaba el registro pasó de folio.
+
+—Segunda pregunta. ¿Dónde se oculta Haimara?
+
+Leo pestañeó, aturdido. Se hizo el silencio en la sala por unos segundos.
+
+—¿Haimara? —repitió, con el ceño fruncido—. ¿Quién es Haimara? Jamás he oído ese nombre.
+
+El hombre de la cicatriz metió la mano en el forro interior y arrojó una fotografía sobre la mesa de acero.
+
+En la imagen, tomada desde un ángulo elevado con teleobjetivo, aparecía Elena al salir del portal con una bolsa de la compra y su cazadora oscura.
+
+—Sabemos que compartís demasiado tiempo juntos —dijo el captor—. Suficiente para que sepas dónde está.
+
+A Leo se le durmieron los dedos de golpe. La sangre pareció retirársele de la cara.
+
+—¿Elena? —la voz le tembló—. Se llama Elena. Elena Kalev. Estudia botánica en la facultad, no tiene nada que ver con lo que buscan...
+
+El hombre apuntaría de nuevo algo en el registro que llevaba.
+
+—¡No sé dónde está esa tal Haimara, pero es un error! —gritó Leo contra los grilletes—. ¡Elena se marchó hace cinco días sin avisar! ¡Fui a la policía y puse una denuncia! ¡No sé adónde demonios ha ido!
+
+Ambos trajeados se mirarían.
+
+—No coopera— argumentó el de la cicatriz, mientras se calzaba unos guantes de goma negra. —Procederemos con otros métodos.
+
+—Lo hemos intentado, Leo Vanes. Este es el resultado de tus propias acciones. 
+
+La presión y el miedo se apoderaba de Leo, mientras veía como colocaban un maletín sobre la mesa de metal y al abrirlo se veían todo tipo de herramientas de tortura. No importaba lo mucho que quisiera gritar, ningún sonido podría atravesar esas paredes blindadas.
+
+Comenzó a resistirse, forcejeando como loco contra las esposas y la silla atada al suelo. Nada funcionaba y aquellos hombres no se detenían, ya estaba todo el sistema de presión preparado. 
+
+Bajo la asfixia del encierro, un recuerdo sepultado de la buhardilla de Caine brotó en su memoria: su abuelo trazaba con carboncillo un mapa extrañamente preciso, de unos bosques de los que nunca le había hablado. Se veían tan bonitos que 
+
+*¡QUE ALGUIEN ME SAQUE DE AQUÍ!*, pensó con los párpados apretados. *¡Adonde sea, pero fuera de aquí!*
+
+Aquel paisaje que imaginó de repente le llegó a la mente como si lo estuviera viendo en persona, casi como un recuerdo propio.
+
+*¡¿Por qué estoy viendo esto?! ¿Acaso son mis últimos momentos? Ojalá pudiera estar allí ahora mismo...* 
+
+La muñeca izquierda ardió y la pulsera adoptó un brillo purpúreo sutil por todo el pedrusco.
+
+La gema oscura comenzó a provocarle calor en todo el cuerpo a niveles extremos.
+
+El brillo púrpura sutil se transformó a un brillo verdoso extremadamente intenso que inundó toda la habitación.
+
+Ambos sujetos se alteraron inmediatamente.
+
+La temperatura en la sala cayó de repente. La lámpara del techo parpadeó y toda la habitación parecía comenzar a temblar.
+
+—¡Mátalo! —gritó el de la cicatriz y mientras se metía la mano bajo la chaqueta para desenfundar—. ¡Dispara ya! — Contestó el otro hombre, desesperado.
+
+El resplandor emitido por la pulsera comenzó a parecer una llamarada cegadora que se expandió por todo el sótano. Todo se volvió blanco y un estruendo ensordecedor sumado a una explosión en la posición de Leo mandó a volar a ambos sujetos. 
+
+El brillo cegador comenzó a desaparecer.
+
+La mesa había quedado destrozada, la silla fundida y desprendida del suelo, ambos trajeados desmayados contra la pared y Leo ya no estaba en la sala.
