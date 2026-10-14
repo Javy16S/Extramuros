@@ -4,7 +4,7 @@ La carpeta del expediente pesaba apenas ciento cincuenta gramos. Demasiado poco 
 
 Leo la dejó caer sobre el escritorio empotrado de su habitación, entre los montones infinitos de documentos y archivos entre los que se encontraban planos de la zona, guías de autobuses interurbanos y fotocopias de informes meteorológicos. Su piso estaba muy desordenado, se había pasado días buscando pistas que le llevaran a encontrar a Elena, su pareja.  Aquel expediente con sello violeta llevaba escrito lo siguiente *Diligencia archivada en precario. Causa: Abandono voluntario* 
 
-—Incompetentes — dijo para sus adentros. La palabra contenía todo el odio acumulado en varios días de esfuerzos sin resultado. Cerró los ojos por un instante, y apareció en su mente la escena que había vivido horas cuatro horas atrás, en el repugnante despacho del inspector Garrido.
+—Incompetentes — dijo para sus adentros. La palabra contenía todo el odio acumulado en varios días de esfuerzos sin resultado. Cerró los ojos por un instante, y apareció en su mente la escena que había vivido cuatro horas atrás, en el repugnante despacho del inspector Garrido.
 
 
 ------------------------------------------------------------------------
@@ -20,11 +20,11 @@ Hubo un segundo de silencio sepulcral donde Leo, con semblante atónito, no ten�
 
 —Lo siento, chaval, pero la gente se harta. Lo veo cada semana. Muchachas aplicadas, universitarias de notas impecables, parejas idílicas de anuncio... Y un martes por la tarde se agobian por los exámenes, por la rutina o porque descubren que no quieren pasar el resto de su juventud frente al televisor tumbadas en el sofá. Bajan a por pan, se suben al primer autobús que pasa y se cambian el nombre en una provincia vecina.
 
-—¿Sin ropa? —El estrés de Leo se sentía en el ambiente—. He contado sus abrigos. Faltan las botas impermeables, un par de vaqueros y la cazadora oscura que llevaba puesta en aquella salida. Todo lo demás sigue en el armario. Incluso su libreta de notas de campo estaba escondida bajo la cama. Es imposible que planificara marcharse.
+—¿Sin ropa? — Dijo Leo hundiendo los brazos con los puños cerrados en los bolsillos, impotente de mostrar pruebas que para él eran evidentes y no tenían efecto en el inspector—. He contado sus abrigos. Faltan las botas impermeables, un par de vaqueros y la cazadora oscura que llevaba puesta en aquella salida. Todo lo demás sigue en el armario. Incluso su libreta de notas de campo estaba escondida bajo la cama. Es imposible que planificara marcharse.
 
 —Tal vez tenía prisa —el policía se encogió de hombros—. O la esperaban en un coche a la vuelta de la esquina No hay cerraduras forzadas en su casa. No hay marcas de arrastre ni cristales rotos por el salón. Las cámaras de la calle de Los colibríes la grabaron sola a las 18:42. Con las manos en los bolsillos, sin nadie detrás. Se marchó porque quiso, muchacho. Y la ley no nos permite movilizar una unidad de búsqueda ni ordenar batidas en los descampados para perseguir a una ciudadana mayor de edad que decide apagar el móvil. Ya lo intentamos por unos días, pero no hay ningún tipo de indicio más que una ausencia voluntaria, chico.
 
-Leo daría un golpe a la mesa y se levantaría de la silla —Lleva cinco días sin dar señales. ¿Y si le ocurrió algo en los senderos forestales?
+Leo dio un golpe en la mesa y se levantó de la silla —Lleva cinco días sin dar señales. ¿Y si le ocurrió algo en los senderos forestales?
 
 —Una patrulla recorrió el perímetro del parque el jueves por la mañana —zanjó Garrido; desde la silla, sin inmutarse—. No encontraron nada. Ni una prenda rasgada, ni pisadas sospechosas. El protocolo es claro: Nivel Uno de archivo. Si ingresa en un hospital o un control rutinario de carreteras le pide la documentación, el sistema cruzará los datos y te mandaremos un aviso. Hasta entonces, vuelve a casa. Así que relájate, duerme un poco. Y si tienes dos dedos de frente, empieza a asimilar que a veces las personas deciden sin más que ya no te quieren en sus vidas.
 
@@ -109,9 +109,9 @@ El individuo de la izquierda tenía la ceja marcada por una cicatriz que le ocup
 
 —Silencio —dijo el sujeto de la cicatriz. No alzó la voz—. No estás en posición de hacer preguntas, Leo Vanes. Has sido retenido en esta sala y nadie sabe que estás aquí. Ya sabemos de los reportes que has investigado y el esfuerzo policial como respuesta. Nadie va a buscarte. Si no cooperas, morirás aquí en sufrimiento y para cualquiera simplemente te habrás ido de la ciudad.
 
-— ¿Fuisteis vosotros? — Esbozó Leo, mientras la Rabia se apoderaba de sus emociones — ¿Qué queríais de Elena? ¿Qué queréis de mi?
+— ¿Fuisteis vosotros? — Esbozó Leo, mientras sus puños se apretaban y su mandíbula se tensaba tanto que comenzaba a temblar— ¡¿Qué queríais de Elena?! ¡¿Qué queréis de mi?!
 
-— He dicho silencio, si lo repito una vez más, no volverás a ver la luz — Diría el hombre de la cicatriz mientras el otro hombre aprovecharía y apoyaría ambas manos con contundencia sobre la mesa, adoptando una postura intimidante. 
+— He dicho silencio, si lo repito una vez más, no volverás a ver la luz — dijo el de la cicatriz. Su compañero apoyó ambas manos con contundencia sobre la mesa, inclinándose hacia Leo mirándolo fijamente a apenas medio metro de distancia.
 
 A Leo se le secó la boca y El sudor frío le resbaló por la nuca. El grosor del muro delataba un sótano profundo o una instalación clandestina, y por la forma de actuar quedaba claro que eran profesionales.
 
@@ -121,7 +121,7 @@ El nombre de su abuelo hizo que Leo se tensara contra el respaldo.
 
 —¿Caine? —respondió, desconcertado—. Desapareció hace seis meses. El caso está cerrado en el Distrito Siete. La policía archivó la investigación...
 
-Apuntaría en su registro  el desconocimiento del suceso por parte de Leo, pero no diría nada, y volvería a mirarle incisivamente.
+Anotó en su registro el desconocimiento del suceso por parte de Leo, pero no diría nada, y volvería a mirarle incisivamente.
 
 —¡Le digo la verdad! Tenía lagunas de memoria, apenas salía a la calle y pasaba las tardes trazando planos en cuadernos viejos. ¿Qué tiene que ver él con esto?
 
@@ -145,21 +145,23 @@ A Leo se le durmieron los dedos de golpe. La sangre pareció retirársele de la 
 
 —¿Elena? —la voz le tembló—. Se llama Elena. Elena Kalev. Estudia botánica en la facultad, no tiene nada que ver con lo que buscan...
 
-El hombre apuntaría de nuevo algo en el registro que llevaba.
+El agente anotó un nuevo trazo en el folio que llevaba.
 
 —¡No sé dónde está esa tal Haimara, pero es un error! —gritó Leo contra los grilletes—. ¡Elena se marchó hace cinco días sin avisar! ¡Fui a la policía y puse una denuncia! ¡No sé adónde demonios ha ido!
 
-Ambos trajeados se mirarían.
+Ambos trajeados se miraron.
 
 —No coopera— argumentó el de la cicatriz, mientras se calzaba unos guantes de goma negra. —Procederemos con otros métodos.
 
 —Lo hemos intentado, Leo Vanes. Este es el resultado de tus propias acciones. 
 
-La presión y el miedo se apoderaba de Leo, mientras veía como colocaban un maletín sobre la mesa de metal y al abrirlo se veían todo tipo de herramientas de tortura. No importaba lo mucho que quisiera gritar, ningún sonido podría atravesar esas paredes blindadas.
+A Leo se le cortó el aire a mitad de la garganta. Buscó los ojos del hombre que sostenía la carpeta, esperando algo de duda, pero no la encontró, simplemente alineó los folios en los que apuntaba contra la base de la mesa, esperando a que su compañero actuara.
 
-Comenzó a resistirse, forcejeando como loco contra las esposas y la silla atada al suelo. Nada funcionaba y aquellos hombres no se detenían, ya estaba todo el sistema de presión preparado. 
+Comenzó a resistirse, forcejeando como loco contra las esposas y la silla atada al suelo. — ¡Que no sé quién es! ¡Míreme, no tengo nada que esconder! — Nada funcionaba y aquellos hombres no se detenían, ya estaba todo el sistema de presión preparado. 
 
-Bajo la asfixia del encierro, un recuerdo sepultado de la buhardilla de Caine brotó en su memoria: su abuelo trazaba con carboncillo un mapa extrañamente preciso, de unos bosques de los que nunca le había hablado. Se veían tan bonitos que 
+El del registro no levantó la vista. El otro apoyó un maletín de aluminio sobre la mesa y liberó los dos cierres de presión; el clic metálico sonó tan nítido en el silencio que a Leo se le encogió el vientre en un calambre frío.
+
+Bajo la asfixia del encierro, un recuerdo sepultado de la buhardilla de Caine brotó en su memoria: su abuelo trazaba con carboncillo un mapa extrañamente preciso, de unos bosques de los que nunca le había hablado, tan densos y ajenos a la ciudad que parecían pertenecer a otro mundo
 
 *¡QUE ALGUIEN ME SAQUE DE AQUÍ!*, pensó con los párpados apretados. *¡Adonde sea, pero fuera de aquí!*
 
@@ -169,18 +171,18 @@ Aquel paisaje que imaginó de repente le llegó a la mente como si lo estuviera 
 
 La muñeca izquierda ardió y la pulsera adoptó un brillo purpúreo sutil por todo el pedrusco.
 
-La gema oscura comenzó a provocarle calor en todo el cuerpo a niveles extremos.
+La gema oscura le provocó calor en todo el cuerpo a niveles extremos en cuestión de décimas de segundo.
 
-El brillo púrpura sutil se transformó a un brillo verdoso extremadamente intenso que inundó toda la habitación.
+El destello púrpura sutil se transformó a un resplandor verdoso extremadamente intenso que inundó toda la habitación.
 
 Ambos sujetos se alteraron inmediatamente.
 
 La temperatura en la sala cayó de repente. La lámpara del techo parpadeó y toda la habitación parecía comenzar a temblar.
 
-—¡Mátalo! —gritó el de la cicatriz y mientras se metía la mano bajo la chaqueta para desenfundar—. ¡Dispara ya! — Contestó el otro hombre, desesperado.
+—¡Mátalo! —gritó el de la cicatriz mientras se metía la mano bajo la chaqueta para desenfundar—. ¡Dispara ya! — Contestó el otro hombre, desesperado.
 
-El resplandor emitido por la pulsera comenzó a parecer una llamarada cegadora que se expandió por todo el sótano. Todo se volvió blanco y un estruendo ensordecedor sumado a una explosión en la posición de Leo mandó a volar a ambos sujetos. 
+El resplandor emitido por la pulsera se transformó en una llamarada cegadora que se expandió por todo el sótano. Todo se volvió blanco y un estruendo ensordecedor sumado a una explosión en la posición de Leo mandó a volar a ambos sujetos. 
 
-El brillo cegador comenzó a desaparecer.
+El brillo cegador desapareció lentamente.
 
 La mesa había quedado destrozada, la silla fundida y desprendida del suelo, ambos trajeados desmayados contra la pared y Leo ya no estaba en la sala.
