@@ -54,27 +54,29 @@ Se elimina cualquier metáfora simplista o caricaturesca («jaulas», «corrales
 
 ## 4. PUNTOS EN DEBATE Y EVALUACIÓN TÉCNICA
 
-### Debate A: El Tiempo de Instrucción de Leo con Mason
-Se evalúa si Leo pasa solo **2-3 días** en la cabaña o si se amplía a **3-4 semanas (aproximadamente un mes)** mediante una elipsis funcional.
+### Debate A: El Tiempo de Instrucción de Leo con Mason y la Travesía Antártica de Elena
+Se acuerda ampliar la estancia en la cabaña a **3-4 semanas (aproximadamente un mes)** mediante una elipsis funcional, sustentada en la realidad geográfica y médica del viaje:
 
-* **Argumentos a favor de ampliar a 3-4 semanas:**
-  * **Realismo médico:** La fractura del carpo de la muñeca derecha (Capítulo 1) es inútil a los 3 días. En un mes, acelerado por la biología hiperoxigenada y la médula densa de las bestias, genera un callo óseo firme y funcional.
-  * **Adaptación fisiológica:** Da tiempo real a que los pulmones de Leo se adapten a la presión y desarrolle un Flujo basal de Clase D creíble, dejando de ser un civil torpe.
-  * **Peso del mentor:** Mason gana dimensión dramática; ve la tenacidad de Caine en Leo y la despedida se siente ganada.
-* **Manejo de la urgencia por Elena:** 
-  * Se justifica porque Leo intenta marcharse al tercer día y colapsa a los cincuenta metros por la fractura y el ahogo. Mason le hace entender que salir en ese estado es un suicidio seguro. La espera de Leo es una agonía de impotencia forzada mientras el hueso pega.
-* **Coherencia con Elena:** Elena, como nativa y superviviente nata, pasa ese mes eludiendo al Gobierno en los bosques del sur, hasta que el cerco militar logra arrinconarla hacia Puerto Raíz coincidiendo con la llegada de Leo.
+* **La ruta marítima de Elena (Haimara) desde España:**
+  * Elena no vuela en aerolíneas comerciales ni sale por puertos civiles de Europa (lo que dejaría rastro ante la policía o el Gobierno).
+  * Viaja de forma clandestina como polizona por etapas desde el norte de España hacia la **Antártida**, el único continente bajo control militar y científico absoluto del Gobierno en las Sombras.
+  * En la base antártica, se infiltra en la sentina de un gran buque militar de carga antes de que este zarpe a través del océano austral y el cinturón de tormentas («El Fin del Mundo») hacia las costas de Extramuros.
+  * Esta travesía de miles de kilómetros en alta mar dura **entre dos y tres semanas**.
+* **Por qué Leo permanece ese mes con Mason (Reacción estrictamente humana):**
+  * **Impotencia física real:** Leo es un chico normal de 24 años que tiene la muñeca del carpo partida en pedazos y quemaduras profundas; no puede ni sostener una cantimplora sin doblarse del dolor. A los tres días intenta marcharse a pie por pura desesperación, pero a los cien metros el dolor y la asfixia del aire hiperoxigenado lo tumban en el fango. Comprende con rabia que si sale en ese estado, morirá en la primera zanja antes de encontrar a nadie.
+  * **Convalecencia y terquedad:** Su estancia de un mes no es un retiro voluntario ni un entrenamiento místico; es una tortura de impotencia donde traga la comida de Mason y aguanta el dolor hasta que el hueso pega y genera callo firme, mientras sus pulmones se adaptan al aire exterior.
+* **Sincronización milimétrica:** El buque en el que viaja Elena atraca en Puerto Raíz casi al mismo tiempo que Leo completa su recuperación y baja las 4 jornadas de marcha hacia el sur. Elena desembarca, salta la alarma de «Alta traición», se clavan los carteles con tinta de hace apenas 2-3 días y Leo entra en el asentamiento justo cuando el cerco militar está caliente.
 
 ### Debate B: La Resolución del Arranque del Bastión Móvil
-Se rechaza categóricamente que Leo arranque el Bastión desatando más Flujo que Makusi, para no caer en el tropo de «el elegido» y respetar la jerarquía biológica de Extramuros.
+Se rechaza categóricamente que Leo arranque el Bastión desatando más Flujo que Makusi, para evitar el tropo de «el elegido» y respetar la jerarquía biológica de Extramuros frente a un civil.
 
 * **Alternativa 1 (Coste biológico extremo para Makusi):**
-  * Nina da el contacto, pero el embrague está bloqueado en frío. Makusi desata todo su Caudal muscular para vencerlo, pero el sobreesfuerzo le provoca un desgarro grave en los tendones de la pierna.
+  * Nina da el contacto, pero el embrague está agarrotado en frío. Makusi desata todo su Caudal muscular para vencerlo, pero el sobreesfuerzo le provoca un desgarro grave en los tendones de la pierna.
   * Arrancan y escapan, pero Makusi queda temporalmente mermado, obligando a Leo y Nina a turnarse en los mandos y el mantenimiento durante la travesía.
-* **Alternativa 2 (Músculo de Makusi + Ojo analítico de Leo):**
-  * Makusi empuja con fuerza colosal, pero un trinquete o seguro militar de sobrepresión está trabado por la inclinación del chasis.
-  * Leo no usa fuerza bruta: identifica el fallo mecánico bajo presión y utiliza la barra de desguace para hacer palanca en el varillaje en el segundo exacto en que Makusi empuja.
-  * Resalta el valor de Leo como analista civil que sabe pensar bajo fuego.
+* **Alternativa 2 (Músculo de Makusi + Desbloqueo mecánico conjunto):**
+  * Makusi empuja con fuerza colosal, pero un seguro militar de sobrepresión o un trinquete está trabado por la inclinación del chasis.
+  * Leo, manteniendo la cabeza fría en medio del pánico de la cabina, ayuda haciendo palanca en el varillaje con la barra de hierro de Makusi en el segundo exacto en que este descarga su peso en el pedal.
+  * Cooperación física y lógica entre desconocidos bajo fuego.
 
 ---
 
