@@ -1,63 +1,61 @@
-# 🧬 PROPUESTA DE DISEÑO (NO DEFINITIVA): SISTEMA DE FLUJO Y HABILIDAD DE HAIMARA
+# 🧬 DOCUMENTO DE TRABAJO: SISTEMA DE FLUJO, SANGRE Y HABILIDAD DE HAIMARA
 
-**Estado:** Documento de trabajo y exploración conceptual (Borrador no cerrado).  
-**Personaje:** Elena Kalev / Haimara (*«La sangre de la aurora»*).  
-**Fecha:** Octubre 2026.
-
----
-
-## 1. PREMISA BIOLÓGICA: LA SANGRE DE AURORA
-
-En el canon de *Extramuros*, cada usuario humano que alcanza la Clase A y desarrolla una mutación singular manifiesta **estrictamente una sola habilidad personal** adaptada a su fisiología (por ejemplo, el *Pozo Muerto* de Mason o la *Regeneración de Caudal* de Caine).
-
-Haimara nace como una anomalía genética irrepetible en una colonia aislada de desertores:
-* **Firma bioquímica:** Su sangre posee una coloración carmesí profundo con destellos e irisaciones dorado-ámbar.
-* **Superconducción metabólica:** La estructura de sus glóbulos y plasma tolera densidades de Flujo muy superiores a la media humana, actuando como un catalizador celular de altísima eficiencia.
-* **El interés del Gobierno en las Sombras:** La acusación oficial de *«Alta traición y sustracción biológica»* responde al terror del alto mando a que esta anomalía se propague o caiga en manos de facciones rebeldes, buscando capturarla con vida para clonación o ingeniería genética.
+**Estado:** Documento de debate, exploración biológica y archivo de dudas críticas (Pausado deliberadamente).  
+**Personaje:** Elena Kalev / Haimara.  
+**Última actualización:** Octubre 2026.  
+**Propósito:** Registrar el marco fisiológico del Flujo en relación con la sangre, las hipótesis de diseño exploradas, las alertas narrativas identificadas y las dudas que quedan pendientes para cuando la trama alcance las Tierras Huecas (~75 % del Libro 1).
 
 ---
 
-## 2. LÍNEAS DE PODER EN EVALUACIÓN
+## 1. EL MARCO BIOLÓGICO: LA SANGRE COMO CAPA GEMELA DEL FLUJO
 
-### Vía A: La Anomalía de la Multihabilidad (Dos o más Habilidades Únicas)
-* **El concepto:** Haimara rompe la regla de oro de la fisiología humana: es la **única persona registrada capaz de albergar y desplegar más de una habilidad singular de Flujo**.
-* **Impacto narrativo:**
-  * Eleva la intensidad y la imprevisibilidad en los combates del clímax.
-  * Justifica por qué el Gobierno le teme más que a un escuadrón militar entero: mientras que un Clase A es predecible una vez identificada su técnica, Haimara puede cambiar de registro táctico según la amenaza.
-  * **Estructura sugerida de habilidades duales:**
-    1. *Facultad Interna (Fisiológica / Cinética):* Una capacidad de aceleración o endurecimiento tisular para combate cuerpo a cuerpo y supervivencia.
-    2. *Facultad Externa (Resonancia / Campo):* Una proyección sensorial o interacción con el Flujo ambiental/biológico de Extramuros.
-
----
-
-### Vía B: Manipulación y Sifón del Flujo Ajeno («Hacer fluir el Flujo rival como propio»)
-* **El concepto:** La sangre dorada reacciona ante la presión del Flujo de terceros. Haimara puede interceptar el Flujo que un enemigo desata contra ella y canalizarlo a través de su propio circuito vascular.
-* **Mecánica de combate:**
-  * **La trampa del atacante:** Cuanto más violento sea el ataque y mayor sea el Caudal desplegado por el rival, más vulnerable es a la técnica de Haimara.
-  * **Vaciado metabólico:** Al contactar con el ataque, Haimara absorbe o disipa el Flujo del adversario, provocándole un colapso hipoglucémico súbito (el rival queda exhausto al instante, habiendo consumido sus propias reservas).
-  * **Redirección:** La energía absorbida puede ser devuelta en el acto como un contraataque de fuerza equivalente o superior, usando la propia fuerza biológica del enemigo contra él.
+Se establece un principio fundamental del sistema de poder de *Extramuros*:
+* **Doble circuito fisiológico:** El Flujo opera como una capa bioeléctrica y funcional directamente acoplada al sistema circulatorio físico.
+* **El factor ambiental:**
+  * *En el Archipiélago:* La atmósfera ordinaria mantiene la sangre en parámetros basales estándar. Por tanto, el Flujo solo se manifiesta como una concentración mental superior (el atleta en racha, el artesano, el cirujano).
+  * *En Extramuros:* La atmósfera hiperoxigenada y prehistórica altera de golpe la hemodinámica humana. El corazón bombea con mayor fuerza y la sangre se hiperoxigena, lo que desata el Flujo en picos extremos (Caudal).
+* **Firma hematológica y Habilidad Única (El "Despertar"):**
+  * Cada individuo tiene una firma biológica única.
+  * La Habilidad Única (Clase A / S) es la materialización de esa firma individual cuando desborda el cuerpo e interactúa con el entorno.
+  * **Regla de 1 mutación por humano:** Un humano ordinario no puede sostener dos habilidades porque su torrente sanguíneo colapsaría por incompatibilidad tisular (trombosis, fallo multiorgánico o rotura vascular masiva).
 
 ---
 
-### Vía C: Híbrido (Mimetismo de Sangre y Amplificación)
-* La capacidad de asimilar temporalmente la cualidad del Flujo ajeno mediante contacto con su sangre, combinada con una habilidad innata propia.
+## 2. LA SANGRE ANÓMALA DE HAIMARA (HIPÓTESIS DE DISEÑO)
+
+Haimara nació con una anomalía hematológica congénita que altera cómo se manifiesta su Flujo:
+1. **Flujo especial de nacimiento:** Su sangre tolera presiones y transferencias energéticas fuera de la escala común. No nace sabiendo técnicas, pero su biología de base es diferente.
+2. **Las 4 vías exploradas:**
+   * **Vía 1 (Transmisión y cambio de forma):** Su sangre permite proyectar o modular la densidad del Flujo de forma anómala (endurecer objetos en contacto, variar puntos de presión).
+   * **Vía 2 (Multihabilidad / Compatibilidad universal):** Su torrente actúa como un solvente biológico universal que tolera albergar más de una firma biológica sin rechazo.
+   * **Vía 3 (Disipación / Absorción a distancia):** Su piel y sangre absorben el Flujo disperso en área o a distancia (actuando como toma de tierra), obligando a los enemigos a pelear estrictamente en cuerpo a cuerpo directo.
+   * **Vía 4 (Eficiencia metabólica 10x-100x):** Su sangre entrega oxígeno y limpia desechos metabólicos casi sin pérdida calórica, permitiéndole sostener Caudal prolongado sin agotamiento inmediato.
+   * **Vía 5 (Asimilación por contacto de sangre):** La posibilidad de que su sangre asimile e integre temporalmente la firma de Flujo de otra persona tras entrar en contacto biológico con ella.
 
 ---
 
-## 3. COSTE BIOLÓGICO Y LIMITACIONES (*GROUNDED THRILLER*)
+## 3. ALERTAS CRÍTICAS Y DILEMAS NARRATIVOS (POR QUÉ SE PAUSA EL DEBATE)
 
-Para evitar convertir a Haimara en un personaje invencible («roto») y respetar las Leyes Inmutables de Extramuros:
+Durante el análisis del diseño surgieron dos problemas graves que aconsejan **no cerrar el poder de Haimara de forma prematura**:
 
-1. **Sobrepresión vascular y fiebre celular:**
-   * Absorber o canalizar más de una habilidad somete sus vasos sanguíneos a una tensión extrema. Las venas de su cuello y sienes se marcan con un fulgor ámbar incandescente y su temperatura corporal se dispara a niveles de fiebre peligrosa.
-2. **Riesgo de rechazo / saturación:**
-   * No puede absorber el Flujo de entidades de escala descomunal (bestias titánicas de Clase S o Amenaza Omega) sin arriesgarse a una rotura masiva de capilares y hemorragias internas.
-3. **Inutilidad ante ataques no basados en Flujo:**
-   * Si es atacada a distancia mediante trampas mecánicas pasivas, proyectiles balísticos o venenos ambientales donde no hay un usuario proyectando Flujo activo, Haimara debe defenderse con su fragilidad humana ordinaria.
+### Alerta 1: Disonancia de Personaje (Elena frente a Haimara)
+* **El conflicto:** Leo se enamoró de Elena: una estudiante de botánica de veintidós años, civil, reflexiva, asmática y pacífica, que compartía su vida con él en el Distrito Siete.
+* **El riesgo:** Si se define a Haimara como una guerrera que recolecta o asimila habilidades ajenas mediante muestras de sangre, el personaje se transforma en un arquetipo agresivo de *shōnen* que dinamita la identidad de Elena. El lector no entendería qué vio Leo en ella ni por qué huía.
+* **El principio humano:** Elena escapó de Extramuros precisamente para huir de la violencia y la opresión militar. Es una científica botánica y una superviviente inteligente, no una asesina ni una coleccionista de poderes.
+
+### Alerta 2: Riesgo de "Power Creep" (El Personaje Roto)
+* **El peligro:** Si Haimara es capaz de asimilar cualquier habilidad única pinchando sangre o absorbiendo Flujo, se rompe el techo de poder de la saga.
+* **La consecuencia:** Eliminaría la tensión dramática del clímax y opacaría a Leo (análisis / Quietud), a Makusi (fuerza de choque) y a Nina (ingeniería y máquinas), reduciéndolos a comparsas.
 
 ---
 
-## 4. EL FACTOR DEL COLLAR DE OMEGA
+## 4. RESOLUCIONES CANÓNICAS CERRADAS PARA EL LIBRO 1
 
-* Caine forjó en secreto absoluto el collar de Elena con tejido mineralizado arrancado a la **Amenaza Ø (Omega)**.
-* **Hipótesis abierta:** La sangre de Haimara podría ser la única capaz de actuar como catalizador o llave de ignición biológica para despertar las propiedades latentes de la reliquia del Omega sin que el portador muera calcinado por la radiación de la bestia.
+Para mantener la coherencia narrativa de los capítulos actuales (Capítulos 1 a 6) sin sobreingeniar el poder antes de tiempo:
+
+1. **El motivo del cartel de búsqueda («Sustracción biológica»):**
+   * El Gobierno la busca por **interés médico y de laboratorio**, no por terror a que sea un ejército andante. Su sangre posee marcadores genéticos que los científicos de Contención codician para crear sueros de resistencia vascular para soldados. Ella es la víctima de un sistema que la considera una muestra biológica robada.
+2. **El Collar de Elena:**
+   * Queda ratificado que el collar que Caine le dio a Elena es **la reliquia de extracción / salto gemela de la pulsera de Leo**. No es un artefacto ofensivo ni una llave gravitatoria.
+3. **Pausa deliberada del debate:**
+   * El repertorio exacto y los límites finales de su Flujo se debatirán y fijarán cuando el manuscrito alcance el **Bloque de las Tierras Huecas (~75 % del Libro 1)**, donde el reencuentro físico de Leo y Elena exija definiciones sobre el terreno.
